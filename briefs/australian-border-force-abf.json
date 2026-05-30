@@ -1,0 +1,208 @@
+{
+  "agency_name": "Australian Border Force (ABF)",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-26",
+  "executive_summary": "The corporate plan analysed is the Department of Home Affairs 2025-26 Corporate Plan, which encompasses the ABF as the portfolio's operational border agency (Outcome 3 in particular). The agency is mid-transformation following the May 2025 MoG changes (functions realigned 17 July 2025) and a formal response to the 2024 APSC Capability Review via a Transformation Action Plan, Workforce Strategy 2025-27, ABF Strategy 2025-27 and a 10-year Digital Investment Plan. Major time-bound delivery pressures dominate: standing up standalone border facilities at Western Sydney International Airport (opening 2026), the Simplified Trade System reform, preparing for the 2032 Brisbane Olympics, modernising ageing visa/trade/travel ICT, and sustaining maritime surveillance and Operation Sovereign Borders/Nauru enduring capability. The plan openly admits financial-management capability, ICT modernisation funding ('pending investment'), cyber resilience and workforce/culture risks. This is a large service-delivery and enforcement agency with deep, multi-year demand for program delivery, ICT build, assurance, costing/financial sustainability and workforce/culture work — though clearance and security constraints will shape access.",
+  "strategic_priorities": [
+    {
+      "title": "Border modernisation — Western Sydney Airport & Simplified Trade System",
+      "description": "Deliver standalone border facilities (including the Joint Cargo Examination Facility) at WSA ahead of its 2026 opening and progress the Simplified Trade System reform agenda (cargo intervention model, Digital Trade Accelerator, regulatory reform projects).",
+      "source_quote": "100% of key department-led milestones for design phases of the standalone facilities at Western Sydney Airport scheduled are completed; 80% of department-led milestones to deliver reforms under the Simplified Trade System scheduled are completed in full."
+    },
+    {
+      "title": "ICT and data modernisation via the 10-year Digital Investment Plan",
+      "description": "Modernise critical visa, trade and travel ICT and operational technologies that control movement of people and goods at the border, improve resilience against cyber threats, and adopt AI and automation for productivity and service gains.",
+      "source_quote": "the department has recently finalised its 10-year Digital Investment Plan, which outlines strategic shifts critical to the way we use, drive and leverage technology and data. Pending investment, it provides a plan to modernise our ICT and data assets."
+    },
+    {
+      "title": "Transformation Agenda and culture/capability uplift",
+      "description": "Shift from foundational actions to embedding long-term cultural and capability uplift across the department and ABF in response to the 2024 APSC Capability Review, through the Transformation Action Plan's three pillars.",
+      "source_quote": "shifting from foundational actions to embedding long-term cultural and capability uplift across the department and ABF through more strategic projects."
+    },
+    {
+      "title": "Financial management capability and fiscal sustainability",
+      "description": "Lift financial management capability, budget discipline and management accountability; finalise and fund a 10-year capital investment plan for enduring capability.",
+      "source_quote": "continue its focus on lifting financial management capability, budget discipline and management accountability... develop strategies that support a sustainable fiscal outlook... Finalise and implement the 10 year capital investment plan."
+    },
+    {
+      "title": "Civil maritime security and Operation Sovereign Borders enduring capability",
+      "description": "Sustain aerial surveillance and Blue Water Fleet availability, support JATF OSB, and stand up an enduring regional processing capability with the Government of Nauru.",
+      "source_quote": "90% of planned ABF surveillance flying hours are flown; 90% of planned ABF Vessel Availability Days... Deliver 100% of required monthly reporting and quality review activities required under Enduring Capability subsidiary arrangements with Nauru."
+    },
+    {
+      "title": "Migration and citizenship processing throughput",
+      "description": "Deliver the Migration Program to planning levels, improve visa processing productivity, and dramatically reduce the on-hand citizenship caseload from 160,118 to 80,000.",
+      "source_quote": "Reduce the on-hand citizenship caseload to 80,000... an uplift in delivery of decisions to over 300,000 per annum."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "May 2025 machinery-of-Government changes and 17 July 2025 functional realignment, expanding portfolio collaboration",
+    "2024 APSC Capability Review of Home Affairs and its Transformation Action Plan response",
+    "Western Sydney International Airport opening in 2026 and preparation for the 2032 Brisbane Olympics",
+    "Simplified Trade System microeconomic reform agenda requiring modernised ICT and streamlined operating models",
+    "10-year Digital Investment Plan and Data and Digital Government Strategy driving ICT/data modernisation (pending funding)",
+    "Cyber Security Strategy 2023-2030 Horizon 1 completion and Horizon 2 implementation plan",
+    "Safer Australia Counter Terrorism and Violent Extremism Strategy 2025 and new National Support and Intervention Program (NSIP)",
+    "NZYQ High Court decision driving Bridging (Removal Pending) visa management and the Community Protection Board",
+    "PSPF assurance pilot, Essential Eight maturity uplift and National Anti-Corruption Commission obligations",
+    "Strategic Commissioning Framework requiring conversion of labour-hire contractors to APS staff (40 FTE target)",
+    "Citizenship caseload backlog requiring throughput uplift to over 300,000 decisions per annum"
+  ],
+  "challenges_and_risks": [
+    "ICT modernisation explicitly contingent on funding ('pending investment') for critical visa, trade and travel systems",
+    "Financial management capability and fiscal sustainability identified as needing uplift; 10-year capital plan needs funding secured",
+    "Workforce risk: attracting/retaining capability, psychosocial risk across operational settings, and culture issues (Respect@ABF, AHRC recommendations)",
+    "Integrity and security risk including fraud/corruption, insider threat, and cyber-enabled misconduct",
+    "Cyber resilience and Essential Eight maturity gaps against high-impact attack threats to critical infrastructure",
+    "Organisational compliance risk given high-volume statutory decision-making exposed to legal challenge",
+    "Sustaining ageing maritime fleet and surveillance availability amid unscheduled maintenance and crew constraints",
+    "Large citizenship and protection-visa backlogs creating throughput pressure",
+    "Strategic Commissioning Framework reducing reliance on external labour hire — a headwind for contractor-style engagements"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "A survey reported by Crikey found effectively all surveyed women in the ABF marine unit said they had witnessed sex discrimination and/or sex-based harassment, and almost four in five said they had been a victim themselves.",
+      "implication": "Strong evidence-backed demand signal for workplace culture, harassment prevention, integrity and gender/diversity reform work, particularly in operational marine/field units — aligns with the plan's Respect@ABF and AHRC commitments.",
+      "source": "Crikey, 24 Apr 2024 — https://www.crikey.com.au/2024/04/24/australian-border-force-sexual-discrimination-social-media-taxpayer-flights/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance-audit page exists examining the ABF's management of critical incidents; dated findings and recommendations could not be retrieved during research.",
+      "implication": "Potential entry point for assurance, incident-management framework, governance and risk-control advisory work — pending verification of the audit's conclusions and date.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/australian-border-forces-management-of-critical-incidents"
+    },
+    {
+      "summary": "ANAO performance-audit page on the coordination of border intelligence; findings and date not retrieved during research.",
+      "implication": "Possible demand for intelligence-coordination, data-sharing and inter-agency integration advisory — pending verification.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/coordination-border-intelligence"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Western Sydney Airport border facilities delivery & assurance",
+      "agency_need": "Deliver standalone border facilities including the Joint Cargo Examination Facility to a fixed 2026 airport-opening deadline, with 100% of design-phase milestones to complete.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded delivery/PMO support and independent gateway-style delivery assurance across the WSA border-facility design and build phases, with milestone and benefits tracking against the precinct schedule.",
+      "rationale": "The plan names a specific, time-bound capital program (Target 60) tied to a hard 2026 opening date — clear, fundable, scheduled demand for program management and assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Simplified Trade System reform implementation",
+      "agency_need": "Deliver multiple reform milestones (Streamlining Cargo Intervention Model, Digital Trade Accelerator Projects, regulatory reform) with modernised ICT, with 80% of milestones to complete.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program/change management and business-process analysis support to land STS reform tranches, including delivery assurance and stakeholder/industry transition planning across cargo and regulatory workstreams.",
+      "rationale": "Target 61 names a multi-year microeconomic reform with discrete ICT and regulatory components — a sustained program with measurable milestones and external dependencies.",
+      "confidence": "High"
+    },
+    {
+      "area": "Visa, trade and travel ICT modernisation",
+      "agency_need": "Modernise ageing critical ICT and operational technologies per the 10-year Digital Investment Plan, improve resilience and adopt AI/automation, contingent on funding.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design, systems development/integration and process analysis for prioritised border and visa-processing systems, scoped to fundable tranches; supported by data-governance enablement.",
+      "rationale": "The plan explicitly flags a finalised 10-year Digital Investment Plan and the criticality/resilience of visa, trade and travel systems; the firm can build and implement, not just advise. 'Pending investment' caveat lowers near-term certainty.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber resilience and Essential Eight uplift",
+      "agency_need": "Strengthen cyber resilience of ICT and operational technologies controlling movement of people and goods, and uplift Essential Eight maturity against high-impact attack threats.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of priority border/visa systems and an Essential Eight maturity uplift roadmap, aligned to the Cyber Security Resilience Strategy.",
+      "rationale": "Enterprise risk Category 2 names cyber-enabled threats and Essential Eight uplift explicitly; the ICT and data section commits to building on the Cyber Security Resilience Strategy.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial management capability & fiscal sustainability",
+      "agency_need": "Lift financial management capability and budget discipline, and finalise/fund a 10-year capital investment plan for enduring capability.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and capital-investment review plus financial-capability uplift support (costing models and budget-framework strengthening) to underpin the 10-year capital plan business case.",
+      "rationale": "The Finance section explicitly commits to lifting financial management capability, a sustainable fiscal outlook and finalising a 10-year capital investment plan per the Capability Review — a direct costing/financial advisory signal.",
+      "confidence": "High"
+    },
+    {
+      "area": "Workforce culture, respect and psychosocial risk",
+      "agency_need": "Embed cultural and capability uplift, implement AHRC recommendations, Respect@ABF and Healthy Us plans, and minimise psychosocial risk across operational settings.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Culture and capability uplift program design plus workforce planning and tailored training, with evaluation of Respect@ABF/AHRC implementation, focused on operational (marine/field) units.",
+      "rationale": "Enterprise risk Category 1 and the workforce section name multiple culture/wellbeing initiatives; the Crikey marine-unit harassment finding sharpens the need in operational units.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Critical-incident and detention assurance",
+      "agency_need": "Complete high-risk detention-related recommendations from internal/external scrutiny and ensure safe, secure detention network operations.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent health-check and assurance of remediation against high-risk detention and critical-incident recommendations (Ombudsman/AHRC/coroner-driven), supporting closure evidence review.",
+      "rationale": "Target 46 commits to completing 90% of high-risk detention recommendations; the located ANAO critical-incidents audit page (pending verification) reinforces likely assurance demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Contract & probity assurance for large operational contracts",
+      "agency_need": "Manage high-value contracts (Nauru facilities/health, Assisted Passage, detention service providers) with robust assurance and HRHV procurement oversight.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Contract-management uplift and non-legal probity/assurance support for HRHV procurements and major operational service-provider contracts, including KPI/abatement framework review.",
+      "rationale": "Multiple targets (32, 49, 50) and the HRHV Oversight Committee evidence significant high-value contract-management and assurance activity across detention, regional processing and humanitarian services.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework and regulatory-maturity evaluation",
+      "agency_need": "Uplift regulatory maturity, embed performance monitoring/evaluation across regulatory programs, and continue evolving the performance framework against scrutiny recommendations.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure and evaluation design for regulatory programs, plus regulatory-maturity assessment against RMG 128 best-practice principles.",
+      "rationale": "The regulatory-maturity section commits to enhancing performance monitoring and evaluation across regulatory programs and aligning to RMG 128; several measures are newly introduced and survey-reliant.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the ABF Deputy Commissioner Strategy and Capability and the WSA border-facilities program owner with a delivery-plus-assurance proposition for the WSA standalone facilities, referencing the 2026 opening deadline.",
+      "priority": "High",
+      "rationale": "Target 60 is a hard-deadline capital program with 100% milestone expectations; demand is immediate, fundable and time-bound."
+    },
+    {
+      "action": "Prepare a financial-sustainability and capital-investment capability statement targeting the Chief Operating Officer/CFO function, anchored to the 10-year capital investment plan and Capability Review findings.",
+      "priority": "High",
+      "rationale": "The plan openly commits to lifting financial capability and finalising/funding a 10-year capital plan — a clearly stated need with a named owner."
+    },
+    {
+      "action": "Engage the Simplified Trade System program area with a change/PMO and business-process analysis offer covering SCIM, DTAP and regulatory reform workstreams.",
+      "priority": "High",
+      "rationale": "Target 61 confirms a multi-tranche reform with 80% milestone targets and external dependencies — sustained, scoped program demand."
+    },
+    {
+      "action": "Develop a thought piece on culture and psychosocial-risk uplift in operational/field workforces and table it with the People, Culture and Safety Committee function and ABF People area.",
+      "priority": "Medium",
+      "rationale": "Enterprise risk Category 1 plus the Crikey marine-unit harassment finding create a credible, evidence-backed culture-reform conversation."
+    },
+    {
+      "action": "Monitor the ANAO Home Affairs portfolio audit program (critical incidents, border intelligence) and the Digital Investment Plan funding outcome to time assurance and ICT-build approaches.",
+      "priority": "Medium",
+      "rationale": "ICT modernisation is funding-contingent and audit findings will create remediation demand; timing engagement to funding/audit signals improves win odds."
+    },
+    {
+      "action": "Note the Strategic Commissioning Framework's labour-hire-to-APS conversion target and position offerings as outcome-based engagements rather than staff augmentation.",
+      "priority": "Medium",
+      "rationale": "The plan targets converting 40 FTE of labour hire to APS in 2025-26 and 2026-27 — generic contractor models face headwinds, so framing matters."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Commissioner Strategy and Capability (ABF) — border modernisation and capability programs",
+    "Chief Operating Officer / CFO function — financial capability and 10-year capital investment plan",
+    "Simplified Trade System / Border Modernisation program branch — reform delivery",
+    "Chief Information/Technology Officer function — Digital Investment Plan and ICT modernisation",
+    "Chief Risk Officer and Audit and Risk Committee / Chief Audit Executive — enterprise risk and detention assurance",
+    "People, Culture and Safety Committee and ABF People area — workforce culture and psychosocial risk",
+    "Chief Procurement Officer and HRHV Oversight Committee — contract management and probity assurance",
+    "Western Sydney Airport border-facilities project office"
+  ],
+  "talking_points": [
+    "Your WSA standalone border facilities have a fixed 2026 opening — we can provide embedded delivery support and independent gateway assurance to protect the milestone schedule.",
+    "The plan commits to finalising and funding a 10-year capital investment plan and lifting financial management capability; we offer a financial-sustainability and costing review to underpin that business case.",
+    "The Simplified Trade System spans cargo, digital and regulatory reform tranches with 80% milestone targets — we bring program/change and process-analysis capability to land them.",
+    "Your 10-year Digital Investment Plan flags ageing visa, trade and travel systems; unlike pure advisers we can design and build the priority modernisation tranches as funding lands.",
+    "Enterprise risk and the recent marine-unit culture findings point to operational-workforce culture and psychosocial-risk work — we can design and evaluate uplift in field units.",
+    "With high-risk detention recommendations and ANAO interest in critical incidents and border intelligence, we offer independent assurance of remediation and closure evidence."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This plan is the Department of Home Affairs 2025-26 Corporate Plan; the ABF is covered as the operational border arm (principally Outcome 3) rather than via a standalone ABF plan, so some opportunities (finance, ICT, workforce, integrity) are department-wide and not ABF-exclusive. As a security/enforcement-adjacent agency, clearance and access constraints will materially shape ICT, cyber and operational engagements. ICT modernisation is explicitly 'pending investment', lowering near-term certainty. The Strategic Commissioning Framework's labour-hire reduction is a genuine headwind for staff-augmentation-style work. External research was rate-limited and partial: the single news item (Crikey, verified) and two located-but-unverified ANAO audit pages are reported with that caveat, and no parliamentary material was confirmed — these sections should be treated as incomplete, not exhaustive."
+}

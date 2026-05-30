@@ -16,6 +16,30 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26 (four-year outlook to 2028-29)",
       "overall_confidence": "Low"
+    },
+    "austrade-australian-trade-and-investment-commission": {
+      "name": "Austrade (Australian Trade and Investment Commission)",
+      "portfolio": "Foreign Affairs and Trade",
+      "plan_url": "https://www.austrade.gov.au/content/dam/austrade-assets/global/wip/austrade/documents-about-us/austrade-corporate-plan-2024-25.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2024-25 (with outlook to 2027-28)",
+      "overall_confidence": "Medium"
+    },
+    "australian-border-force-abf": {
+      "name": "Australian Border Force (ABF)",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.homeaffairs.gov.au/commitments/files/corporate-plan-2025-26.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
+    },
+    "australian-bureau-of-statistics-abs": {
+      "name": "Australian Bureau of Statistics (ABS)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.abs.gov.au/about/our-organisation/corporate-reporting/abs-corporate-plan/latest-release",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

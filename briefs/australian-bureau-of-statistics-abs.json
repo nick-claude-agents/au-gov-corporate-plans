@@ -1,0 +1,157 @@
+{
+  "agency_name": "Australian Bureau of Statistics (ABS)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "The ABS is Australia's national statistical agency (a non-corporate Commonwealth entity in the Treasury portfolio), best understood as a scientific/data agency that is capital- and data-intensive and modernising under demand and response-rate pressure. The 2025-26 plan is dominated by two large, time-bound commitments: delivering the 2026 Census of Population and Housing, and the Big Data, Timely Insights (BDTI) program, which is rebuilding core statistical processing in a cloud-based analytics environment and delivering a complete monthly CPI from 26 November 2025. The agency is also reforming data acquisition toward a digital-first model in response to falling survey response rates, and leading the APS Data Profession to build data capability across government. These signals point to demand around program/delivery assurance, digital and data platform build, data integration, cyber/security assurance (especially for the Census), and workforce/capability uplift. The plan text supplied is high-level (a Statistician's message and section headings only), so several opportunities are inferred from named initiatives rather than detailed activity descriptions.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver a secure, trusted 2026 Census",
+      "description": "Finalise preparations through 2025-26 to run the 2026 Census of Population and Housing as an easy and secure digital experience for all Australians.",
+      "source_quote": "In 2026 we'll conduct a secure and trusted Census of Population and Housing—an opportunity to tell Australia's story and guide future planning."
+    },
+    {
+      "title": "Big Data, Timely Insights (BDTI) modernisation",
+      "description": "Rebuild core statistical tools and processes in a cloud-based data analytics environment, enabling a complete monthly CPI measure from 26 November 2025.",
+      "source_quote": "Our Big Data, Timely Insights (BDTI) program is rebuilding core statistical tools and processes in a cloud-based data analytics environment."
+    },
+    {
+      "title": "Modernise data acquisition / digital-first collection",
+      "description": "Reform data sourcing to respond to the global long-term decline in survey response rates, creating simple, safe digital experiences and using administrative and alternative data sources.",
+      "source_quote": "We are modernising our data acquisition processes to respond to the global long-term decline in survey response rates and to adopt a digital-first approach to data collection."
+    },
+    {
+      "title": "Build data integration capability and partnerships",
+      "description": "Partner with government and the private sector to link public and private datasets for policy-relevant research and unlock new data sources.",
+      "source_quote": "we aim to build data integration capability, linking public and private datasets for policy relevant research."
+    },
+    {
+      "title": "Lead the APS Data Profession",
+      "description": "Attract, develop and retain data capabilities of ABS staff and the broader APS by leading the APS Data Profession.",
+      "source_quote": "We will continue to lead the Australian Public Service (APS) Data Profession."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "2026 Census delivery deadline — a once-in-five-years national operation with security and public-trust expectations.",
+    "Complete monthly CPI launch on 26 November 2025 — a hard, externally visible delivery date dependent on BDTI cloud platform readiness.",
+    "Global long-term decline in survey response rates forcing a shift to administrative and alternative data sources.",
+    "Cloud migration and modernisation of legacy statistical processing systems under BDTI.",
+    "Growth in demand for timelier, more granular and integrated data from governments, communities and business.",
+    "APS-wide data capability uplift mandate as lead of the APS Data Profession."
+  ],
+  "challenges_and_risks": [
+    "Security and public trust around the 2026 Census, given high public sensitivity to data handling and the legacy of prior Census IT incidents.",
+    "Delivery risk on BDTI and the monthly CPI go-live — fixed date, cloud re-platforming of core economic statistics.",
+    "Declining survey response rates undermining the quality of traditional collections.",
+    "Data integration involving linked public/private datasets raises privacy, governance and security exposure.",
+    "Workforce and data-capability shortages across the APS that the ABS is tasked to address.",
+    "Modernising legacy systems while maintaining continuity of critical economic and social statistics."
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "2026 Census delivery assurance",
+      "agency_need": "Run a secure, trusted 2026 Census with no repeat of past delivery/IT failures; finalise preparations during 2025-26.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent gateway-style delivery assurance and readiness health checks across Census preparation milestones (digital collection, processing, contact-centre and field operations), with go/no-go assurance ahead of the 2026 enumeration.",
+      "rationale": "The Census is named as the marquee 2025-26 activity with explicit emphasis on 'secure and trusted' delivery. A fixed national deadline plus high public-trust stakes make independent assurance a credible, time-bound need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Census cyber and data security assurance",
+      "agency_need": "Ensure the Census digital experience and supporting systems are secure given acute public sensitivity to data protection.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of the online Census collection platform and supporting data systems — penetration-style assessment, security architecture review, and independent assurance of controls ahead of go-live.",
+      "rationale": "The plan repeatedly stresses 'secure' Census and digital collection. Given the 2016 eCensus precedent (public memory of an outage), independent security assurance is a strong fit.",
+      "confidence": "High"
+    },
+    {
+      "area": "BDTI / monthly CPI platform build and delivery",
+      "agency_need": "Rebuild core statistical tools and processes in a cloud-based analytics environment and deliver complete monthly CPI from 26 Nov 2025.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Systems development, integration and process-analysis support for the cloud-based statistical processing pipeline, plus service transition and support/operations as components go live.",
+      "rationale": "BDTI is explicitly described as rebuilding core processes in a cloud data analytics environment with a hard CPI delivery date — clear digital/data engineering demand. The firm can build and implement, not just advise.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "BDTI program assurance and PMO",
+      "agency_need": "De-risk a multi-component, fixed-deadline modernisation of core economic statistics.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Delivery assurance / embedded PMO and benefits-management support for the BDTI program, with independent stage-gate reviews around the monthly CPI and subsequent statistical migrations.",
+      "rationale": "BDTI is a named multi-year transformation of mission-critical systems with an externally visible launch date — exactly the profile that sustains program delivery and assurance support.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data integration capability and information strategy",
+      "agency_need": "Build capability to link public and private datasets for policy-relevant research and unlock alternative data sources.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information strategy and data-integration capability uplift — data management frameworks, linkage methodology support, and analytics tooling to operationalise administrative/alternative data sources.",
+      "rationale": "The plan names data integration and use of administrative/alternative data as deliberate priorities driven by declining survey response rates.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital-first data collection service design",
+      "agency_need": "Create simple, safe, user-friendly digital experiences to replace survey-based collection.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "User experience and service design discovery for digital-first respondent journeys, plus business/process analysis to redesign data acquisition workflows.",
+      "rationale": "The plan explicitly commits to 'simple, safe and user-friendly digital experiences' and a digital-first collection approach.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "APS Data Profession capability development",
+      "agency_need": "Attract, develop and retain data capabilities across the ABS and the wider APS as lead of the APS Data Profession.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Data capability framework and workforce planning, with training and learning pathways to build APS-wide data skills.",
+      "rationale": "Leading the APS Data Profession to 'attract, develop and retain' data capability is a stated priority and a natural workforce/capability engagement.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Privacy and probity for linked-data partnerships",
+      "agency_need": "Manage governance and integrity exposure when linking public and private datasets and procuring data partnerships.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Probity advisory (non-legal) and contract/commercial advice for data-sharing arrangements and acquisition of alternative data sources.",
+      "rationale": "Building partnerships and unlocking new data sources implies procurement and probity activity, though the plan does not detail specific approaches to market.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the ABS Census program leadership and the SES owner of 2026 Census delivery to position independent delivery and security assurance ahead of enumeration.",
+      "priority": "High",
+      "rationale": "The Census is the highest-stakes, most time-bound activity in the plan; readiness assurance must be procured well before the 2026 field operation, so the 2025-26 window is the decision point."
+    },
+    {
+      "action": "Approach the BDTI program leadership / CDO function with a capability statement covering cloud statistical-pipeline build, integration and delivery assurance, referencing the 26 November 2025 monthly CPI go-live.",
+      "priority": "High",
+      "rationale": "A fixed, externally visible CPI delivery date concentrates delivery and assurance demand now; aligning to that milestone makes the pitch concrete."
+    },
+    {
+      "action": "Prepare a short thought piece on secure digital-first data collection and respondent UX, and share with the data acquisition modernisation branch.",
+      "priority": "Medium",
+      "rationale": "The plan signals a sustained shift to digital-first collection and administrative data; an evidence-led point of view opens a credible conversation on service design and data integration."
+    },
+    {
+      "action": "Monitor AusTender and Treasury-portfolio Senate Estimates for Census and BDTI procurements and cost/schedule commentary.",
+      "priority": "Medium",
+      "rationale": "External research was unavailable this round; tracking procurement and Estimates will surface timing of approaches to market and any emerging delivery pressure."
+    }
+  ],
+  "engagement_targets": [
+    "SES owner / First Assistant Statistician responsible for the 2026 Census program",
+    "BDTI program lead and the ABS Chief Data Officer / statistical infrastructure group",
+    "Chief Information Officer / Chief Information Security Officer (Census and BDTI security)",
+    "Head of data acquisition / collection modernisation",
+    "APS Data Profession lead within the ABS (workforce capability)",
+    "Chief Operating Officer / CFO and the Audit and Risk Committee (assurance and governance)"
+  ],
+  "talking_points": [
+    "The 2026 Census is a fixed-deadline, high-trust national operation — independent gateway-style delivery and security assurance reduces the risk of a repeat of past Census IT incidents.",
+    "BDTI's monthly CPI go-live on 26 November 2025 is an externally visible commitment; we can support cloud pipeline build, integration and stage-gate assurance to protect the date.",
+    "Declining survey response rates make the digital-first collection and administrative-data shift mission-critical — we bring service design and data-integration capability to make that transition safe and usable.",
+    "As lead of the APS Data Profession, the ABS has a capability mandate we can support with workforce planning and training pathways.",
+    "We build as well as advise — relevant where BDTI and digital collection need systems development and integration, not just review."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The supplied plan text is essentially the Australian Statistician's message plus section headings, not the detailed key-activities, risk-oversight or performance-measure content. Opportunities are therefore anchored to clearly named initiatives (Census 2026, BDTI/monthly CPI, digital-first collection, data integration, APS Data Profession) but the specific scope, budgets and procurement timing are inferred. External research returned no verified results due to a tool limitation, so news, ANAO and parliamentary sections are empty and should be refreshed before engagement. Cyber and security-assurance opportunities assume the firm's non-legal assessment scope and would need to fit ABS clearance and secrecy requirements."
+}
