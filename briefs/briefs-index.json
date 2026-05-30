@@ -80,6 +80,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2024-25 (covering 2024-25 to 2027-28)",
       "overall_confidence": "Medium"
+    },
+    "bureau-of-meteorology-bom": {
+      "name": "Bureau of Meteorology (BoM)",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "plan_url": "https://www.bom.gov.au/about-the-bureau/plans-performance-and-accountability/plans-and-budgets",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }

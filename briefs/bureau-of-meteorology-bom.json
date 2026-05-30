@@ -1,0 +1,160 @@
+{
+  "agency_name": "Bureau of Meteorology (BoM)",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "plan_period": "2025-26",
+  "executive_summary": "The Bureau is a mission-driven scientific/data agency operating capital- and technology-intensive observing and forecasting infrastructure under sustained funding and reputational pressure. The actual Corporate Plan 2025-26 text was not retrievable (the source returned only a landing page), so this brief is built from agency archetype and external research. The dominant, well-evidenced theme is the October-November 2025 website/ROBUST technology-program cost blowout (publicly stated $4.1m ballooning to ~$96.5m within an ~$800m program), which has triggered ministerial dissatisfaction, Senate Estimates scrutiny, leadership change and pointed criticism of consultant conduct. There is also a current ANAO performance audit on observing-network asset management, and persistent regional criticism of forecast accuracy. The clearest BD space is procurement/contract assurance, program governance, service/UX design remediation and stakeholder trust-rebuilding — but every approach must be conspicuously value-for-money and capability-transfer framed given live political sensitivity about consultants.",
+  "strategic_priorities": [
+    {
+      "title": "Technology modernisation (ROBUST) and digital service recovery",
+      "description": "Stabilising and securing the large multi-tranche ROBUST technology program and recovering from the failed October 2025 website relaunch, including restoring radar and core functionality.",
+      "source_quote": null
+    },
+    {
+      "title": "Observing-network infrastructure stewardship",
+      "description": "Managing the physical assets underpinning the observing network — a focus reinforced by a current ANAO performance audit of asset management.",
+      "source_quote": null
+    },
+    {
+      "title": "Rebuilding public and regional trust in forecasts and services",
+      "description": "Addressing reputational damage from forecast-accuracy criticism and the website backlash from farmers, emergency services and meteorologists.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Ministerial dissatisfaction (Minister Murray Watt requested a report on the website transition and cost) and a new CEO (Stuart Minchin) — a classic window for strategy resets and independent assurance.",
+    "Senate Estimates and parliamentary scrutiny of contract management and consultant conduct on the ROBUST/website program.",
+    "A current ANAO performance audit of observing-network asset management.",
+    "Funding and value-for-money pressure on an agency costing taxpayers >$300m annually while running an ~$800m technology program."
+  ],
+  "challenges_and_risks": [
+    "Severe contract-management and program-oversight failures admitted on a high-profile, politically sensitive technology program.",
+    "Public and regional trust deficit from forecast-accuracy criticism (Cyclone Jasper, SE Qld flooding, the El Nino outlook) and the botched website relaunch.",
+    "Acute political sensitivity to consultant spend — parliamentary criticism of 'big consultants' constrains how advisory work can be pitched and delivered.",
+    "Ageing/complex observing-network assets requiring lifecycle and assurance attention."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The BoM's new website cost rose roughly twentyfold from a stated $4.1m to ~$96.5m, revealed by new CEO Stuart Minchin as part of a wider ~$780.8m 'ROBUST' technology program funded across three tranches (2017-18 to 2020-21).",
+      "implication": "A major, politically sensitive program with admitted contract-management and oversight failures signals near-term demand for procurement assurance, contract remediation, program governance and independent review — but any pitch must foreground value-for-money and capability transfer.",
+      "source": "The Nightly — https://thenightly.com.au/politics/bureau-of-meteorology-96m-website-blowout-blasted-as-nightmare-in-contract-failure-c-20855067 ; SBS News — https://www.sbs.com.au/news/article/bom-under-pressure-over-website-redesign-cost-blowout/mjb611x0p ; PS News — https://psnews.com.au/massive-blowout-to-cost-of-the-boms-bungled-new-website-sparks-outrage/170187/"
+    },
+    {
+      "summary": "The October 2025 site relaunch drew widespread backlash over navigation, radar lag, a changed storm-severity colour scale and removal of Doppler wind; the bureau reverted its radar map within a fortnight and apologised.",
+      "implication": "Clear opening for user-research, service-design, UX/accessibility and stakeholder-engagement work to restore confidence; the agency has publicly invited feedback and committed to fixes.",
+      "source": "The Conversation — https://theconversation.com/stormy-weather-heres-what-went-wrong-with-the-bureau-of-meteorologys-website-redesign-268490 ; Yahoo News Australia — https://au.news.yahoo.com/bureau-of-meteorology-website-upgrade-slammed-over-billion-dollar-oversight-not-good-enough-215139815.html ; Meteorological Technology International — https://www.meteorologicaltechnologyinternational.com/news/digital-applications/bureau-of-meteorology-apologizes-to-website-users-following-website-redesign-challenges.html"
+    },
+    {
+      "summary": "Through 2023-24 the BoM was criticised for under-forecasting Cyclone Jasper and SE Queensland flooding and for a hot/dry El Nino outlook that didn't eventuate, eroding trust among regional/weather-dependent users.",
+      "implication": "A trust deficit in regional Australia underpins demand for communications, stakeholder strategy and data-product evaluation work, and raises the political stakes of any BoM engagement.",
+      "source": "The Nightly — https://thenightly.com.au/australia/australian-weather-why-does-the-bureau-of-meteorology-keep-getting-it-so-wrong-c-14602898"
+    },
+    {
+      "summary": "Stuart Minchin was appointed CEO and within two weeks was managing the website-cost fallout, conceding the BoM 'didn't get it right'; Minister Murray Watt expressed dissatisfaction and requested a report.",
+      "implication": "New leadership plus ministerial dissatisfaction often triggers strategy resets, capability reviews and independent assurance — a typical window for advisory entry.",
+      "source": "PS News — https://psnews.com.au/massive-blowout-to-cost-of-the-boms-bungled-new-website-sparks-outrage/170187/ ; SBS News — https://www.sbs.com.au/news/article/bom-under-pressure-over-website-redesign-cost-blowout/mjb611x0p"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Bureau of Meteorology's Management of Assets in its Observing Network' (Auditor-General Report 2024-25 No. 21) examines how the BoM manages the physical assets in its observing network. The specific conclusion and recommendations could not be retrieved from the research and should be confirmed on the source page before use.",
+      "implication": "An asset-management audit dovetails with the ROBUST infrastructure spend and signals likely demand for asset-management frameworks, lifecycle planning and assurance — a useful credibility hook for proposals.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/bureau-of-meteorologys-management-of-assets-its-observing-network ; report PDF — https://www.anao.gov.au/sites/default/files/2025-01/Auditor-General_Report_2024-25_21.pdf"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "BoM officials faced Senate Estimates (November 2025) over the website costs rising from $4.1m to ~$96.5m. Greens Senator Barbara Pocock called it a 'nightmare' of contract and leadership failure and criticised consultant conduct; Minister Watt cited the need for greater oversight of consultants and use of public-sector capacity.",
+      "implication": "Direct parliamentary attention on consultant conduct and contract management means any approach must be conspicuously transparent, value-driven and capability-building; expect ongoing scrutiny and questions on notice tied to procurement.",
+      "source": "Reported via The Nightly — https://thenightly.com.au/politics/bureau-of-meteorology-96m-website-blowout-blasted-as-nightmare-in-contract-failure-c-20855067 (primary Hansard/QoN record to be confirmed on aph.gov.au, Environment and Communications Legislation Committee)"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Independent assurance and contract remediation of ROBUST/website program",
+      "agency_need": "Recover from admitted contract-management and oversight failures on the ~$800m ROBUST program under ministerial and parliamentary scrutiny.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "A contract-management health check and remediation plan across ROBUST contracts, with probity advisory (non-legal) on any re-procurement, framed explicitly around value-for-money and capability transfer back to the agency.",
+      "rationale": "Directly supported by the cost-blowout reporting and Senate Estimates criticism of contract failure; the agency and minister have publicly flagged the need for greater oversight.",
+      "confidence": "High"
+    },
+    {
+      "area": "Program governance and delivery assurance",
+      "agency_need": "Restore confidence in oversight of a large, troubled technology program and de-risk its completion.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent gateway-style delivery assurance over the remaining ROBUST tranches plus a governance/oversight review of program controls and reporting.",
+      "rationale": "Ministerial dissatisfaction, a new CEO and Estimates scrutiny create demand for independent assurance; pairs naturally with the contract remediation work.",
+      "confidence": "High"
+    },
+    {
+      "area": "Website/service-design recovery and UX remediation",
+      "agency_need": "Fix the failed website relaunch — navigation, radar functionality, accessibility — and rebuild a usable public service.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "User research and service-design discovery on the public website, accessibility/UX uplift, and process analysis to embed user feedback into release management; build/implementation support for prioritised fixes.",
+      "rationale": "The October 2025 relaunch drew documented backlash and a radar-map reversion; the agency has publicly invited feedback and committed to fixes.",
+      "confidence": "High"
+    },
+    {
+      "area": "Stakeholder trust-rebuilding with regional and emergency-service users",
+      "agency_need": "Repair reputation among farmers, emergency services and meteorologists after forecast-accuracy criticism and the website backlash.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "A stakeholder-engagement strategy and structured consultation program with regional/emergency-management users, plus communications support to manage the recovery narrative.",
+      "rationale": "Multiple sources document a regional trust deficit and public backlash; the agency has acknowledged community concerns.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Observing-network asset management uplift",
+      "agency_need": "Strengthen lifecycle management and assurance of physical observing-network assets, as scrutinised by the current ANAO audit.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An asset-management framework and lifecycle planning review aligned to ANAO findings, with governance for investment prioritisation across the observing network.",
+      "rationale": "A live ANAO performance audit (Report 2024-25 No. 21) targets exactly this area; audit recommendations typically convert to remediation work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and costing of technology and observing investment",
+      "agency_need": "Demonstrate value-for-money on >$300m annual cost and ~$800m technology spend amid funding scrutiny.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and activity/asset costing of the technology and observing investment to support investment decisions and Estimates accountability.",
+      "rationale": "Cost and value-for-money are central to the media and parliamentary criticism; a costing/sustainability piece is proportionate and politically credible.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Operating Officer / CFO function and program governance lead with a value-for-money-framed contract-management and delivery-assurance proposition for ROBUST.",
+      "priority": "High",
+      "rationale": "Contract failure is the dominant live issue with ministerial and Estimates attention; a new CEO is seeking to demonstrate control. Framing must emphasise capability transfer given consultant sensitivity."
+    },
+    {
+      "action": "Prepare a short service-design/UX recovery capability statement referencing the website relaunch issues and offer a rapid discovery sprint.",
+      "priority": "High",
+      "rationale": "The agency has publicly committed to fixes and invited feedback — a time-bound, tangible opening where the firm can build, not just advise."
+    },
+    {
+      "action": "Monitor the ANAO observing-network asset-management audit (Report 2024-25 No. 21) and the primary Senate Estimates Hansard/QoN, and tailor an asset-management and assurance offer to the published recommendations.",
+      "priority": "Medium",
+      "rationale": "Audit recommendations are strong, traceable demand signals; engaging early positions the firm before remediation procurement."
+    },
+    {
+      "action": "Obtain and read the actual Corporate Plan 2025-26 PDF to confirm strategic priorities, enterprise risks and performance measures before any formal pitch.",
+      "priority": "High",
+      "rationale": "The plan text was not available for this brief; grounding claims in the document is essential before approaching the agency."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive Officer's office (new CEO Stuart Minchin) — strategy reset and assurance appetite",
+    "Chief Operating Officer / CFO — contract management, financial sustainability and value-for-money",
+    "ROBUST program governance / technology program lead — delivery assurance and remediation",
+    "Chief Information / Digital Officer — website and service-design recovery",
+    "Audit and Risk Committee / Chief Risk Officer — independent assurance and asset-management governance",
+    "Communications/stakeholder-engagement branch — regional and emergency-service trust rebuilding"
+  ],
+  "talking_points": [
+    "The website/ROBUST blowout is now a parliamentary case study in contract failure — independent contract-management remediation and delivery assurance can demonstrably restore control and value-for-money.",
+    "Given Estimates criticism of consultants, our model is capability transfer and transparency, not dependency — we build internal oversight as we go.",
+    "The October relaunch backlash is fixable with disciplined user research and service design; we can deliver discovery-to-build, not just recommendations.",
+    "The current ANAO asset-management audit is an opportunity to get ahead of recommendations with a credible asset-lifecycle and governance uplift.",
+    "Rebuilding regional and emergency-service trust needs structured engagement and clear communications — a defined, proportionate program we can stand up quickly."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The Corporate Plan 2025-26 text was not actually retrievable — the source returned only a plans-and-budgets landing page — so strategic priorities, enterprise risks and performance measures are inferred from the agency's scientific/data-infrastructure archetype and external research, not the plan itself. All opportunity mapping should be re-validated against the real plan PDF. External findings on the website blowout are well-sourced via media and reported Estimates, but the primary ANAO conclusions/recommendations and the Hansard/QoN record were not retrieved and must be confirmed on anao.gov.au and aph.gov.au. Acute political sensitivity to consultant spend at this agency is a material constraint on any approach."
+}
