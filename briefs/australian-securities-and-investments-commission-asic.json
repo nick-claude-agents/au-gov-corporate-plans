@@ -1,0 +1,149 @@
+{
+  "agency_name": "Australian Securities and Investments Commission (ASIC)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "ASIC is a Treasury-portfolio corporate regulator (expertise-heavy regulator archetype) whose 2025-26 Corporate Plan, released August 2025, is framed around responding to 'financial ecosystem threats' (media release 25-177MR). Critically, the supplied source is only the ASIC corporate-plan landing page — the substantive 2025-26 plan content was not in the text provided, so priority detail is inferred from the release title, ASIC's known mandate, and the external research. The dominant external signal is the July 2024 Senate inquiry that branded ASIC a 'failing' regulator and recommended structural reform, plus a live FRAA-effectiveness reform workstream with Treasury. This creates credible latent demand around regulatory effectiveness, governance uplift, data/intelligence capability, performance reporting and operating-model change — the natural fits for a regulator under reform pressure.",
+  "strategic_priorities": [
+    {
+      "title": "Responding to financial ecosystem threats",
+      "description": "ASIC's 2025-26 plan is publicly positioned around responding to threats across the financial ecosystem — likely covering scams, digital/crypto assets, cyber-enabled misconduct, and emerging market risks. Exact priorities could not be confirmed from the supplied text.",
+      "source_quote": "ASIC plan underscores response to financial ecosystem threats (media release 25-177MR)"
+    },
+    {
+      "title": "Demonstrating enforcement and regulatory effectiveness",
+      "description": "Following sustained criticism of its enforcement record, ASIC is under pressure to evidence effective investigation and enforcement outcomes and is working with Treasury on FRAA recommendations about its effectiveness.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "The July 2024 Senate Economics References Committee final report (11 recommendations) calling for structural reform, including potentially splitting ASIC into a companies regulator and a separate financial conduct authority",
+    "FRAA (Financial Regulator Assessment Authority) review of ASIC's effectiveness, with an active reform workstream involving Treasury",
+    "Recommendations for a new governance structure, legislated code of conduct, and whistleblower incentive/compensation arrangements",
+    "Growth in scams, digital-asset and cyber-enabled financial misconduct driving 'ecosystem threat' focus",
+    "Parliamentary accountability and transparency pressures, with the committee citing information being withheld"
+  ],
+  "challenges_and_risks": [
+    "Reputational damage from being publicly characterised as a 'failing' regulator with an 'impossibly broad' remit",
+    "Structural uncertainty if government acts on the recommendation to split ASIC into two bodies",
+    "Pressure to lift investigation/enforcement throughput and the consistency of public reporting",
+    "Cultural and resourcing issues identified by the Senate inquiry",
+    "Regulatory technology and data/intelligence capability needed to detect and act on misconduct at scale"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "A 20-month Senate inquiry concluded in July 2024 that ASIC had 'comprehensively failed' its regulatory remit — taking no further action on most misconduct reports, investigating only a small fraction of complaints, and being too focused on internal problems to enforce the law. Coverage described it as a scathing assessment of the corporate regulator, citing an 'impossibly broad' remit and structural, resourcing and cultural issues.",
+      "implication": "Strong demand signal: ASIC and Treasury face pressure to demonstrate enforcement reform, governance uplift, transparency/reporting consistency and operating-model change — fertile ground for advisory, capability and program-design work.",
+      "source": "Xinhua (english.news.cn/asiapacific/20240704/...); Global Legal Insights (globallegalinsights.com/news/australian-senate-inquiry-calls-for-asic-breakup/); QLS Proctor (qlsproctor.com.au/2024/07/senate-report-scathing-of-asic/)"
+    },
+    {
+      "summary": "In response, ASIC said it would 'take time to consider' the findings, pointed to ~180 new investigations launched in 12 months, and said it was already working with Treasury on FRAA recommendations about its effectiveness.",
+      "implication": "A live FRAA-linked reform workstream with Treasury indicates near-term engagements around effectiveness, data/reporting and governance — useful entry points.",
+      "source": "Global Legal Insights (globallegalinsights.com/news/australian-senate-inquiry-calls-for-asic-breakup/)"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO has a performance audit titled 'Australian Securities and Investments Commission's Regulation of Registered Company Auditors.' The audit's existence was confirmed but its findings, recommendations and publication date were not retrieved before research was rate-limited.",
+      "implication": "Audit findings/recommendations on regulatory supervision are reliable scope generators (assurance, data, process redesign); the specific recommendations should be read before pitching.",
+      "source": "ANAO (anao.gov.au/work/performance-audit/australian-securities-and-investments-commissions-regulation-of-registered-company-auditors)"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "Senate Economics References Committee final report on ASIC investigation and enforcement (3 July 2024): referred October 2022, 200+ submissions, ~200-page report with 11 recommendations including splitting ASIC into two bodies, whistleblower incentives/compensation, a new governance structure and legislated code of conduct, and more funding. The committee said ASIC's parliamentary accountability was 'severely curtailed' by withheld information; a government response was due ~October 2024.",
+      "implication": "Structural-separation, governance, code-of-conduct and whistleblower-program reform creates significant transformation, operating-model and change-management demand across ASIC and Treasury — high-value, multi-year potential.",
+      "source": "Senate Economics References Committee final report (transparencytaskforce.org/wp-content/uploads/2024/07/...); Murrays Legal summary (murrayslegal.com.au/blog/2024/07/04/...)"
+    },
+    {
+      "summary": "ASIC senior officials gave evidence at Senate committee hearings, including Deputy Chair Sarah Court (Senate Economics Legislation Committee, 4 June 2024) and General Counsel Chris Savundra (Committee Hansard, 23 June 2024).",
+      "implication": "Estimates/Hansard exchanges surface live pain points and forward commitments; reviewing these transcripts can sharpen a tailored pitch.",
+      "source": "Senate Economics References Committee final report (transparencytaskforce.org/wp-content/uploads/2024/07/...)"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Operating-model and governance response to reform pressure",
+      "agency_need": "ASIC faces Senate and FRAA pressure to address an 'impossibly broad' remit, governance structure and possible structural separation.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model / functional review and governance-framework uplift to help ASIC model options for prioritisation, structure and accountability, with change management support (secondary: Organisation, Workforce & People).",
+      "rationale": "The July 2024 Senate report's 11 recommendations and the FRAA workstream with Treasury create direct, time-bound demand for independent operating-model and governance work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Regulatory effectiveness and enforcement performance measurement",
+      "agency_need": "ASIC must demonstrate enforcement effectiveness and consistent, credible public reporting after criticism it acts on few complaints.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign and an outcomes/effectiveness evaluation framework for investigation and enforcement, supported by evidence (secondary: Data, Analytics & Information).",
+      "rationale": "FRAA effectiveness review and the Senate findings on low action rates point to a clear need for defensible performance and outcome measures.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and intelligence capability for ecosystem threats",
+      "agency_need": "Responding to 'financial ecosystem threats' (scams, digital assets, misconduct) at scale requires stronger data, analytics and intelligence triage.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and business-intelligence uplift to improve complaint triage, risk-based prioritisation and threat detection across ASIC's intake.",
+      "rationale": "The plan's stated focus on ecosystem threats plus criticism that ASIC investigates only a fraction of complaints points to a triage/intelligence capability gap.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Independent assurance of regulatory supervision processes",
+      "agency_need": "ANAO has audited ASIC's regulation of registered company auditors; supervisory processes face scrutiny.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent health check / assurance review of priority supervisory and enforcement processes against the ANAO and Senate findings, with a remediation roadmap.",
+      "rationale": "An existing ANAO performance audit and adverse Senate findings make independent assurance a natural, lower-sensitivity entry point.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Whistleblower and governance program implementation",
+      "agency_need": "Recommendations include whistleblower incentives/compensation and a legislated code of conduct that, if adopted, require design and stand-up.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program/PMO and change-management support to design and implement any new whistleblower program, code of conduct or governance arrangements.",
+      "rationale": "Specific Senate recommendations, if accepted in the government response, generate discrete implementation programs.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and read the full ASIC Corporate Plan 2025-26 PDF and the FRAA effectiveness review, then map named 2025-26 priorities to service lines before any outreach.",
+      "priority": "High",
+      "rationale": "The supplied text was only a landing page; the substantive plan and FRAA report are essential to ground a credible, non-generic pitch."
+    },
+    {
+      "action": "Prepare a short capability statement on regulatory operating-model review, governance uplift and effectiveness/performance measurement, tailored to a regulator under reform pressure.",
+      "priority": "High",
+      "rationale": "The Senate inquiry and FRAA workstream create a clear, current window for independent advisory on effectiveness and structure."
+    },
+    {
+      "action": "Track the government's formal response to the Senate Economics References Committee report and any structural-reform decisions.",
+      "priority": "High",
+      "rationale": "A decision to split or restructure ASIC would trigger major transformation and change demand; timing outreach to that decision matters."
+    },
+    {
+      "action": "Retrieve the ANAO 'Regulation of Registered Company Auditors' audit findings and recommendations to scope an assurance/process-improvement angle.",
+      "priority": "Medium",
+      "rationale": "Open audit recommendations are concrete, defensible scope generators for assurance and process work."
+    },
+    {
+      "action": "Engage the COO/strategy and risk functions with a data/intelligence triage discussion linked to the 'ecosystem threats' theme.",
+      "priority": "Medium",
+      "rationale": "Aligns to the plan's stated focus and the criticism of low complaint-action rates without touching politically sensitive enforcement decisions."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / corporate enabling group (governance, performance, planning)",
+    "Chief Risk Officer / enterprise risk and assurance function",
+    "Executive responsible for the FRAA effectiveness response and Treasury liaison",
+    "Head of strategy and intelligence / data and analytics function",
+    "Audit and risk committee",
+    "Enforcement and regulation division leadership (for effectiveness measurement)"
+  ],
+  "talking_points": [
+    "The 2025-26 plan's focus on 'financial ecosystem threats' implies a need for stronger data-driven triage and intelligence — we can build the analytics, not just advise.",
+    "After the Senate inquiry and FRAA review, independent operating-model and governance support helps ASIC demonstrate credible, structured reform.",
+    "Defensible, PGPA-aligned performance measures for enforcement effectiveness directly address the 'investigates too few complaints' criticism.",
+    "An independent assurance health check against the ANAO and Senate findings is a lower-sensitivity way to show progress.",
+    "If government acts on structural-separation recommendations, we can stand up the implementation program and change management."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied 'plan text' was only the ASIC corporate-plan webpage listing links to PDFs — the substantive 2025-26 Corporate Plan content was not provided. Strategic priorities are therefore inferred from the release title (25-177MR, 'response to financial ecosystem threats'), ASIC's known regulator mandate, and the external research. Opportunities are credible but largely inferred rather than evidenced against specific plan commitments; most are Medium/Low confidence. The external research itself was incomplete (rate-limited), with the ANAO audit findings and primary parliamentary records unverified. Read the full 2025-26 PDF and the FRAA report before acting."
+}

@@ -64,6 +64,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-securities-and-investments-commission-asic": {
+      "name": "Australian Securities and Investments Commission (ASIC)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.asic.gov.au/about-asic/corporate-publications/asic-corporate-plan/",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }
