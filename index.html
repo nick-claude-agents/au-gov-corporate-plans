@@ -343,15 +343,14 @@
     justify-content: center;
   }
   .btn-brief:hover { background: #ffadb5; color: #8b0030; border-color: #ffadb5; }
-  .brief-pending {
+  .btn-brief-gen {
+    background: #fff;
+    color: #8b0030;
+    border: 1px dashed #e3a9b0;
     flex: 1;
-    text-align: center;
-    align-self: center;
-    font-size: 0.75rem;
-    color: var(--muted);
-    font-style: italic;
-    padding: 7px 8px;
+    justify-content: center;
   }
+  .btn-brief-gen:hover { background: #fff3f4; border-color: #ffadb5; }
   .conf-badge {
     font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px;
     margin-left: 5px; color: #fff;
@@ -979,6 +978,9 @@ const dlIcon   = `<svg viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 17a1 
 // BD briefs: slug -> { name, portfolio, plan_url, generated_at, plan_period,
 // overall_confidence }. Populated by an async fetch of briefs/briefs-index.json.
 let BRIEFS = {};
+// On-demand generation runs on your local server (run_brief_server.bat). The
+// public page links to it; the links only work on a machine running that server.
+const LOCAL_SERVER = 'http://127.0.0.1:8770';
 function slugify(name) {
   return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
 }
@@ -1033,7 +1035,10 @@ function renderCards(list) {
                ? `<span class="conf-badge" style="background:${confColour(brief.overall_confidence)}">${brief.overall_confidence}</span>`
                : ''}
            </a>`
-        : (isCurated(a) ? `<span class="brief-pending">BD Brief pending</span>` : '');
+        : (isCurated(a)
+            ? `<a class="btn btn-brief-gen" target="_blank" rel="noopener" title="Generates on your local server (run_brief_server.bat must be running)"
+                 href="${LOCAL_SERVER}/generate?name=${encodeURIComponent(a.name)}&portfolio=${encodeURIComponent(a.portfolio)}&url=${encodeURIComponent(a.url)}">Generate BD Brief</a>`
+            : '');
       html += `<div class="card">
         <div class="card-header">
           <div class="card-name">${a.name}</div>

@@ -18,10 +18,11 @@ or double-click run_brief_server.bat
 Requires: flask (plus the analyser deps). Needs ANTHROPIC_API_KEY in .env.
 """
 
+import json
 import os
 import threading
 
-from flask import Flask, request, jsonify, send_from_directory
+from flask import Flask, request, jsonify, send_from_directory, redirect
 
 import analyse_corporate_plan as core
 import manage_briefs as mb
@@ -85,6 +86,67 @@ def api_brief_status():
     slug = mb.slugify(name)
     exists = (mb.BRIEFS_DIR / f"{slug}.html").exists()
     return jsonify(exists=exists, url=f"briefs/{slug}.html" if exists else None)
+
+
+# Navigation target for the public dashboard's "Generate BD Brief" links.
+# The public (HTTPS) page can't fetch this server, but it CAN link to it; this
+# page is then same-origin, so it calls /api/brief itself and shows the result.
+@app.route("/generate")
+def generate_page():
+    name = (request.args.get("name") or "").strip()
+    portfolio = (request.args.get("portfolio") or "").strip()
+    url = (request.args.get("url") or "").strip()
+    slug = mb.slugify(name)
+    if (mb.BRIEFS_DIR / f"{slug}.html").exists():
+        return redirect(f"/briefs/{slug}.html")        # already done — just open it
+    payload = json.dumps({"name": name, "portfolio": portfolio, "url": url})
+    return f"""<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Generating BD Brief…</title>
+<style>
+  body {{ font-family: Arial, sans-serif; background:#f0f5f4; color:#222;
+         display:flex; align-items:center; justify-content:center; height:100vh; margin:0; }}
+  .box {{ background:#fff; border:1px solid #ddd; border-radius:10px; padding:28px 34px;
+         max-width:520px; text-align:center; }}
+  h1 {{ color:#0D3D20; font-size:18px; margin:0 0 6px; }}
+  .spin {{ width:34px; height:34px; border:4px solid #e3a9b0; border-top-color:#8b0030;
+          border-radius:50%; margin:14px auto; animation:r 1s linear infinite; }}
+  @keyframes r {{ to {{ transform:rotate(360deg); }} }}
+  .muted {{ color:#666; font-size:13px; }}
+  .err {{ color:#BF360C; font-size:13px; }}
+</style></head>
+<body><div class="box">
+  <h1>Generating BD Brief</h1>
+  <div class="muted">{name}</div>
+  <div class="spin" id="spin"></div>
+  <p class="muted" id="msg">Reading the corporate plan, searching news / ANAO /
+     Parliament, and writing the brief. This can take up to 10 minutes — you can
+     leave this tab open and come back.</p>
+  <p class="err" id="err" style="display:none"></p>
+</div>
+<script>
+  const body = {payload};
+  fetch('/api/brief', {{ method:'POST', headers:{{'Content-Type':'application/json'}},
+                        body: JSON.stringify(body) }})
+    .then(r => r.json())
+    .then(d => {{
+      if ((d.status === 'generated' || d.status === 'exists') && d.url) {{
+        location.href = '/' + d.url;
+      }} else {{
+        document.getElementById('spin').style.display='none';
+        document.getElementById('msg').style.display='none';
+        const e=document.getElementById('err'); e.style.display='block';
+        e.textContent = 'Could not generate: ' + (d.message || 'unknown error');
+      }}
+    }})
+    .catch(e => {{
+      document.getElementById('spin').style.display='none';
+      const er=document.getElementById('err'); er.style.display='block';
+      er.textContent = 'Error: ' + e;
+    }});
+</script>
+</body></html>"""
 
 
 if __name__ == "__main__":
