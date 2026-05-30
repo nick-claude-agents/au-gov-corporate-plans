@@ -201,7 +201,7 @@ def main():
 
     known_urls = {}
     if CONFIG["state_file"].exists():
-        known_urls = json.loads(CONFIG["state_file"].read_text(encoding="utf-8"))
+        known_urls = json.loads(CONFIG["state_file"].read_text(encoding="utf-8-sig"))
 
     agencies = load_agencies()
     log.info(f"Starting check for {len(agencies)} agencies...")
