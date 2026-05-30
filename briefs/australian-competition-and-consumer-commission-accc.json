@@ -1,0 +1,157 @@
+{
+  "agency_name": "Australian Competition and Consumer Commission (ACCC)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "The ACCC (which also houses the Australian Energy Regulator) is an expertise-heavy economic regulator in the Treasury portfolio. The supplied corporate plan content is effectively a landing-page stub with no substantive body text, so this brief is built largely from external research and the ACCC's well-documented operating context rather than the plan itself. The dominant, time-bound demand signals are the new mandatory merger-notification regime commencing 1 January 2026, the funded supermarket/grocery enforcement program and price inquiry, the National Anti-Scam Centre, and repeated ANAO probity scrutiny. As a regulator, the best-fit opportunities lie in Strategy/Policy/Governance, Data & Analytics, Digital/ICT Delivery and Assurance/Probity rather than large transactional delivery programs.",
+  "strategic_priorities": [
+    {
+      "title": "Implementing the new merger control regime",
+      "description": "From 1 January 2026 Australia moves to a mandatory, suspensory merger-notification system administered by the ACCC, requiring new processes, systems, case-handling capacity and economic analysis capability. This is the most significant structural change to the ACCC's functions in years.",
+      "source_quote": null
+    },
+    {
+      "title": "Supermarket and retail competition focus",
+      "description": "The ACCC received dedicated funding for supermarket/retail investigation and enforcement and was directed to run a 12-month grocery price inquiry, creating a funded, time-boxed program of market study and enforcement activity.",
+      "source_quote": null
+    },
+    {
+      "title": "Scams disruption via the National Anti-Scam Centre",
+      "description": "The ACCC hosts the NASC, requiring data-sharing, intelligence and analytics capability across banks, telcos and digital platforms.",
+      "source_quote": null
+    },
+    {
+      "title": "Compliance and enforcement priorities",
+      "description": "The ACCC sets annual compliance and enforcement priorities (e.g. misleading surcharging, consumer guarantees, digital platforms) and pursues major litigation such as ACCC v Qantas.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Commencement of the mandatory merger-notification regime on 1 January 2026 — new legislative function requiring new processes and systems",
+    "$30m of dedicated supermarket/retail enforcement funding (over ~3.5 years) plus a government-directed 12-month grocery price inquiry",
+    "National Anti-Scam Centre operations requiring multi-party data sharing and analytics",
+    "High-profile, resource-intensive litigation (e.g. ACCC v Qantas 'ghost flights')",
+    "Repeated ANAO scrutiny of probity management within the ACCC"
+  ],
+  "challenges_and_risks": [
+    "Standing up an entirely new merger-review function (people, process, systems) to a hard legislative deadline",
+    "Surge resourcing and analytical capacity to deliver both the grocery inquiry and ongoing enforcement",
+    "Integrity/probity exposure given the ACCC's market-sensitive information and the ANAO's repeated probity focus",
+    "Demonstrating regulatory effectiveness and outcomes through credible performance measures",
+    "Data integration and intelligence quality across the anti-scam ecosystem"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The ACCC is pursuing Qantas over alleged sale of more than 8,000 tickets for already-cancelled 'ghost flights', seeking at least $250m in penalties, linked to the $570m travel-credit controversy.",
+      "implication": "Major litigation creates demand for economic/evidence analysis, surge capacity and post-matter capability uplift — though this is the ACCC acting, not a failure of the agency.",
+      "source": "HR Leader — https://www.hrleader.com.au/business/24981-is-the-abysmal-failure-of-qantas-a-wake-up-call-for-boards-across-the-globe"
+    },
+    {
+      "summary": "Government allocated $30m to the ACCC (over ~3.5 years from 2024) for dedicated supermarket/retail investigation and enforcement, and directed a 12-month grocery price inquiry.",
+      "implication": "A funded, time-boxed program is a near-term procurement signal for market study, economic analysis, data and surge-capacity work.",
+      "source": "Gilbert + Tobin — https://www.gtlaw.com.au/insights/variations-on-a-theme-accc-renews-compliance-and-enforcement-priorities-with-a-2025-26-glow-up-to-also-tackle-misleading-surcharging ; Holding Redlich — https://www.holdingredlich.com/overview-accc-s-2024-25-compliance-and-enforcement-priorities"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit(s) on Probity Management in financial regulators and within the ACCC specifically. Detailed findings/recommendations were not retrievable in the research.",
+      "implication": "Probity, conflict-of-interest and integrity-framework assurance is a live ANAO focus for the ACCC — a credible entry point for governance and assurance (non-legal probity) services.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/probity-management-the-australian-competition-and-consumer-commission ; https://www.anao.gov.au/work/performance-audit/probity-management-financial-regulators-australian-competition-and-consumer-commission"
+    },
+    {
+      "summary": "ANAO performance audit 'Managing Compliance with Fair Trading Obligations' examining the effectiveness of the ACCC's core compliance/enforcement administration. Detailed conclusions not retrievable in research.",
+      "implication": "Audit attention on enforcement administration points to demand for program evaluation and process-improvement work.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/managing-compliance-fair-trading-obligations"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Merger regime implementation and assurance",
+      "agency_need": "Stand up a new mandatory merger-notification function (process, governance, case workflow) to a 1 January 2026 deadline",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Delivery/PMO support and independent implementation assurance for the new merger regime, including gateway-style health checks ahead of go-live",
+      "rationale": "A legislated new function with a hard deadline is classic time-bound implementation demand; assurance reduces go-live risk for a high-profile regulatory change.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Merger notification platform / case-management system",
+      "agency_need": "Digital intake, workflow and information-handling system to administer mandatory notifications",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for a merger-notification portal, then build/integration of case-management workflow and secure information handling",
+      "rationale": "A mandatory notification regime needs a public-facing intake and internal workflow system; the firm can both design and build. Inferred from the regime's operational requirements.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Grocery inquiry and supermarket enforcement analytics",
+      "agency_need": "Market study, pricing analysis and intelligence to support a funded 12-month grocery inquiry and ongoing retail enforcement",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics, pricing/market analysis and research support to the inquiry team, plus intelligence tooling for the supermarket enforcement program",
+      "rationale": "$30m of dedicated funding and a directed inquiry create a near-term, analytics-heavy workload. Confirmed by external research on the funding and inquiry.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Probity and integrity framework uplift",
+      "agency_need": "Respond to ANAO probity scrutiny and strengthen conflict-of-interest controls around market-sensitive information",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Independent (non-legal) probity framework review and probity advisory, complemented by governance assurance against ANAO findings",
+      "rationale": "Repeated ANAO probity audits of the ACCC signal sensitivity and likely remediation activity. Directly supported by ANAO research.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Anti-scam data integration",
+      "agency_need": "Integrate and analyse cross-sector data feeds for the National Anti-Scam Centre",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information-strategy and data-management support, plus business intelligence to improve scam intelligence sharing across banks, telcos and platforms",
+      "rationale": "NASC's effectiveness depends on multi-party data integration and analytics; a plausible but inferred need given thin plan detail.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Regulatory effectiveness and performance measures",
+      "agency_need": "Demonstrate outcomes from enforcement and regulatory activity through credible performance measures",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure review and a process/outcome evaluation of a major compliance program (e.g. fair trading)",
+      "rationale": "ANAO attention on fair-trading compliance administration suggests value in evaluation and performance-framework work for a regulator.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and read the full ACCC & AER Corporate Plan 2025-26 PDF to confirm named priorities, risks and capability gaps before pitching",
+      "priority": "High",
+      "rationale": "The supplied text is a stub; the actual plan is essential to ground any offer and avoid generic pitches."
+    },
+    {
+      "action": "Approach the merger-reform implementation team / relevant Executive General Manager with an implementation-assurance and PMO capability statement ahead of the 1 January 2026 commencement",
+      "priority": "High",
+      "rationale": "The hard legislative deadline makes this the most time-bound and credible opportunity."
+    },
+    {
+      "action": "Prepare a short probity/governance assurance proposition referencing the ANAO probity audits for the General Counsel/Chief Operating Officer and audit & risk committee",
+      "priority": "Medium",
+      "rationale": "Repeated ANAO probity scrutiny is a verified, low-sensitivity entry point for assurance work."
+    },
+    {
+      "action": "Pull the full ANAO reports (probity and fair-trading compliance) for ratings, recommendations and ACCC agreed responses, and re-run Parliamentary/Estimates searches on aph.gov.au",
+      "priority": "Medium",
+      "rationale": "Research was cut off before findings and Parliamentary material could be verified; closing these gaps sharpens the pitch."
+    }
+  ],
+  "engagement_targets": [
+    "Executive General Manager / branch leading merger reform implementation",
+    "Chief Operating Officer and corporate/enabling services group",
+    "General Counsel / integrity function (probity response)",
+    "Audit and risk committee",
+    "Grocery inquiry / supermarket taskforce leadership",
+    "National Anti-Scam Centre program lead",
+    "Chief Information Officer / digital and data functions"
+  ],
+  "talking_points": [
+    "The mandatory merger regime from 1 January 2026 is a fixed-deadline implementation challenge — we can provide delivery/PMO support and independent go-live assurance.",
+    "We can stand up or assure the digital intake and case-management capability the new notification regime requires — we build, not just advise.",
+    "ANAO's repeated probity focus on the ACCC creates a clear, low-sensitivity case for an independent probity-framework review (non-legal).",
+    "The funded grocery inquiry and supermarket enforcement program need surge analytics and market-study capacity we can supply quickly.",
+    "As a regulator, your performance story matters — we can refresh PGPA-aligned measures and evaluate a major compliance program."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The provided corporate plan text contained no substantive content — only publication metadata — so strategic priorities, risks and capability signals could not be drawn from the plan itself and are inferred from external research and the ACCC's known operating context. Opportunity confidence is therefore mostly Low/Medium and should not be relied upon until the full 2025-26 plan PDF is read. External research was also incomplete: ANAO findings/dates were not verified and no Parliamentary material was retrieved. Treat this brief as a starting hypothesis requiring confirmation."
+}
