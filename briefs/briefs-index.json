@@ -96,6 +96,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025–29 (budget year 2025–26)",
       "overall_confidence": "Low"
+    },
+    "commonwealth-scientific-and-industrial-research-organisation-csiro": {
+      "name": "Commonwealth Scientific and Industrial Research Organisation (CSIRO)",
+      "portfolio": "Industry, Science and Resources",
+      "plan_url": "https://www.csiro.au/en/about/corporate-governance/corporate-plan/25-26-corporate-plan",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
