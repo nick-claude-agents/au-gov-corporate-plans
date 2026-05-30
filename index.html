@@ -6,17 +6,17 @@
 <title>Australian Government Corporate Plans</title>
 <style>
   :root {
-    --au-blue: #1B6B3A;
-    --au-dark: #0D3D20;
-    --au-gold: #C8A84B;
-    --au-light: #F5E8EC;
-    --au-mid: #4A9E6A;
+    --au-blue: #1F735E;
+    --au-dark: #19473C;
+    --au-gold: #FFADB5;
+    --au-light: #FFF0F1;
+    --au-mid: #2A9070;
     --text: #1a1a1a;
     --muted: #666;
-    --border: #E8CDD5;
-    --card-bg: #fff;
-    --tag-dept: #1B6B3A;
-    --tag-agency: #2E7D32;
+    --border: #FFCDD2;
+    --card-bg: #ffffff;
+    --tag-dept: #1F735E;
+    --tag-agency: #19473C;
     --tag-stat: #6A1B9A;
     --tag-entity: #BF360C;
   }
@@ -25,7 +25,7 @@
 
   body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: #FCE4EC;
+    background: #FFADB5;
     color: var(--text);
     min-height: 100vh;
   }
@@ -47,7 +47,7 @@
     align-items: center;
     gap: 16px;
     padding: 14px 24px;
-    border-bottom: 3px solid var(--au-gold);
+    border-bottom: 3px solid #FFADB5;
   }
 
   .coa {
@@ -341,10 +341,10 @@
   /* ── Update button ── */
   .btn-update {
     padding: 9px 16px;
-    border: 1px solid var(--au-gold);
+    border: 1px solid #FFADB5;
     border-radius: 6px;
-    background: rgba(200,168,75,0.15);
-    color: var(--au-gold);
+    background: rgba(255,173,181,0.2);
+    color: #FFADB5;
     font-size: 0.82rem;
     font-weight: 700;
     cursor: pointer;
@@ -354,7 +354,7 @@
     gap: 6px;
     transition: all 0.2s;
   }
-  .btn-update:hover { background: var(--au-gold); color: var(--au-dark); }
+  .btn-update:hover { background: #FFADB5; color: var(--au-dark); }
 
   /* ── Modal overlay ── */
   .modal-overlay {
@@ -696,10 +696,10 @@
 
 <div class="stats-bar" id="statsBar">
   <span>Showing <strong id="countShown">—</strong> of <strong id="countTotal">—</strong> entities</span>
-  <span class="stat-pill" style="background:#E3EEF7;color:#00538B;">● Depts</span>
-  <span class="stat-pill" style="background:#E8F5E9;color:#2E7D32;">● Agencies</span>
+  <span class="stat-pill" style="background:#D6EDE8;color:#1F735E;">● Depts</span>
+  <span class="stat-pill" style="background:#C8DDD9;color:#19473C;">● Agencies</span>
   <span class="stat-pill" style="background:#F3E5F5;color:#6A1B9A;">● Statutory Bodies</span>
-  <span class="stat-pill" style="background:#FBE9E7;color:#BF360C;">● Commonwealth Entities</span>
+  <span class="stat-pill" style="background:#FFE4E7;color:#BF360C;">● Commonwealth Entities</span>
   <span style="margin-left:auto; color:#999;">Last updated: 2024–25 plans</span>
 </div>
 
