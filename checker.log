@@ -131,3 +131,61 @@
 [2026-05-30 05:54:48] Added: Australian Security Intelligence Organisation [Commonwealth Entity]
 [2026-05-30 05:54:48] Discovery done. New=63
 [2026-05-30 05:54:48] Email sent: AU Gov Corporate Plans - 63 new agency(s) added - Saturday 30 May 2026
+[2026-05-30 06:40:08] Starting check for 191 agencies...
+[2026-05-30 06:41:13] BROKEN: Aged Care Quality and Safety Commission (ACQSC)
+[2026-05-30 06:41:52] BROKEN: Attorney-General's Department
+[2026-05-30 06:41:59] BROKEN: Australian Centre for International Agricultural Research (ACIAR)
+[2026-05-30 06:42:54] BROKEN: Australian Commission on Safety and Quality in Health Care (ACSQHC)
+[2026-05-30 06:43:49] BROKEN: Australian Communications and Media Authority (ACMA)
+[2026-05-30 06:44:45] BROKEN: Australian Criminal Intelligence Commission (ACIC)
+[2026-05-30 06:45:19] BROKEN: Australian Energy Regulator (AER)
+[2026-05-30 06:45:50] BROKEN: Australian Financial Security Authority (AFSA)
+[2026-05-30 06:45:57] BROKEN: Australian Human Rights Commission (AHRC)
+[2026-05-30 06:46:00] BROKEN: Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)
+[2026-05-30 06:46:55] BROKEN: Australian Institute of Criminology (AIC)
+[2026-05-30 06:46:58] BROKEN: Australian Institute of Health and Welfare (AIHW)
+[2026-05-30 06:47:36] BROKEN: Australian National Audit Office (ANAO)
+[2026-05-30 06:48:11] BROKEN: Australian Office of Financial Management (AOFM)
+[2026-05-30 06:48:45] BROKEN: Australian Public Service Commission (APSC)
+[2026-05-30 06:49:13] BROKEN: Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)
+[2026-05-30 06:49:48] BROKEN: Australian Research Council (ARC)
+[2026-05-30 06:50:19] BROKEN: Australian Signals Directorate (ASD)
+[2026-05-30 06:51:14] BROKEN: Australian Skills Quality Authority (ASQA)
+[2026-05-30 06:51:26] BROKEN: Australian Taxation Office (ATO)
+[2026-05-30 06:51:56] BROKEN: Australian Transaction Reports and Analysis Centre (AUSTRAC)
+[2026-05-30 06:53:06] BROKEN: Civil Aviation Safety Authority (CASA)
+[2026-05-30 06:54:05] BROKEN: Climate Change Authority
+[2026-05-30 06:54:21] BROKEN: Creative Australia
+[2026-05-30 06:54:48] BROKEN: Department of Agriculture, Fisheries and Forestry (DAFF)
+[2026-05-30 06:55:16] BROKEN: Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+[2026-05-30 06:55:44] BROKEN: Department of Defence
+[2026-05-30 06:56:11] BROKEN: Department of Education
+[2026-05-30 06:57:06] BROKEN: Department of Employment and Workplace Relations (DEWR)
+[2026-05-30 06:57:34] BROKEN: Department of Finance
+[2026-05-30 06:58:01] BROKEN: Department of Foreign Affairs and Trade (DFAT)
+[2026-05-30 06:58:29] BROKEN: Department of Health, Disability and Ageing
+[2026-05-30 06:59:01] BROKEN: Department of Industry, Science and Resources (DISR)
+[2026-05-30 06:59:56] BROKEN: Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+[2026-05-30 07:00:57] BROKEN: Department of Social Services (DSS)
+[2026-05-30 07:02:00] BROKEN: Department of Veterans' Affairs (DVA)
+[2026-05-30 07:02:27] BROKEN: Digital Transformation Agency (DTA)
+[2026-05-30 07:03:00] BROKEN: eSafety Commissioner
+[2026-05-30 07:04:32] BROKEN: Inspector-General of Intelligence and Security (IGIS)
+[2026-05-30 07:05:36] BROKEN: National Archives of Australia (NAA)
+[2026-05-30 07:06:06] BROKEN: National Blood Authority (NBA)
+[2026-05-30 07:06:23] BROKEN: National Gallery of Australia (NGA)
+[2026-05-30 07:06:51] BROKEN: National Health and Medical Research Council (NHMRC)
+[2026-05-30 07:07:00] BROKEN: National Museum of Australia (NMA)
+[2026-05-30 07:08:07] BROKEN: NDIS Quality and Safeguards Commission
+[2026-05-30 07:08:27] BROKEN: Office of the Commonwealth Ombudsman
+[2026-05-30 07:09:25] BROKEN: Office of the Fair Work Ombudsman (FWO)
+[2026-05-30 07:10:14] BROKEN: Screen Australia
+[2026-05-30 07:10:44] BROKEN: Services Australia
+[2026-05-30 07:11:22] BROKEN: Tertiary Education Quality and Standards Agency (TEQSA)
+[2026-05-30 07:11:50] BROKEN: Therapeutic Goods Administration (TGA)
+[2026-05-30 07:12:07] URL check done. Updates=0 Broken=51 Unchanged=140
+[2026-05-30 07:12:07] Scanning Transparency Portal for new agencies...
+[2026-05-30 07:12:07] Querying Transparency Portal (FY codename: n2025_26)...
+[2026-05-30 07:12:08] Portal returned 185 plans
+[2026-05-30 07:12:08] Discovery done. New=0
+[2026-05-30 07:12:10] Email sent: AU Gov Corporate Plans - 51 broken link(s) - Saturday 30 May 2026
