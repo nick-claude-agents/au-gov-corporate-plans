@@ -1,0 +1,182 @@
+{
+  "agency_name": "Australian Federal Police (AFP)",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-26",
+  "executive_summary": "The AFP's republished 2025-26 Corporate Plan signals a deliberate repositioning as a national security agency under new Commissioner Krissy Barrett, with five enterprise priorities (defending domestic/regional security, protecting vulnerable communities, supercharging global operations, futureproofing the workforce, and investing in science and technology-led capability). The plan openly admits investment pressure: legacy ICT requiring modernisation, an ambitious AI and big-data agenda needing responsible-use governance, a competitive recruitment market, and budget/cost-of-doing-business pressure within a fixed envelope. A completed capability framework review (18 core capabilities) with roadmaps now being developed is the single clearest source of structured, multi-year demand. Major named programs — the AUKUS nuclear-submarine protective security overlay, the Pacific Police Partnership Program, and a refreshed performance framework — create time-bound delivery, assurance and evaluation opportunities. As a security/enforcement archetype, engagement will be constrained by clearances and secrecy, so enabling/corporate functions (capability governance, workforce, data, ICT modernisation, performance) are the most accessible entry points.",
+  "strategic_priorities": [
+    {
+      "title": "Investing in science and technology-led capability",
+      "description": "The AFP is prioritising AI and big-data tooling overlaid with responsible/ethical-use governance, enhancing data capabilities, modernising legacy ICT to defensible architecture, and improving continuous threat exposure management.",
+      "source_quote": "Critical to our ongoing success is the prioritisation of investment in technology and capability, including artificial intelligence and big data management tools which will be overlayed with responsible and ethical use governance."
+    },
+    {
+      "title": "Futureproofing the workforce",
+      "description": "The AFP wants a thriving, diverse, skills-based workforce and is implementing the Health and Wellbeing Strategy, reviewing training and leadership curriculums, streamlining recruitment gateways, and shifting complaints management from a response model to a prevention culture.",
+      "source_quote": "Our workforce is thriving, unified, diverse and trusted — empowered by adaptive and accountable leadership... equipped to adapt to emerging challenges."
+    },
+    {
+      "title": "Supercharging global operations",
+      "description": "Amplifying AFP global impact through forward-looking law-enforcement partnerships, AUKUS uplift, the Pacific Police Partnership Program, and hosting the UN Chiefs of Police Summit in 2026.",
+      "source_quote": "A key plank in our new posture is supercharging our global operations, one of 5 priorities that underpin our strategic direction."
+    },
+    {
+      "title": "Capability framework roadmaps",
+      "description": "Having completed a systematic review consolidating to 18 core capabilities, the AFP's key body of work for the year is developing updated capability roadmaps with governance for investment prioritisation, reduced duplication and sustainability.",
+      "source_quote": "A key body of work for the year ahead is developing updated roadmaps for these capabilities."
+    },
+    {
+      "title": "AUKUS protective security overlay",
+      "description": "Designing and delivering a fit-for-purpose interim protective security overlay supporting nuclear-powered submarine visits at HMAS Stirling ahead of Submarine Rotational Force West.",
+      "source_quote": "Build and integrate the interim AFP protective security overlay in support of the Australian nuclear submarine program under the AUKUS initiative."
+    },
+    {
+      "title": "Performance framework uplift",
+      "description": "The AFP is reforming its performance measures — introducing 'partially met' thresholds, removing low-value ROI measures, adding child-exploitation and refining Pacific measures — with further improvements planned for 2026-27 and beyond.",
+      "source_quote": "These changes represent part of a larger body of work to improve the AFP's approach to performance measurement and reporting in future."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "New Commissioner (October 2025) and a new mission redefining the AFP as a national security agency, supported by a new Ministerial Direction and Statement of Intent",
+    "AUKUS initiative driving a new protective security role around nuclear-powered submarines",
+    "Australian Government policy for responsible use of AI requiring a transparency statement and technology-governance uplift",
+    "2023-2030 Australian Cyber Security Strategy driving legacy ICT modernisation and defensible architecture",
+    "Pacific and South-East Asia transnational crime threat driving the Pacific Police Partnership Program and 2026 UN Chiefs of Police Summit hosting",
+    "National Strategy to Prevent and Respond to Child Sexual Abuse creating new performance commitments",
+    "Completed capability framework review (18 core capabilities) requiring roadmaps and investment prioritisation",
+    "Competitive labour market and recruitment challenges for skills-based and diverse talent"
+  ],
+  "challenges_and_risks": [
+    "Budget and cost-of-doing-business pressure within a fixed budgetary envelope, requiring organisational efficiencies (Resourcing enterprise risk)",
+    "Legacy ICT requiring transition to modern, defensible systems and platforms",
+    "Workforce risk: failure to recruit, retain and develop staff with the right skills in a competitive market, plus ageing workforce",
+    "Information risk: failure to access, manage, store or protect AFP information including third-party-held data, with privacy and reputational implications",
+    "Effectiveness of capabilities risk: ineffective management/bundling of resources restricting innovation",
+    "Culture, standards and integrity risk, with oversight from NACC, Commonwealth Ombudsman and IGIS",
+    "Responsible/ethical AI adoption must align with legislative frameworks and government policy",
+    "Health, safety and wellbeing risk to the workforce; psychological and cultural safety in complaints management"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Capability roadmap development and governance",
+      "agency_need": "The AFP's headline body of work for the year is developing roadmaps across 18 reviewed core capabilities, with governance for investment prioritisation, reduced duplication and sustainability.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A capability-roadmapping and investment-prioritisation framework engagement — facilitating capability owners to build sequenced roadmaps with a governance model linking capability investment to enterprise risk and budget constraints.",
+      "rationale": "The plan explicitly names roadmap development as 'a key body of work for the year ahead' and ties it to investment prioritisation and reduced duplication, a clean fit for governance and strategy advisory.",
+      "confidence": "High"
+    },
+    {
+      "area": "Legacy ICT modernisation",
+      "agency_need": "Transitioning legacy ICT to modern systems and platforms aligned to the 2023-2030 Cyber Security Strategy, with defensible architecture and continuous threat exposure management.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and systems modernisation support — business/process analysis, target-state architecture design and staged solution implementation/integration for priority legacy platforms, scaled to clearance constraints.",
+      "rationale": "The plan names legacy ICT transition as a specific capability project, providing a clear, funded multi-year modernisation signal.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Continuous threat exposure management and cyber uplift",
+      "agency_need": "Enhancing continuous threat exposure management systems and incorporating modern defensible architecture under the national cyber strategy.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance engagement over modernised platforms and CTEM processes, plus cyber advisory aligned to defensible-architecture targets.",
+      "rationale": "The plan explicitly commits to enhancing continuous threat exposure management and defensible architecture, a direct cyber demand signal.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and AI governance",
+      "agency_need": "Enhancing data capabilities to optimise operational responsiveness, plus responsible AI practices including a transparency statement and technology governance to evaluate emerging-tech risk.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and governance uplift — data management maturity assessment plus a responsible-AI governance and assurance framework to operationalise the government AI policy.",
+      "rationale": "The plan names enhancing data capabilities and strengthening responsible AI practices (transparency statement, technology governance) as specific capability projects; the Information enterprise risk reinforces demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Workforce planning and recruitment redesign",
+      "agency_need": "Streamlining recruitment gateways, building a skills-based workforce, addressing ageing workforce and competition for diverse talent.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce planning and recruitment-process redesign engagement — holistic recruitment gateway review, skills-based workforce model and capability/attraction strategy.",
+      "rationale": "The plan explicitly names streamlining recruitment gateways and a skills-based workforce, and the Workforce enterprise risk confirms it as an active pressure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Training and leadership curriculum review",
+      "agency_need": "Reviewing training and leadership curriculums for consistency with contemporary modalities, technological advancements and best practice.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A learning and development review with redesigned curriculum architecture and contemporary delivery modalities.",
+      "rationale": "The plan names reviewing training and leadership curriculums as a specific capability project for the year.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework redesign",
+      "agency_need": "Ongoing uplift of the PGPA performance framework — introducing 'partially met' thresholds, removing low-value measures, and planning further improvements for 2026-27.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign — refining measures to better capture operational impact (especially case-study-based qualitative measures) ahead of the 2026-27 cycle.",
+      "rationale": "The plan states performance-measure improvements are 'being considered for inclusion in the 2026-27 performance cycle and beyond', signalling near-term redesign work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "AUKUS protective security overlay delivery assurance",
+      "agency_need": "Designing and delivering an interim protective security overlay for nuclear-submarine visits at HMAS Stirling, with the role evolving toward Submarine Rotational Force West.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program delivery/PMO support and independent gateway-style assurance of the evolving protective security overlay program, subject to clearance requirements.",
+      "rationale": "Program 3.3 is a named, time-bound build-and-integrate program with a discrete performance measure, indicating sustained delivery demand — though clearance and secrecy will constrain access.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Enterprise risk maturity and culture sustainment",
+      "agency_need": "The AFP is implementing a Risk Maturity and Culture Sustainment Plan, Risk Champion Network and annual control reviews, with strengthened tolerance statements.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework and risk-culture maturity assessment with control-effectiveness review, supporting the Audit and Risk Committee's oversight.",
+      "rationale": "The plan describes an active risk maturity uplift program across 8 enterprise risks; demand for independent risk-framework support is plausible but not specifically named as a procurement.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the AFP function owning the capability framework and roadmaps (Organisational Improvement / Organisational Management enabling capability lead) to position roadmapping and investment-prioritisation governance support.",
+      "priority": "High",
+      "rationale": "The plan names roadmap development as the key body of work for the year, making this the most concrete and timely entry point with a clean service fit."
+    },
+    {
+      "action": "Prepare a short capability statement on responsible-AI governance and data management maturity tailored to the government AI policy and transparency-statement requirement, and approach the data/technology governance function.",
+      "priority": "High",
+      "rationale": "AI and data are central to two of five priorities and the Information enterprise risk; a transparency statement is an explicit near-term deliverable creating immediate, accessible advisory demand."
+    },
+    {
+      "action": "Engage the CFO/COO and ICT modernisation owners on staged legacy-ICT modernisation aligned to the 2023-2030 Cyber Security Strategy, leading with discovery and process analysis rather than a large build.",
+      "priority": "Medium",
+      "rationale": "Legacy ICT transition is a named capability project under budget pressure; a right-sized discovery is a low-risk way to demonstrate delivery credibility ahead of larger work."
+    },
+    {
+      "action": "Offer a PGPA performance-measure redesign discussion targeting the 2026-27 cycle to the performance/corporate planning function.",
+      "priority": "Medium",
+      "rationale": "The plan flags further performance-framework improvements under consideration for 2026-27; positioning now precedes the formal redesign window."
+    },
+    {
+      "action": "Commission a re-run of external research (news, ANAO, Parliament) before any partner-level pitch, focusing on PJCLE inquiries, Senate Legal and Constitutional Affairs Estimates, and ANAO audits of AFP procurement/ICT.",
+      "priority": "High",
+      "rationale": "The external research returned no verifiable findings due to a tool limitation; the brief currently lacks the integrity/assurance signals that often drive enforcement-agency demand."
+    }
+  ],
+  "engagement_targets": [
+    "Capability framework / roadmap owner (Organisational Improvement and Organisational Management enabling capability leads)",
+    "Chief Information Officer / ICT modernisation program lead",
+    "Chief Data Officer / responsible-AI and technology governance function",
+    "Chief People Officer / HR and recruitment transformation lead",
+    "Chief Financial Officer / Chief Operating Officer (resourcing and budget prioritisation)",
+    "Chief Risk Officer and the Audit and Risk Committee",
+    "Corporate planning / performance framework function",
+    "AUKUS protective security program leadership (subject to clearance)"
+  ],
+  "talking_points": [
+    "Your single biggest body of work this year — capability roadmaps across 18 reviewed capabilities — is exactly where independent facilitation and investment-prioritisation governance adds value within a fixed budget envelope.",
+    "Operationalising responsible AI (transparency statement, technology governance) and enhancing data capabilities can be delivered as a combined governance-and-assurance framework that satisfies government policy while managing the Information enterprise risk.",
+    "Legacy-ICT modernisation under the national cyber strategy can start as a tightly scoped discovery — we can both advise and build, then assure the defensible-architecture target state.",
+    "A skills-based workforce and streamlined recruitment gateways are named priorities; we can redesign recruitment processes and workforce planning to position the AFP as employer of choice in a competitive market.",
+    "With performance-measure improvements flagged for the 2026-27 cycle, now is the moment to design PGPA-aligned measures that better evidence operational impact beyond case studies.",
+    "We work almost exclusively with Commonwealth entities and understand the clearance and oversight environment (NACC, Ombudsman, IGIS) the AFP operates within."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This analysis is grounded only in the corporate plan text; the external research returned no verifiable news, ANAO or parliamentary findings due to a search-tool limitation, so those sections are empty and the brief lacks the integrity/assurance demand signals that typically matter for enforcement agencies — a research re-run is recommended before any senior pitch. As a security/enforcement archetype, much AFP work is clearance-constrained and secrecy-bound, so the most actionable opportunities are in enabling/corporate functions (capability governance, data/AI, ICT, workforce, performance) rather than operational delivery. The plan is strategic and high-level, naming priorities and capability projects but not specific procurements, so confidence on most opportunities is Medium and several (AUKUS, risk maturity) are Low given access constraints and absence of a named approach to market."
+}

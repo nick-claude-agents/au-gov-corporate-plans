@@ -48,6 +48,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "australian-federal-police-afp": {
+      "name": "Australian Federal Police (AFP)",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.afp.gov.au/news-centre/publications/corporate-plan-2025-26",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
