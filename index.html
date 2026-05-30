@@ -343,12 +343,15 @@
     justify-content: center;
   }
   .btn-brief:hover { background: #ffadb5; color: #8b0030; border-color: #ffadb5; }
-  .btn-brief-gen {
-    background: #fff; color: #8b0030; border: 1px dashed #e3a9b0;
-    flex: 1; justify-content: center;
+  .brief-pending {
+    flex: 1;
+    text-align: center;
+    align-self: center;
+    font-size: 0.75rem;
+    color: var(--muted);
+    font-style: italic;
+    padding: 7px 8px;
   }
-  .btn-brief-gen:hover { background: #fff3f4; border-color: #ffadb5; }
-  .btn-brief-loading { opacity: 0.75; cursor: progress; font-style: italic; }
   .conf-badge {
     font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px;
     margin-left: 5px; color: #fff;
@@ -982,51 +985,11 @@ function slugify(name) {
 function confColour(level) {
   return { High: '#1B6B3A', Medium: '#BF360C', Low: '#999' }[level] || '#999';
 }
-function attr(s) {
-  return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;')
-                  .replace(/</g, '&lt;').replace(/>/g, '&gt;');
-}
-
-// Generate a BD brief on demand via the local server (brief_server.py).
-async function generateBrief(btn) {
-  const { name, portfolio, url, slug } = btn.dataset;
-
-  const proceed = window.confirm(
-    'Generate BD Brief — ' + name + '\n\n' +
-    'This reads the corporate plan, searches the news, ANAO and Parliament, ' +
-    'and writes a full brief. It can take up to 10 minutes.\n\n' +
-    'You can leave this page and come back later — the brief keeps generating ' +
-    'and is saved when done. Reopen the dashboard and the button will show the ' +
-    'finished brief.\n\n' +
-    'Start now?'
-  );
-  if (!proceed) return;
-
-  const original = btn.innerHTML;
-  btn.disabled = true;
-  btn.classList.add('btn-brief-loading');
-  btn.innerHTML = 'Generating… up to 10 min — you can come back later';
-  try {
-    const res = await fetch('/api/brief', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ name, portfolio, url })
-    });
-    const data = await res.json();
-    if ((data.status === 'generated' || data.status === 'exists') && data.url) {
-      BRIEFS[slug] = { overall_confidence: data.confidence || '', name, portfolio };
-      window.open(data.url, '_blank', 'noopener');
-      filterCards();   // re-render so this card now shows an "open" button
-    } else {
-      alert('Could not generate brief: ' + (data.message || 'unknown error'));
-      btn.disabled = false; btn.classList.remove('btn-brief-loading'); btn.innerHTML = original;
-    }
-  } catch (e) {
-    alert('Brief generation needs the local server running.\n' +
-          'Start it with run_brief_server.bat (python brief_server.py), then ' +
-          'open http://127.0.0.1:8770.\n\n' + e);
-    btn.disabled = false; btn.classList.remove('btn-brief-loading'); btn.innerHTML = original;
-  }
+// Real agencies have a human-written description; auto-added minor entities
+// carry boilerplate. Only the curated agencies are queued for brief generation,
+// so only they show a "Brief pending" tag until the scheduled job reaches them.
+function isCurated(a) {
+  return !(a.description || '').includes('corporate plan added automatically');
 }
 
 function renderCards(list) {
@@ -1070,9 +1033,7 @@ function renderCards(list) {
                ? `<span class="conf-badge" style="background:${confColour(brief.overall_confidence)}">${brief.overall_confidence}</span>`
                : ''}
            </a>`
-        : `<button type="button" class="btn btn-brief-gen"
-             data-name="${attr(a.name)}" data-portfolio="${attr(a.portfolio)}"
-             data-url="${attr(a.url)}" data-slug="${slug}">Generate BD Brief</button>`;
+        : (isCurated(a) ? `<span class="brief-pending">BD Brief pending</span>` : '');
       html += `<div class="card">
         <div class="card-header">
           <div class="card-name">${a.name}</div>
@@ -1130,12 +1091,6 @@ function clearFilters() {
 
 // Initial render
 renderCards(AGENCIES);
-
-// Delegated handler for the on-demand "Generate BD Brief" buttons.
-document.getElementById('resultsContainer').addEventListener('click', (e) => {
-  const btn = e.target.closest('.btn-brief-gen');
-  if (btn && !btn.disabled) generateBrief(btn);
-});
 
 // Load BD briefs (if any) and re-render so cards gain a "BD Brief" button.
 // Served from the same origin on GitHub Pages; ignored silently if absent

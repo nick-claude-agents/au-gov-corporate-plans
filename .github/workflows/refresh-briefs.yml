@@ -14,7 +14,7 @@ on:
       backfill_limit:
         description: 'How many missing briefs to generate this run'
         required: false
-        default: '3'
+        default: '6'
 
 permissions:
   contents: write
@@ -48,7 +48,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          LIMIT="${{ github.event.inputs.backfill_limit || '3' }}"
+          LIMIT="${{ github.event.inputs.backfill_limit || '6' }}"
           python manage_briefs.py --all --curated --skip-existing --limit "$LIMIT"
 
       - name: Commit and push briefs
