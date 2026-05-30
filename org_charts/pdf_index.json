@@ -1,5 +1,6 @@
 {
-  "downloaded": 38,
+  "schema": "org-chart-pdf-index/1",
+  "downloaded": 47,
   "total": 188,
   "results": [
     {
@@ -97,9 +98,10 @@
       "slug": "australian-bureau-of-statistics",
       "title": "Australian Bureau of Statistics",
       "website": "http://www.abs.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.abs.gov.au/system/files/documents/2f666ff0b81bc31cc261f881f6b85fda/ABS%20Organisation%20Chart%20-%202%20March%202026.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 418856
     },
     {
       "slug": "australian-centre-for-disease-control",
@@ -137,9 +139,10 @@
       "slug": "australian-competition-and-consumer-commission",
       "title": "Australian Competition and Consumer Commission",
       "website": "http://www.accc.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.accc.gov.au/system/files/accc-aer-structure-external-16-january-2026.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 92740
     },
     {
       "slug": "australian-criminal-intelligence-commission",
@@ -173,17 +176,19 @@
       "slug": "australian-electoral-commission",
       "title": "Australian Electoral Commission",
       "website": "http://aec.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.aec.gov.au/About_AEC/files/org-chart-dec25-v2.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 68778
     },
     {
       "slug": "australian-federal-police",
       "title": "Australian Federal Police",
       "website": "http://www.afp.gov.au/",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.afp.gov.au/sites/default/files/2025-10/AFP-Organisational-Chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 238298
     },
     {
       "slug": "australian-film-television-and-radio-school",
@@ -263,9 +268,10 @@
       "slug": "australian-institute-of-health-and-welfare",
       "title": "Australian Institute of Health and Welfare",
       "website": "http://www.aihw.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.aihw.gov.au/getmedia/ffef5d29-d1de-4857-b87c-0d16c2fa6c46/aihw-org-chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 269398
     },
     {
       "slug": "australian-institute-of-marine-science",
@@ -379,9 +385,10 @@
       "slug": "australian-public-service-commission",
       "title": "Australian Public Service Commission",
       "website": "http://www.apsc.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.apsc.gov.au/sites/default/files/2026-02/Australian%20Public%20Service%20Commission%20-%20Organisational%20Chart%2016%20Feburay%202026.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 191699
     },
     {
       "slug": "australian-radiation-protection-and-nuclear-safety-agency",
@@ -610,9 +617,10 @@
       "slug": "clean-energy-regulator",
       "title": "Clean Energy Regulator",
       "website": "http://www.cleanenergyregulator.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://cer.gov.au/document/clean-energy-regulator-corporate-structure",
+      "source": "search",
+      "status": "downloaded",
+      "size": 521081
     },
     {
       "slug": "climate-change-authority",
@@ -736,9 +744,10 @@
       "slug": "department-of-employment-and-workplace-relations",
       "title": "Department of Employment and Workplace Relations",
       "website": "https://www.dewr.gov.au",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.dewr.gov.au/download/14013/organisation-chart/42670/dewr-organisation-chart-may-2026/pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 1516248
     },
     {
       "slug": "department-of-finance",
@@ -1021,9 +1030,10 @@
       "slug": "ip-australia",
       "title": "IP Australia",
       "website": "https://www.ipaustralia.gov.au/",
-      "pdf_url": null,
-      "source": null,
-      "status": "not_found"
+      "pdf_url": "https://www.ipaustralia.gov.au/about-us/our-agency/~/-/media/Project/IPA/IPAustralia/PDF/Organisational-chart/IPA-Organisational-Chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 411695
     },
     {
       "slug": "murray-darling-basin-authority",
