@@ -1,0 +1,156 @@
+{
+  "agency_name": "Clean Energy Regulator (CER)",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "plan_period": "2025–29 (budget year 2025–26)",
+  "executive_summary": "The Clean Energy Regulator is a regulator-archetype entity administering Australia's key carbon and clean-energy schemes — the Australian Carbon Credit Unit (ACCU) scheme, the Emissions Reduction Fund, the Safeguard Mechanism and the Renewable Energy Target. The supplied 'corporate plan' content is only the publication landing page: it confirms a Corporate Plan 2025–29 was published on 29 August 2025 and lists its standard sections (purpose, operating-environment challenges, planning priorities/key activities, capability, strategic risks, performance), but contains none of the substantive narrative. Consequently the BD signals in this brief are inferred from CER's known mandate and the external research rather than from plan text. The dominant, well-evidenced demand driver is scheme integrity and assurance pressure following the Chubb Review, sustained public and academic criticism of ACCU integrity, and an ANAO 'largely effective' audit rating — all pointing to assurance, governance, data/MRV and evaluation work. This brief should be treated as provisional until the full plan PDF is analysed.",
+  "strategic_priorities": [
+    {
+      "title": "Administering and reforming the carbon market",
+      "description": "CER's core ongoing activity is operating the ACCU scheme, Emissions Reduction Fund and registry, alongside implementing reforms flowing from the independent Chubb Review of ACCUs. Reform implementation (methods, transparency, registry uplift) is the most probable multi-year agenda.",
+      "source_quote": "Plan landing page references 'planning priorities and key activities we'll pursue over the life of the plan' (substantive detail not provided in supplied text)."
+    },
+    {
+      "title": "Building capability to deliver future strategic direction",
+      "description": "The plan explicitly commits to setting out 'how we'll build capabilities to deliver our future strategic direction' — a standard signal of workforce, data and systems investment for an expertise-heavy regulator.",
+      "source_quote": "'how we'll build capabilities to deliver our future strategic direction'"
+    },
+    {
+      "title": "Managing high-level strategic risks",
+      "description": "The plan includes a section on 'high-level strategic risks we face in achieving our objectives' — for a contested scheme administrator these centre on integrity, market confidence and assurance of issued units.",
+      "source_quote": "'high-level strategic risks we face in achieving our objectives'"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Implementation of the independent (Chubb) Review recommendations, including overhaul of ACCU methods, transparency and registry arrangements",
+    "Expanding regulatory remit across the Safeguard Mechanism reforms and a growing regulated population of large emitters",
+    "Sustained public and academic scrutiny of ACCU scheme integrity creating pressure for stronger measurement, reporting and verification (MRV)",
+    "Value-for-money scrutiny over ~$1bn already spent purchasing ACCUs with ~$1.6bn further contracted"
+  ],
+  "challenges_and_risks": [
+    "Scheme integrity and public-confidence risk — high-profile allegations that a large share of ACCUs lack genuine abatement",
+    "Perceived conflict-of-interest in CER's combined role issuing credits and administering the fund, with public calls to break up the entity",
+    "ANAO 'largely effective' rating implying open recommendations and remediation work",
+    "Expertise and data-capability demands of a fast-evolving, technically complex regulatory environment"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "ANU Professor Andrew Macintosh, a former chair of the Emissions Reduction Assurance Committee, alleged up to 80% of ACCUs issued under three popular methods were 'devoid of integrity' and did not represent real abatement, calling the CER-administered scheme an 'environmental and taxpayer fraud'.",
+      "implication": "Integrity, independent verification and MRV reform are live demand areas; positioning around scheme credibility and independent assurance is well aligned.",
+      "source": "ANU Law School — https://law.anu.edu.au/news-and-events/news/australias-carbon-market-fraud-environment ; UNSW BusinessThink — https://www.businessthink.unsw.edu.au/articles/australia-carbon-credits-review"
+    },
+    {
+      "summary": "The same ANU analysis recommended breaking up the Clean Energy Regulator, repealing 'low integrity' methods and an independent review, arguing the body has a conflicted combined role.",
+      "implication": "Governance and structural/conflict-of-interest advisory may be relevant; the entity's mandate and structure are publicly contested.",
+      "source": "ANU Law Reform & Social Justice — https://lrsj.anu.edu.au/australias-carbon-market-a-fraud-on-the-environment/ ; RenewEconomy — https://reneweconomy.com.au/a-fraud-on-the-environment-whistleblower-slams-australias-carbon-offset-regime/"
+    },
+    {
+      "summary": "CER publicly rejected the allegations, stating no substantial evidence had been provided and that it was 'dismayed' by the attribution of those outcomes to its work.",
+      "implication": "The entity is sensitive to integrity criticism; any approach should be constructive and evidence-based, not adversarial.",
+      "source": "UNSW BusinessThink — https://www.businessthink.unsw.edu.au/articles/australia-carbon-credits-review"
+    },
+    {
+      "summary": "The independent Chubb Review concluded it did not share critics' integrity concerns but nonetheless recommended a major overhaul of the scheme.",
+      "implication": "Implementation of Chubb-driven reforms (methods, transparency, registry) is a probable pipeline of program and assurance work.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/8041355/"
+    },
+    {
+      "summary": "Critics highlighted ~$1bn spent purchasing ACCUs with a further ~$1.6bn contracted, framing continued purchases under contested methods as poor value for money.",
+      "implication": "Value-for-money / procurement assurance and program-evaluation capability are relevant given scrutiny of spend.",
+      "source": "ANU Law School — https://law.anu.edu.au/news-and-events/news/australias-carbon-market-fraud-environment"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "May 2024 reporting described an ANAO performance audit finding the carbon regulator 'largely effective' in administering the scheme.",
+      "implication": "A 'largely effective' (not fully effective) rating typically signals open recommendations and remediation — a natural entry point for assurance and governance advisory. Audit title/number and recommendations should be confirmed directly at anao.gov.au.",
+      "source": "Beef Central — https://www.beefcentral.com/carbon/audit-finds-carbon-regulator-to-be-largely-effective/"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "Secondary reporting indicates the Greens referred the carbon credit scheme to a watchdog following the whistleblower allegations, signalling parliamentary/political engagement with CER's programs.",
+      "implication": "Ongoing parliamentary scrutiny raises the value of independent assurance and transparency uplift; a fuller aph.gov.au search (Estimates, committee inquiry, QoN) is needed to confirm specifics.",
+      "source": "RenewEconomy — https://reneweconomy.com.au/a-fraud-on-the-environment-whistleblower-slams-australias-carbon-offset-regime/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Independent assurance of ACCU scheme integrity and Chubb reform implementation",
+      "agency_need": "Restore and demonstrate confidence in the integrity of issued carbon credits amid sustained criticism and reform pressure.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style assurance of the Chubb reform program and a health check of method/issuance controls, delivering findings and recommendations that the CER can point to as external validation.",
+      "rationale": "The integrity allegations (ANU/Macintosh), CER's public rebuttal, the Chubb overhaul and the ANAO 'largely effective' rating together create clear, time-bound demand for independent assurance.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "MRV and registry data capability uplift",
+      "agency_need": "Strengthen measurement, reporting and verification and registry transparency to underpin credit integrity.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and analytics uplift for MRV and registry transparency — improving data management, integrity analytics and public reporting of scheme outcomes.",
+      "rationale": "Integrity criticism centres on whether credits represent real abatement; better data and analytics directly address the core public concern and suit a data-heavy regulator archetype.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Governance and conflict-of-interest framework review",
+      "agency_need": "Respond to public concern about CER's combined role issuing credits and administering the fund.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance framework and conflict-of-interest assessment, reviewing separation of functions and decision-making controls with practical recommendations.",
+      "rationale": "Public calls to break up the entity over conflicted roles make governance clarity a credible, less politically sensitive corporate engagement.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Value-for-money evaluation of carbon purchasing",
+      "agency_need": "Demonstrate value for money for ~$1bn spent and ~$1.6bn contracted on ACCU purchases under scrutiny.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A performance/value-for-money review or evaluation of carbon purchasing arrangements, providing independent evidence on outcomes against spend.",
+      "rationale": "Critics explicitly framed continued purchasing as poor value; an independent evaluation addresses parliamentary and media scrutiny.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce and capability build for an expanding remit",
+      "agency_need": "Build the technical capability the plan commits to for delivering future strategic direction (Safeguard Mechanism, reform delivery).",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce/capability plan identifying skill gaps in a growing, technically complex regulatory environment, with a targeted capability-uplift program.",
+      "rationale": "The plan explicitly commits to building capabilities; regulators are expertise-heavy and this is enabling work that is easier to win.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and analyse the full Corporate Plan 2025–29 PDF before any approach, extracting named key activities, strategic risks and capability commitments.",
+      "priority": "High",
+      "rationale": "The supplied text is only the landing page; the substantive BD signals (and confidence) depend entirely on the actual plan content."
+    },
+    {
+      "action": "Confirm the ANAO performance audit (likely 2023–24) directly at anao.gov.au — title, number and open recommendations — and map an assurance/remediation offering to specific findings.",
+      "priority": "High",
+      "rationale": "A 'largely effective' rating with open recommendations is one of the strongest, most concrete demand signals available; it needs verification to be actionable."
+    },
+    {
+      "action": "Prepare a concise, evidence-based capability statement on independent scheme-integrity assurance and MRV/data transparency, tailored to a regulator sensitive to integrity criticism.",
+      "priority": "Medium",
+      "rationale": "Integrity is the live issue; constructive, non-adversarial positioning fits CER's demonstrated sensitivity to criticism."
+    },
+    {
+      "action": "Run a follow-up aph.gov.au search for Senate Environment and Communications Estimates exchanges, ACCU/Chubb inquiries and questions on notice.",
+      "priority": "Medium",
+      "rationale": "Parliamentary scrutiny is indicated but unverified; confirmed material sharpens the assurance and transparency pitch."
+    }
+  ],
+  "engagement_targets": [
+    "Executive responsible for ACCU scheme administration and reform implementation (scheme/methods branch)",
+    "Chief Operating Officer / corporate enabling functions (capability, governance)",
+    "Chief Risk Officer / audit and risk committee",
+    "Head of data, registry and information management",
+    "General Manager responsible for Safeguard Mechanism and large-emitter regulation"
+  ],
+  "talking_points": [
+    "The Chubb Review overhaul plus sustained integrity criticism create a clear case for visible, independent assurance of scheme integrity and reform delivery.",
+    "An ANAO 'largely effective' rating typically leaves open recommendations — we can help close them and evidence the improvement.",
+    "Public concern is fundamentally about whether credits represent real abatement; stronger MRV data and transparent registry reporting directly answer that.",
+    "We offer independent, non-legal assurance and data capability — constructive validation the CER can point to externally, not adversarial critique.",
+    "Capability-building is a stated plan priority; we can help scope the workforce and data skills needed for an expanding remit."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied 'corporate plan' is only the publication landing page and contains no substantive narrative — no named programs, activities, risks or measures. All opportunity mapping is therefore inferred from CER's known regulator mandate and the external research, not from plan text, and confidence is correspondingly low. The strongest signals (integrity/assurance, ANAO findings) come from external research; the ANAO audit and parliamentary references are unverified leads requiring direct confirmation at anao.gov.au and aph.gov.au. The full Corporate Plan 2025–29 PDF must be analysed before committing to any pursuit."
+}

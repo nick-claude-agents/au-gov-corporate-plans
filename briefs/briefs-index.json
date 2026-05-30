@@ -88,6 +88,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "clean-energy-regulator-cer": {
+      "name": "Clean Energy Regulator (CER)",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "plan_url": "https://cer.gov.au/about-us/our-reports-and-accountability/corporate-plans",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025–29 (budget year 2025–26)",
+      "overall_confidence": "Low"
     }
   }
 }
