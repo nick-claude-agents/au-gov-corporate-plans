@@ -1,0 +1,133 @@
+[2026-05-30 05:54:46] Starting check for 0 agencies...
+[2026-05-30 05:54:46] URL check done. Updates=0 Broken=0 Unchanged=0
+[2026-05-30 05:54:46] Scanning Transparency Portal for new agencies...
+[2026-05-30 05:54:46] Querying Transparency Portal (FY codename: n2025_26)...
+[2026-05-30 05:54:48] Portal returned 185 plans
+[2026-05-30 05:54:48] NEW: Australian Institute of Health and Welfare
+[2026-05-30 05:54:48] Added: Australian Institute of Health and Welfare [Health]
+[2026-05-30 05:54:48] NEW: Airservices Australia
+[2026-05-30 05:54:48] Added: Airservices Australia [Social Services]
+[2026-05-30 05:54:48] NEW: Inspector-General of Taxation and Taxation Ombudsman
+[2026-05-30 05:54:48] Added: Inspector-General of Taxation and Taxation Ombudsman [Treasury]
+[2026-05-30 05:54:48] NEW: Aged Care Quality and Safety Commission
+[2026-05-30 05:54:48] Added: Aged Care Quality and Safety Commission [Health]
+[2026-05-30 05:54:48] NEW: Australian Bureau of Statistics
+[2026-05-30 05:54:48] Added: Australian Bureau of Statistics [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Centre for International Agricultural Research
+[2026-05-30 05:54:48] Added: Australian Centre for International Agricultural Research [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Commission on Safety and Quality in Health Care
+[2026-05-30 05:54:48] Added: Australian Commission on Safety and Quality in Health Care [Health]
+[2026-05-30 05:54:48] NEW: Australian Communications and Media Authority
+[2026-05-30 05:54:48] Added: Australian Communications and Media Authority [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: Australian Competition and Consumer Commission
+[2026-05-30 05:54:48] Added: Australian Competition and Consumer Commission [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Criminal Intelligence Commission
+[2026-05-30 05:54:48] Added: Australian Criminal Intelligence Commission [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Electoral Commission
+[2026-05-30 05:54:48] Added: Australian Electoral Commission [Finance]
+[2026-05-30 05:54:48] NEW: Australian Federal Police
+[2026-05-30 05:54:48] Added: Australian Federal Police [Home Affairs]
+[2026-05-30 05:54:48] NEW: Australian Financial Security Authority
+[2026-05-30 05:54:48] Added: Australian Financial Security Authority [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Human Rights Commission
+[2026-05-30 05:54:48] Added: Australian Human Rights Commission [Attorney-General]
+[2026-05-30 05:54:48] NEW: Australian Institute of Aboriginal and Torres Strait Islander Studies
+[2026-05-30 05:54:48] Added: Australian Institute of Aboriginal and Torres Strait Islander Studies [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Institute of Criminology
+[2026-05-30 05:54:48] Added: Australian Institute of Criminology [Attorney-General]
+[2026-05-30 05:54:48] NEW: Australian Institute of Marine Science
+[2026-05-30 05:54:48] Added: Australian Institute of Marine Science [Industry, Science and Resources]
+[2026-05-30 05:54:48] NEW: Australian National Audit Office
+[2026-05-30 05:54:48] Added: Australian National Audit Office [Finance]
+[2026-05-30 05:54:48] NEW: Australian Office of Financial Management
+[2026-05-30 05:54:48] Added: Australian Office of Financial Management [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Prudential Regulation Authority
+[2026-05-30 05:54:48] Added: Australian Prudential Regulation Authority [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Public Service Commission
+[2026-05-30 05:54:48] Added: Australian Public Service Commission [Prime Minister and Cabinet]
+[2026-05-30 05:54:48] NEW: Australian Radiation Protection and Nuclear Safety Agency
+[2026-05-30 05:54:48] Added: Australian Radiation Protection and Nuclear Safety Agency [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Research Council
+[2026-05-30 05:54:48] Added: Australian Research Council [Education]
+[2026-05-30 05:54:48] NEW: Australian Securities and Investments Commission
+[2026-05-30 05:54:48] Added: Australian Securities and Investments Commission [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Australian Signals Directorate
+[2026-05-30 05:54:48] Added: Australian Signals Directorate [Defence]
+[2026-05-30 05:54:48] NEW: Australian Skills Quality Authority
+[2026-05-30 05:54:48] Added: Australian Skills Quality Authority [Employment and Workplace Relations]
+[2026-05-30 05:54:48] NEW: Australian Taxation Office
+[2026-05-30 05:54:48] Added: Australian Taxation Office [Treasury]
+[2026-05-30 05:54:48] NEW: Australian Transaction Reports and Analysis Centre (AUSTRAC)
+[2026-05-30 05:54:48] Added: Australian Transaction Reports and Analysis Centre (AUSTRAC) [Home Affairs]
+[2026-05-30 05:54:48] NEW: Australian War Memorial
+[2026-05-30 05:54:48] Added: Australian War Memorial [Defence]
+[2026-05-30 05:54:48] NEW: Bureau of Meteorology
+[2026-05-30 05:54:48] Added: Bureau of Meteorology [Climate Change, Energy, the Environment and Water]
+[2026-05-30 05:54:48] NEW: Civil Aviation Safety Authority
+[2026-05-30 05:54:48] Added: Civil Aviation Safety Authority [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Clean Energy Regulator
+[2026-05-30 05:54:48] Added: Clean Energy Regulator [Climate Change, Energy, the Environment and Water]
+[2026-05-30 05:54:48] NEW: Climate Change Authority
+[2026-05-30 05:54:48] Added: Climate Change Authority [Climate Change, Energy, the Environment and Water]
+[2026-05-30 05:54:48] NEW: Commonwealth Scientific and Industrial Research Organisation
+[2026-05-30 05:54:48] Added: Commonwealth Scientific and Industrial Research Organisation [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Creative Australia
+[2026-05-30 05:54:48] Added: Creative Australia [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: Defence Housing Australia Statement of Corporate Intent
+[2026-05-30 05:54:48] Added: Defence Housing Australia Statement of Corporate Intent [Defence]
+[2026-05-30 05:54:48] NEW: Department of Agriculture Fisheries and Forestry
+[2026-05-30 05:54:48] Added: Department of Agriculture Fisheries and Forestry [Agriculture, Fisheries and Forestry]
+[2026-05-30 05:54:48] NEW: Department of Climate Change, Energy, the Environment and Water
+[2026-05-30 05:54:48] Added: Department of Climate Change, Energy, the Environment and Water [Climate Change, Energy, the Environment and Water]
+[2026-05-30 05:54:48] NEW: Department of Defence
+[2026-05-30 05:54:48] Added: Department of Defence [Defence]
+[2026-05-30 05:54:48] NEW: Department of Employment and Workplace Relations
+[2026-05-30 05:54:48] Added: Department of Employment and Workplace Relations [Employment and Workplace Relations]
+[2026-05-30 05:54:48] NEW: Department of Foreign Affairs and Trade
+[2026-05-30 05:54:48] Added: Department of Foreign Affairs and Trade [Foreign Affairs and Trade]
+[2026-05-30 05:54:48] NEW: Department of Industry Science and Resources
+[2026-05-30 05:54:48] Added: Department of Industry Science and Resources [Industry, Science and Resources]
+[2026-05-30 05:54:48] NEW: Department of Prime Minister and Cabinet
+[2026-05-30 05:54:48] Added: Department of Prime Minister and Cabinet [Prime Minister and Cabinet]
+[2026-05-30 05:54:48] NEW: Department of Social Services
+[2026-05-30 05:54:48] Added: Department of Social Services [Social Services]
+[2026-05-30 05:54:48] NEW: Department of Veterans Affairs
+[2026-05-30 05:54:48] Added: Department of Veterans Affairs [Defence]
+[2026-05-30 05:54:48] NEW: Digital Transformation Agency
+[2026-05-30 05:54:48] Added: Digital Transformation Agency [Finance]
+[2026-05-30 05:54:48] NEW: IP Australia
+[2026-05-30 05:54:48] Added: IP Australia [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Murray-Darling Basin Authority
+[2026-05-30 05:54:48] Added: Murray-Darling Basin Authority [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: National Archives of Australia
+[2026-05-30 05:54:48] Added: National Archives of Australia [Prime Minister and Cabinet]
+[2026-05-30 05:54:48] NEW: National Blood Authority
+[2026-05-30 05:54:48] Added: National Blood Authority [Health]
+[2026-05-30 05:54:48] NEW: National Disability Insurance Agency
+[2026-05-30 05:54:48] Added: National Disability Insurance Agency [Social Services]
+[2026-05-30 05:54:48] NEW: National Gallery of Australia
+[2026-05-30 05:54:48] Added: National Gallery of Australia [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: National Health and Medical Research Council
+[2026-05-30 05:54:48] Added: National Health and Medical Research Council [Health]
+[2026-05-30 05:54:48] NEW: National Indigenous Australians Agency
+[2026-05-30 05:54:48] Added: National Indigenous Australians Agency [Prime Minister and Cabinet]
+[2026-05-30 05:54:48] NEW: National Library of Australia
+[2026-05-30 05:54:48] Added: National Library of Australia [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: National Museum of Australia
+[2026-05-30 05:54:48] Added: National Museum of Australia [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: NDIS Quality and Safeguards Commission
+[2026-05-30 05:54:48] Added: NDIS Quality and Safeguards Commission [Social Services]
+[2026-05-30 05:54:48] NEW: Office of the Commonwealth Ombudsman
+[2026-05-30 05:54:48] Added: Office of the Commonwealth Ombudsman [Attorney-General]
+[2026-05-30 05:54:48] NEW: Office of the Fair Work Ombudsman
+[2026-05-30 05:54:48] Added: Office of the Fair Work Ombudsman [Employment and Workplace Relations]
+[2026-05-30 05:54:48] NEW: Office of the Inspector-General of Intelligence and Security
+[2026-05-30 05:54:48] Added: Office of the Inspector-General of Intelligence and Security [Commonwealth Entity]
+[2026-05-30 05:54:48] NEW: Screen Australia
+[2026-05-30 05:54:48] Added: Screen Australia [Infrastructure, Transport, Regional Development, Communications and the Arts]
+[2026-05-30 05:54:48] NEW: Tertiary Education Quality and Standards Agency
+[2026-05-30 05:54:48] Added: Tertiary Education Quality and Standards Agency [Education]
+[2026-05-30 05:54:48] NEW: Australian Security Intelligence Organisation
+[2026-05-30 05:54:48] Added: Australian Security Intelligence Organisation [Commonwealth Entity]
+[2026-05-30 05:54:48] Discovery done. New=63
+[2026-05-30 05:54:48] Email sent: AU Gov Corporate Plans - 63 new agency(s) added - Saturday 30 May 2026
