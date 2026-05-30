@@ -1,0 +1,7 @@
+# Exclude the checker script folder (contains encrypted credentials and logs)
+CorporatePlanChecker/
+
+# Exclude Dropbox system files
+.dropbox
+.dropbox.cache
+desktop.ini
