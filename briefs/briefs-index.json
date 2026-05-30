@@ -120,6 +120,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2024-25",
       "overall_confidence": "Medium"
+    },
+    "department-of-the-treasury": {
+      "name": "Department of the Treasury",
+      "portfolio": "Treasury",
+      "plan_url": "https://corporate-plan.treasury.gov.au/downloads/corporate-plan-2025-26.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

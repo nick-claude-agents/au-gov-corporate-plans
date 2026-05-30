@@ -1,0 +1,229 @@
+{
+  "agency_name": "Department of the Treasury",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "Treasury is the Commonwealth's lead economic adviser — a policy-department archetype where demand sits in governance, evaluation, workforce, data/digital and assurance rather than large service-delivery programs. The dominant theme for 2025-26 is absorbing significant machinery-of-government changes (housing supply, homelessness, construction, cities and planning policy embedded into Treasury via the 13 May 2025 AAO), which creates operating-model, workforce and performance-framework demand. The plan signals deliberate uplift in data/AI capability (a second Enterprise Data Strategy, a refreshed Digital and Cyber Security Strategy), an evaluation push through the Australian Centre for Evaluation, and continued embedding of a risk framework and pro-integrity culture. External signals reinforce this: ANAO recommendations on gifts/benefits, an in-progress HAFF audit, and a Measuring What Matters framework audit. Note the plan commits to bringing some ICT/digital work in-house under the APS Strategic Commissioning Framework, tempering pure build opportunities.",
+  "strategic_priorities": [
+    {
+      "title": "Integrate new housing and related functions",
+      "description": "Treasury must operationalise a range of new housing functions (plus homelessness, construction, cities and planning policy) embedded through 2025 machinery-of-government changes, and deliver the National Housing Accord with Housing Australia.",
+      "source_quote": "We will have a particular focus on delivering more integrated advice and implementation of the government's housing policy agenda, reflecting the range of new housing functions that have been embedded into Treasury."
+    },
+    {
+      "title": "Streamline and strengthen the foreign investment framework",
+      "description": "Treasury is moving to a risk-based foreign investment model — faster decisions on low-risk proposals (50% within 30 days), more scrutiny of high-risk proposals, and stronger compliance monitoring and enforcement.",
+      "source_quote": "Treasury will strengthen its risk-based approach to assessing foreign investment proposals... streamlining the approvals of low-risk investments, increase scrutiny of high-risk investments, and bolster compliance monitoring and enforcement activities."
+    },
+    {
+      "title": "Uplift data, digital, AI and cyber capability",
+      "description": "Treasury will refresh its 2024-26 Digital and Cyber Security Strategy, launch a second Enterprise Data Strategy, and integrate AI guidance and governance into existing strategies in 2025-26.",
+      "source_quote": "During 2025-26, Treasury will develop and launch its second Enterprise Data Strategy... Across 2025-26, Treasury will integrate guidance on, and oversight of, AI into its existing strategies and governance arrangements."
+    },
+    {
+      "title": "Build a service-wide evaluation capability",
+      "description": "Through the Australian Centre for Evaluation, Treasury will release the Treasury Evaluation Strategy and oversee a service-wide evaluation capability uplift to embed evidence in decision-making.",
+      "source_quote": "In 2025-26, we will release the Treasury Evaluation Strategy, which will complement and add value to our existing evidence and assurance ecosystem."
+    },
+    {
+      "title": "Embed risk management and pro-integrity culture",
+      "description": "Treasury will continue embedding its risk framework (finalised late 2024), integrate climate risk into governance, and embed the Integrity Strategy 2024-2028 with a focus on conflict-of-interest management.",
+      "source_quote": "We will strengthen our risk management by integrating risk with other governance and strategic planning activities."
+    },
+    {
+      "title": "Reform the Payment Times Reporting Scheme",
+      "description": "Treasury is overhauling the Payment Times Reporting Scheme following the statutory review, with new reporting requirements, IT system and a re-established compliance target.",
+      "source_quote": "continuing to improve payment times to small businesses through the effective administration of the recently reformed Payment Times Reporting Scheme."
+    },
+    {
+      "title": "Refresh the corporate performance framework",
+      "description": "Treasury introduced three new performance measures for 2025-26 and will review the framework for completeness to incorporate transferred functions, potentially varying the Corporate Plan.",
+      "source_quote": "Treasury has introduced three new performance measures for 2025-26 to replace ceasing measures and expand on the performance reporting of our regulatory functions."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Machinery-of-government changes (13 May 2025 AAO) embedding housing, homelessness, construction, cities and planning functions into Treasury",
+    "Government housing agenda: National Housing Accord, Housing Australia Future Fund (40,000 dwellings to 2029), National Housing Supply and Affordability Council",
+    "Foreign investment framework reform with new 30-day decision target and risk-based triage from 1 January 2025",
+    "Statutory review response overhauling the Payment Times Reporting Scheme, including a new IT system",
+    "Future Made in Australia: National Interest Framework, Investor Front Door pilot, net zero and economic-resilience industrial priorities",
+    "Net zero transition: whole-of-economy modelling for the Net Zero Plan and Sustainable Finance Roadmap",
+    "Economic Reform Roundtable focused on productivity, resilience and budget sustainability",
+    "APS Strategic Commissioning Framework driving in-housing of some ICT and digital core work",
+    "Commonwealth Climate Risk and Opportunity Management Program requiring enterprise climate risk assessment",
+    "Rapid AI adoption requiring governance, data capability and responsible-use frameworks"
+  ],
+  "challenges_and_risks": [
+    "Absorbing new functions and staff through MoG changes while maintaining advice quality (named staff capability and culture risks)",
+    "Modelling and analytical capability risk in a rapidly changing economic environment including net zero transition",
+    "Housing policy and program delivery risk using novel partnership delivery arrangements",
+    "IT systems, cyber security, governance and capability risk (very low to medium tolerance)",
+    "Integrity and conflict-of-interest exposure, reinforced by an ANAO gifts/benefits audit with four agreed recommendations",
+    "Performance framework gaps as new measures bed in and transferred functions are incorporated",
+    "Productivity and budget-sustainability pressures shaping the policy workload",
+    "Weak/maturing regulator stakeholder satisfaction (65% target retained after consecutive misses)"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "FOI-released documents showed Treasury initially declined to act on internal complaints about the Australian Office of Financial Management (which manages ~A$1 trillion in borrowing), then reversed course weeks later and ordered an independent review.",
+      "implication": "Signals live demand for independent governance/assurance reviews and internal-complaints handling within the portfolio — a credible entry point for governance and integrity advisory.",
+      "source": "Bloomberg, 17 April 2026 — https://www.bloomberg.com/news/articles/2026-04-17/australia-treasury-reversed-course-on-debt-office-to-call-review"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO found Treasury 'largely effective' in complying with gifts, benefits and hospitality requirements but identified shortcomings in policy alignment with APSC requirements, training for statutory office holders, and detection processes; four recommendations were made and all agreed.",
+      "implication": "Open remediation runway in integrity controls, policy alignment and APS-conduct training design — discrete, scoped advisory work.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/compliance-gifts-benefits-and-hospitality-requirements-the-department-of-the-treasury"
+    },
+    {
+      "summary": "ANAO Auditor-General Report No. 34 of 2024-25 assessed the effectiveness of Treasury's design and implementation of the Measuring What Matters national wellbeing framework released in July 2023.",
+      "implication": "Scrutiny of Treasury's measurement/evaluation capability — potential demand for performance-measurement, data and framework-implementation support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/treasurys-design-and-implementation-of-the-measuring-what-matters-framework"
+    },
+    {
+      "summary": "ANAO has an in-progress performance audit assessing the effectiveness of Treasury's design and delivery of the Housing Australia Future Fund.",
+      "implication": "An imminent audit on a flagship program; pre- and post-audit assurance, program-design and delivery-remediation work is likely to follow.",
+      "source": "ANAO — https://www.anao.gov.au/work-program/in-progress"
+    },
+    {
+      "summary": "In the ANAO's 2022-23 annual performance statements audits, Treasury received an unmodified (clean) conclusion while four other departments were qualified.",
+      "implication": "Treasury's reporting baseline is comparatively sound, so opportunities lean toward continuous improvement rather than crisis remediation.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-statements-audit/audits-of-the-annual-performance-statements-of-australian-government-entities-2022-23"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Treasury portfolio was examined across recent Senate Economics Legislation Committee estimates rounds, including 2023-24 Additional Estimates, 2024-25 Budget Estimates and 2024-25 Supplementary Budget Estimates (with the then-Secretary tabling an opening statement).",
+      "implication": "Predictable, high-frequency scrutiny cycle drives demand for estimates preparation, briefing/QON support and reputational-risk readiness; aligning offerings to this calendar helps.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/Economics/2024-25_Budget_estimates"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Integrating new housing and related functions into Treasury",
+      "agency_need": "Treasury must build an operating model and governance for newly transferred housing, homelessness, construction, cities and planning functions while sustaining advice quality.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model and governance design for the integrated housing/cities/planning functions — mapping accountabilities, decision rights and committee oversight, with a transition roadmap. Pair with Organisation, Workforce & People for the workforce/change dimension.",
+      "rationale": "The Secretary explicitly flags 'integrated advice and implementation' of new housing functions and the 13 May 2025 AAO transfers; the plan names 'state office planning' and integrating new responsibilities as workforce priorities.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of the Housing Australia Future Fund delivery",
+      "agency_need": "Treasury is accountable for HAFF/National Housing Accord delivery (40,000 dwellings to 2029) using 'novel partnership delivery arrangements' carrying a high-tolerance program risk, and faces an in-progress ANAO audit.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style delivery assurance of the housing program — health-check of governance, milestones and benefits realisation ahead of and in response to the ANAO HAFF audit.",
+      "rationale": "Plan names housing policy and program risk with high tolerance and 'novel partnership delivery arrangements'; reinforced by the ANAO in-progress HAFF performance audit.",
+      "confidence": "High"
+    },
+    {
+      "area": "Integrity controls and conflict-of-interest remediation",
+      "agency_need": "Treasury is embedding its Integrity Strategy 2024-2028 with a focus on conflict-of-interest identification and reporting, and must close four agreed ANAO gifts/benefits recommendations.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A targeted integrity health-check and remediation plan addressing the ANAO gifts/benefits recommendations — policy-to-APSC alignment, detection processes and conflict-of-interest controls, with Strategy, Policy & Governance support on framework design.",
+      "rationale": "Plan states a focus on 'strengthening conflict of interest identification, management, and reporting'; the ANAO audit made four agreed recommendations creating a clear remediation runway.",
+      "confidence": "High"
+    },
+    {
+      "area": "Evaluation capability and Treasury Evaluation Strategy",
+      "agency_need": "The Australian Centre for Evaluation is leading a service-wide evaluation capability uplift and Treasury will release its Evaluation Strategy in 2025-26; the MWM framework was ANAO-audited.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design support for the Treasury Evaluation Strategy rollout and process/outcome evaluations of priority programs, with Data, Analytics & Information as secondary for the evidence base.",
+      "rationale": "Plan commits to releasing the Treasury Evaluation Strategy and a service-wide evaluation uplift; the ANAO MWM audit signals scrutiny of Treasury's measurement capability.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise Data Strategy and AI governance",
+      "agency_need": "Treasury will launch a second Enterprise Data Strategy and integrate AI guidance and oversight into its strategies and governance in 2025-26.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and governance engagement — data governance and culture design supporting the Enterprise Data Strategy, plus an AI-use governance framework integrated with existing risk arrangements.",
+      "rationale": "Plan explicitly commits to developing the second Enterprise Data Strategy and integrating AI governance; named IT/data capability risk supports the demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital and Cyber Security Strategy refresh",
+      "agency_need": "Treasury will refresh its 2024-26 Digital and Cyber Security Strategy and manages an IT systems/cyber risk with very low to medium tolerance.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Cyber advisory to support the strategy refresh — a security posture assessment against current threats and whole-of-government initiatives, feeding the refreshed roadmap.",
+      "rationale": "Plan commits to refreshing the Digital and Cyber Security Strategy and names cyber security among its capability risks. Tempered by the in-housing commitment under the Strategic Commissioning Framework.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and change management for MoG transition",
+      "agency_need": "Treasury is implementing its Strategic Workforce Plan, supporting staff and leaders through change, position management and state office planning as new functions arrive.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Change-management and workforce-planning support for the MoG integration — leadership-through-change, position management/reporting uplift, and capability mapping for transferred functions.",
+      "rationale": "Plan names 'supporting employees and leaders to manage through change', 'implementation of position management' and 'state office planning' as key efforts under the Workforce Plan.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Foreign investment case-processing and triage",
+      "agency_need": "Treasury must meet a 50%-within-30-days target by streamlining low-risk proposals and bolstering compliance monitoring, relying on a case-processing system.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Business/process analysis and service design of the foreign investment assessment workflow — triage redesign and case-system process improvements to lift on-time decision rates. Secondary: Data, Analytics & Information for risk-based decisioning.",
+      "rationale": "Plan sets a new 50%/30-day efficiency target, references the case-processing system, and commits to streamlining low-risk and strengthening compliance — a measurable process challenge.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework redesign for transferred functions",
+      "agency_need": "Treasury introduced three new measures and must review the framework for completeness to incorporate transferred functions, potentially varying the plan.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review and redesign covering transferred functions and regulator-performance reporting, ensuring measures meet PGPA Rule requirements.",
+      "rationale": "Plan states new measures were introduced and the framework will be reviewed for completeness including transferred functions, with possible plan variation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Risk framework maturation and climate risk integration",
+      "agency_need": "Treasury is embedding its late-2024 risk framework, integrating risk with strategic planning and incorporating climate risk and opportunity reporting into governance.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework maturity uplift integrating enterprise and climate risk into governance and planning, with Audit & Assurance support for committee-effectiveness review.",
+      "rationale": "Plan commits to integrating risk with governance and strategic planning and building on the first enterprise climate risk assessment under the Commonwealth Climate Risk and Opportunity Management Program.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy Secretary / Group head responsible for the integrated housing, cities and planning functions with a target-operating-model and delivery-assurance proposition tied to the HAFF.",
+      "priority": "High",
+      "rationale": "MoG integration plus high-tolerance housing program risk and an in-progress ANAO HAFF audit create a clear, time-bound, multi-strand opportunity spanning governance, workforce and assurance."
+    },
+    {
+      "action": "Offer the Chief Risk Officer / audit and risk committee a scoped integrity health-check addressing the four agreed ANAO gifts/benefits recommendations and conflict-of-interest controls.",
+      "priority": "High",
+      "rationale": "Agreed ANAO recommendations and the plan's explicit conflict-of-interest focus give a defined remediation runway with a willing internal sponsor."
+    },
+    {
+      "action": "Prepare a short capability statement and thought piece on data governance and responsible AI adoption for the Chief Data/Information Officer ahead of the second Enterprise Data Strategy launch.",
+      "priority": "Medium",
+      "rationale": "The Enterprise Data Strategy and AI-governance integration are named 2025-26 deliverables; early positioning before the strategy lands is advantageous."
+    },
+    {
+      "action": "Engage the Australian Centre for Evaluation lead on evaluation-design support as the Treasury Evaluation Strategy is released.",
+      "priority": "Medium",
+      "rationale": "A named 2025-26 deliverable plus the ANAO MWM audit make evaluation capability a live, evidence-backed need."
+    },
+    {
+      "action": "Confirm whether the foreign investment case-processing and Payment Times Reporting IT work falls inside or outside the APS Strategic Commissioning in-housing scope before pitching digital delivery.",
+      "priority": "Medium",
+      "rationale": "The plan commits to bringing some ICT/digital work in-house, so qualifying scope avoids pursuing work the department intends to do itself."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Secretary / Group head for Housing (including transferred homelessness, construction, cities and planning functions)",
+    "Chief Operating Officer / Corporate Group (workforce, governance, state office planning)",
+    "Chief Risk Officer and the Audit and Risk Committee (integrity, risk framework, ANAO remediation)",
+    "Chief Data Officer / Chief Information Officer (Enterprise Data Strategy, AI governance, Digital and Cyber Security Strategy refresh)",
+    "Head of the Australian Centre for Evaluation (Treasury Evaluation Strategy)",
+    "Foreign Investment Division (case-processing and risk-based triage)",
+    "Performance / corporate planning function (PGPA performance-measure redesign)"
+  ],
+  "talking_points": [
+    "You are absorbing major new housing, cities and planning functions through the 13 May 2025 AAO — we can stand up a target operating model and transition plan so the integration doesn't dilute advice quality.",
+    "With the ANAO auditing the Housing Australia Future Fund, independent gateway-style delivery assurance positions you ahead of the findings rather than reacting to them.",
+    "The four agreed ANAO gifts/benefits recommendations and your conflict-of-interest focus map to a tight integrity health-check we can deliver in weeks, not months.",
+    "Your second Enterprise Data Strategy and AI-governance integration are the moment to embed data governance and responsible-AI controls — we can shape both as the strategy lands.",
+    "The Treasury Evaluation Strategy and the Measuring What Matters audit point to a service-wide evaluation uplift we can support with both framework design and program evaluations.",
+    "We understand the Strategic Commissioning Framework — our offer is advisory and assurance that complements your in-housing of core ICT, not competition with it."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a policy-department archetype, so opportunities are advisory/assurance/governance-weighted rather than large delivery programs — and the plan explicitly commits to bringing some ICT/digital work in-house under the APS Strategic Commissioning Framework, which constrains pure build opportunities. The plan is high-level on internal initiatives (strategies named but not detailed), so several opportunities are inferred from named deliverables rather than evidenced procurements. External research was only partially completed: the News and Parliament categories are thin (the search tool hit a usage cap), so the AOFM news item and estimates cycle should be treated as indicative, not exhaustive. ANAO findings are well-sourced and are the strongest demand signals here."
+}
