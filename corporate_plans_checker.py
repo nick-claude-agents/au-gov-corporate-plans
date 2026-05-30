@@ -182,7 +182,7 @@ def send_email(subject, body):
     try:
         msg = MIMEMultipart("alternative")
         msg["Subject"] = subject
-        msg["From"] = f"AU Gov Plan Checker <{CONFIG['from_email']}>"
+        msg["From"] = f"Market Analysis Tool <{CONFIG['from_email']}>"
         msg["To"] = CONFIG["to_email"]
         msg.attach(MIMEText(body, "html"))
         ctx = ssl.create_default_context()
