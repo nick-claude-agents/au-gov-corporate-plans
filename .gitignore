@@ -1,7 +1,37 @@
-# Exclude the checker script folder (contains encrypted credentials and logs)
+# Checker folder (contains encrypted Windows credentials)
 CorporatePlanChecker/
 
-# Exclude Dropbox system files
+# Other scrapers in this Dropbox folder
+buyict_scraper.py
+buyict_*.xlsx
+buyict_scraper.log
+tenders_scraper.py
+tenders_*.py
+tenders_*.json
+tenders_*.xlsx
+tenders_scraper.log
+run_*.bat
+probe*.py
+probe*.py
+au-gov-buyict-repo/
+scrape.yml
+test_*.py
+test_*.html
+analyse_*.py
+__pycache__/
+opportunity_urls.json
+PROJECT_SUMMARY.md
+
+# Environment files
+.env
+.env.*
+
+# Temp/swap files
+*.tmp.*
+*.tmp
+
+# Dropbox system files
 .dropbox
 .dropbox.cache
 desktop.ini
+.claude/
