@@ -112,6 +112,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "High"
+    },
+    "department-of-the-prime-minister-and-cabinet-pm-c": {
+      "name": "Department of the Prime Minister and Cabinet (PM&C)",
+      "portfolio": "Prime Minister and Cabinet",
+      "plan_url": "https://www.pmc.gov.au/sites/default/files/resource/download/corporate-plan-2024-25.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2024-25",
+      "overall_confidence": "Medium"
     }
   }
 }

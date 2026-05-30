@@ -1,0 +1,191 @@
+{
+  "agency_name": "Department of the Prime Minister and Cabinet (PM&C)",
+  "portfolio": "Prime Minister and Cabinet",
+  "plan_period": "2024-25",
+  "executive_summary": "PM&C is the Commonwealth's central policy and coordination department, advising the Prime Minister and Cabinet and stewarding the APS. Its 2024-25 plan is deliberately stewardship- and people-focused: tight resources, growing policy complexity, and a strong integrity/culture agenda dominate, alongside coordination roles in Future Made in Australia, Net Zero, Working for Women, National Cabinet reforms and national security reviews. Critically for BD, PM&C has stood up Australian Government Consulting (AGC) in-house and is implementing the APS Strategic Commissioning Framework to REDUCE outsourcing of core strategy and organisational-transformation work — a clear headwind for traditional advisory pitches. The strongest openings are therefore in performance-framework assurance (ANAO is auditing PM&C's performance statements for the first time and flagged the absence of a complete enterprise performance framework), ICT/CabNet+ delivery, cyber resilience, and data work supporting Working for Women — not in core policy or org-design advisory.",
+  "strategic_priorities": [
+    {
+      "title": "People, culture and capability stewardship",
+      "description": "The Secretary's overriding focus for the year is uplifting PM&C's own people, culture and capability to underpin its APS stewardship role, including major projects on workforce planning, organisational psychology and management capability under enterprise risk 4.",
+      "source_quote": "Entering my third year as Secretary, I'm focused on the people, culture and capability of PM&C to underpin our stewardship role and responsibilities."
+    },
+    {
+      "title": "Integrity uplift (Louder Than Words)",
+      "description": "PM&C is committed to actioning the APS Integrity Taskforce report 'Louder Than Words: An APS Integrity Action Plan', enhancing systems, processes and a pro-integrity culture at the centre of government.",
+      "source_quote": "Following the release of the APS Integrity Taskforce's report... PM&C is committed to actioning the report's recommendations."
+    },
+    {
+      "title": "Working for Women implementation",
+      "description": "The Office for Women stewards the 10-year Working for Women gender equality strategy, with gender responsive budgeting, an annual Status of Women Report Card, a Women's Budget Statement and a year-one baseline data report.",
+      "source_quote": "PM&C's coordination and reporting arrangements are effective in driving successful implementation of the government's Working for Women: A Strategy for Gender Equality."
+    },
+    {
+      "title": "Coordinating the net zero / Future Made in Australia agenda",
+      "description": "PM&C coordinates whole-of-government delivery of the Net Zero Plan and six sectoral plans, the 2035 emissions target, and stands behind the new Net Zero Economy Authority and the Future Made in Australia agenda.",
+      "source_quote": "PM&C will continue to support the government to implement existing policy commitments, deliver the Net Zero Plan supported by 6 sectoral emission reduction plans, and set Australia's 2035 emissions reduction target."
+    },
+    {
+      "title": "Reduce reliance on the external workforce",
+      "description": "Under the APS Strategic Commissioning Framework, PM&C will reduce outsourcing of core work, targeting a reduction of up to $580,000 in 2024-25 in outsourced ICT/digital staff supporting CabNet+, and is expanding the in-house AGC capability.",
+      "source_quote": "In 2024-25, PM&C will seek to reduce outsourcing of core work in line with the framework."
+    },
+    {
+      "title": "ICT reliability and cyber resilience",
+      "description": "PM&C delivers complex ICT to the PM, Cabinet and shared-service clients (including CabNet+) and is strengthening cybersecurity resilience against an evolving threat landscape.",
+      "source_quote": "Strengthening PM&C's cybersecurity resilience capability will enable us to be more responsive to cyber threats."
+    },
+    {
+      "title": "Refreshed performance reporting framework",
+      "description": "PM&C reduced from 17 to 11 performance measures and 5 to 3 key activities, introducing six new measures and committing to continue maturing its performance framework and reporting to Parliament.",
+      "source_quote": "We continue to look for opportunities to develop and mature our performance reporting framework."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "APS Strategic Commissioning Framework (Oct 2023) mandating reduced outsourcing of core work and published reduction targets",
+    "Stand-up and expansion of Australian Government Consulting (AGC) as an in-house APS consulting capability",
+    "APS Integrity Taskforce report 'Louder Than Words' driving integrity systems and culture reform",
+    "Working for Women: A Strategy for Gender Equality (10-year) and gender responsive budgeting",
+    "Establishment of the Net Zero Economy Authority and Future Made in Australia legislation",
+    "Independent Intelligence Review 2024 response and National Defence / AUKUS coordination",
+    "Set the Standard (Jenkins) parliamentary workplace reforms and establishment of the Independent Parliamentary Standards Commission",
+    "First-year inclusion of PM&C in the ANAO annual performance statements audit program",
+    "Budget and resourcing pressure against growing policy scope and complexity"
+  ],
+  "challenges_and_risks": [
+    "Explicit budget pressure and tight resources against growing scope and policy complexity",
+    "Enterprise risk 4: lack of capability or capacity to deliver and meet emerging priorities",
+    "Enterprise risk 5 & 6: fit-for-purpose IT systems/services and protection of information, personnel and assets (cyber)",
+    "Absence of a complete enterprise-wide performance framework (flagged by ANAO) as PM&C enters performance-statements audit",
+    "Heavy reliance on stakeholder-survey proxy measures and 'timeliness' proxies for efficiency, indicating an immature performance-measurement approach",
+    "Strategic Commissioning Framework and AGC reduce appetite for external advisory on core work — a structural BD constraint",
+    "Integrity/culture exposure at the centre of government (whole-of-APS Robodebt aftermath, NACC environment)"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "PM&C coordinated and published the whole-of-government response to the Robodebt Royal Commission, and an APS-wide Centralised Code of Conduct Inquiry into public servants' Robodebt conduct ran into late 2024 — an integrity/culture matter within PM&C's APS-stewardship remit rather than a discrete PM&C failure.",
+      "implication": "APS integrity, ethics and reform-implementation/assurance work remains live and politically sensitive; capability framed around accountability, governance and culture uplift aligns to current demand, though PM&C will favour in-house delivery for core work.",
+      "source": "PM&C — Government response to the Royal Commission into the Robodebt Scheme (https://www.pmc.gov.au/resources/government-response-royal-commission-robodebt-scheme); APSC statement on the Robodebt Centralised Code of Conduct Inquiry (https://www.apsc.gov.au/about-us/working-commission/who-we-are/media-releases-and-statements)"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO is auditing PM&C's 2024-25 annual performance statements (with NIAA) at the Finance Minister's request; 2024-25 is PM&C's first year in the performance-statements audit program, the risk rating is 'moderate', and a flagged key risk is the absence of a complete enterprise-wide performance framework through which PM&C plans, monitors and reports performance.",
+      "implication": "Concrete, time-bound demand for performance-framework design, KPI/key-activity mapping and audit-readiness support — the clearest single entry point in this plan.",
+      "source": "ANAO — Prime Minister and Cabinet portfolio work program (https://www.anao.gov.au/work-program/portfolio/prime-minister-and-cabinet)"
+    },
+    {
+      "summary": "ANAO lists a performance audit 'Administration of the Impact Analysis Framework' relevant to PM&C's Office of Impact Analysis; the audit listing was confirmed but specific findings/recommendations were not retrieved in the research.",
+      "implication": "Potential demand around impact-analysis/regulatory-policy process improvement and compliance uplift; confirm the audit's actual recommendations before pitching.",
+      "source": "ANAO — Administration of the Impact Analysis Framework (https://www.anao.gov.au/work/performance-audit/administration-of-the-impact-analysis-framework)"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The PM&C portfolio is scrutinised by the Senate Finance and Public Administration Legislation Committee at Estimates, with dedicated pages for 2024-25 Additional and Budget Estimates covering cross-portfolio (including Indigenous) matters; the research confirmed the pages exist but did not extract specific exchanges or questions on notice.",
+      "implication": "Estimates transcripts and QoN are the best open-source signal of ministerial pressure points and bid-relevant priorities; a targeted follow-up pass would sharpen intelligence.",
+      "source": "Parliament of Australia — PM&C portfolio, 2024-25 Additional Estimates (https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/fpa/2024-25_Additional_estimates/pmc); 2024-25 Budget Estimates, FPA Committee (https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/fpa/2024-25_Budget_estimates)"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Enterprise performance framework and audit readiness",
+      "agency_need": "PM&C lacks a complete enterprise-wide performance framework (ANAO-flagged) just as it enters the performance-statements audit program, and relies heavily on stakeholder-survey and 'timeliness' proxy measures.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure and key-activity redesign: replace proxy/timeliness measures with robust effectiveness and efficiency indicators, build the enterprise performance framework, and prepare PM&C for ANAO performance-statements audit. Pair with Audit & Assurance for an independent readiness health check.",
+      "rationale": "Directly grounded in the plan's stated commitment to 'mature our performance reporting framework' and the ANAO finding on the absence of a complete enterprise performance framework — a specific, time-bound, less politically sensitive enabling need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-statements audit readiness review",
+      "agency_need": "First-year inclusion in the ANAO performance-statements audit at 'moderate' risk creates demand for independent assurance of data sources, methodologies and reporting controls.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A short independent health check / readiness review of PM&C's performance statements: testing measure methodologies, data-source integrity (PDMS, stakeholder survey) and evidence trails ahead of the ANAO audit, with a findings-and-recommendations report.",
+      "rationale": "The ANAO is actively auditing the 2024-25 statements; assurance readiness is exactly the kind of independent, non-core work the Strategic Commissioning Framework still permits.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cyber resilience uplift",
+      "agency_need": "PM&C identifies a continuously evolving cyber threat landscape, enterprise risks 5 and 6 on IT systems and protecting information/assets, and a commitment to strengthen cybersecurity resilience as a trusted ICT provider.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of PM&C's secure networks and document systems (including authentication/access enhancements already underway), plus cyber advisory aligned to Essential Eight / PSPF hardening.",
+      "rationale": "Plan explicitly names cyber resilience strengthening and conducts regular penetration testing; security assurance of a centre-of-government ICT provider is high-value and not 'core' policy work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "CabNet+ and shared ICT services delivery",
+      "agency_need": "PM&C delivers complex ICT (including CabNet+) to the PM, Cabinet and shared-service clients, faces fit-for-purpose IT risk, and must keep capability current while reducing outsourced ICT staff.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discrete project-based systems development, integration and process analysis for ICT modernisation — scoped as defined deliverables (not embedded staff augmentation) to fit the Strategic Commissioning Framework's restriction on outsourced ICT support roles.",
+      "rationale": "Plan names CabNet+ and an enterprise approach to new technologies; however the explicit target to cut outsourced ICT staff means only outcome-based delivery, not staff substitution, is viable — hence Medium.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Working for Women data and reporting",
+      "agency_need": "The Office for Women must deliver a year-one baseline data report, annual Status of Women Report Card and gender responsive budgeting analysis across all portfolios.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Design and build of the Working for Women baseline dataset and reporting/analytics capability — gender-equality indicators, data management, and business intelligence to support the Report Card and Women's Budget Statement.",
+      "rationale": "The plan sets a specific 2024-25 deliverable (baseline data report) and a 10-year reporting framework; data/analytics build is a defensible specialist capability beyond PM&C's core staffing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Net Zero Economy Authority establishment",
+      "agency_need": "A new statutory authority is being stood up with a governing board, CEO, the Energy Industry Jobs Plan, and complex cross-government coordination functions.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Establishment program support for the new Authority: governance and operating-model set-up, PMO/benefits framework, and change management for transition from the interim Agency — pitched to the Authority/Agency rather than PM&C core.",
+      "rationale": "A named new statutory body with a defined commencement window is a classic stand-up opportunity; note AGC may claim strategy/org-design work, so position around delivery/PMO mechanics. Confidence tempered by AGC's mandate.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Integrity systems and governance uplift",
+      "agency_need": "PM&C commits to actioning 'Louder Than Words' recommendations, maintaining policies/systems for ethical decision-making and strengthening its pro-integrity culture.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An integrity-framework and governance maturity assessment mapping PM&C's systems to the APS Integrity Action Plan, with a roadmap for systems, escalation pathways and assurance.",
+      "rationale": "Plan explicitly commits to integrity reform, but this is core stewardship work AGC and internal teams are likely to own — hence Low confidence on external appetite.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Operating Officer / corporate governance function (governancebusinesspartners contact) with a tailored performance-framework and ANAO audit-readiness proposition.",
+      "priority": "High",
+      "rationale": "The plan's commitment to mature performance reporting plus the ANAO's flagged absence of a complete enterprise performance framework create a specific, time-bound, low-political-sensitivity need that fits Strategy, Policy & Governance and Audit & Assurance."
+    },
+    {
+      "action": "Prepare a concise capability statement on cyber security assessment/assurance and outcome-based ICT delivery for a centre-of-government provider, and seek a meeting with the CIO/ICT and security function.",
+      "priority": "Medium",
+      "rationale": "Cyber resilience and CabNet+ are named priorities and enterprise risks; framing as defined-outcome work avoids conflict with the outsourcing-reduction target."
+    },
+    {
+      "action": "Develop a short data/analytics concept for the Office for Women's baseline data report and Status of Women reporting, and brief the Office for Women.",
+      "priority": "Medium",
+      "rationale": "A specific 2024-25 deliverable with a 10-year reporting tail; specialist data build is defensible beyond PM&C's core staffing."
+    },
+    {
+      "action": "Calibrate all positioning to the Strategic Commissioning Framework and AGC — lead with assurance, data, cyber and outcome-based delivery, not core strategy/policy/org-design advisory.",
+      "priority": "High",
+      "rationale": "PM&C is deliberately insourcing core consulting via AGC and cutting outsourcing; pitching core advisory will fail. Winning requires emphasising specialist, assurance and build capabilities AGC does not provide."
+    },
+    {
+      "action": "Run a follow-up research pass on FPA Estimates transcripts/QoN and the ANAO Impact Analysis Framework audit recommendations.",
+      "priority": "Low",
+      "rationale": "The external research confirmed these documents exist but could not extract specifics; their contents could surface additional, evidenced opportunities."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / Governance & Business Partners function (performance framework, audit readiness, corporate)",
+    "Chief Information Officer / ICT and cyber security function (CabNet+, cyber resilience)",
+    "Chief Risk Officer / Executive Board risk oversight (enterprise risks 4, 5, 6)",
+    "Head of the Office for Women (Working for Women data and reporting)",
+    "Net Zero Economy Authority / Agency establishment team (transition and operating model)",
+    "Audit and Risk Committee (performance-statements assurance)"
+  ],
+  "talking_points": [
+    "You're entering the ANAO performance-statements audit program for the first time at 'moderate' risk with no complete enterprise performance framework — we can build the framework and run an independent readiness check before the audit.",
+    "Your plan still leans on stakeholder-survey and timeliness proxies for efficiency; we can design robust effectiveness and efficiency measures that hold up to ANAO scrutiny.",
+    "As a trusted centre-of-government ICT provider, your cyber resilience and CabNet+ environments warrant independent security assessment — we offer assurance without substituting for your APS staff.",
+    "The Working for Women baseline data report and Status of Women reporting need a durable data and analytics backbone — we can build it to serve the full 10-year reporting framework.",
+    "We understand the Strategic Commissioning Framework and AGC: we deliberately position around specialist assurance, data, cyber and outcome-based delivery — complementing, not competing with, your in-house capability."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a thin plan from a BD perspective: PM&C is a policy/central-agency archetype with few named delivery programs, and it is actively REDUCING external consulting via the Strategic Commissioning Framework and its in-house AGC — a material structural headwind that caps most core advisory and org-design opportunities. The strongest, evidenced openings are enabling/corporate: performance-framework design and audit readiness (reinforced by the ANAO finding), cyber assurance, defined-outcome ICT delivery, and Working for Women data work. Several opportunities (Net Zero Authority stand-up, integrity uplift) are marked Low because AGC or internal teams will likely own them. External research could not surface a discrete PM&C scandal and could not extract specific Estimates/QoN or the Impact Analysis Framework audit recommendations, so those sections are partial. All offerings should be right-sized and framed to complement, not substitute for, APS staff."
+}
