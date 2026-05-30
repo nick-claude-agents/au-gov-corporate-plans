@@ -56,6 +56,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "australian-prudential-regulation-authority-apra": {
+      "name": "Australian Prudential Regulation Authority (APRA)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.apra.gov.au/apra-corporate-plan-2025-26",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }

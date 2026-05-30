@@ -1,0 +1,227 @@
+{
+  "agency_name": "Australian Prudential Regulation Authority (APRA)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "APRA is a mid-sized, expertise-heavy financial regulator (archetype: regulator) levy-funded with an approved average staffing level of 907. The 2025-26 plan pivots from a decade of post-Royal Commission framework build-up toward maintaining resilience, 'getting the balance right' on competition/efficiency (nine burden-reduction initiatives responding to a July 2025 Treasurer/Finance Minister letter), and lifting its own organisational effectiveness. The richest BD signals sit in its data/technology modernisation program — a $73.2m investment across five initiatives (a new cloud data platform by Dec 2025, full transition to APRA Connect by Dec 2027, an upgraded supervision management system going live Nov 2025), plus AI adoption, cyber/privacy uplift and a supervisory development centre. New performance measures, a refreshed governance standard, the IMF FSAP review, a system stress test and multiple ANAO/parliamentary touchpoints create assurance, evaluation, governance and workforce demand. Because APRA largely builds internally and is clearance/secrecy-sensitive on supervisory data, offerings should be proportionate and weighted toward advisory, assurance, data and delivery-support rather than large transactional programs.",
+  "strategic_priorities": [
+    {
+      "title": "Maintaining financial and operational resilience",
+      "description": "Maintain (rather than expand) the prudential framework through targeted standard changes — finalise bank capital (Additional Tier 1 removal, effective Jan 2027), commence liquidity-framework revisions, refresh governance standards, and embed CPS 230 Operational Resilience (effective 1 July 2025) and CPS 190/CPS 900 recovery, exit and resolution planning.",
+      "source_quote": "Having spent more than a decade building up the strength of the prudential framework, APRA is now in a position to focus on maintaining that strength."
+    },
+    {
+      "title": "Responding to significant and emerging risks",
+      "description": "Address geopolitical risk, cyber-attacks, third-party/interconnection risk, AI adoption, climate and housing-lending vulnerabilities — including an inaugural system stress test, a geopolitical risk workplan, a material service provider register (due 1 Oct 2025) and a general-insurance Climate Vulnerability Assessment.",
+      "source_quote": "we are particularly focused on potential risks from geopolitical tensions, cyber-attacks, interconnections, an ageing population and climate change."
+    },
+    {
+      "title": "Getting the balance right (competition, efficiency and burden reduction)",
+      "description": "Progress nine actions to reduce regulatory burden and support productivity in response to the Treasurer/Finance Minister's July 2025 letter, including a new third proportionality tier, simplifying bank licensing (halving processing time), payments/SVF reform readiness, and new public performance measures emphasising competition and efficiency.",
+      "source_quote": "this year... we are progressing nine actions to further minimise burden on industry."
+    },
+    {
+      "title": "Improving organisational effectiveness (data, technology, people)",
+      "description": "Deliver a $73.2m data-capability program: a secure cloud data platform (Dec 2025), full APRA Connect transition and legacy retirement (Dec 2027), an upgraded supervision management system (Nov 2025), AI adoption, cyber/privacy uplift, and a new supervisory development centre and leadership/remuneration reforms.",
+      "source_quote": "the Australian Government committed $73.2 million in additional funding... to enhance APRA's data capabilities."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "July 2025 letter from the Treasurer and Minister for Finance seeking specific, measurable actions to reduce compliance costs — driving the nine burden-reduction initiatives.",
+    "$73.2m FY2024-25 Budget funding for five data-capability initiatives (cloud platform, APRA Connect transition, data governance, cyber/privacy controls, supervision management system upgrade).",
+    "Payments regulation reform expanding APRA's role over Stored Value Facilities and payment stablecoins, requiring new prudential standards once legislation is set.",
+    "CPS 230 Operational Resilience (effective 1 July 2025), CPS 190 Recovery & Exit Planning and CPS 900 Resolution Planning embedding new obligations.",
+    "Government Regulatory Initiatives Grid and CFR coordination shaping timing and cross-regulator alignment.",
+    "Independent IMF Financial Sector Assessment Program review of APRA's framework later in the year.",
+    "New PGPA-aligned, outcomes-focused performance measures with a stronger competition/efficiency emphasis.",
+    "Ageing population reshaping superannuation (retirement phase) and health/life insurance demand, plus a new retirement reporting framework (commencing 2027 with Treasury)."
+  ],
+  "challenges_and_risks": [
+    "Stated key risk: insufficient capacity/capability and organisational mechanisms to manage competing priorities and reprioritise/redeploy resources.",
+    "Inadequate operational resilience to secure people, data and third-party services in a heightened cyber and threat environment.",
+    "Integrity and regulatory-capture risk to staff conduct, values and reputation (APRA is under National Anti-Corruption Commission jurisdiction).",
+    "Governance weaknesses across regulated entities — almost 80% of entities under heightened supervision exhibit underlying governance issues — driving a governance-standard refresh.",
+    "Housing-lending vulnerabilities as interest rates decline (higher leverage, riskier lending), under CFR monitoring.",
+    "Insurance affordability/availability pressure from climate events; 4% of households uninsured and 7% underinsured.",
+    "Workforce capability strain as supervision becomes more complex; need for sustained training, leadership and remuneration reform within a fixed ASL of 907.",
+    "Legacy data systems requiring substantial manual effort, being retired by Dec 2027."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Trade-press piece argued APRA fell short against its own cost/cost-effectiveness benchmarks ('APRA fails its own test on costs').",
+      "implication": "Supports positioning around cost-discipline, regulatory-impact analysis and efficiency-measurement — directly relevant to APRA's new competition/efficiency performance measures.",
+      "source": "Investor Strategy News, 19 April 2024 — https://ioandc.com/apra-fails-its-own-test-on-costs/"
+    },
+    {
+      "summary": "Reporting that APRA publicly responded to superannuation-industry concerns it was over-regulating.",
+      "implication": "Latent demand for regulatory-burden assessment and consultation/stakeholder-engagement design, aligning with the nine burden-reduction initiatives.",
+      "source": "Super Review, 31 October 2023 — https://www.superreview.com.au/news/superannuation/apra-addresses-industry-concerns-overregulation"
+    },
+    {
+      "summary": "Trade coverage that an APRA governance move 'could trigger wholesale change', indicating a shifting governance/supervisory posture.",
+      "implication": "Change-management and governance-framework implementation support may be relevant as governance reforms land.",
+      "source": "Investor Strategy News, 7 March 2025 — https://ioandc.com/apras-governance-move-could-trigger-wholesale-change/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Probity Management in Financial Regulators — APRA' (associated with Auditor-General Report No. 30, 2022-23) examined how APRA manages probity.",
+      "implication": "Probity, conflict-of-interest and integrity-framework remediation/assurance is a credible entry point — reinforced by APRA's own integrity/regulatory-capture key risk and NACC jurisdiction.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/probity-management-financial-regulators-australian-prudential-regulation-authority"
+    },
+    {
+      "summary": "ANAO performance audit 'APRA's Prudential Supervision of Superannuation Entities' examined APRA's supervision of super entities.",
+      "implication": "Supervisory-process design, data and assurance work tied to audit findings may be in demand, dovetailing with the platform-products review and expenditure supervision.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/apras-prudential-supervision-superannuation-entities"
+    },
+    {
+      "summary": "ANAO performance audit 'Bank Prudential Supervision' examined APRA's bank prudential supervision function.",
+      "implication": "Opportunity in supervisory-effectiveness and risk-framework support aligned to audit recommendations.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/bank-prudential-supervision"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "APRA lodged a submission (~27 Sept 2024) to the Senate inquiry into the financial regulatory framework and home ownership (chaired by Senator Andrew Bragg), examining how APRA's lending settings affect home ownership.",
+      "implication": "APRA's serviceability/lending settings are under live political scrutiny; evidence, impact-analysis and submission-support capability are relevant.",
+      "source": "APRA submission — https://www.apra.gov.au/sites/default/files/2024-10/Submission%20-%20Senate%20Inquiry%20into%20Financial%20regulatory%20framework%20and%20home%20ownership.pdf"
+    },
+    {
+      "summary": "APRA appears regularly before the Senate Economics Legislation Committee at Estimates.",
+      "implication": "Recurring accountability touchpoint where briefing, QoN-response and performance-reporting support is perennially relevant — especially given the new outcomes-focused measures.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "APRA Connect transition and legacy system retirement",
+      "agency_need": "Fully transition all data collections to APRA Connect and retire legacy systems by Dec 2027, reducing manual effort and industry burden (est. ~$6m annual industry savings).",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Delivery and integration support for the APRA Connect migration — data-collection onboarding, business/systems/process analysis, legacy decommissioning, and service transition — scoped as discrete work packages alongside APRA's internal build.",
+      "rationale": "The plan names a specific, funded ($73.2m) multi-year program with a hard Dec 2027 deadline and quantified savings — clear, time-bound demand for build/migration delivery capability.",
+      "confidence": "High"
+    },
+    {
+      "area": "Secure cloud data platform and supervision management system go-live",
+      "agency_need": "Launch a cloud-based data platform by Dec 2025 and a new supervision management system in Nov 2025 to enable integrated analytics and timely insights.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Solutions implementation, integration and service-transition support for the cloud platform and supervision management system, including business/process analysis and post-go-live support and operations.",
+      "rationale": "Two named platforms with imminent go-live dates and dedicated funding signal near-term implementation and stabilisation needs that an independent build/implementation partner can support.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data analytics, AI adoption and supervisory tooling",
+      "agency_need": "Strengthen data analytics/data science capability, build AI into supervisory and oversight work, and equip supervisors with real-time cross-entity insights.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and business-intelligence build-out, an AI use-case and governance roadmap, and analytics-tooling enablement for supervisors — paired with information-management uplift under the new Data Council.",
+      "rationale": "The plan explicitly prioritises 'unlocking the value of AI', 'smartening our supervision tools' and richer data analytics, backed by funding and a senior Data Council — direct, current demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cyber security and privacy controls uplift",
+      "agency_need": "Strengthen APRA's own cyber and privacy practices aligned to Essential Eight, PSPF and the Australian Privacy Principles, protecting sensitive financial-sector data.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance against Essential Eight/PSPF, privacy-controls review aligned to the Privacy Act/APPs, and cyber advisory on protecting the new cloud data platform.",
+      "rationale": "The plan names enhancing cyber/privacy controls as one of five funded data initiatives and flags operational-resilience as a key enterprise risk; APRA's data centrality makes its own security a live priority.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-measurement framework redesign and reporting",
+      "agency_need": "Embed newly revised, outcomes-focused PGPA performance measures with a stronger competition/efficiency emphasis, and refine them over coming years.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review and refinement engagement, including defining measurable competition/efficiency indicators and an evidence/reporting approach for the Annual Performance Statement.",
+      "rationale": "The plan states measures are new and 'will continue to be refined', and external coverage criticised APRA's cost/efficiency benchmarking — a credible, low-sensitivity advisory entry point.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Governance-standard refresh and entity governance evidence base",
+      "agency_need": "Consult on and update core governance standards across all regulated industries, addressing persistent poor practices (almost 80% of heightened-supervision entities show governance issues).",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Policy-design support and stakeholder-consultation analysis for the governance-standard refresh, plus synthesis of supervisory evidence to underpin the new requirements.",
+      "rationale": "A named cross-industry policy initiative for H2 2025-26 with an explicit problem statement; consultation design and evidence synthesis fit APRA's regulator archetype.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Burden-reduction and regulatory-efficiency assessment",
+      "agency_need": "Deliver nine burden-reduction initiatives and demonstrate measurable compliance-cost reductions in response to the Treasurer/Finance Minister letter.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A regulatory-burden/cost-impact assessment and benefits-quantification framework to evidence the nine initiatives' impact, supporting Office of Impact Analysis compliance and public reporting.",
+      "rationale": "Government has explicitly demanded 'specific, measurable actions to reduce compliance costs', and APRA commits to measuring impact — but APRA does much policy work in-house, so fit is real yet contestable.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Supervisory development centre and workforce capability",
+      "agency_need": "Establish a supervisory development centre and invest in leadership, supervision/risk/data/policy capability and a refreshed remuneration framework within a fixed ASL of 907.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Capability-uplift program design and scenario-based training development for the supervisory development centre, plus workforce-capability mapping and remuneration-framework advisory.",
+      "rationale": "The plan names a new development centre and explicit leadership/remuneration reforms, and flags capacity/capability as a top enterprise risk — a credible workforce-design opportunity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Probity and integrity framework assurance",
+      "agency_need": "Maintain integrity/compliance controls and mitigate regulatory-capture risk; APRA falls under NACC jurisdiction and was subject to an ANAO probity audit.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent health check of APRA's probity, conflict-of-interest and integrity controls against the ANAO probity-audit recommendations, with a findings-and-remediation report.",
+      "rationale": "An ANAO probity audit plus APRA's self-identified integrity/regulatory-capture key risk create assurance demand; this is a non-legal probity/assurance fit for the firm.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "System stress test and crisis-simulation support",
+      "agency_need": "Run an inaugural cross-sector system stress test and crisis-simulation exercises with CFR peers, then address identified vulnerabilities.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program and exercise-design support and delivery coordination for the stress test and crisis simulations, including findings synthesis and a vulnerability-remediation roadmap.",
+      "rationale": "Named, time-bound initiatives (results due H2 2025-26) involving multiple agencies; coordination and delivery support is plausible, though APRA may run these largely internally.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Data Officer / Data Council and the technology leadership owning APRA Connect and the cloud platform with a tailored capability statement on data-platform migration, integration and post-go-live support.",
+      "priority": "High",
+      "rationale": "The $73.2m program has imminent milestones (cloud platform Dec 2025, supervision system Nov 2025, APRA Connect Dec 2027); engaging before procurements crystallise positions the firm for discrete delivery packages."
+    },
+    {
+      "action": "Prepare a short thought piece on operationalising AI safely and building supervisory analytics, and request a meeting with the data/analytics and supervision-excellence leads.",
+      "priority": "High",
+      "rationale": "AI adoption and 'smartening supervision tools' are explicit current priorities with funding; a credible, specific point of view differentiates from generic advisory pitches."
+    },
+    {
+      "action": "Offer a cyber/privacy security assessment scoped to the new cloud data platform, mapped to Essential Eight, PSPF and the APPs, to the CISO/security function.",
+      "priority": "High",
+      "rationale": "Cyber/privacy uplift is one of five funded initiatives and operational resilience is a top enterprise risk; assurance of a brand-new platform is a natural, time-sensitive entry point."
+    },
+    {
+      "action": "Pitch a PGPA performance-measure refinement engagement to the corporate strategy/performance function, leading with the new competition/efficiency measures and external cost-effectiveness criticism.",
+      "priority": "Medium",
+      "rationale": "The plan states measures are newly introduced and will be refined; the Investor Strategy News cost criticism gives a sharp, evidence-based hook."
+    },
+    {
+      "action": "Engage the Chief Risk Officer and Audit and Risk Committee with an independent probity/integrity controls health check referencing the ANAO probity audit.",
+      "priority": "Medium",
+      "rationale": "ANAO scrutiny plus self-identified integrity/regulatory-capture risk and NACC jurisdiction create demand for independent, non-legal assurance."
+    },
+    {
+      "action": "Watch for procurement signals tied to the supervisory development centre and the governance-standard consultation, and prepare workforce-capability and consultation-design propositions.",
+      "priority": "Medium",
+      "rationale": "Both are named 2025-26 initiatives likely to generate supporting work; early positioning beats responding cold to a tender."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Data Officer / Data Council (senior executives overseeing data priorities, cloud platform and APRA Connect)",
+    "Technology / ICT leadership owning the supervision management system and platform migrations",
+    "Chief Information Security Officer / security and privacy function",
+    "Chief Risk Officer and the Audit and Risk Committee (three independent members)",
+    "Executive Directors responsible for supervision (banking, insurance, superannuation) and the supervision-excellence/development centre",
+    "Corporate strategy and performance function owning the PGPA performance-measure framework",
+    "People/HR leadership and Chief of Staff (Management Committee) for workforce and capability initiatives"
+  ],
+  "talking_points": [
+    "Your $73.2m data program has three near-term milestones — cloud platform (Dec 2025), supervision management system (Nov 2025) and full APRA Connect transition (Dec 2027) — and we can provide discrete migration, integration and go-live support that complements your internal build.",
+    "With AI adoption and 'smartening supervision tools' named priorities, we can help stand up analytics and an AI use-case and governance roadmap that strengthens supervisory insight without compromising data security.",
+    "Securing a brand-new cloud data platform is the moment for independent assurance against Essential Eight, PSPF and the Privacy Act — we offer a focused security and privacy assessment.",
+    "Your new outcomes-focused performance measures, with a stronger competition/efficiency emphasis, are still being refined — we can help define measurable indicators and an evidence base that withstands Estimates and external scrutiny.",
+    "With almost 80% of heightened-supervision entities showing governance issues, we can support the governance-standard refresh through consultation design and evidence synthesis.",
+    "Given the ANAO probity audit and your self-identified regulatory-capture risk, an independent, non-legal probity and integrity controls health check offers timely, low-sensitivity assurance."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "APRA is a small, expertise-heavy, levy-funded regulator (ASL 907) that performs much of its policy, supervision and stress-testing work in-house and operates under secrecy and clearance constraints around supervisory data — so program-delivery and policy opportunities are more contestable than the digital/data, cyber and assurance opportunities, which are the strongest fit. The clearest, highest-confidence demand sits in the funded $73.2m data/technology modernisation and cyber uplift. Several opportunities (burden-reduction assessment, governance consultation, performance measures, workforce) are real but inferred from named initiatives where APRA may use internal capability. The external research was an explicitly interrupted, partial scan: ANAO audit recommendation detail and specific Estimates/QoN exchanges were not retrieved, and mainstream-media controversy coverage was unconfirmed — findings should be verified before they are leaned on in a pitch."
+}
