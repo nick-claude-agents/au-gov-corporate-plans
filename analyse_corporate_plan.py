@@ -47,7 +47,8 @@ CONFIG = {
     "model": "claude-opus-4-8",
     "max_tokens": 12000,
     "log_file": str(SCRIPT_DIR / "plan_analyser.log"),
-    "request_timeout": 45,          # seconds for downloading the plan
+    "request_timeout": 75,          # seconds for downloading the plan (gov hosts can be slow)
+    "download_attempts": 3,         # retry slow/flaky plan downloads
     "max_chars": 600_000,           # safety cap on plan text (~150K tokens)
     "research_max_searches": 8,     # cap web searches per plan (cost control)
     "research_max_turns": 6,        # bounded pause_turn loop for the research call
@@ -498,9 +499,20 @@ def fetch_plan_text(url: str) -> tuple[str, str]:
     """Download the plan and return (extracted_text, source_kind).
     source_kind is 'pdf' or 'html'."""
     LOG.info("Downloading plan: %s", url)
-    resp = requests.get(url, headers=CONFIG["http_headers"],
-                        timeout=CONFIG["request_timeout"], allow_redirects=True)
-    resp.raise_for_status()
+    # Gov plan hosts are sometimes slow; retry on timeout/connection errors.
+    resp = None
+    for attempt in range(1, CONFIG["download_attempts"] + 1):
+        try:
+            resp = requests.get(url, headers=CONFIG["http_headers"],
+                                timeout=CONFIG["request_timeout"],
+                                allow_redirects=True)
+            resp.raise_for_status()
+            break
+        except (requests.Timeout, requests.ConnectionError) as e:
+            if attempt == CONFIG["download_attempts"]:
+                raise
+            LOG.warning("Download attempt %d/%d failed (%s); retrying...",
+                        attempt, CONFIG["download_attempts"], e)
     content = resp.content
     content_type = resp.headers.get("Content-Type", "").lower()
 

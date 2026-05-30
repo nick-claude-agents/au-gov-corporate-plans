@@ -212,7 +212,9 @@ def run_all(skip_existing: bool, limit: int | None, only: str | None,
             fail += 1
         time.sleep(1)               # be gentle on source sites
     LOG.info("Backfill complete. Succeeded: %d, failed: %d.", ok, fail)
-    return 0 if fail == 0 else 1
+    # Per-plan failures (e.g. a slow/stale source URL) are expected in a batch and
+    # must NOT fail the whole (scheduled) run — successes are still saved/committed.
+    return 0
 
 
 def run_one(agency: str, portfolio: str, url: str, email_snippet: bool,
@@ -269,7 +271,7 @@ def run_refresh_stale(max_age_days: int, limit: int | None,
             fail += 1
         time.sleep(1)
     LOG.info("Refresh complete. Updated: %d, failed: %d.", ok, fail)
-    return 0 if fail == 0 else 1
+    return 0          # tolerate per-plan failures in the scheduled run
 
 
 def main() -> int:
