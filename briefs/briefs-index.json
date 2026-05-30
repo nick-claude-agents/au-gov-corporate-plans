@@ -104,6 +104,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "department-of-home-affairs": {
+      "name": "Department of Home Affairs",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.homeaffairs.gov.au/commitments/files/corporate-plan-2025-26.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26",
+      "overall_confidence": "High"
     }
   }
 }

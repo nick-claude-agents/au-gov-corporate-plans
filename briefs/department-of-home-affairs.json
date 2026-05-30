@@ -1,0 +1,269 @@
+{
+  "agency_name": "Department of Home Affairs",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-26",
+  "executive_summary": "Home Affairs is a large, complex policy-and-operations department spanning national security, cyber, critical infrastructure, immigration/citizenship, multicultural affairs and (through the ABF) border and customs. Its 2025-26 plan is dominated by post-MoG realignment (effective 17 July 2025), a multi-year Transformation Agenda responding to the 2024 APSC Capability Review, and a 10-year Digital Investment Plan to modernise visa, trade and travel systems. The department admits pressure on financial management capability, data governance maturity, workforce capability and regulatory maturity, while running named time-bound programs (Western Sydney Airport border facilities, Simplified Trade System, citizenship backlog reduction from 160,000 to 80,000, Nauru enduring capability, NZYQ/BVR community-protection arrangements). External signals — the Pezzullo sacking, Richardson contractor inquiry, and multiple ANAO findings on data governance and recommendation close-out — reinforce a department rebuilding governance, integrity and assurance. This is a high-value account with strong fits across Programs/Projects & Change, Digital & ICT Delivery, Audit & Assurance, Data/Analytics and Strategy/Governance, tempered by security-clearance and probity sensitivities.",
+  "strategic_priorities": [
+    {
+      "title": "Transformation Agenda and Capability Review response",
+      "description": "Shift from foundational fixes to embedding long-term cultural and capability uplift across the department and ABF, delivering the Transformation Action Plan as the formal response to the 2024 APSC Capability Review across three pillars (Exemplary Leadership, Game Changing Agenda, Collaboration at our Core).",
+      "source_quote": "More than 30 projects are now complete... we will continue to progress our Transformation Agenda by shifting from foundational actions to embedding long-term cultural and capability uplift."
+    },
+    {
+      "title": "Digital and data modernisation",
+      "description": "Implement the finalised 10-year Digital Investment Plan and Technology Investment Plan to modernise critical visa, trade and travel ICT and operational technology, uplift cyber resilience, establish data governance frameworks and adopt AI.",
+      "source_quote": "the department has recently finalised its 10-year Digital Investment Plan, which outlines strategic shifts critical to the way we use, drive and leverage technology and data."
+    },
+    {
+      "title": "Visa and citizenship processing recovery",
+      "description": "Reduce the on-hand citizenship caseload from 160,118 to 80,000 by 30 June 2026 through an uplift to over 300,000 decisions per annum, while maintaining migration program delivery and visa processing efficiency.",
+      "source_quote": "reduce the on-hand applications from 160,118 at 30 June 2025 to less than or equal to 80,000 as at 30 June 2026."
+    },
+    {
+      "title": "Border modernisation programs",
+      "description": "Deliver design of standalone border facilities at Western Sydney International Airport (opening 2026), progress the Simplified Trade System microeconomic reform, and prepare for the 2032 Brisbane Olympics amid growing trade and travel volumes.",
+      "source_quote": "volumes of travel and trade will continue to grow, particularly as Western Sydney International Airport opens in 2026 and the department prepares for the 2032 Brisbane Olympics."
+    },
+    {
+      "title": "Financial sustainability and management capability",
+      "description": "Lift financial management capability, budget discipline and management accountability, finalise and implement a 10-year capital investment plan and develop strategies for a sustainable fiscal outlook in response to Capability Review findings.",
+      "source_quote": "Finalise and implement the 10 year capital investment plan in accordance with the APSC Capability Review findings and secure appropriate funding for an enduring capability."
+    },
+    {
+      "title": "Regulatory maturity uplift",
+      "description": "Invest in enterprise-wide regulatory capability and maturity across border, migration, critical infrastructure, cyber and transport security, aligning to RMG 128 with risk-based, data-driven regulation and improved performance monitoring and evaluation.",
+      "source_quote": "the department will invest in our regulatory maturity to ensure our design and administration of regulation supports productivity, economic prosperity and where practicable reduces regulatory burden."
+    },
+    {
+      "title": "NZYQ/community protection and immigration compliance",
+      "description": "Operate new community-protection arrangements for the NZYQ-BVR cohort (Community Protection Board, Operation AEGIS) and deliver character/cancellation considerations and detention-network assurance to manage community safety risk.",
+      "source_quote": "The ABF chaired Community Protection Board (the Board) was established in December 2023 to provide informed, impartial and evidence-based recommendations."
+    },
+    {
+      "title": "Integrity culture and anti-corruption",
+      "description": "Build on the Integrity Culture Strategy, support the National Anti-Corruption Commission, and implement refined employee suitability and integrity procedures including an Insider Threat program.",
+      "source_quote": "Support the work of the National Anti-Corruption Commission and implement lessons learnt as part of our forward work plan."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Machinery-of-Government changes announced 12 May 2025 and implemented 17 July 2025, realigning functions and expanding the portfolio (AFP, ASIO, AUSTRAC, ACIC, AIC, NEMA)",
+    "2024 APSC Capability Review of Home Affairs driving the Transformation Action Plan",
+    "Data and Digital Government Strategy and the new 10-year Digital Investment Plan",
+    "2023-2030 Australian Cyber Security Strategy (Horizon 1 completion end-2025, Horizon 2 implementation plan)",
+    "Security of Critical Infrastructure Act 2018 (SOCI) regulatory obligations and telecommunications security reforms",
+    "Safer Australia - Counter Terrorism and Violent Extremism Strategy 2025 and the new National Support and Intervention Program (NSIP)",
+    "NZYQ High Court decision driving Bridging (Removal Pending) visa and Community Protection Board arrangements",
+    "Migrant worker exploitation reforms and OMARA migration-agent regulation changes",
+    "Simplified Trade System microeconomic reform and Western Sydney Airport opening (2026); 2032 Brisbane Olympics",
+    "Strategic Commissioning Framework requiring conversion of labour-hire contractors to APS staff (40 FTE target in 2025-26 and 2026-27)",
+    "Citizenship caseload backlog (160,118) requiring uplift to 300,000+ decisions per annum"
+  ],
+  "challenges_and_risks": [
+    "Workforce risk: attracting and retaining capability, psychosocial/WHS risk across diverse operational settings",
+    "Integrity and security risk: fraud, corruption, insider threat, cyber-enabled misconduct and protective security",
+    "Organisational compliance risk: lawful exercise of powers, currency of policies and processes",
+    "Planning and alignment risk: ensuring resources, systems and data are integrated and forward-looking",
+    "Data governance maturity gaps (flagged in plan and by ANAO) undermining data-driven decision-making",
+    "Financial sustainability pressure and need to lift financial management capability",
+    "Ageing/critical ICT underpinning visa, trade and travel that must remain resilient",
+    "Declining social cohesion and stakeholder/consultation fatigue",
+    "Contractor due diligence and procurement integrity weaknesses (per external inquiries)",
+    "Reputational and cultural rebuilding following leadership turmoil"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Long-serving Secretary Mike Pezzullo was stood aside in September 2023 and dismissed on 27 November 2023 after an inquiry found at least 14 APS Code of Conduct breaches, including using his position for personal benefit and political commentary; he was later stripped of his Order of Australia honour.",
+      "implication": "A leadership rupture at the top signals a department rebuilding governance, culture and integrity controls — demand for governance-uplift, probity and culture-change advisory, alongside heightened sensitivity around procurement propriety.",
+      "source": "Wikipedia, 'Mike Pezzullo' — https://en.wikipedia.org/wiki/Mike_Pezzullo"
+    },
+    {
+      "summary": "An inquiry by Dennis Richardson reportedly blamed senior public servants for years of failures that allowed billions in contracts to flow to companies linked to alleged serious crime, with warnings ignored for years.",
+      "implication": "Indicates persistent weaknesses in contractor due diligence, vendor risk and contract assurance — an opening for procurement-controls, supplier-integrity vetting and contract governance advisory.",
+      "source": "Crikey, 14 Feb 2024 — https://www.crikey.com.au/2024/02/14/peter-dutton-home-affairs-scandal-kpmg-paladin-news-corp/"
+    },
+    {
+      "summary": "Home Affairs doubled the higher-education temporary graduate (subclass 485) visa fee from ~A$2,300 to ~A$4,600 with immediate effect, drawing criticism that it threatens Australia's foreign research-talent pipeline.",
+      "implication": "Rapid, contested migration fee/policy changes create regulatory-impact, stakeholder-management and sector-engagement work and signal pressure to defend cost-recovery and integrity settings.",
+      "source": "Nature, 20 Mar 2026 — https://www.nature.com/articles/d41586-026-00822-3"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO Report No. 26 of 2023-24 concluded appropriate arrangements are not in place to support the regulation of migration agents, with missing/incomplete compliance strategy and plan documentation, and audit analysis hampered by poor departmental data quality.",
+      "implication": "Clear demand for regulatory-operating-model design, compliance-framework development, data quality/governance remediation and SOP/process documentation in OMARA — directly relevant to Targets 47-48 in the plan.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/department-home-affairs-regulation-migration-agents"
+    },
+    {
+      "summary": "The ANAO records six significant and three moderate unresolved findings from the 2023-24 performance statements audit, highlighting data governance/management maturity risks and revenue completeness/accuracy risks across a large distributed ICT environment.",
+      "implication": "Strong, current pipeline for data governance, performance-measurement/assurance frameworks and ICT/revenue-controls uplift.",
+      "source": "ANAO, Home Affairs portfolio — https://www.anao.gov.au/work-program/portfolio/home-affairs"
+    },
+    {
+      "summary": "An ANAO audit on implementation of Parliamentary Committee and Auditor-General recommendations assessed at least one recommendation as 'not implemented' and noted the department contested a Category A finding; Management Action Plans were introduced from February 2022 to track recommendation owners.",
+      "implication": "Indicates weaknesses in closing out audit/committee recommendations — an opening for remediation-tracking, assurance and Management Action Plan governance support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/implementation-parliamentary-committee-and-auditor-general-recommendations-department-home-affairs"
+    },
+    {
+      "summary": "ANAO Report No. 14 of 2022-23 found the media/communications branch's role and remit were not well defined, the structure created duplication and reduced effectiveness, client feedback was not processed within target timeframes, and an external call-centre provider underperformed in 2021-22.",
+      "implication": "Scope for communications operating-model design, contact-centre performance management and KPI/contract-management improvement.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/department-home-affairs-management-its-public-communications-and-media-activities"
+    },
+    {
+      "summary": "The ANAO lists a potential performance audit of 'Enterprise governance at the Department of Home Affairs', signalling continued audit focus on risk-oversight and internal-control systems.",
+      "implication": "Pre-emptive governance and risk-framework uplift and assurance readiness work can position the department ahead of a likely audit.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/enterprise-governance-the-department-of-home-affairs"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "At the 12 February 2024 Senate Estimates hearing, new Secretary Stephanie Foster addressed culture and stability after the inquiry into the former Secretary, reported reducing senior acting positions (39 to 26) and vacancies (23 to 14), and noted $276m for the current year and $1.02b over the forwards in Portfolio Additional Estimates.",
+      "implication": "Confirms active parliamentary scrutiny of culture, leadership stability and workforce, plus fresh funding to deploy — relevant for workforce planning, recruitment, culture/change and program-delivery advisory.",
+      "source": "Department of Home Affairs (Senate Estimates statement) — https://www.homeaffairs.gov.au/news-media/speeches/2024/12-february-senate-estimates"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Digital Investment Plan delivery and visa/trade/travel modernisation",
+      "agency_need": "Implementing a finalised 10-year Digital Investment Plan and Technology Investment Plan to modernise critical and ageing visa, trade and travel ICT and operational technology.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for prioritised platform modernisation, systems development/integration and ongoing support and operations, scaled to specific visa/cargo/traveller systems under the investment-plan roadmap.",
+      "rationale": "The plan names a finalised 10-year Digital Investment Plan and Technology Investment Plan and stresses resilient, fit-for-purpose border ICT — a large, multi-year, build-capable opportunity. Reinforced by ANAO findings on distributed ICT and revenue-controls risk.",
+      "confidence": "High"
+    },
+    {
+      "area": "Western Sydney Airport and Simplified Trade System program delivery",
+      "agency_need": "Delivering design milestones for standalone WSA border facilities (incl. Joint Cargo Examination Facility) and reform milestones under the Simplified Trade System ahead of 2026/2032 deadlines.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery and delivery-assurance for the WSA border-facility design phases and the Simplified Trade System workstreams (SCIM, DTAP, regulatory reform), with milestone and benefits management.",
+      "rationale": "Targets 60 and 61 set named, time-bound milestone-based deliverables tied to fixed events (WSA 2026, Brisbane 2032), creating clear program-management demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data governance framework and analytics uplift",
+      "agency_need": "Establishing clear data governance frameworks and standards to improve collection, extraction and use of data, and leveraging analytics/AI.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Design and stand-up of an enterprise data governance framework with data quality remediation, plus business-intelligence and analytics capability aligned to the updated AI Strategy.",
+      "rationale": "The plan commits to establishing data governance frameworks and an updated AI Strategy; ANAO repeatedly flags data governance maturity and data-quality weaknesses (migration agents audit, performance statements findings).",
+      "confidence": "High"
+    },
+    {
+      "area": "Citizenship and visa processing surge support",
+      "agency_need": "Reducing the on-hand citizenship caseload from 160,118 to 80,000 by lifting decisions above 300,000 per annum, and improving visa finalisations per FTE.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A processing-surge delivery program with workflow/throughput redesign, capacity planning and change management to sustain the decision uplift, complemented by business/process analysis.",
+      "rationale": "Target 26 sets an explicit, ambitious backlog reduction requiring a doubling of decision output; Targets 23-24 focus on processing efficiency — strong delivery and process-improvement demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance measurement framework redesign",
+      "agency_need": "Strengthening performance information; multiple targets are newly introduced or amended for 2025-26 with proxy measures and varied benchmarks.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review and redesign, replacing proxy/output measures with robust effectiveness and outcome measures and improving methodologies and evaluation.",
+      "rationale": "The plan acknowledges continuous improvement of performance reporting and uses several proxy measures and newly introduced targets; ANAO performance-statements findings reinforce the need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise governance and risk-framework uplift",
+      "agency_need": "Ensuring governance arrangements are fit-for-purpose and uplifting enterprise risk maturity following an in-depth 2024-25 Risk Management Framework review.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance and committee-effectiveness review plus risk-framework refresh and risk-culture/capability-building program across the five enterprise risks.",
+      "rationale": "The plan describes a recent risk-framework review and prioritised risk education/capability in 2025-26; ANAO lists a potential 'Enterprise governance' audit, making pre-emptive uplift attractive.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Procurement assurance and contract-management uplift",
+      "agency_need": "Driving value-for-money procurement, robust assurance across procurement/contract management and oversight of HRHV procurements.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Procurement-assurance health check, probity advisory for major/HRHV procurements, and contract-management framework uplift including supplier-integrity due-diligence processes.",
+      "rationale": "The plan names a dedicated Chief Procurement Officer, an HRHV Oversight Committee and a commitment to a robust assurance framework; the Richardson contractor inquiry signals real contractor due-diligence weaknesses.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial management capability and capital investment planning",
+      "agency_need": "Lifting financial management capability and budget discipline, finalising a 10-year capital investment plan and developing a sustainable fiscal outlook.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and financial-capability uplift program, plus support to finalise the 10-year capital investment plan with costing models for enduring capability funding.",
+      "rationale": "The plan explicitly commits to lifting financial management capability and finalising a 10-year capital investment plan per Capability Review findings; Estimates confirm significant new funding to manage.",
+      "confidence": "High"
+    },
+    {
+      "area": "Workforce strategy implementation and culture/respect uplift",
+      "agency_need": "Implementing the Workforce Strategy 2025-27, Respectful Workplace Plans, AHRC recommendations and converting labour hire to APS staff.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability-mapping support, organisational design for the Strategic Commissioning conversion, and culture/respect change implementation.",
+      "rationale": "Workforce is enterprise risk 1, with named strategies, AHRC recommendations and a labour-hire conversion target; Estimates confirm parliamentary scrutiny of culture and recruitment.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber resilience and Essential Eight uplift",
+      "agency_need": "Implementing the Cyber Security Resilience Strategy, uplifting Essential Eight maturity and protecting sensitive systems and data.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of critical border/visa systems plus Essential Eight maturity-uplift advisory, aligned to the PSPF and the department's resilience strategy.",
+      "rationale": "The plan commits to Essential Eight maturity uplift and cyber resilience as an integrity-and-security risk control, alongside its critical-ICT custodianship.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Migration-agent regulation operating model (OMARA)",
+      "agency_need": "Improving timeliness and effectiveness of RMA investigations and registration assessments amid adverse ANAO findings.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A regulatory operating-model and compliance-framework design for OMARA, including a documented compliance strategy/plan and supporting data and process standards.",
+      "rationale": "Targets 47-48 reset RMA regulatory benchmarks; the ANAO migration-agents audit found arrangements were not appropriate and compliance documentation incomplete — a direct remediation opportunity.",
+      "confidence": "High"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the Chief Operating Officer's group and Chief Information Officer function to discuss delivery and assurance support for the 10-year Digital Investment Plan and Technology Investment Plan implementation.",
+      "priority": "High",
+      "rationale": "The finalised investment plans are pending implementation now and represent the largest, most durable opportunity; positioning before procurement decisions is critical."
+    },
+    {
+      "action": "Prepare a tailored capability statement on procurement assurance and supplier-integrity due diligence and approach the Chief Procurement Officer and HRHV Oversight Committee secretariat.",
+      "priority": "High",
+      "rationale": "The Richardson inquiry and ANAO findings expose contractor due-diligence weaknesses, and the plan commits to a robust procurement assurance framework — a credible, near-term need."
+    },
+    {
+      "action": "Develop a short thought piece on data governance and performance-measure redesign aligned to PGPA and recent ANAO findings, and table it with the Performance, Risk and Budget Committee secretariat and CRO.",
+      "priority": "High",
+      "rationale": "Data governance maturity is flagged in both the plan and multiple ANAO findings; a credible, evidence-led entry point that is less politically sensitive."
+    },
+    {
+      "action": "Engage the Immigration group (citizenship/visa delivery) on a processing-surge delivery and throughput-redesign offer ahead of the 30 June 2026 backlog target.",
+      "priority": "High",
+      "rationale": "The 160,118-to-80,000 caseload target requires doubling decision output within the year — an acute, time-bound delivery pressure."
+    },
+    {
+      "action": "Approach the WSA and Simplified Trade System program offices to offer delivery-assurance and PMO support against the named 2025-26 design and reform milestones.",
+      "priority": "Medium",
+      "rationale": "Targets 60-61 are milestone-based with fixed external deadlines (WSA 2026, Brisbane 2032), creating sustained program demand."
+    },
+    {
+      "action": "Watch the ANAO work program for the listed 'Enterprise governance at the Department of Home Affairs' audit and prepare a governance/risk-framework readiness offer for the CRO and audit/risk committee.",
+      "priority": "Medium",
+      "rationale": "A pending audit makes pre-emptive governance uplift attractive and timely, and aligns with the department's own 2024-25 risk-framework review."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer (Charlotte Tressler) and corporate enabling functions",
+    "Chief Information Officer / ICT and data function (Digital Investment Plan owner)",
+    "Chief Procurement Officer and High-Risk High-Value Oversight Committee secretariat",
+    "Chief Risk Officer and the Performance, Risk and Budget Committee",
+    "Chief Finance Officer / finance group (capital investment planning)",
+    "Deputy Secretary Immigration Programs (Michael Willard) and Immigration Compliance (Michael Thomas)",
+    "Head of Immigration (Clare Sharp) for citizenship/visa processing",
+    "Office of the Migration Agents Registration Authority (OMARA) leadership",
+    "ABF Strategy and Capability (Deputy Commissioner Jarrod Howard) for border modernisation",
+    "People, Culture and Safety Committee and HR/workforce strategy function",
+    "National Cyber Security Coordinator office and cyber resilience function"
+  ],
+  "talking_points": [
+    "Your 10-year Digital Investment Plan is now finalised and pending implementation — we can help move from plan to delivery on the highest-priority visa, trade and travel systems, with build and assurance capability in one provider.",
+    "ANAO has repeatedly flagged data governance maturity and data quality across your performance statements and the migration-agents audit; we can stand up an enterprise data governance framework that also strengthens your performance reporting.",
+    "The citizenship backlog target (160,000 down to 80,000) needs decision output to more than double this year — we bring proven processing-surge delivery and throughput redesign.",
+    "Following the Richardson inquiry and HRHV oversight focus, independent procurement assurance and supplier-integrity due diligence is a fast, defensible win that reduces contractor risk.",
+    "With WSA opening in 2026 and Brisbane 2032 ahead, milestone-based delivery assurance on WSA border facilities and the Simplified Trade System keeps named deliverables on track.",
+    "Capability Review and Estimates both spotlight financial management capability — we can support your 10-year capital investment plan and a financial-sustainability review to underpin enduring-capability funding."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The corporate plan is detailed and rich in named programs, strategies and enterprise risks, giving high confidence in the opportunity mapping. Key caveats: (1) much of the highest-value work touches classified/security-sensitive systems and the ABF/national-security functions, so clearance, access and probity constraints will shape feasibility and should be tested early; (2) the Strategic Commissioning Framework's drive to convert labour hire to APS staff and broader APS consulting-spend scrutiny may constrain external engagement, favouring specialist, assurance and build work over generalist advisory; (3) the parliamentary research is incomplete (tool limits), so additional Estimates/committee signals may exist; (4) precise budget envelopes for the Digital Investment Plan are 'pending investment' and not disclosed, so timing of large ICT opportunities is uncertain."
+}
