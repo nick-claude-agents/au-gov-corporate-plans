@@ -1,0 +1,33 @@
+{
+  "content_id": "256",
+  "title": "Sydney Harbour Federation Trust",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.harbourtrust.gov.au",
+  "description": "The Sydney Harbour Federation Trust is an agency created by the Australian Government responsible for vision planning and management of Sydney Harbour sites including Cockatoo Island and Snapper Island in Sydney Harbour, Woolwich Dock and Parklands in Woolwich, HMAS Platypus in Neutral Bay, Georges Heights, Middle Head and Chowder Bay in Mosman, North Head Sanctuary in Manly, Marine Biological Station in Watsons Bay and Macquarie Lightstation in Vaucluse. The Harbour Trust's vision is to create extraordinary places on the world's best harbour that are inspiring, loved and shared.  The Harbour Trust provides a lasting legacy for all Australians through conservation, remediation and the adaptive re-use of places in our care.  These public spaces and parklands now offer major events, exhibitions, venue hire, accommodation, tours and business tenancy.",
+  "dashboard_name": "Sydney Harbour Federation Trust",
+  "people_count": 1,
+  "tree": {
+    "content_id": "256",
+    "title": "Sydney Harbour Federation Trust",
+    "roles": [
+      {
+        "role": "Executive Director",
+        "person": "Janet Carding",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1754",
+        "title": "Sydney Harbour Federation Trust Community Advisory Committee",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

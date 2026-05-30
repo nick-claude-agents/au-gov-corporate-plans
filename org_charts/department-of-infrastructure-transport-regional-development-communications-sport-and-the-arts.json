@@ -1,0 +1,1908 @@
+{
+  "content_id": "199",
+  "title": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "https://www.infrastructure.gov.au",
+  "description": "Our work connects and enriches every Australian community, underpins our economy and society, and empowers our regions. We provide policy advice and deliver programs, projects and services in the infrastructure, transport, regional development, communications, sports and arts sectors, supporting our regions, cities and territories.",
+  "dashboard_name": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+  "people_count": 126,
+  "tree": {
+    "content_id": "199",
+    "title": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "48294",
+        "title": "Aviation Consumer Ombuds Scheme",
+        "roles": [
+          {
+            "role": "Interim Commonwealth Aviation Consumer Ombudsperson",
+            "person": "Samantha Palmer",
+            "vacant": false,
+            "acting": false,
+            "email": "samantha.palmer@infrastructure.gov.au",
+            "phone": "02 6136 8252",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3201",
+        "title": "Broadcasting, Media and News Policy",
+        "roles": [
+          {
+            "role": "A/g First Assistant Secretary",
+            "person": "Margaret Lopez",
+            "vacant": false,
+            "acting": false,
+            "email": "margaret.lopez@communications.gov.au",
+            "phone": "02 6136 6885",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2104",
+            "title": "Broadcasting and Gambling Branch",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Margaret Lopez",
+                "vacant": false,
+                "acting": true,
+                "email": "margaret.lopez@communications.gov.au",
+                "phone": "6136 6885",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48088",
+            "title": "News and Journalism",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Susan Charles",
+                "vacant": false,
+                "acting": true,
+                "email": "susan.charles@infrastructure.gov.au",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2662",
+            "title": "Television, Radio and Streaming",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "James Penprase",
+                "vacant": false,
+                "acting": false,
+                "email": "james.penprase@communications.gov.au",
+                "phone": "6136 6770",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3157",
+        "title": "Commonwealth Infrastructure Projects",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Stephanie Werner",
+            "vacant": false,
+            "acting": false,
+            "email": "stephanie.werner@infrastructure.gov.au",
+            "phone": "(02) 6136 7009",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "36872",
+            "title": "Intermodals, Strategic Infrastructure Projects and Governance",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "David Muldoon",
+                "vacant": false,
+                "acting": false,
+                "email": "david.muldoon@infrastructure.gov.au",
+                "phone": "6136 8578",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40959",
+            "title": "Office of Road Safety & Programs",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Katrina Kendall",
+                "vacant": false,
+                "acting": false,
+                "email": "katrina.kendall@infrastructure.gov.au",
+                "phone": "02 6136 8735",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2037",
+            "title": "Rail Delivery",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Rachel Figurski",
+                "vacant": false,
+                "acting": false,
+                "email": "rachel.figurski@infrastructure.gov.au",
+                "phone": "6136 6570",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "45854",
+            "title": "WSI Delivery, High Speed Rail and Infrastructure Advisory",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "James Savage",
+                "vacant": false,
+                "acting": false,
+                "email": "james.savage@infrastructure.gov.au",
+                "phone": "02 6136 6373",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3153",
+        "title": "Communications and Markets",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Lisa La Rance",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.larance@infrastructure.gov.au",
+            "phone": "02 6136 7930",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2096",
+            "title": "Broadband and Post",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Shanyn Sparreboom",
+                "vacant": false,
+                "acting": false,
+                "email": "shanyn.sparreboom@infrastructure.gov.au",
+                "phone": "02 6136 6991",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2098",
+            "title": "Digital Inclusion and Deployment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jason Ashurst",
+                "vacant": false,
+                "acting": false,
+                "email": "jason.ashurst@communications.gov.au",
+                "phone": "02 6136 6778",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3600",
+            "title": "Spectrum, International and Markets",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Andrew Irwin",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.irwin@infrastructure.gov.au",
+                "phone": "6136 6187",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2102",
+            "title": "Universal Service",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Nicolle Power",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "6136 6182",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3154",
+        "title": "Connectivity",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Sam Grunhard",
+            "vacant": false,
+            "acting": false,
+            "email": "sam.grunhard@infrastructure.gov.au",
+            "phone": "6136 6429",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2101",
+            "title": "Consumer Safeguards",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Kate McMullan",
+                "vacant": false,
+                "acting": false,
+                "email": "kathleen.silleri@communications.gov.au",
+                "phone": "6136 6824",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40976",
+            "title": "Regional Connectivity",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Karly Pidgeon",
+                "vacant": false,
+                "acting": false,
+                "email": "karly.pidgeon@communications.gov.au",
+                "phone": "6136 6819",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2099",
+            "title": "Regional Mobile Infrastructure Programs",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Karly Pidgeon",
+                "vacant": false,
+                "acting": false,
+                "email": "karly.pidgeon@communications.gov.au",
+                "phone": "6136 6819",
+                "importance": 1
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40979",
+        "title": "Corporate Service Delivery Program",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Diana Hallam",
+            "vacant": false,
+            "acting": false,
+            "email": "diana.hallam@infrastructure.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3159",
+        "title": "Data, Research, Strategy",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Georgia O'Cianain",
+            "vacant": false,
+            "acting": false,
+            "email": "georgia.o'cianain@infrastructure.gov.au",
+            "phone": "6136 6285",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3148",
+        "title": "Domestic Aviation & Reform",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Jennifer Stace",
+            "vacant": false,
+            "acting": false,
+            "email": "jennifer.stace@infrastructure.gov.au",
+            "phone": "02 6136 7376",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3884",
+            "title": "Airport Environment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Donna Phillips",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6136 6281",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2005",
+            "title": "Airports",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Sarah Nattey",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.nattey@infrastructure.gov.au",
+                "phone": "(02) 6136 8444",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3883",
+            "title": "Domestic Policy & Programs",
+            "roles": [
+              {
+                "role": "Acting Assistant Secretary",
+                "person": "Belinda Sachse",
+                "vacant": false,
+                "acting": false,
+                "email": "belinda.sachse@infrastructure.gov.au",
+                "phone": "02 6136 7307",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3882",
+            "title": "Sydney Airport Slots and Consumer Aviation Reforms",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Ben Meagher",
+                "vacant": false,
+                "acting": false,
+                "email": "benjamin.meagher@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "48831",
+        "title": "Enterprise Resource Planning Program",
+        "roles": [
+          {
+            "role": "Assistant Secretary",
+            "person": "Anthony Howatson",
+            "vacant": false,
+            "acting": false,
+            "email": "anthony.howatson@infrastructure.gov.au",
+            "phone": "02 6236 7120",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3147",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary, Department of Infrastructure, Transport, Regional Development Communications and the Arts",
+            "person": "Jim Betts",
+            "vacant": false,
+            "acting": false,
+            "email": "jim.betts@infrastructure.gov.au",
+            "phone": "6136 6436",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff to the Secretary",
+            "person": "Angela French",
+            "vacant": false,
+            "acting": false,
+            "email": "angela.french@infrastructure.gov.au",
+            "phone": "6136 7258",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Secretary Jim Betts",
+            "person": "Lisa Tonna",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.tonna2@infrastructure.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary, Transport",
+            "person": "Rachel Parry",
+            "vacant": false,
+            "acting": false,
+            "email": "rachel.parry@infrastructure.gov.au",
+            "phone": "02 6136 9733",
+            "importance": 4
+          },
+          {
+            "role": "A/g Executive Officer to Deputy Secretary, Transport",
+            "person": "Lisa Oliver",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.oliver@infrastructure.gov.au",
+            "phone": "02 6136 6649",
+            "importance": 5
+          },
+          {
+            "role": "Executive Assistant - Deputy Secretary Transport",
+            "person": "Helen Nealer",
+            "vacant": false,
+            "acting": false,
+            "email": "helen.nealer@infrastructure.gov.au",
+            "phone": "6136",
+            "importance": 6
+          },
+          {
+            "role": "Acting Deputy Secretary - Chief Operating Officer",
+            "person": "Ruth Wall",
+            "vacant": false,
+            "acting": false,
+            "email": "ruth.wall@infrastructure.gov.au",
+            "phone": "6136 7904",
+            "importance": 7
+          },
+          {
+            "role": "Executive Officer to Deputy Secretary, Ruth Wall",
+            "person": "Natasha Khera",
+            "vacant": false,
+            "acting": false,
+            "email": "natasha.khera@infrastructure.gov.au",
+            "phone": "6136 7907",
+            "importance": 8
+          },
+          {
+            "role": "Executive Officer to Chief Operating Officer Maree Bridger",
+            "person": "Corrina Searant",
+            "vacant": false,
+            "acting": false,
+            "email": "corrina.searant@infrastructure.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "Executive Assistant to Chief Operating Officer Maree Bridger",
+            "person": "Yvette Dowse",
+            "vacant": false,
+            "acting": false,
+            "email": "yvette.dowse@infrastructure.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "Acting Deputy Secretary, Sport, Territories and Regions",
+            "person": "Lisa Rauter",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.rauter@infrastructure.gov.au",
+            "phone": "(02)6136 6445",
+            "importance": 11
+          },
+          {
+            "role": "Acting Executive Officer, Acting Deputy Secretary - Sport, Territories and Regions",
+            "person": "Kate Middleton",
+            "vacant": false,
+            "acting": false,
+            "email": "kate.middleton2@infrastructure.gov.au",
+            "phone": "6136 7812",
+            "importance": 12
+          },
+          {
+            "role": "Acting Executive Assistant, Acting Deputy Secretary - Sport, Territories and Regions",
+            "person": "Euphemia Chiriso",
+            "vacant": false,
+            "acting": false,
+            "email": "euphemia.chiriso@infrastructure.gov.au",
+            "phone": "6136 7000",
+            "importance": 13
+          },
+          {
+            "role": "Deputy Secretary, Infrastructure",
+            "person": "Jessica Hall",
+            "vacant": false,
+            "acting": false,
+            "email": "jessica.hall@infrastructure.gov.au",
+            "phone": "02 6136 7129",
+            "importance": 14
+          },
+          {
+            "role": "Executive Officer to Deputy Secretary Jessica Hall",
+            "person": "Dollie Yao",
+            "vacant": false,
+            "acting": false,
+            "email": "dollie.yao@infrastructure.gov.au",
+            "phone": "",
+            "importance": 15
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary Jessica Hall",
+            "person": "Alana  Harrison",
+            "vacant": false,
+            "acting": false,
+            "email": "alana.harrison@infrastructure.gov.au",
+            "phone": "",
+            "importance": 16
+          },
+          {
+            "role": "Deputy Secretary, Creative Economy and the Arts",
+            "person": "Stephen Arnott",
+            "vacant": false,
+            "acting": false,
+            "email": "stephen.arnott@arts.gov.au",
+            "phone": "6136 7010",
+            "importance": 17
+          },
+          {
+            "role": "Executive Officer to Deputy Secretary Stephen Arnott",
+            "person": "Kate Margiotta",
+            "vacant": false,
+            "acting": false,
+            "email": "kate.margiotta@arts.gov.au",
+            "phone": "",
+            "importance": 18
+          },
+          {
+            "role": "Deputy Secretary, Communications and Media",
+            "person": "David Mackay",
+            "vacant": false,
+            "acting": false,
+            "email": "david.mackay@infrastructure.gov.au",
+            "phone": "02 6136 7471",
+            "importance": 19
+          },
+          {
+            "role": "Executive Officer to Deputy Secretary David Mackay",
+            "person": "Renee Dennis",
+            "vacant": false,
+            "acting": false,
+            "email": "renee.dennis@infrastructure.gov.au",
+            "phone": "02 6136 7646",
+            "importance": 20
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary David Mackay",
+            "person": "Alicia Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "alicia.smith@infrastructure.gov.au",
+            "phone": "",
+            "importance": 21
+          },
+          {
+            "role": "Deputy Secretary, Enterprise Resource Planning",
+            "person": "Maree Bridger",
+            "vacant": false,
+            "acting": false,
+            "email": "maree.bridger@infrastructure.gov.au",
+            "phone": "",
+            "importance": 22
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2009",
+            "title": "Enabling Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary/ Chief People Officer",
+                "person": "Susan Charles",
+                "vacant": false,
+                "acting": false,
+                "email": "susan.charles@infrastructure.gov.au",
+                "phone": "6136 8605",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1591",
+                "title": "Communication Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cathie Kennedy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cathie.kennedy@infrastructure.gov.au",
+                    "phone": "6136",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53645",
+                "title": "Corporate Priorities",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kate Feros",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.feros@infrastructure.gov.au",
+                    "phone": "6136 7810",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43345",
+                "title": "Government and Business Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Cattermole",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.cattermole@infrastructure.gov.au",
+                    "phone": "6136 6217",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40899",
+                "title": "Integrated Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sonia Bradley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sonia.bradley@infrastructure.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52619",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "People",
+                    "person": "Kylie Donovan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kylie.donovan@infrastructure.gov.au",
+                    "phone": "6136 8836",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3150",
+        "title": "Finance, Strategy, Budget and Research Division",
+        "roles": [
+          {
+            "role": "Chief Financial Officer / First Assistant Secretary",
+            "person": "Cha Jordanoski",
+            "vacant": false,
+            "acting": false,
+            "email": "cha.jordanoski@infrastructure.gov.au",
+            "phone": "6136 7382",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1590",
+            "title": "Budget Engagement and Strategy",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Mike Hogben",
+                "vacant": false,
+                "acting": false,
+                "email": "mike.hogben@infrastructure.gov.au",
+                "phone": "6136 8567",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2002",
+            "title": "Bureau of Infrastructure and Transport Research Economics (BITRE) and Bureau of Communications, Arts and Regional Research (BCARR)",
+            "roles": [
+              {
+                "role": "Head of Bureau",
+                "person": "Georgia O'Cianain",
+                "vacant": false,
+                "acting": true,
+                "email": "georgia.o'cianain@infrastructure.gov.au",
+                "phone": "6136 6285",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "43762",
+            "title": "Financial Management",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jodi George",
+                "vacant": false,
+                "acting": false,
+                "email": "jodi.george@infrastructure.gov.au",
+                "phone": "6136 8598",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2004",
+            "title": "Strategy, Economic Policy, Performance & Evaluation",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Justin Iu",
+                "vacant": false,
+                "acting": false,
+                "email": "justin.iu@infrastructure.gov.au",
+                "phone": "6136 6813",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "52933",
+        "title": "Financial Sustainability Taskforce",
+        "roles": [
+          {
+            "role": "Assistant Secretary",
+            "person": "Rebecca Rush",
+            "vacant": false,
+            "acting": false,
+            "email": "rebecca.rush@infrastructure.gov.au",
+            "phone": "6136 6957",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "40952",
+        "title": "First Nations Partnerships",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Lillian Gordon",
+            "vacant": false,
+            "acting": false,
+            "email": "lillian.gordon@infrastructure.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "43337",
+            "title": "Culture, Capability and Collaboration",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "David Lindenbaur",
+                "vacant": false,
+                "acting": false,
+                "email": "david.lindenbaur@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "43338",
+            "title": "Projects, Policy and Coordination",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Bek Hendriks",
+                "vacant": false,
+                "acting": false,
+                "email": "bek.hendriks@infrastructure.gov.au",
+                "phone": "02 6136 6264",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40900",
+        "title": "Information Technology and Data Division",
+        "roles": [
+          {
+            "role": "Chief Information Officer / First Assistant Secretary",
+            "person": "Jeff Goedecke",
+            "vacant": false,
+            "acting": false,
+            "email": "jeff.goedecke@infrastructure.gov.au",
+            "phone": "6136 6103",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3572",
+            "title": "Data, AI, Governance and Information Management, Chief Data Officer (CDO)",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Andreas Bleich",
+                "vacant": false,
+                "acting": false,
+                "email": "andreas.bleich@infrastructure.gov.au",
+                "phone": "02 6136 6201",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3574",
+            "title": "Digital Delivery",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Alex Clarke",
+                "vacant": false,
+                "acting": false,
+                "email": "alex.clarke@infrastructure.gov.au",
+                "phone": "6136 6053",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3575",
+            "title": "Strategy, Architecture & Cyber Security, Chief Technology Officer (CTO) and Chief Information Security Officer (CISO)",
+            "roles": [
+              {
+                "role": "Assistant Secretary /CTO & CISO",
+                "person": "Rob Doughty",
+                "vacant": false,
+                "acting": false,
+                "email": "rob.doughty@infrastructure.gov.au",
+                "phone": "6136 9876",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3152",
+        "title": "International Aviation, Technology & Services",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Richard Wood",
+            "vacant": false,
+            "acting": false,
+            "email": "richard.wood@infrastructure.gov.au",
+            "phone": "(02) 6136 8374",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2502",
+            "title": "International Aviation",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jim Wolfe",
+                "vacant": false,
+                "acting": false,
+                "email": "jim.wolfe@infrastructure.gov.au",
+                "phone": "(02) 6136 8073",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2106",
+            "title": "Safety & Future Technology",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Naa Opoku",
+                "vacant": false,
+                "acting": false,
+                "email": "naa.opoku@infrastructure.gov.au",
+                "phone": "(02) 6136 8258",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48089",
+            "title": "Transport Accessibility and Future Fuels",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Brendon Buckley",
+                "vacant": false,
+                "acting": false,
+                "email": "brendon.buckley@infrastructure.gov.au",
+                "phone": "02 6136 7339",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2503",
+            "title": "Western Sydney Airport Regulatory Policy",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "David Jansen",
+                "vacant": false,
+                "acting": false,
+                "email": "david.jansen@infrastructure.gov.au",
+                "phone": "6136 7468",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3146",
+        "title": "Land Transport Infrastructure Division",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Andrew Bourne",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.bourne@infrastructure.gov.au",
+            "phone": "02 6136 7241",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2107",
+            "title": "Budget, Policy and Assurance",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Simon Milnes",
+                "vacant": false,
+                "acting": false,
+                "email": "simon.milnes@infrastructure.gov.au",
+                "phone": "6136 6411",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "41526",
+            "title": "Infrastructure Investment Reform",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Toby Robinson",
+                "vacant": false,
+                "acting": false,
+                "email": "toby.robinson@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2108",
+            "title": "NSW and  ACT Infrastructure Investment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Lok Potticary",
+                "vacant": false,
+                "acting": false,
+                "email": "lok.potticary@infrastructure.gov.au",
+                "phone": "02 6136 7938",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47362",
+            "title": "QLD Infrastructure Investment & Brisbane 2032 Games Venues",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Bill Brummitt",
+                "vacant": false,
+                "acting": false,
+                "email": "bill.brummitt@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2109",
+            "title": "VIC, TAS and SA Infrastructure Investment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Lachlan Wood",
+                "vacant": false,
+                "acting": false,
+                "email": "lachlan.wood2@infrastructure.gov.au",
+                "phone": "6136 7882",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3335",
+            "title": "WA and NT Infrastructure Investment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Melony Czajor",
+                "vacant": false,
+                "acting": false,
+                "email": "melony.czajor@infrastructure.gov.au",
+                "phone": "02 6136 6232",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40978",
+        "title": "Legal And Integrity Division",
+        "roles": [
+          {
+            "role": "Chief Counsel Legal Services",
+            "person": "Christie McClure",
+            "vacant": false,
+            "acting": false,
+            "email": "christie.mcclure@infrastructure.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2509",
+            "title": "General Counsel Legal Services (Commercial Law)",
+            "roles": [
+              {
+                "role": "General Council Legal Services (Commercial)",
+                "person": "Kathryn Grimes",
+                "vacant": false,
+                "acting": false,
+                "email": "kathryn.grimes@infrastructure.gov.au",
+                "phone": "6136 8048",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2007",
+            "title": "General Counsel Legal Services (Public Law)",
+            "roles": [
+              {
+                "role": "A/g General Counsel Legal Services (Public Law)",
+                "person": "Paul Toole",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.toole@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2508",
+            "title": "Integrity",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Andrew Burke",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.burke@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "51756",
+        "title": "Office for Sport",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Travis Haslam",
+            "vacant": false,
+            "acting": false,
+            "email": "travis.haslam@infrastructure.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "51758",
+            "title": "Major Events",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Carolyn Paterson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "51757",
+            "title": "Policy and Programs",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Greg Perrett",
+                "vacant": false,
+                "acting": false,
+                "email": "greg.perrett@infrastructure.gov.au",
+                "phone": "6136 9702",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3151",
+        "title": "Office for the Arts",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Philip Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "philip.smith@arts.gov.au",
+            "phone": "6136 6198",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3208",
+            "title": "Arts Development and Investment",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Alison Todd",
+                "vacant": false,
+                "acting": false,
+                "email": "alison.todd@arts.gov.au",
+                "phone": "6136 6592",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3209",
+            "title": "Collections & Cultural Heritage",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Ann Campton",
+                "vacant": false,
+                "acting": true,
+                "email": "ann.campton@arts.gov.au",
+                "phone": "6136 6612",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3212",
+            "title": "Creative Industries",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jesse Fatnowna",
+                "vacant": false,
+                "acting": false,
+                "email": "jesse.fatnowna@infrastructure.gov.au",
+                "phone": "6136 7725",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3210",
+            "title": "First Nations Policy",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jake Budd",
+                "vacant": false,
+                "acting": false,
+                "email": "jake.budd@arts.gov.au",
+                "phone": "6136 8987",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3211",
+            "title": "National Cultural Policy and Programs",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Marie Gunnell",
+                "vacant": false,
+                "acting": false,
+                "email": "marie.gunnell@arts.gov.au",
+                "phone": "6136 6890",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "48223",
+        "title": "Online Safety and Classification",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Sarah Vandenbroek",
+            "vacant": false,
+            "acting": false,
+            "email": "sarah.vandenbroek@infrastructure.gov.au",
+            "phone": "6136 8446",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "48224",
+            "title": "Classification",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Mitchell Cole",
+                "vacant": false,
+                "acting": false,
+                "email": "mitchell.cole@infrastructure.gov.au",
+                "phone": "6136 8250",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48226",
+            "title": "Digital Platforms, International and Policy",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Andrew Hyles",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.hyles@communications.gov.au",
+                "phone": "6136 6187",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2100",
+            "title": "Group Strategy, Internet Governance and AI",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Ben Phelps",
+                "vacant": false,
+                "acting": false,
+                "email": "ben.phelps@infrastructure.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48225",
+            "title": "Online Safety",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Anthea Fell",
+                "vacant": false,
+                "acting": false,
+                "email": "anthea.fell@infrastructure.gov.au",
+                "phone": "6136 8883",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3145",
+        "title": "Regional Development and Local Government",
+        "roles": [
+          {
+            "role": "Acting First Assistant Secretary",
+            "person": "Jennie Hood",
+            "vacant": false,
+            "acting": false,
+            "email": "jennie.hood@infrastructure.gov.au",
+            "phone": "6136 7710",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2505",
+            "title": "Local Government, Regional Intelligence and Data",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Michael Gregory",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.gregory@infrastructure.gov.au",
+                "phone": "02 6136 8785",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3155",
+        "title": "Regional Development, Northern Australia and Local Government",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Lisa Rauter",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.rauter@infrastructure.gov.au",
+            "phone": "02 6136 6445",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2507",
+            "title": "Community Infrastructure & Major Projects",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jacinta McDonald",
+                "vacant": false,
+                "acting": false,
+                "email": "jacinta.mcdonald@infrastructure.gov.au",
+                "phone": "(02) 6136 7656",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2008",
+            "title": "National Programs",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Paul Cutting",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.cutting@infrastructure.gov.au",
+                "phone": "6136 8327",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40896",
+            "title": "Northern Territory Projects Taskforce",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Joanna Piva",
+                "vacant": false,
+                "acting": false,
+                "email": "joanna.piva@infrastructure.gov.au",
+                "phone": "6136 6378",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40960",
+            "title": "Office of Northern Australia",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Casey Greentree",
+                "vacant": false,
+                "acting": false,
+                "email": "casey.greentree@infrastructure.gov.au",
+                "phone": "6136 6480",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3207",
+            "title": "Regional Development & Local Government",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Erin Cassie",
+                "vacant": false,
+                "acting": false,
+                "email": "erin.cassie@infrastructure.gov.au",
+                "phone": "(02) 6136 7543",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40955",
+        "title": "Road Vehicle Regulation",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Anita Langford",
+            "vacant": false,
+            "acting": false,
+            "email": "anita.langford@infrastructure.gov.au",
+            "phone": "6136 7264",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47971",
+            "title": "New Vehicle Efficiency Standards Regulator",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Karen Najjar",
+                "vacant": false,
+                "acting": false,
+                "email": "karen.najjar@infrastructure.gov.au",
+                "phone": "02 6136 8757",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3599",
+            "title": "Transport Partnerships and Emerging Technology",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Mike Makin",
+                "vacant": false,
+                "acting": false,
+                "email": "mike.makin@infrastructure.gov.au",
+                "phone": "6136 8243",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40958",
+            "title": "Vehicle Safety Operations",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Amanda Milczarek",
+                "vacant": false,
+                "acting": false,
+                "email": "amanda.milczarek@infrastructure.gov.au",
+                "phone": "02 6136 7224",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40956",
+            "title": "Vehicle Safety Policy and Partnerships",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Melissa Cashman",
+                "vacant": false,
+                "acting": false,
+                "email": "melissa.cashman@infrastructure.gov.au",
+                "phone": "6136 8204",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3158",
+        "title": "Surface Transport Emissions and Policy",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Paula Stagg",
+            "vacant": false,
+            "acting": false,
+            "email": "paula.stagg@infrastructure.gov.au",
+            "phone": "02 6136 8339",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2658",
+            "title": "Land Transport Policy",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Sally Todd",
+                "vacant": false,
+                "acting": false,
+                "email": "sally.todd@infrastructure.gov.au",
+                "phone": "02 6136 8415",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2504",
+            "title": "Maritime and Shipping",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Megan Scott",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.scott@infrastructure.gov.au",
+                "phone": "6136 8192",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "36871",
+            "title": "Reducing Surface Transport Emissions",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Tristan Kathage",
+                "vacant": false,
+                "acting": false,
+                "email": "tristan.kathage2@infrastructure.gov.au",
+                "phone": "02 6136 6435",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53268",
+            "title": "Road User Charging Taskforce",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Daniel Caruso",
+                "vacant": false,
+                "acting": false,
+                "email": "daniel.caruso2@infrastructure.gov.au",
+                "phone": "6136 6691",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "40954",
+            "title": "Strategic Fleet",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Andrew Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.johnson@infrastructure.gov.au",
+                "phone": "(02) 6136 8197",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3156",
+        "title": "Territories",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Kim Forbes",
+            "vacant": false,
+            "acting": false,
+            "email": "kim.forbes@infrastructure.gov.au",
+            "phone": "6136 7856",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3326",
+            "title": "Indian Ocean Territories",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Adam Stankevicius",
+                "vacant": false,
+                "acting": false,
+                "email": "adam.stankevicius@infrastructure.gov.au",
+                "phone": "02 6136 7612",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3325",
+            "title": "Norfolk Island and Mainland Territories",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Rebecca Rush",
+                "vacant": false,
+                "acting": false,
+                "email": "rebecca.rush@infrastructure.gov.au",
+                "phone": "02 6136 6957",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3327",
+            "title": "Territories Enabling Services",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Michael Gregory",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.gregory@infrastructure.gov.au",
+                "phone": "6136 8785",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53271",
+            "title": "Territories Strategy and Legislation",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jo Neuling",
+                "vacant": false,
+                "acting": false,
+                "email": "jo.neuling@infrastructure.gov.au",
+                "phone": "6136 8309",
+                "importance": 4
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "52926",
+        "title": "Triple Zero Custodian",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Clare Chapple",
+            "vacant": false,
+            "acting": false,
+            "email": "clare.chapple@infrastructure.gov.au",
+            "phone": "6136 6672",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52927",
+            "title": "Custodian Implementation",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Jennie Hood",
+                "vacant": false,
+                "acting": false,
+                "email": "jennie.hood@infrastructure.gov.au",
+                "phone": "6136 7710",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52928",
+            "title": "Custodian Operations",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Kathleen Silleri",
+                "vacant": false,
+                "acting": true,
+                "email": "kathleen.silleri@infrastructure.gov.au",
+                "phone": "6136 6830",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "54785",
+            "title": "Special Adviser",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Kathleen Silleri",
+                "vacant": false,
+                "acting": false,
+                "email": "kathleen.silleri@infrastructure.gov.au",
+                "phone": "6136 6830",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

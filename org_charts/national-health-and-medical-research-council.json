@@ -1,0 +1,131 @@
+{
+  "content_id": "194",
+  "title": "National Health and Medical Research Council",
+  "acronym": "NHMRC",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.nhmrc.gov.au/about-us/corporate-plans-and-annual-reports",
+  "description": "The National Health and Medical Research Council (NHMRC) is Australia's peak body for supporting health and medical research, for developing health advice for the Australian community, health professionals, and governments, and for providing advice on ethical behaviour in health care and in the conduct of health and medical research.  <br />\n<br />\nThe NHMRC brings together the functions of research funding and the development of advice. One of its strengths is that it draws upon the resources of all components of the health system, including governments, medical practitioners, nurses and allied health professionals, researchers, teaching and research institutions, public and private program managers, service administrators, community health organisations, social health researchers, and consumers. NHMRC also has responsibilities under the Research Involving Human Embryos Act 2002, and the Prohibition of Human Cloning for Reproduction Act 2002.",
+  "dashboard_name": "National Health and Medical Research Council (NHMRC)",
+  "people_count": 8,
+  "tree": {
+    "content_id": "194",
+    "title": "National Health and Medical Research Council",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Steve Wesselingh",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "General Manager",
+        "person": "Prue Torrance",
+        "vacant": false,
+        "acting": false,
+        "email": "prue.torrance@nhmrc.gov.au",
+        "phone": "(02) 6217 9101",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Steve Wesselingh",
+        "vacant": false,
+        "acting": false,
+        "email": "steve.wesselingh@nhmrc.gov.au",
+        "phone": "(02) 6217 9200",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1645",
+        "title": "Corporate Operations and Information",
+        "roles": [
+          {
+            "role": "Chief Financial Officer",
+            "person": "Tony Krizan",
+            "vacant": false,
+            "acting": false,
+            "email": "tony.krizan@nhmrc.gov.au",
+            "phone": "(02) 6217 9410",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1646",
+        "title": "Council Secretariat",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1648",
+        "title": "Melbourne Office",
+        "roles": [
+          {
+            "role": "Manager",
+            "person": "Marion Berry",
+            "vacant": false,
+            "acting": false,
+            "email": "marion.berry@nhmrc.gov.au",
+            "phone": "(03) 8866 0400",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1650",
+        "title": "Research Foundations Branch",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Julie Glover",
+            "vacant": false,
+            "acting": false,
+            "email": "julie.glover@nhmrc.gov.au",
+            "phone": "(02) 6217 9397",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1647",
+        "title": "Research Quality and Priorities",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Nicholas Johnson",
+            "vacant": false,
+            "acting": false,
+            "email": "nicholas.johnson@nhmrc.gov.au",
+            "phone": "(02) 6217 9349",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1649",
+        "title": "Research Translation",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Alan Singh",
+            "vacant": false,
+            "acting": false,
+            "email": "alan.singh@nhmrc.gov.au",
+            "phone": "(02) 6217 9149",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "content_id": "193",
+  "title": "National Blood Authority",
+  "acronym": "NBA",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.blood.gov.au",
+  "description": "The National Blood Authority (NBA) is a statutory agency that manages and coordinates arrangements for the supply of blood and blood products and services on behalf of the Australian Government and state and territory governments.",
+  "dashboard_name": "National Blood Authority (NBA)",
+  "people_count": 4,
+  "tree": {
+    "content_id": "193",
+    "title": "National Blood Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "John Cahill",
+        "vacant": false,
+        "acting": false,
+        "email": "john.cahill@blood.gov.au",
+        "phone": "02 6151 5001",
+        "importance": 1
+      },
+      {
+        "role": "Deputy Chief Executive Officer",
+        "person": "Kate McCauley",
+        "vacant": false,
+        "acting": false,
+        "email": "kate.mccauley@blood.gov.au",
+        "phone": "02 6151 5011",
+        "importance": 2
+      },
+      {
+        "role": "Deputy Chief Executive Officer",
+        "person": "Ben Noyen",
+        "vacant": false,
+        "acting": false,
+        "email": "ben.noyen@blood.gov.au",
+        "phone": "0492 191 800",
+        "importance": 3
+      },
+      {
+        "role": "General Manager",
+        "person": "Adriana Platona",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 6
+      }
+    ],
+    "children": []
+  }
+}

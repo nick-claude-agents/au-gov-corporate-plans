@@ -1,0 +1,424 @@
+{
+  "content_id": "186",
+  "title": "Australian Institute of Health and Welfare",
+  "acronym": "AIHW",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.aihw.gov.au",
+  "description": "The Australian Institute of Health and Welfare (AIHW) is an independent statutory authority set up by the Australian Government to improve the health and wellbeing of Australians by providing reliable, regular, and relevant information and statistics on Australia's health and welfare. The Institute collects and reports information on a wide range of topics and issues, including health and welfare expenditure, hospitals, disease and injury, mental health to ageing, homelessness, disability, and child protection. Governments and the community use these reports and data to inform policy-making and programs relating to health, housing, and community service matters.",
+  "dashboard_name": "Australian Institute of Health and Welfare (AIHW)",
+  "people_count": 35,
+  "tree": {
+    "content_id": "186",
+    "title": "Australian Institute of Health and Welfare",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Zoran Bolevich",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "General Counsel",
+        "person": "Clare Sorensen",
+        "vacant": false,
+        "acting": false,
+        "email": "clare.sorensen@aihw.gov.au",
+        "phone": "02 6249 5084",
+        "importance": 2
+      },
+      {
+        "role": "Executive Assistant to CEO & Deputy CEO",
+        "person": "Nichelle Kent",
+        "vacant": false,
+        "acting": false,
+        "email": "nichelle.kent@aihw.gov.au",
+        "phone": "02 6244 1101",
+        "importance": 3
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Zoran Bolevich",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2301",
+        "title": "AIHW Ethics Committee",
+        "roles": [
+          {
+            "role": "Chair",
+            "person": "Jennifer Taylor",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Andrea Clarke",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Charlie Perriman",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Angela Clapham",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Tim Driscoll",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Barbara Anderson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Kimberley Flanagan",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Deputy Chair",
+            "person": "Owen Bradfield",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Suzanne Hillier",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Committee Member",
+            "person": "Damien Tillack",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2302",
+        "title": "AIHW Groups",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2294",
+            "title": "Business & Technology Group",
+            "roles": [
+              {
+                "role": "Executive Assistant",
+                "person": "Matthew Rawle",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.rawle@aihw.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Group Head",
+                "person": "Andrew Kettle",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.kettle@aihw.gov.au",
+                "phone": "(02) 6244 1010",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2295",
+            "title": "Community Services Group",
+            "roles": [
+              {
+                "role": "Executive Assistant",
+                "person": "Toni Baker",
+                "vacant": false,
+                "acting": false,
+                "email": "toni.baker@aihw.gov.au",
+                "phone": "02 6244 1003",
+                "importance": 2
+              },
+              {
+                "role": "Group Head",
+                "person": "Louise York",
+                "vacant": false,
+                "acting": false,
+                "email": "louise.york@aihw.gov.au",
+                "phone": "(02) 6244 1271",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2292",
+            "title": "Data Governance & Integration Group",
+            "roles": [
+              {
+                "role": "Executive Assistant",
+                "person": "Wendy Wilkinson",
+                "vacant": false,
+                "acting": false,
+                "email": "wendy.wilkinson@aihw.gov.au",
+                "phone": "02 9268 6005",
+                "importance": 3
+              },
+              {
+                "role": "Group Head",
+                "person": "Claire Sparke",
+                "vacant": false,
+                "acting": false,
+                "email": "claire.sparke@aihw.gov.au",
+                "phone": "(02) 6244 1273",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2298",
+            "title": "Deputy CEO Group",
+            "roles": [
+              {
+                "role": "Deputy CEO",
+                "person": "Louise Gates",
+                "vacant": false,
+                "acting": false,
+                "email": "clare.sorensen@aihw.gov.au",
+                "phone": "02 6244 1042",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Erin Anderson",
+                "vacant": false,
+                "acting": false,
+                "email": "erin.anderson@aihw.gov.au",
+                "phone": "02 6249 5003",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2300",
+            "title": "First Nations Health & Welfare Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Fadwa Al-Yaman",
+                "vacant": false,
+                "acting": false,
+                "email": "fadwa.al-yaman@aihw.gov.au",
+                "phone": "(02) 6244 1146",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Karen Burns-Jansen",
+                "vacant": false,
+                "acting": false,
+                "email": "karen.burns-jansen@aihw.gov.au",
+                "phone": "02 6249 4820",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "35740",
+            "title": "Health Systems Group",
+            "roles": [
+              {
+                "role": "Executive Assistant",
+                "person": "Kristie Kearns",
+                "vacant": false,
+                "acting": false,
+                "email": "kristie.kearns@health.gov.au",
+                "phone": "02 6249 4812",
+                "importance": 2
+              },
+              {
+                "role": "Group Head",
+                "person": "Bernice Cropper",
+                "vacant": false,
+                "acting": false,
+                "email": "bernice.cropper@aihw.gov.au",
+                "phone": "(02) 6244 1149",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2299",
+            "title": "Housing & Specialised Services Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Gabrielle Phillips",
+                "vacant": false,
+                "acting": false,
+                "email": "gabrielle.phillips@aihw.gov.au",
+                "phone": "02 6249 5131",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Sarah McDonald",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.mcdonald@aihw.gov.au",
+                "phone": "02 6249 4868",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "50649",
+            "title": "National Health Reform Reporting Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Richard Juckes",
+                "vacant": false,
+                "acting": false,
+                "email": "richard.juckes@aihw.gov.au",
+                "phone": "02 6249 5181",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2297",
+            "title": "Population Health Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Amy Young",
+                "vacant": false,
+                "acting": false,
+                "email": "amy.young@aihw.gov.au",
+                "phone": "(02) 6249 5136",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant to Group Head",
+                "person": "Erin Anderson",
+                "vacant": false,
+                "acting": false,
+                "email": "erin.anderson@aihw.gov.au",
+                "phone": "(02) 6249 5003",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2296",
+            "title": "Primary Healthcare,  Information Standards & Communications Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Michael Frost",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.frost@aihw.gov.au",
+                "phone": "(02) 9268 6001",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Madison Gray",
+                "vacant": false,
+                "acting": false,
+                "email": "madison.gray@aihw.gov.au",
+                "phone": "02 9268 6045",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "35739",
+            "title": "Priority Populations & Capability Group",
+            "roles": [
+              {
+                "role": "Group Head",
+                "person": "Adrian Webster",
+                "vacant": false,
+                "acting": false,
+                "email": "adrian.webster@aihw.gov.au",
+                "phone": "(02) 6244 1119",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Megan Hardwicke",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.hardwicke@aihw.gov.au",
+                "phone": "02 6249 5071",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

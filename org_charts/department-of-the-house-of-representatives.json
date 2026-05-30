@@ -1,0 +1,384 @@
+{
+  "content_id": "208",
+  "title": "Department of the House of Representatives",
+  "acronym": "",
+  "portfolio": "Parliamentary Departments (not a portfolio)",
+  "website": "https://www.aph.gov.au/dhr",
+  "description": "The Department of the House of Representatives provides services to support the efficient conduct of the House of Representatives, its committees and certain joint committees as well as a range of services and facilities for Members in Parliament House.<br />\n<br />\nThe House of Representatives contains a number of Standing Committees, Select Committees and Joint Committees; for further details refer to:<br />\nhttps://www.aph.gov.au/committees/house",
+  "dashboard_name": "Department of the House of Representatives",
+  "people_count": 17,
+  "tree": {
+    "content_id": "208",
+    "title": "Department of the House of Representatives",
+    "roles": [
+      {
+        "role": "Clerk of the House",
+        "person": "Claressa Surtees",
+        "vacant": false,
+        "acting": false,
+        "email": "clerk.reps@aph.gov.au",
+        "phone": "(02) 6277 4111",
+        "importance": 999
+      },
+      {
+        "role": "Deputy Clerk of the House",
+        "person": "Peter Banson",
+        "vacant": false,
+        "acting": false,
+        "email": "depclerk.reps@aph.gov.au",
+        "phone": "(02) 6277 4222",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3163",
+        "title": "House of Representatives Committee Office",
+        "roles": [
+          {
+            "role": "Clerk Assistant (Committees)",
+            "person": "Glenn Worthington",
+            "vacant": false,
+            "acting": false,
+            "email": "glenn.worthington.reps@aph.gov.au",
+            "phone": "(02) 6277 4399",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3160",
+        "title": "International and Parliamentary Relations Office",
+        "roles": [
+          {
+            "role": "Director",
+            "person": "Alex Cullum",
+            "vacant": false,
+            "acting": false,
+            "email": "alex.cullum.reps@aph.gov.au",
+            "phone": "(02) 6277 4339",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1383",
+            "title": "Commonwealth Parliamentary Association",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1382",
+            "title": "Inter-Parliamentary Union",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1384",
+            "title": "Parliamentary Skills Centre",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3807",
+        "title": "Members' Services and Corporate Support",
+        "roles": [
+          {
+            "role": "Serjeant-at-Arms",
+            "person": "Peggy Danaee",
+            "vacant": false,
+            "acting": false,
+            "email": "peggy.danaee.reps@aph.gov.au",
+            "phone": "26277 4444",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "46276",
+            "title": "Corporate Governance",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Jo Sharp",
+                "vacant": false,
+                "acting": false,
+                "email": "jo.sharp.reps@aph.gov.au",
+                "phone": "(02) 6277 2306",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "46277",
+                "title": "Governance inquiries",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1389",
+            "title": "Finance",
+            "roles": [
+              {
+                "role": "Chief Finance Officer",
+                "person": "Leisa Ward",
+                "vacant": false,
+                "acting": false,
+                "email": "leisa.ward.reps@aph.gov.au",
+                "phone": "(02) 6277 4463",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1387",
+                "title": "Finance inquiries",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1385",
+            "title": "People Strategies Office",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Tracy Weston",
+                "vacant": false,
+                "acting": false,
+                "email": "tracy.weston.reps@aph.gov.au",
+                "phone": "(02) 6277 4146",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1388",
+                "title": "Personnel inquiries",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1386",
+            "title": "Serjeant-at-Arms' Office",
+            "roles": [
+              {
+                "role": "Serjeant-at-Arms",
+                "person": "Peggy Danaee",
+                "vacant": false,
+                "acting": false,
+                "email": "peggy.danaee.reps@aph.gov.au",
+                "phone": "(02) 6277 4444",
+                "importance": 999
+              },
+              {
+                "role": "Deputy Serjeant-at-Arms",
+                "person": "Chris Gahan",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.gahan.reps@aph.gov.au",
+                "phone": "(02) 6277 4888",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3804",
+                "title": "Gallery bookings (Question time)",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3806",
+                "title": "General",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3805",
+                "title": "School bookings",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3161",
+        "title": "Procedure",
+        "roles": [
+          {
+            "role": "Clerk Assistant (Procedure)",
+            "person": "Fleur Hall",
+            "vacant": false,
+            "acting": false,
+            "email": "fleur.hall.reps@aph.gov.au",
+            "phone": "(02) 6277 4396",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2191",
+            "title": "Chamber Research",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Natalie Cooke",
+                "vacant": false,
+                "acting": false,
+                "email": "natalie.cooke.reps@aph.gov.au",
+                "phone": "(02) 6277 4672",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3808",
+            "title": "Information Management Office",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Chris Gahan",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.gahan.reps@aph.gov.au",
+                "phone": "(02) 6277 4388",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3809",
+                "title": "Agency Security Adviser (Information)",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2190",
+            "title": "Procedural Development",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Natalie Cooke",
+                "vacant": false,
+                "acting": false,
+                "email": "natalie.cooke.reps@aph.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3162",
+        "title": "Table",
+        "roles": [
+          {
+            "role": "Clerk Assistant (Table)",
+            "person": "Justin Baker",
+            "vacant": false,
+            "acting": false,
+            "email": "justin.baker.reps@aph.gov.au",
+            "phone": "(02) 6277 4777",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1391",
+            "title": "Legislation and Records",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Fleur Hall",
+                "vacant": false,
+                "acting": false,
+                "email": "fleur.hall.reps@aph.gov.au",
+                "phone": "(02) 6277 4788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1394",
+                "title": "Inquiries",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "1398",
+                    "title": "Bills",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1395",
+                    "title": "General inquiries",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1396",
+                    "title": "Papers",
+                    "roles": [],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "1392",
+            "title": "Programming",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Jason Sherd",
+                "vacant": false,
+                "acting": false,
+                "email": "jason.sherd.reps@aph.gov.au",
+                "phone": "(02) 6277 4801",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1397",
+                "title": "Inquiries",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "1393",
+                    "title": "Notice Papers",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1390",
+                    "title": "Programming of House business",
+                    "roles": [],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

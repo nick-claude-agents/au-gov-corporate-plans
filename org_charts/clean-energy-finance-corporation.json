@@ -1,0 +1,26 @@
+{
+  "content_id": "172",
+  "title": "Clean Energy Finance Corporation",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "https://www.cefc.com.au/",
+  "description": "The Clean Energy Finance Corporation (CEFC) mobilises capital investment in renewable energy, low-emission technology and energy efficiency projects in Australia.",
+  "dashboard_name": "Clean Energy Finance Corporation",
+  "people_count": 1,
+  "tree": {
+    "content_id": "172",
+    "title": "Clean Energy Finance Corporation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Ian Learmonth",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 80390800",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

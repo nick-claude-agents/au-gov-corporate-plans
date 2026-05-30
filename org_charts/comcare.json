@@ -1,0 +1,132 @@
+{
+  "content_id": "165",
+  "title": "Comcare",
+  "acronym": "COMCARE",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "http://www.comcare.gov.au",
+  "description": "Comcare partners with workers, their employers and unions to keep workers healthy and safe, and reduce the incidence and cost of workplace injury and disease. We implement the Australian Government's policies in federal workplaces to drive social inclusion and productivity. We have three outcomes that guide us:<br />\n<br />\n- the protection of the health, safety and welfare at work of workers covered by the Comcare scheme through education, assurance and enforcement.<br />\n- an early and safe return to work and access to compensation for injured workers covered by the Comcare scheme by working in partnership with employers to create best practice in rehabilitation and by providing quick and accurate management of workers' compensation claims.<br />\n- access to compensation for people with asbestos-related diseases where the Commonwealth has a liability.<br />\nIn addition to the above outcomes we also support the Seacare Authority in the delivery of its statutory functions.",
+  "dashboard_name": "Comcare",
+  "people_count": 8,
+  "tree": {
+    "content_id": "165",
+    "title": "Comcare",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Colin Radford",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Colin Radford",
+        "vacant": false,
+        "acting": false,
+        "email": "ceo@comcare.gov.au",
+        "phone": "1300 366 979",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3117",
+        "title": "Claims Management",
+        "roles": [
+          {
+            "role": "General Manager Claims Management",
+            "person": "Lachlan Vivian-Taylor",
+            "vacant": false,
+            "acting": false,
+            "email": "vivian-taylor.lachlan@comcare.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3116",
+        "title": "Corporate",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Leanne Blackley",
+            "vacant": false,
+            "acting": false,
+            "email": "blackley.leanne@comcare.gov.au",
+            "phone": "(02) 6276 0393",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3120",
+        "title": "Regulatory Operations",
+        "roles": [
+          {
+            "role": "General Manager Regulatory Operations",
+            "person": "Justin Napier",
+            "vacant": false,
+            "acting": false,
+            "email": "napier.justin@comcare.gov.au",
+            "phone": "1300 366 979",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3121",
+        "title": "Scheme Management",
+        "roles": [
+          {
+            "role": "General Manager Scheme Management",
+            "person": "Michael Duke",
+            "vacant": false,
+            "acting": false,
+            "email": "duke.michael@comcare.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3119",
+        "title": "Strategic Partnerships and Engagement",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Megan Buick",
+            "vacant": false,
+            "acting": false,
+            "email": "buick.megan@comcare.gov.au",
+            "phone": "1300 366 979",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "48569",
+        "title": "Strategy Office",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Michael Duke",
+            "vacant": false,
+            "acting": false,
+            "email": "duke.michael@comcare.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

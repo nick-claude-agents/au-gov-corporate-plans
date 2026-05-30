@@ -1,0 +1,135 @@
+{
+  "content_id": "281",
+  "title": "Indigenous Business Australia",
+  "acronym": "IBA",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.iba.gov.au",
+  "description": "Indigenous Business Australia (IBA) is a progressive, commercially focused organisation that promotes and encourages self-management, self-sufficiency and economic independence for Aboriginal and Torres Strait Islander peoples. We identify and pursue opportunities that enable Indigenous Australians to create wealth, accumulate assets and achieve their financial aspirations. We do this by building mutually respectful and responsible partnerships with Indigenous Australians, government agencies, private sector business and industry to facilitate Home Ownership, Business Ownership and wealth creating Investments.",
+  "dashboard_name": "Indigenous Business Australia",
+  "people_count": 7,
+  "tree": {
+    "content_id": "281",
+    "title": "Indigenous Business Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "David Knights",
+        "vacant": false,
+        "acting": false,
+        "email": "iba.ceo@iba.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1583",
+        "title": "Business Solutions",
+        "roles": [
+          {
+            "role": "Director",
+            "person": "Trudy Hart",
+            "vacant": false,
+            "acting": false,
+            "email": "trudy.hart@iba.gov.au",
+            "phone": "07 3051 1022",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1582",
+        "title": "Chief Information and Technology Officer",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1588",
+        "title": "Deputy Chief Executive Officer",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1584",
+        "title": "Finance",
+        "roles": [
+          {
+            "role": "CFO",
+            "person": "Dee Garcha",
+            "vacant": false,
+            "acting": false,
+            "email": "dee.garcha@iba.gov.au",
+            "phone": "07 3008 8334",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1585",
+        "title": "Housing Solutions",
+        "roles": [
+          {
+            "role": "Director",
+            "person": "John Rolfe",
+            "vacant": false,
+            "acting": false,
+            "email": "john.rolfe@iba.gov.au",
+            "phone": "0883078910",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1586",
+        "title": "Investments",
+        "roles": [
+          {
+            "role": "Director - Investments",
+            "person": "Jana King",
+            "vacant": false,
+            "acting": false,
+            "email": "jana.king@iba.gov.au",
+            "phone": "02 9207 6369",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1587",
+        "title": "Legal Services",
+        "roles": [
+          {
+            "role": "General Counsel",
+            "person": "Shanti Rama",
+            "vacant": false,
+            "acting": false,
+            "email": "shanti.rama@iba.gov.au",
+            "phone": "(02) 9207 6375",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3222",
+        "title": "Products and Markets",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Faysal Fassi",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

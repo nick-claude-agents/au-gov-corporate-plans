@@ -1,0 +1,116 @@
+{
+  "content_id": "265",
+  "title": "Australian Maritime Safety Authority",
+  "acronym": "AMSA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.amsa.gov.au",
+  "description": "The Australian Maritime Safety Authority (AMSA) is a statutory authority established under the Australian Maritime Safety Authority Act 1990. It is a corporate Commonwealth entity under the Public Governance, Performance and Accountability Act 2013.<br />\n<br />\nAMSA is the national regulator for domestic commercial vessels and the national safety entity responsible for maritime safety, protection of the marine environment and maritime and aviation search and rescue services.<br />\n<br />\nAMSA represents the Australian Government at the International Maritime Organization (IMO) and other international forums in the development, implementation and enforcement of international standards including those governing ship safety and marine environment protection.",
+  "dashboard_name": "Australian Maritime Safety Authority",
+  "people_count": 7,
+  "tree": {
+    "content_id": "265",
+    "title": "Australian Maritime Safety Authority",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2309",
+        "title": "Head Office",
+        "roles": [
+          {
+            "role": "Corporate Secretary",
+            "person": "Robyn Rowntree",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Chief Executive Officer",
+            "person": "Kaylene Dale",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Chair",
+            "person": "Jeanine Drummond",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2305",
+            "title": "Corporate Services",
+            "roles": [
+              {
+                "role": "Chief Operating Officer",
+                "person": "Julian Mitchell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6279 5079",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2304",
+            "title": "Operations",
+            "roles": [
+              {
+                "role": "Executive Director",
+                "person": "Michael Drake",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6279 5935",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3244",
+            "title": "Policy and Regulation’",
+            "roles": [
+              {
+                "role": "Executive Director",
+                "person": "Leanne Loan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6279 5050",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2303",
+            "title": "Response",
+            "roles": [
+              {
+                "role": "Executive Director",
+                "person": "Mark Morrow",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6279 5700",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

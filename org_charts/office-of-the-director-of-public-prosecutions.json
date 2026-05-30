@@ -1,0 +1,186 @@
+{
+  "content_id": "126",
+  "title": "Office of the Director of Public Prosecutions",
+  "acronym": "CDPP",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.cdpp.gov.au",
+  "description": "The Office of the Director of Public Prosecutions (Cth) (CDPP) is an independent prosecution service established by Parliament to prosecute alleged offences against Commonwealth law. The CDPP provides an effective, ethical, high quality and independent criminal prosecution service for Australia in accordance with the Prosecution Policy of the Commonwealth.",
+  "dashboard_name": "Office of the Director of Public Prosecutions (CDPP)",
+  "people_count": 10,
+  "tree": {
+    "content_id": "126",
+    "title": "Office of the Director of Public Prosecutions",
+    "roles": [
+      {
+        "role": "Director Commonwealth Public Prosecutions",
+        "person": "Raelene Sharp",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Commonwealth Director",
+        "person": "Raelene Sharp",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Commonwealth Solicitor",
+        "person": "Mark de Crespigny",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1359",
+        "title": "CDPP State offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2984",
+            "title": "ACT",
+            "roles": [
+              {
+                "role": "Commonwealth Solicitor",
+                "person": "Mark de Crespigny",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2986",
+            "title": "NEW SOUTH WALES",
+            "roles": [
+              {
+                "role": "National Practice Leader Legal Capability and Performance",
+                "person": "Chris Choi",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "National Practice Leader Organised Crime and National Security",
+                "person": "Eliza Amparo",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2985",
+            "title": "NORTHERN TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2987",
+            "title": "QUEENSLAND",
+            "roles": [
+              {
+                "role": "Deputy Director Fraud and Specialist Agencies",
+                "person": "Roberta Devereaux",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2988",
+                "title": "Cairns Office",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "2989",
+                "title": "Townsville office",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2990",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2991",
+            "title": "TASMANIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2992",
+            "title": "VICTORIA",
+            "roles": [
+              {
+                "role": "Director's Executive Officer",
+                "person": "Warren Day",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "National Practice Leader Serious Financial and Corporate Crime",
+                "person": "David Bahlen",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "National Practice Leader Fraud and Specialist Agencies",
+                "person": "Andrew Doyle",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1358",
+            "title": "WESTERN AUSTRALIA",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1357",
+        "title": "Interlibrary loans",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "content_id": "162",
+  "title": "Tertiary Education Quality and Standards Agency",
+  "acronym": "",
+  "portfolio": "Education",
+  "website": "http://www.teqsa.gov.au",
+  "description": "The Tertiary Education Quality and Standards Agency (TEQSA) is Australia's national higher education regulatory and quality assurance agency. TEQSA contributes to a high quality Australian higher education sector through streamlined and nationally consistent higher education regulatory arrangements; registration of higher education providers; accreditation of higher education courses; and investigation, quality assurance and dissemination of higher education standards and performance.",
+  "dashboard_name": "Tertiary Education Quality and Standards Agency (TEQSA)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "162",
+    "title": "Tertiary Education Quality and Standards Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Mary Russell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

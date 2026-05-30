@@ -1,0 +1,26 @@
+{
+  "content_id": "201",
+  "title": "Australian Rail Track Corporation Limited",
+  "acronym": "ARTC",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.artc.com.au",
+  "description": "The Australian Rail Track Corporation Limited (ARTC) was created after the Commonwealth and State Governments agreed in 1997 to the formation of a 'one-stop shop’ for all rail operators seeking access to the interstate rail network managed by ARTC. ARTC has responsibility for the management of over 9,600 kilometres of interstate track in South Australia, Victoria, Western Australia, Queensland and New South Wales as well as the Hunter Valley coal rail network, and a range of regional rail links, in various state jurisdictions. <br />\n<br />\nOver these corridors, ARTC is responsible for: <br />\n- selling access to train operators <br />\n- the development of new business <br />\n- capital investment in the corridors <br />\n- management of the network <br />\n- the management of infrastructure maintenance.<br />\n<br />\nARTC through its wholly owned subsidiary, Inland Rail Pty Ltd, is responsible for the delivery of Inland Rail, a 1,600 kilometre freight railway connecting Melbourne to Brisbane.",
+  "dashboard_name": "Australian Rail Track Corporation Limited Statement of Corporate Intent",
+  "people_count": 1,
+  "tree": {
+    "content_id": "201",
+    "title": "Australian Rail Track Corporation Limited",
+    "roles": [
+      {
+        "role": "Chief Executive Officer and Managing Director",
+        "person": "Wayne Johnson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

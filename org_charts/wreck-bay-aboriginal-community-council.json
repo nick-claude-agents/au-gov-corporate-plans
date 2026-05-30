@@ -1,0 +1,35 @@
+{
+  "content_id": "97",
+  "title": "Wreck Bay Aboriginal Community Council",
+  "acronym": "",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "",
+  "description": "Under the Aboriginal Land Grant (Jervis Bay Territory) Act 1986, the Council has a number of functions which fall into the main categories of land holding and management, provision of community services for its members and business enterprises. The Council, subject to and in accordance with the Act, is to hold title to Aboriginal Land and exercise, for the benefit of the members of the Community, the Council's powers as owner of Aboriginal Land and of any other land owned by the Council. The Council can also make representations to the Minister in relation to land that the Council considers should become Aboriginal Land. <br />\n<br />\nCommunity service type functions include and, in consultation with the Minister, to consider and, where practicable, take action for the benefit of the Community in relation to the housing, social welfare, education, training or health needs of the members of the Community; to provide community services to members of the Community. Other functions are to protect and conserve natural and cultural sites on Aboriginal land, to engage in land use planning in relation to Aboriginal land and to manage and maintain Aboriginal land as well as to conduct business enterprises for the economic or social benefit of the Community and any such functions that are conferred on it by a provision of the Act, and any functions relating to the Community conferred on the Council by the regulations.",
+  "dashboard_name": "Wreck Bay Aboriginal Community Council",
+  "people_count": 2,
+  "tree": {
+    "content_id": "97",
+    "title": "Wreck Bay Aboriginal Community Council",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Tamara Mitchell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 4442 1029",
+        "importance": 999
+      },
+      {
+        "role": "Chairman",
+        "person": "Annette Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

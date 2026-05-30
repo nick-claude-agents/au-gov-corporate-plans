@@ -1,0 +1,35 @@
+{
+  "content_id": "223",
+  "title": "Office of the Inspector-General of Intelligence and Security",
+  "acronym": "",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.igis.gov.au",
+  "description": "The Inspector-General of Intelligence and Security is an independent statutory office holder who reviews the activities of the six intelligence agencies, namely:<br />\n<br />\n- Australian Security Intelligence Organisation - ASIO<br />\n- Australian Secret Intelligence Service - ASIS <br />\n- Australian Signals Directorate - ASD<br />\n- Australian Geospatial-Intelligence Organisation - AGO<br />\n- Defence Intelligence organisation - DIO<br />\n- Office of National Assessments - ONA<br />\n<br />\nThe purpose of this review is to ensure that the agencies act legally and with propriety, comply with ministerial guidelines and directives and respect human rights.<br />\n<br />\nThe Inspector-General can undertake a formal inquiry into the activities of an Australian intelligence agency in response to a complaint or a reference from a minister.  The Inspector-General can also act independently to initiate inquiries and conducts regular inspections and monitoring of agency activities. In conducting an inquiry, the Inspector-General has significant powers which include requiring the attendance of witnesses, taking sworn evidence, copying and retention of documents and entry into an Australian intelligence agency's premises.",
+  "dashboard_name": "Inspector-General of Intelligence and Security (IGIS)",
+  "people_count": 2,
+  "tree": {
+    "content_id": "223",
+    "title": "Office of the Inspector-General of Intelligence and Security",
+    "roles": [
+      {
+        "role": "Inspector-General of Intelligence and Security",
+        "person": "Michael Barnes",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Inspector-General of Intelligence and Security",
+        "person": "Christopher Jessup",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6141 3330",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

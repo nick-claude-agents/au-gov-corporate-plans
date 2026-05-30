@@ -1,0 +1,62 @@
+{
+  "content_id": "253",
+  "title": "Australian Institute of Family Studies",
+  "acronym": "AIFS",
+  "portfolio": "Social Services",
+  "website": "https://aifs.gov.au/",
+  "description": "The Australian Institute of Family Studies (AIFS) is the Australian Government's independent family research body and advisor on family wellbeing. Our purpose is to create and communicate knowledge to accelerate positive outcomes for families. <br />\n<br />\nWe undertake and publish primary research into a broad range of issues affecting Australian families. We also manage a number of major, large-scale longitudinal studies which track participants' lives through time at different ages and stages.<br />\n<br />\nWe also:<br />\n<br />\n- provide advice on the design and implementation of policies and services;<br />\n- evaluate policies and programs (i.e. to discover what works for families); and<br />\n- build the capability of policy and service-delivery agencies to design and deliver evidence-informed services for children, families and communities.<br />\n<br />\nOur research increases understanding of the factors that help or hinder the wellbeing of Australia's families.<br />\n<br />\nWe are a statutory authority of the Australian Government, established under the Family Law Act of 1975. The Institute operates within the portfolio of the Department of Social Services (DSS), and is responsible to the Minister for Social Services.<br />\n<br />\nThe AIFS' Director governs the operations of the Australian Gambling Research Centre (AGRC), established under the Gambling Measures Act 2012.",
+  "dashboard_name": "Australian Institute of Family Studies (AIFS)",
+  "people_count": 5,
+  "tree": {
+    "content_id": "253",
+    "title": "Australian Institute of Family Studies",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Liz Neville",
+        "vacant": false,
+        "acting": false,
+        "email": "liz.neville@aifs.gov.au",
+        "phone": "0448212143",
+        "importance": 1
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Michael Alexander",
+        "vacant": false,
+        "acting": false,
+        "email": "michael.alexander@aifs.gov.au",
+        "phone": "03 9214 7841",
+        "importance": 2
+      },
+      {
+        "role": "Research Director, Systems and Services",
+        "person": "Kira Duggan",
+        "vacant": false,
+        "acting": false,
+        "email": "kira.duggan@aifs.gov.au",
+        "phone": "03 9214 7843",
+        "importance": 3
+      },
+      {
+        "role": "Research Director, Data and Lifecourse Studies",
+        "person": "Catherine Andersson",
+        "vacant": false,
+        "acting": false,
+        "email": "catherine.andersson@aifs.gov.au",
+        "phone": "03 9214 7821",
+        "importance": 4
+      },
+      {
+        "role": "Head of Communications",
+        "person": "Kate O'Connor",
+        "vacant": false,
+        "acting": false,
+        "email": "kate.o'connor@aifs.gov.au",
+        "phone": "03 9214 7868",
+        "importance": 5
+      }
+    ],
+    "children": []
+  }
+}

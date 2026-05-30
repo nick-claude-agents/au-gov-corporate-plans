@@ -1,0 +1,16 @@
+{
+  "content_id": "130",
+  "title": "Australian Broadcasting Corporation",
+  "acronym": "ABC",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.abc.net.au/",
+  "description": "The ABC is a national (publicly funded) broadcaster, providing news, current affairs and entertainment programming on television, radio and digital services across Australia. The ABC's principal function is to provide content which informs, educates and entertains all Australians, contributes to a sense of national identity and reflects the cultural diversity of the Australian community. The ABC is also required under its charter to provide an international broadcasting service to encourage an awareness of Australian news and attitudes overseas. In addition, the ABC has a role in promoting the performing arts in Australia. The ABC Board is responsible for ensuring the proper and efficient performance of the ABC’s functions.",
+  "dashboard_name": "Australian Broadcasting Corporation",
+  "people_count": 0,
+  "tree": {
+    "content_id": "130",
+    "title": "Australian Broadcasting Corporation",
+    "roles": [],
+    "children": []
+  }
+}

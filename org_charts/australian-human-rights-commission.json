@@ -1,0 +1,118 @@
+{
+  "content_id": "123",
+  "title": "Australian Human Rights Commission",
+  "acronym": "",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.humanrights.gov.au/",
+  "description": "The Australian Human Rights Commission promotes and protects human rights in Australia including through:<br />\n<br />\n- resolving complaints of discrimination or breaches of human rights under federal laws<br />\n- holding public inquiries into human rights issues of national importance<br />\n- developing human rights education programs and resources for schools, workplaces and the community<br />\n- providing independent legal advice to assist courts in cases that involve human rights principles<br />\n- providing advice and submissions to parliaments and governments to develop laws, policies and programs<br />\n- undertaking and coordinating research into human rights and discrimination issues.<br />\n<br />\nThe Commission works closely with other government agencies, the business community, the non-government sector and individuals to fulfil its role.<br />\n<br />\nAdditionally, the Commission works closely with other national human rights institutions, particularly through the Asia Pacific Forum of National Human Rights Institutions to address major human rights issues in the region, and undertakes bilateral activities as part of the Australian Government's development program.",
+  "dashboard_name": "Australian Human Rights Commission (AHRC)",
+  "people_count": 8,
+  "tree": {
+    "content_id": "123",
+    "title": "Australian Human Rights Commission",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "351",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Chief Executive",
+            "person": "Leanne Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "communications@humanrights.gov.au",
+            "phone": "(02) 9284 9740",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "352",
+            "title": "Investigation Conciliation Service",
+            "roles": [
+              {
+                "role": "Senior Executive",
+                "person": "Rachel Holt",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 9284 9600",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "353",
+            "title": "Public Engagement and Education",
+            "roles": [
+              {
+                "role": "Director Strategic Communication",
+                "person": "Tracey Young",
+                "vacant": false,
+                "acting": false,
+                "email": "communications@humanrights.gov.au",
+                "phone": "0292849600",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "354",
+        "title": "President and Commissioners",
+        "roles": [
+          {
+            "role": "President",
+            "person": "Rosalind Croucher",
+            "vacant": false,
+            "acting": false,
+            "email": "communications@humanrights.gov.au",
+            "phone": "(02) 9284 9614",
+            "importance": 1
+          },
+          {
+            "role": "Aboriginal and Torres Strait Islander Social Justice Commissioner",
+            "person": "June Oscar",
+            "vacant": false,
+            "acting": false,
+            "email": "communications@humanrights.gov.au",
+            "phone": "(02) 9284 9603",
+            "importance": 2
+          },
+          {
+            "role": "National Children's Commissioner",
+            "person": "Anne Hollonds",
+            "vacant": false,
+            "acting": false,
+            "email": "communications@humanrights.gov.au",
+            "phone": "(02) 9284 9600",
+            "importance": 4
+          },
+          {
+            "role": "Human Rights Commissioner",
+            "person": "Lorraine Finlay",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 9284 9600",
+            "importance": 6
+          },
+          {
+            "role": "Sex Discrimination Commissioner",
+            "person": "Anna Cody",
+            "vacant": false,
+            "acting": false,
+            "email": "communications@humanrights.gov.au",
+            "phone": "(02) 9284 9600",
+            "importance": 8
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "content_id": "99",
+  "title": "Regional Investment Corporation",
+  "acronym": "",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "https://www.ric.gov.au/",
+  "description": "RIC (Regional Investment Corporation) is an Australian Government provider of low-interest loans for farm businesses and farm-related small businesses. RIC’s purpose is to support the growth, resilience and sustainability of Australia’s agricultural economy. The RIC Board is the Accountable Authority, overseeing RIC’s strategies and ensuring the RIC’s proper, efficient and effective performance of its functions.",
+  "dashboard_name": "Regional Investment Corporation",
+  "people_count": 3,
+  "tree": {
+    "content_id": "99",
+    "title": "Regional Investment Corporation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "John Howard",
+        "vacant": false,
+        "acting": false,
+        "email": "info@ric.gov.au",
+        "phone": "1800 875 675",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49462",
+        "title": "Corporate Services",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Andrew Chambers",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.chambers@ric.gov.au",
+            "phone": "02 6360 7610",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49461",
+        "title": "Program Delivery",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Allison Gregory",
+            "vacant": false,
+            "acting": false,
+            "email": "alli.gregory@ric.gov.au",
+            "phone": "02 5335 6925",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

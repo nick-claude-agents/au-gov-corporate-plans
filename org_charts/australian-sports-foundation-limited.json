@@ -1,0 +1,26 @@
+{
+  "content_id": "188",
+  "title": "Australian Sports Foundation Limited",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.asf.org.au",
+  "description": "The Australian Sports Foundation Limited (ASF) is a non-profit sports charity and fundraising body. ASF assists sporting clubs, organisations, schools and athletes nationally with funding to help develop Australian sport.",
+  "dashboard_name": "Australian Sports Foundation Limited",
+  "people_count": 1,
+  "tree": {
+    "content_id": "188",
+    "title": "Australian Sports Foundation Limited",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Jerril Rechter",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

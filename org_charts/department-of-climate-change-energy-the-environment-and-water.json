@@ -1,0 +1,2801 @@
+{
+  "content_id": "37175",
+  "title": "Department of Climate Change, Energy, the Environment and Water",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "https://www.dcceew.gov.au/",
+  "description": "The Department of Climate Change, Energy, the Environment and Water protects Australia’s natural environment and heritage sites, helps Australia respond to climate change and carefully manages our water and energy resources. The new department has been established to deliver on the Government’s climate change and energy agenda and protect Australia’s environment and water resources.",
+  "dashboard_name": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
+  "people_count": 179,
+  "tree": {
+    "content_id": "37175",
+    "title": "Department of Climate Change, Energy, the Environment and Water",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3214",
+        "title": "Australian Energy Regulator",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Matt Garbutt",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 585 165",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47331",
+            "title": "Compliance, Enforcement & Surveillance",
+            "roles": [
+              {
+                "role": "Executive General Manager",
+                "person": "Matt Garbutt",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47329",
+            "title": "Consumers, Policy & Markets",
+            "roles": [
+              {
+                "role": "Executive General Manager",
+                "person": "Stephanie Jolly",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47333",
+            "title": "Legal, Corporate & Governance",
+            "roles": [
+              {
+                "role": "General Counsel",
+                "person": "Geoff Purvis-Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47330",
+            "title": "Network Regulation",
+            "roles": [
+              {
+                "role": "Executive General Manager",
+                "person": "Kris Funston",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47332",
+            "title": "Strategic Communications & Engagement Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Joe Adamo",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50243",
+        "title": "Climate Change, Net Zero, and Emissions Reduction (Munro) Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "43450",
+            "title": "Climate Change Policy, Adaptation and Risk",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Jason Mundy",
+                "vacant": false,
+                "acting": false,
+                "email": "jason.mundy@dcceew.gov.au",
+                "phone": "02 5162 2845",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "43466",
+                "title": "Climate Active, Risk and Science",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Chris Johnston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.johnston@dcceew.gov.au",
+                    "phone": "02 5162 2782",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38111",
+                "title": "Climate Change Policy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Rachael de Hosson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachael.dehosson@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37542",
+                "title": "National Adaptation Policy Office",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Nicole Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicole.mitchell@dcceew.gov.au",
+                    "phone": "02 5162 2629",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37540",
+            "title": "Emissions Reduction",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Andrew Hutchinson",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.hutchinson@dcceew.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41071",
+                "title": "Carbon Crediting",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kate Lea-Perry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 5162 2779",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51881",
+                "title": "Emissions Reduction Assurance Committee Secretariat",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Matt Searson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.searson@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37650",
+                "title": "Land and Transport",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Matthew Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matthew.ryan@dcceew.gov.au",
+                    "phone": "02 5162 2869",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37652",
+                "title": "National Inventory Systems and International Reporting",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Alannah Pentony",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alannah.pentony1@industry.gov.au",
+                    "phone": "02 6243 7150",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "48489",
+            "title": "International Climate Negotiations",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Sally Box",
+                "vacant": false,
+                "acting": false,
+                "email": "sally.box@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37588",
+                "title": "COP31 Presidency",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Ingrid Lundberg",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ingrid.lundberg@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54236",
+                "title": "Enabling Operations",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Aaron Kirby",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aaron.kirby@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52221",
+                "title": "Negotiations",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Chao Feng",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chao.feng@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37539",
+            "title": "International Climate and Energy",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "David Higgins",
+                "vacant": false,
+                "acting": false,
+                "email": "david.higgins@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42681",
+                "title": "Event Operations",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Louise Perez",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "louise.perez@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 4
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37586",
+                "title": "Net Zero Pathways",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Amanda Wormald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.wormald@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37587",
+                "title": "Strategic Partnerships",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Gaia Puleston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "gaia.puleston@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37541",
+            "title": "Net Zero Industries",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Bruce Edwards",
+                "vacant": false,
+                "acting": false,
+                "email": "bruce.edwards@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "43467",
+                "title": "Decarbonisation Initiatives",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Alicia Barnes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alicia.barnes@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40527",
+                "title": "Hydrogen Strategy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Catherine Zerger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "catherine.zerger@dcceew.gov.au",
+                    "phone": "02 5162 2785",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38109",
+                "title": "Offshore Renewables",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Paul Murphy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.murphy@dcceew.gov.au",
+                    "phone": "02 5162 2784",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37651",
+                "title": "Product and Industrial Emissions",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Emma Flanigan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.flanigan@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "50251",
+        "title": "Enabling Services (McCulloch) Group",
+        "roles": [
+          {
+            "role": "Executive Officer",
+            "person": "Lila Oldmeadow",
+            "vacant": false,
+            "acting": false,
+            "email": "lila.oldmeadow@dcceew.gov.au",
+            "phone": "02 5162 2091",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "37596",
+            "title": "Finance (CFO)",
+            "roles": [
+              {
+                "role": "Chief Finance Officer",
+                "person": "Amanda Lee",
+                "vacant": false,
+                "acting": false,
+                "email": "amanda.lee@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37621",
+                "title": "Budget",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Caroline Cote",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "carol.cote@dcceew.gov.au",
+                    "phone": "02 5162 2944",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37622",
+                "title": "Financial Management",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Kamaldeep (Kamal) Singh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kamaldeep.singh@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37609",
+                "title": "Financial Services",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Jennifer Kay",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Branch Head",
+                    "person": "Rachel Harris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.harris4@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40520",
+            "title": "Information and Communications Technology (CIO)",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Dale Naughton",
+                "vacant": false,
+                "acting": false,
+                "email": "dale.naughton@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37603",
+                "title": "Chief Information Officer",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Heidi Madden",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "heidi.madden@dcceew.gov.au",
+                    "phone": "02 6272 3107",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40521",
+                "title": "ICT Business Solutions and Security",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Siene Gounden",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "siene.gounden1@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50261",
+                "title": "ICT Business and Governance",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kristie Bullock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kristie.bullock@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41079",
+                "title": "ICT Operational Services and Infrastructure",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Vince Cosentino",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vincent.cosentino@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37599",
+            "title": "Inspector-General of Water Compliance",
+            "roles": [
+              {
+                "role": "Inspector-General of Water Compliance",
+                "person": "Troy Grant",
+                "vacant": false,
+                "acting": false,
+                "email": "troy.grant@igwc.gov.au",
+                "phone": "02 5162 2883",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Inspector-General",
+                "person": "Daniel Blacker",
+                "vacant": false,
+                "acting": false,
+                "email": "daniel.blacker@igwc.gov.au",
+                "phone": "02 5162 2885",
+                "importance": 2
+              },
+              {
+                "role": "Chief Operating Officer",
+                "person": "Tim Gilbert",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.gilbert@igwc.gov.au",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "IGWC Legal Services (General Counsel)",
+                "person": "Katherine Cook",
+                "vacant": false,
+                "acting": false,
+                "email": "katherine.cook@igwc.gov.au",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Regulation (Assistant Inspector-General)",
+                "person": "Ian Bernard",
+                "vacant": false,
+                "acting": false,
+                "email": "ian.bernard@igwc.gov.au",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Oversight (Assistant Inspector-General)",
+                "person": "Chris Brookes",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.brookes@igwc.gov.au",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "37598",
+            "title": "Legal (Chief Counsel)",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "Kate Lalor",
+                "vacant": false,
+                "acting": false,
+                "email": "kate.lalor@dcceew.gov.au",
+                "phone": "02 5162 2937",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37602",
+                "title": "Corporate, Climate Change and Energy",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Janet Courtis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "janet.courtis@dcceew.gov.au",
+                    "phone": "02 5162 2288",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37601",
+                "title": "Environment and Dispute Resolution",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Lam Nguyen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lam.nguyen@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46526",
+                "title": "Legislation, Water and Parks",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Kristy-Lee Coker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kristy-lee.coker@dcceew.gov.au",
+                    "phone": "02 5162 2940",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41368",
+            "title": "People",
+            "roles": [
+              {
+                "role": "Chief People Officer",
+                "person": "Tim Spackman",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.spackman@dcceew.gov.au",
+                "phone": "02 5162 2951",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41370",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Andrew Oliver",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.oliver@dcceew.gov.au",
+                    "phone": "02 5162 2959",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41369",
+                "title": "People Safety, Support and Wellbeing",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Kyle Sarah",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kyle.sarah@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43710",
+                "title": "Professional, Ethical Standards and Security",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Stephanie Bourke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephanie.bourke@aff.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41085",
+            "title": "Portfolio Strategy",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Michelle Croker",
+                "vacant": false,
+                "acting": false,
+                "email": "michelle.croker@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37612",
+                "title": "Communications and Media",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Anita Agett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anita.agett@dcceew.gov.au",
+                    "phone": "02 5162 2096",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41086",
+                "title": "First Nations",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Melina Saunders",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melina.saunders1@dcceew.gov.au",
+                    "phone": "02 5162 2931",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50252",
+                "title": "IGWC Statutory Review",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Mahani Taylor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41088",
+                "title": "Ministerial Liaison and Governance",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Dana Sutton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dana.sutton@dcceew.gov.au",
+                    "phone": "02 5162 2933",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41089",
+                "title": "National Security and International Coordination",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kelly Buchanan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kelly.buchanan@dcceew.gov.au",
+                    "phone": "02 5162 2837",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41087",
+                "title": "Portfolio Strategy and Integration",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Miranda Lello",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "miranda.lello@dcceew.gov.au",
+                    "phone": "02 5162 2517",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37623",
+            "title": "Property and Infrastructure",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Rob Hanlon",
+                "vacant": false,
+                "acting": false,
+                "email": "rob.hanlon@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Branch Head",
+                "person": "Jill Mand",
+                "vacant": false,
+                "acting": false,
+                "email": "jill.mand@dcceew.gov.au",
+                "phone": "02 6271 6651",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50244",
+        "title": "Energy (Brine) Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "44892",
+            "title": "Clean Energy Investment & Facilitation",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Alison Wiltshire",
+                "vacant": false,
+                "acting": false,
+                "email": "alison.wiltshire@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "45112",
+                "title": "CIS Delivery and Governance",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Tien Phan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tien.phan@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45111",
+                "title": "Clean Energy Investment",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Salim Mazouz",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "salim.mazouz@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54237",
+                "title": "First Nations and Clean Energy Facilitation",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Luana Cormac",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luana.cormac@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37544",
+            "title": "Electricity",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Kirsty Gowans",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsty.gowans@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37664",
+                "title": "Commonwealth Liaison",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Paul Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.johnson@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37674",
+                "title": "Consumer Energy Resources",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "James White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "james.white@dcceew.gov.au",
+                    "phone": "02 5162 2810",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37663",
+                "title": "Electricity Markets",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Electra Papas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "electra.papas@dcceew.gov.au",
+                    "phone": "02 5162 2806",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37665",
+                "title": "Electricity Network Policy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Nadia Rosenman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nadia.rosenman@dcceew.gov.au",
+                    "phone": "02 5162 2808",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50276",
+                "title": "NEM Review Implementation",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Mel Pang",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melissa.pang@dcceew.gov.au",
+                    "phone": "02 5162 2805",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37545",
+            "title": "Energy Performance",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Clare McLaughlin",
+                "vacant": false,
+                "acting": false,
+                "email": "clare.mclaughlin@dcceew.gov.au",
+                "phone": "02 5162 2813",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41069",
+                "title": "Energy Economics, Data and Analytics",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "37678",
+                "title": "Energy Performance Strategy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Peta Derham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "peta.derham1@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51888",
+                "title": "Greenhouse and Energy Minimum Standards",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Mel Ford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mel.ford@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37675",
+                "title": "Home Ratings and Disclosure",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Chris Videroni",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.videroni@dcceew.gov.au",
+                    "phone": "02 5162 2144",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37676",
+                "title": "Industrial and Buildings Energy Performance",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "David Atkins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.atkins@dcceew.gov.au",
+                    "phone": "02 5162 2815",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54238",
+            "title": "Energy Security Taskforce",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Brad Archer",
+                "vacant": false,
+                "acting": false,
+                "email": "brad.archer@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54239",
+                "title": "Energy Response and Coordination",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Lachlan Bickley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lachlan.bickley@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50260",
+                "title": "Liquid Fuels Operations and Analysis",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Cris Cano",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cris.cano@dcceew.gov.au",
+                    "phone": "02 5162 2801",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37661",
+                "title": "Liquid Fuels Security and Strategy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Jennifer Anne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jennifer.anne@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37543",
+            "title": "Gas Markets",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Hew Atkin",
+                "vacant": false,
+                "acting": false,
+                "email": "hew.atkin@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37659",
+                "title": "Gas Markets",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Kris McCoy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kris.mccoy@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37660",
+                "title": "Gas Transformation Strategy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Andrew Pankowski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.pankowski@dcceew.gov.au",
+                    "phone": "02  5162 2089",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42661",
+            "title": "National Energy Transformation",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Linda McGrath",
+                "vacant": false,
+                "acting": false,
+                "email": "linda.mcgrath@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37677",
+                "title": "Energy Security, Resilience, and Emergency Response",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Dominic Tarrant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dominic.tarrant@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42662",
+                "title": "National Climate and Energy Partnerships",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Matthew Minchin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.minchin@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42664",
+                "title": "Office of Energy Economics",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Adam McKissack",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adam.mckissack@dcceew.gov.au",
+                    "phone": "02 5162 2820",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "50246",
+        "title": "Environment Policy and Programs (Knudson) Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "37550",
+            "title": "Biodiversity",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Cassandra Kennedy",
+                "vacant": false,
+                "acting": false,
+                "email": "cassandra.kennedy@dcceew.gov.au",
+                "phone": "02 5162 2120",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37693",
+                "title": "Biodiversity Programs",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Jackie Raynor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jackie.raynor@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41297",
+                "title": "Natural Heritage Trust",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Glenn Block",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "glenn.block@dcceew.gov.au",
+                    "phone": "02 5162 2249",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37692",
+                "title": "Program Delivery",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Steve Costello",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "steve.costello@environment.gov.au",
+                    "phone": "02 6274 2515",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37694",
+                "title": "Protected Species and Ecological Communities",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Ilse Kiessling",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ilse.kiessling@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37695",
+                "title": "Threatened Species Commissioner",
+                "roles": [
+                  {
+                    "role": "Threatened Species Commissioner",
+                    "person": "Fiona Fraser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.fraser@dcceew.gov.au",
+                    "phone": "02 5162 2232",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41394",
+            "title": "Circular Economy",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "James Tregurtha",
+                "vacant": false,
+                "acting": false,
+                "email": "james.tregurtha@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41429",
+                "title": "Chemicals, Atmosphere and Internationa",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Rachel Burgess",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.burgess@dcceew.gov.au",
+                    "phone": "02 5156 4393",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41430",
+                "title": "Circular Economy Legislative Design",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Naomi Boccola",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "naomi.boccola@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41428",
+                "title": "Circular Economy Strategy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Cathryn Geiger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cath.geiger@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41427",
+                "title": "Packaging, Stewardship and Investment",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Cameron Hutchinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cameron.hutchison@dcceew.gov.au",
+                    "phone": "02 5162 2117",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41410",
+            "title": "Environment Information Australia",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Maya Stuart-Fox",
+                "vacant": false,
+                "acting": false,
+                "email": "maya.stuart-fox@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41409",
+                "title": "Environment Data and Analysis",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Adam Sincock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adam.sincock@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43511",
+                "title": "Environment Information Strategy and Policy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Brendan Lynam",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brendan.lynam1@dcceew.gov.au",
+                    "phone": "02 5162 2929",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41360",
+                "title": "Environmental Economics, Science and Reporting",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Lisa Nitschke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisa.nitschke@dcceew.gov.au",
+                    "phone": "02 5162 2927",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41285",
+            "title": "Environment Policy, Regions and Markets",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Greg Manning",
+                "vacant": false,
+                "acting": false,
+                "email": "greg.manning@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41294",
+                "title": "Environmental Policy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Mahani Taylor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mahani.taylor@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54269",
+                "title": "Forests Taskforce",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Katrina Purcell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katrina.purcell@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41359",
+                "title": "Nature Finance and Market Policy",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Will Kimber",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "will.kimber@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50269",
+                "title": "Nature Repair Market Delivery",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Alison McMorrow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alison.mcmorrow@dcceew.gov.au",
+                    "phone": "02 5162 2069",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41291",
+                "title": "Regional Planning and Landscapes",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Daniela Croce",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "daniela.croce@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41377",
+            "title": "International Environment, Reef and Oceans",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Katrina Maguire",
+                "vacant": false,
+                "acting": false,
+                "email": "katrina.maguire@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41374",
+                "title": "Great Barrier Reef",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "John Foster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "john.foster@dcceew.gov.au",
+                    "phone": "02 5162 2879",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41375",
+                "title": "International Environment",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Suzi Heaton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "suzi.heaton@dcceew.gov.au",
+                    "phone": "02 5162 2880",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41376",
+                "title": "Oceans and Wildlife",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Belinda Jago",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "belinda.jago@dcceew.gov.au",
+                    "phone": "02 5162 2881",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "50245",
+        "title": "Environmental Regulation and Heritage (Gaddes) Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "38552",
+            "title": "Environment Law Reform Taskforce",
+            "roles": [
+              {
+                "role": "A/g Division Head",
+                "person": "Jennifer Kay",
+                "vacant": false,
+                "acting": false,
+                "email": "jennifer.kay@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38553",
+                "title": "Reform Strategy and Engagement",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Kathleen Patroni",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kathleen.patroni@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Branch Head",
+                    "person": "Anna-Liisa Lahtinen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46521",
+                "title": "Standards, Offsets and Approvals Reform",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Blaine Wentworth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "blaine.wentworth@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37547",
+            "title": "Environment Regulation",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Paula Svarcas",
+                "vacant": false,
+                "acting": false,
+                "email": "paula.svarcas@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "43486",
+                "title": "EPBC Regulatory Support",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Tim Wyndham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tim.wyndham@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37823",
+                "title": "Environment Assessments NSW and ACT",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kate Gowland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.gowland@dcceew.gov.au",
+                    "phone": "02 5162 2856",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37822",
+                "title": "Environment Assessments QLD",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Declan O'Connor-Cox",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "declan.o'connor-cox@dcceew.gov.au",
+                    "phone": "02 5162 2854",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37824",
+                "title": "Environment Assessments Vic and Tas and Post Approvals",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Rachel Short",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.short@dcceew.gov.au",
+                    "phone": "02 5162 2603",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37821",
+                "title": "Environment Assessments West",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kylie Calhoun",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kylie.calhoun@dcceew.gov.au",
+                    "phone": "02 7262 5014",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "51918",
+            "title": "Environmental Permitting and Compliance",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Dani Yannopoulos",
+                "vacant": false,
+                "acting": false,
+                "email": "dani.yannopoulos@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "51919",
+                "title": "Compliance and Enforcement",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Danny McQuillen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "danny.mcquillen@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51920",
+                "title": "Waste, Environmental Permits and Advice",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Kate Elliott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.elliott@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54260",
+                "title": "Wildlife Trade and Regulatory Capability",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Sam Hush",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.hush@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41341",
+            "title": "Heritage",
+            "roles": [
+              {
+                "role": "A/g Division Head",
+                "person": "Carmen Dwyer",
+                "vacant": false,
+                "acting": false,
+                "email": "carmen.dwyer@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41344",
+                "title": "Heritage Policy and Programs",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Wayne Beswick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "wayne.beswick@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41343",
+                "title": "Heritage Regulation and Assessments",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Tracey Brown",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tracey.brown@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54261",
+            "title": "NEPA Taskforce (Chief Operating Officer)",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Bronwyn Ray",
+                "vacant": false,
+                "acting": false,
+                "email": "bronwyn.ray@dcceew.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54262",
+                "title": "NEPA Taskforce",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Ranga Parimala",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ranga.parimala@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "37636",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Kushla Munro",
+            "vacant": false,
+            "acting": false,
+            "email": "kushla.munro@dcceew.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary Kushla Munro",
+            "person": "Kelly Lolesio",
+            "vacant": false,
+            "acting": false,
+            "email": "kelly.lolesio@dcceew.gov.au",
+            "phone": "02 5162 2744",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Matthew Brine",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.brine@dcceew.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "A/g Executive Assistant to Deputy Secretary Matthew Brine",
+            "person": "Aleksija Janovic",
+            "vacant": false,
+            "acting": false,
+            "email": "aleksija.janovic@dcceew.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "A/g Deputy Secretary",
+            "person": "Shane Gaddes",
+            "vacant": false,
+            "acting": false,
+            "email": "shane.gaddes@dcceew.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "A/g Executive Assistant to Deputy Secretary Shane Gaddes",
+            "person": "Jade Williams",
+            "vacant": false,
+            "acting": false,
+            "email": "jade.williams@dcceew.gov.au",
+            "phone": "02 5162 2752",
+            "importance": 6
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Dean Knudson",
+            "vacant": false,
+            "acting": false,
+            "email": "dean.knudson@dcceew.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary Dean Knudson",
+            "person": "Irini Aslanidi",
+            "vacant": false,
+            "acting": false,
+            "email": "irini.aslanidi@dcceew.gov.au",
+            "phone": "02 5162 2747",
+            "importance": 8
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Sean Sullivan",
+            "vacant": false,
+            "acting": false,
+            "email": "sean.sullivan@dcceew.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary Sean Sullivan",
+            "person": "Anne Zeman",
+            "vacant": false,
+            "acting": false,
+            "email": "anne.zeman@dcceew.gov.au",
+            "phone": "02 5162 2749",
+            "importance": 10
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Luise McCulloch",
+            "vacant": false,
+            "acting": false,
+            "email": "luise.mcculloch@dcceew.gov.au",
+            "phone": "+61 2 5162 2761",
+            "importance": 13
+          },
+          {
+            "role": "Executive Assistant to Deputy Secretary Luise McCulloch",
+            "person": "Pam Fowlie",
+            "vacant": false,
+            "acting": false,
+            "email": "pam.fowlie@dcceew.gov.au",
+            "phone": "02 5162 2762",
+            "importance": 14
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "37531",
+        "title": "Secretary's Office",
+        "roles": [
+          {
+            "role": "Secretary of the Department of Climate Change, Energy, the Environment & Water",
+            "person": "Mike Kaiser",
+            "vacant": false,
+            "acting": false,
+            "email": "mike.kaiser@dcceew.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Senior Executive Assistant to the Secretary",
+            "person": "Danielle Meredith",
+            "vacant": false,
+            "acting": false,
+            "email": "danielle.meredith@dcceew.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "A/g Chief of Staff to the Secretary",
+            "person": "John Su",
+            "vacant": false,
+            "acting": false,
+            "email": "john.su1@dcceew.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Prioritisation Review",
+            "person": "Lila Oldmeadow",
+            "vacant": false,
+            "acting": false,
+            "email": "lila.oldmeadow@dcceew.gov.au",
+            "phone": "",
+            "importance": 5
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "50248",
+        "title": "Water and Environment Operations (Sullivan) Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "37561",
+            "title": "Australian Antarctic Division",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Emma Campbell",
+                "vacant": false,
+                "acting": false,
+                "email": "emma.campbell@aad.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41080",
+                "title": "Assets and Technology",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Phillip Boxall",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "phillip.boxall@aad.gov.au",
+                    "phone": "03 6232 3106",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37747",
+                "title": "Operations and Logistics",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Matt Filipowski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.filipowski@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37745",
+                "title": "People and Culture",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Matt Wuersching",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.wuersching@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37744",
+                "title": "Policy and Strategy",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Christian Beekes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christian.beekes@aad.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37746",
+                "title": "Science",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Rhonda Bartley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rhonda.bartley@dcceew.gov.au",
+                    "phone": "02 5162 2834",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37552",
+            "title": "Director of National Parks",
+            "roles": [
+              {
+                "role": "Director of National Parks",
+                "person": "Ricky Archer",
+                "vacant": false,
+                "acting": false,
+                "email": "ricky.archer@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Division Head",
+                "person": "Rob Hanlon",
+                "vacant": false,
+                "acting": false,
+                "email": "rob.hanlon@dcceew.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "50249",
+                "title": "Parks Australia (Chief Operating Officer)",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "50250",
+                    "title": "Chief Financial Officer and Corporate Services",
+                    "roles": [
+                      {
+                        "role": "A/g Branch Head",
+                        "person": "Otto Menzel",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "37713",
+                    "title": "Kakadu National Park and Cultural Heritage",
+                    "roles": [
+                      {
+                        "role": "Branch Head",
+                        "person": "Jonathan McLeod",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jonathan.mcleod@dcceew.gov.au",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "37714",
+                    "title": "Marine and Island Parks",
+                    "roles": [
+                      {
+                        "role": "Branch Head",
+                        "person": "Shaun Barclay",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "shaun.barclay@dcceew.gov.au",
+                        "phone": "02 5162 2841",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "37715",
+                    "title": "Science and Australian National Botanic Gardens",
+                    "roles": [
+                      {
+                        "role": "Branch Head",
+                        "person": "Rebecca Pirzl",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "rebecca.pirzl@dcceew.gov.au",
+                        "phone": "02 5162 2850",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43502",
+                    "title": "Strategy and Coordination",
+                    "roles": [
+                      {
+                        "role": "A/g Branch Head",
+                        "person": "Michael Misso",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "barbara.musso@dcceew.gov.au",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "37712",
+                    "title": "Uluru-Kata Tjuta National Park and Indigenous Protected Areas",
+                    "roles": [
+                      {
+                        "role": "Branch Head",
+                        "person": "Tia Stevens",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "tia.stevens@dcceew.gov.au",
+                        "phone": "02 5162 2843",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "41401",
+            "title": "Environmental Water and Aquatic Systems (*CEWH)",
+            "roles": [
+              {
+                "role": "Division Head (CEWH)",
+                "person": "Simon Banks",
+                "vacant": false,
+                "acting": false,
+                "email": "simon.banks@dcceew.gov.au",
+                "phone": "02 5162 2915",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41402",
+                "title": "Environmental Water  Holdings and Southern Basin",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Hilary Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "hilary.johnson@dcceew.gov.au",
+                    "phone": "02 5156 5456",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45128",
+                "title": "Environmental Water Northern Basin and Water Science",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Marcus Finn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marcus.finn@dcceew.gov.au",
+                    "phone": "02 5162 2454",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42491",
+                "title": "Environmental Water Policy, Engagement and Wetlands",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Rebecca Curtis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rebecca.curtis@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37681",
+            "title": "Office of the Supervising Scientist",
+            "roles": [
+              {
+                "role": "Supervising Scientist",
+                "person": "Keith Tayler",
+                "vacant": false,
+                "acting": false,
+                "email": "keith.tayler@dcceew.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "41396",
+            "title": "Water Infrastructure and Investment",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Ruth Wall",
+                "vacant": false,
+                "acting": false,
+                "email": "ruth.wall@dcceew.gov.au",
+                "phone": "02 5162 2906",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41397",
+                "title": "GAB, LEB, and Upper Murrumbidgee",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Tanya Koeneman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tanya.koeneman@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41399",
+                "title": "MDB Infrastructure Program",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Fiona Yule",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.yule@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41398",
+                "title": "National Water Grid",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Mark Darrough",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mark.darrough@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41400",
+                "title": "Water Recovery",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Christine MacRae",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christine.macrae@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37739",
+                "title": "Water Support and WELS",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Lou-Ellen Martin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lou-ellen.martin@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37559",
+            "title": "Water Policy",
+            "roles": [
+              {
+                "role": "Division Head",
+                "person": "Matthew Dadswell",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.dadswell@dcceew.gov.au",
+                "phone": "02 6272 4100",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41357",
+                "title": "First Nations Water",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Sheryl Hedges",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sheryl.hedges@dcceew.gov.au",
+                    "phone": "02 5162 2900",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50287",
+                "title": "Murray-Darling Basin Economics, Evidence and Engagement",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Phil Coates",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "phil.coates@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37738",
+                "title": "Murray-Darling Basin Strategy and Policy",
+                "roles": [
+                  {
+                    "role": "A/g Branch Head",
+                    "person": "Jessica Northey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jessica.northey@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37741",
+                "title": "National Water Policy, International and Engagement",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Angie McKenzie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "angie.mckenzie@dcceew.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38122",
+                "title": "Water Markets and Regulatory Policy",
+                "roles": [
+                  {
+                    "role": "Branch Head",
+                    "person": "Emma Solomon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.solomon@dcceew.gov.au",
+                    "phone": "02 7262 5009",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

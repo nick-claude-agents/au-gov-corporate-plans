@@ -1,0 +1,26 @@
+{
+  "content_id": "43152",
+  "title": "National Reconstruction Fund Corporation",
+  "acronym": "",
+  "portfolio": "Industry, Science and Resources",
+  "website": "https://www.nrf.gov.au",
+  "description": "The National Reconstruction Fund Corporation (NRFC) is a corporate Commonwealth entity established to facilitate increased flows of finance into seven Government identified priority areas of the Australian economy.",
+  "dashboard_name": "National Reconstruction Fund Corporation",
+  "people_count": 1,
+  "tree": {
+    "content_id": "43152",
+    "title": "National Reconstruction Fund Corporation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "David Gall",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

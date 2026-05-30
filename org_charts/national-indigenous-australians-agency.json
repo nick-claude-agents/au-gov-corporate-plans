@@ -1,0 +1,1547 @@
+{
+  "content_id": "103",
+  "title": "National Indigenous Australians Agency",
+  "acronym": "",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "https://www.niaa.gov.au",
+  "description": "The National Indigenous Australians Agency (NIAA) is committed to improving the lives of all Aboriginal and Torres Strait Islander peoples.<br />\n<br />\nThe NIAA recognises that each community is unique. We work closely with communities across Australia to make sure policies, programs and services address these unique needs.<br />\n<br />\nThe NIAA also works to influence policy across the entire Australian Government. We liaise closely with State and Territory governments, peak bodies and service providers to ensure that Indigenous programs and services are delivering for Aboriginal and Torres Strait Islander peoples.",
+  "dashboard_name": "National Indigenous Australians Agency (NIAA)",
+  "people_count": 128,
+  "tree": {
+    "content_id": "103",
+    "title": "National Indigenous Australians Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Julie-Ann Guivarra",
+        "vacant": false,
+        "acting": false,
+        "email": "marie.bailey@niaa.gov.au",
+        "phone": "02 6150 6715",
+        "importance": 1
+      },
+      {
+        "role": "Executive Assistant to Chief Executive Officer",
+        "person": "Marie Bailey",
+        "vacant": false,
+        "acting": false,
+        "email": "marie.bailey@niaa.gov.au",
+        "phone": "02 6150 6715",
+        "importance": 2
+      },
+      {
+        "role": "Senior Executive Officer to the Chief Executive Officer",
+        "person": "Louise Morley",
+        "vacant": false,
+        "acting": false,
+        "email": "louise.morley@niaa.gov.au",
+        "phone": "02 6152 3798",
+        "importance": 3
+      },
+      {
+        "role": "Chief of Staff",
+        "person": "John Walker",
+        "vacant": false,
+        "acting": false,
+        "email": "john.walker@niaa.gov.au",
+        "phone": "02 6267 7445",
+        "importance": 4
+      },
+      {
+        "role": "Director of Public Affairs and Media",
+        "person": "Claire Reynolds",
+        "vacant": false,
+        "acting": false,
+        "email": "media@niaa.gov.au",
+        "phone": "02 6152 3846",
+        "importance": 5
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1568",
+        "title": "Enabling Services",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Rachael Jackson",
+            "vacant": false,
+            "acting": false,
+            "email": "danni.white@niaa.gov.au",
+            "phone": "02 6152 3833",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Danni White",
+            "vacant": false,
+            "acting": false,
+            "email": "rachel.vargas@niaa.gov.au",
+            "phone": "02 6152 3519",
+            "importance": 2
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Jordan Ponder",
+            "vacant": false,
+            "acting": false,
+            "email": "jordan.ponder@niaa.gov.au",
+            "phone": "08 7972 4125",
+            "importance": 3
+          },
+          {
+            "role": "Executive Support Officer",
+            "person": "Erin King",
+            "vacant": false,
+            "acting": false,
+            "email": "erin.king@niaa.gov.au",
+            "phone": "02 6267 7583",
+            "importance": 4
+          }
+        ],
+        "children": [
+          {
+            "content_id": "42033",
+            "title": "Corporate Group",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "John Love",
+                "vacant": false,
+                "acting": false,
+                "email": "john.love@niaa.gov.au",
+                "phone": "02 6152 3990",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Chelsie Steffe",
+                "vacant": false,
+                "acting": false,
+                "email": "chelsie.steffe@niaa.gov.au",
+                "phone": "02 6152 3221",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Danielle Parvizi",
+                "vacant": false,
+                "acting": false,
+                "email": "danielle.parvizi@niaa.gov.au",
+                "phone": "02 6152 3929",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38818",
+                "title": "Business Operations Support",
+                "roles": [
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Amanda O'Neill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.o'neill@niaa.gov.au",
+                    "phone": "02 6152 3176",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Branch Manager",
+                    "person": "Brendan Bowman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brendan.bowman@niaa.gov.au",
+                    "phone": "02 6152 3895",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42040",
+                "title": "Communications",
+                "roles": [
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Tabassum Sayed",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tabassum.sayed@niaa.gov.au",
+                    "phone": "02 6152 3966",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Branch Manager",
+                    "person": "Rob Blanch",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rob.blanch@niaa.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3231",
+                "title": "People Branch",
+                "roles": [
+                  {
+                    "role": "Chief People Officer",
+                    "person": "Rachael McMahon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachael.mcmahon@niaa.gov.au",
+                    "phone": "02 6152 3818",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Cat Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cat.mitchell@niaa.gov.au",
+                    "phone": "02 6150 6244",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40281",
+                "title": "Transformation Management Office",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Susan Kibukamusoke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.kibukamusoke@niaa.gov.au",
+                    "phone": "02 6152 3238",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Cat Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cat.mitchell@niaa.gov.au",
+                    "phone": "02 6150 6244",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1560",
+            "title": "Grants and Finance",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Nicholas Creagh",
+                "vacant": false,
+                "acting": false,
+                "email": "nicholas.creagh@niaa.gov.au",
+                "phone": "02 6152 3814",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Barb Horog",
+                "vacant": false,
+                "acting": false,
+                "email": "barb.horog@niaa.gov.au",
+                "phone": "02 6152 3370",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Josie Norton-Clement",
+                "vacant": false,
+                "acting": false,
+                "email": "josie.norton-clement@niaa.gov.au",
+                "phone": "02 6152 3023",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1567",
+                "title": "Finance",
+                "roles": [
+                  {
+                    "role": "Deputy Chief Financial Officer",
+                    "person": "Sam White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.white@niaa.gov.au",
+                    "phone": "02 6152 3452",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Deputy Chief Financial Officer",
+                    "person": "Maria Babler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "maria.babler@niaa.gov.au",
+                    "phone": "02 6152 3222",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Nazly Arob",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "naz.arob@niaa.gov.au",
+                    "phone": "02 6152 3222",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2025",
+                "title": "Grant Services",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Matt Tolley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.tolley@niaa.gov.au",
+                    "phone": "02 6152 3015",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Josie Norton-Clement",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "josie.norton-clement@niaa.gov.au",
+                    "phone": "02 6152 3023",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "973",
+                "title": "Grants Management Unit",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Matt Tolley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matt.tolley@niaa.gov.au",
+                    "phone": "02 6152 3100",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant (M-Th)",
+                    "person": "Tyler McLean",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tyler.mclean@niaa.gov.au",
+                    "phone": "02 6150 6294",
+                    "importance": 3
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Karen Stoate",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "karen.stoate@niaa.gov.au",
+                    "phone": "02 6152 3579",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43293",
+                "title": "ICT, Data and Systems",
+                "roles": [
+                  {
+                    "role": "Chief Information Officer",
+                    "person": "Emily Woodward",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emily.woodward@niaa.gov.au",
+                    "phone": "02 6152 3423",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Mischa Harrison",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mischa.harrison@niaa.gov.au",
+                    "phone": "02 6152 3015",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42034",
+            "title": "Integrity Group",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Sean Worth",
+                "vacant": false,
+                "acting": false,
+                "email": "sean.worth@niaa.gov.au",
+                "phone": "02 6267 7576",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Chelley Penn",
+                "vacant": false,
+                "acting": false,
+                "email": "chelley.penn@niaa.gov.au",
+                "phone": "02 6152 3980",
+                "importance": 3
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Megan Pitman",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.pitman@niaa.gov.au",
+                "phone": "02 6152 3093",
+                "importance": 4
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2026",
+                "title": "Governance & Assurance",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Elizabeth Tsitsikronis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "elizabeth.tsitsikronis@niaa.gov.au",
+                    "phone": "02 6152 3493",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Harrison Plewes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "harrison.plewes@niaa.gov.au",
+                    "phone": "02 6152 3792",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1566",
+                "title": "Legal Services Branch",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Brendan Jacomb",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brendan.jacomb@niaa.gov.au",
+                    "phone": "02 6152 3555",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Janet Shea",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "janet.shea@niaa.gov.au",
+                    "phone": "02 6152 3515",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1565",
+                "title": "Program Compliance and Fraud",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Ian Bartholomew",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ian.bartholomew@niaa.gov.au",
+                    "phone": "02 6152 3575",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Layla Alsweity",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "layla.alsweity@niaa.gov.au",
+                    "phone": "02 6150 6703",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1555",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Julie-Ann Guivarra",
+            "vacant": false,
+            "acting": false,
+            "email": "marie.bailey@niaa.gov.au",
+            "phone": "02 6150 6715",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to Chief Executive Officer",
+            "person": "Marie Bailey",
+            "vacant": false,
+            "acting": false,
+            "email": "marie.bailey@niaa.gov.au",
+            "phone": "02 6150 6715",
+            "importance": 2
+          },
+          {
+            "role": "Senior Executive Officer to the Chief Executive Officer",
+            "person": "Louise Morley",
+            "vacant": false,
+            "acting": false,
+            "email": "louise.morley@niaa.gov.au",
+            "phone": "02 6152 3798",
+            "importance": 3
+          },
+          {
+            "role": "Branch Manager of the Office of the CEO",
+            "person": "John Walker",
+            "vacant": false,
+            "acting": false,
+            "email": "john.walker@niaa.gov.au",
+            "phone": "02 6267 7445",
+            "importance": 4
+          },
+          {
+            "role": "Director of Public Affairs and Media",
+            "person": "Claire Reynolds",
+            "vacant": false,
+            "acting": false,
+            "email": "media@niaa.gov.au",
+            "phone": "02 6267 7512",
+            "importance": 5
+          },
+          {
+            "role": "Senior DLO",
+            "person": "Iva Mencevska",
+            "vacant": false,
+            "acting": false,
+            "email": "iva.mencevska@niaa.gov.au",
+            "phone": "02 6152 3906",
+            "importance": 999
+          },
+          {
+            "role": "Senior DLO",
+            "person": "Iva Mencevska",
+            "vacant": false,
+            "acting": false,
+            "email": "iva.mencevska@niaa.gov.au",
+            "phone": "02 6152 3906",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1563",
+        "title": "Operations and Delivery",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer Operations and Delivery",
+            "person": "Kevin Brahim",
+            "vacant": false,
+            "acting": false,
+            "email": "kevin.brahim@niaa.gov.au",
+            "phone": "02 6152 3733",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to DCEO Operations and Delivery",
+            "person": "Jess Magin",
+            "vacant": false,
+            "acting": false,
+            "email": "jess.magin@niaa.gov.au",
+            "phone": "08 9424 3749",
+            "importance": 2
+          },
+          {
+            "role": "Executive Officer to DCEO Operations and Delivery",
+            "person": "Karyn Douglas",
+            "vacant": false,
+            "acting": false,
+            "email": "karyn.douglas@niaa.gov.au",
+            "phone": "0882164710",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1564",
+            "title": "Central",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Bridgette Bellenger",
+                "vacant": false,
+                "acting": false,
+                "email": "bridgette.bellenger@niaa.gov.au",
+                "phone": "02 6152 3791",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Adrianne Usher",
+                "vacant": false,
+                "acting": false,
+                "email": "adrianne.usher@niaa.gov.au",
+                "phone": "08 7972 4189",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Brionee Noonan",
+                "vacant": false,
+                "acting": false,
+                "email": "brionee.noonan@niaa.gov.au",
+                "phone": "08 7972 4104",
+                "importance": 4
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1019",
+                "title": "Arnhem Land and Groote Eylandt",
+                "roles": [
+                  {
+                    "role": "Regional Manager",
+                    "person": "Gerrit Wanganeen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "gerrit.wanganeen@niaa.gov.au",
+                    "phone": "08 8968 8402",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Krissy Andersen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "krissy.andersen@niaa.gov.au",
+                    "phone": "08 8968 8405",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1022",
+                "title": "Central Australia",
+                "roles": [
+                  {
+                    "role": "Regional Manager",
+                    "person": "Jonathan McNeill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jonathan.mcneill@niaa.gov.au",
+                    "phone": "08 8958 1204",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "TBC Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3232",
+                "title": "NT Strategy and Policy Branch",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Tom Dyer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "thomas.dyer@niaa.gov.au",
+                    "phone": "08 7972 4119",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Samantha Lafaele Selio",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.lafaeleselio@niaa.gov.au",
+                    "phone": "08 7972 4205",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1018",
+                "title": "Top End and Tiwi Islands",
+                "roles": [
+                  {
+                    "role": "Regional Manager",
+                    "person": "Terina Barratt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "terina.barratt@niaa.gov.au",
+                    "phone": "08 7978 2013",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Samantha Lafaele Selio",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.lafaeleselio@niaa.gov.au",
+                    "phone": "02 6267 7517",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1559",
+            "title": "Eastern",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Selena Pattrick",
+                "vacant": false,
+                "acting": false,
+                "email": "selena.pattrick@niaa.gov.au",
+                "phone": "02 6150 6710",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Talia Martin",
+                "vacant": false,
+                "acting": false,
+                "email": "talia.martin@niaa.gov.au",
+                "phone": "02 6152 3921",
+                "importance": 3
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Asha Murnane",
+                "vacant": false,
+                "acting": false,
+                "email": "asha.murnane@niaa.gov.au",
+                "phone": "07 4722 5804",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54359",
+                "title": "Doomadgee and Wreck Bay",
+                "roles": [
+                  {
+                    "role": "Group Manager",
+                    "person": "Anne-Marie Roberts",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anne-marie.roberts@niaa.gov.au",
+                    "phone": "07 4722 5804",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1015",
+                "title": "Eastern New South Wales",
+                "roles": [
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Sevda Turkmener",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sevda.turkmener@official.niaa.gov.au",
+                    "phone": "02 9842 9613",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Branch Manager",
+                    "person": "Leon Donovan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leon.donovan@niaa.gov.au",
+                    "phone": "02 9842 9610",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1013",
+                "title": "North Queensland Region",
+                "roles": [
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Zia Fuller",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "zia.fuller@niaa.gov.au",
+                    "phone": "07 4037 8633",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Regional Manager",
+                    "person": "Kassmena Birch",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kassmena.birch@niaa.gov.au",
+                    "phone": "0740378609",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1012",
+                "title": "South Queensland",
+                "roles": [
+                  {
+                    "role": "Acting Regional Manager",
+                    "person": "Callan Nickerson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "callan.nickerson@niaa.gov.au",
+                    "phone": "0249137901",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Debbie McDermott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "debbie.mcdermott@official.niaa.gov.au",
+                    "phone": "07 3837 3464",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1011",
+                "title": "Western New South Wales",
+                "roles": [
+                  {
+                    "role": "Acting Regional Manager",
+                    "person": "Max Saxby",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "max.saxby@niaa.gov.au",
+                    "phone": "02 5852 1045",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Karen Jarrett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "karen.jarrett@official.niaa.gov.au",
+                    "phone": "02 5852 1048",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1562",
+            "title": "West and South",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Cheryl Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "cheryl.smith@niaa.gov.au",
+                "phone": "02 6152 3272",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "TBC Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Karyn Douglas",
+                "vacant": false,
+                "acting": false,
+                "email": "karyn.douglas@niaa.gov.au",
+                "phone": "08 8216 4710",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1016",
+                "title": "Greater Western Australia",
+                "roles": [
+                  {
+                    "role": "Acting Regional Manager",
+                    "person": "Joyce Torres",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joyce.torres@niaa.gov.au",
+                    "phone": "08 9138 2621",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Tiara Wilkinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "08 9424 3710",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1020",
+                "title": "Kimberley",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Bec Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bec.smith@niaa.gov.au",
+                    "phone": "08 9138 7814",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Pallas Masina",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "pallas.masina@niaa.gov.au",
+                    "phone": "08 9138 7870",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1017",
+                "title": "South Australia",
+                "roles": [
+                  {
+                    "role": "Regional Manager",
+                    "person": "Craig Hendry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "craig.hendry@niaa.gov.au",
+                    "phone": "08 8216 4713",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Kirsty Glowacz",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kirsty.glowacz@official.niaa.gov.au",
+                    "phone": "08 8216 4713",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1021",
+                "title": "Victoria and Tasmania",
+                "roles": [
+                  {
+                    "role": "Regional Manager",
+                    "person": "Juliette Hubbard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "juliette.hubbard@niaa.gov.au",
+                    "phone": "02 6152 3068",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Victoria and Tasmania Region inbox",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "victasregion@niaa.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1558",
+        "title": "Policy and Programs",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer Policy and Programs",
+            "person": "Deborah Fulton",
+            "vacant": false,
+            "acting": false,
+            "email": "deborah.fulton@niaa.gov.au",
+            "phone": "02 6152 3705",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to DCEO Policy and Programs",
+            "person": "Tabitha Herde",
+            "vacant": false,
+            "acting": false,
+            "email": "tabitha.herde@niaa.gov.au",
+            "phone": "02 6152 3798",
+            "importance": 3
+          },
+          {
+            "role": "Executive Assistant to DCEO Policy and Programs",
+            "person": "TBC Vacant",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38788",
+            "title": "Country, Culture & Connection (CCCG)",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Kate Phipps",
+                "vacant": false,
+                "acting": false,
+                "email": "kate.phipps@niaa.gov.au",
+                "phone": "02 6150 6294",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Tyler McLean",
+                "vacant": false,
+                "acting": false,
+                "email": "tyler.mclean@niaa.gov.au",
+                "phone": "02 6150 6294",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Tabitha Herde",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1752",
+                "title": "Environment Branch",
+                "roles": [
+                  {
+                    "role": "Acting Branch Manager",
+                    "person": "Lara Wood-Gladwin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lara.woodgladwin@niaa.gov.au",
+                    "phone": "02 6267 7407",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Bree Leighton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bree.leighton@niaa.gov.au",
+                    "phone": "02 6150 6756",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54371",
+                "title": "Land & Native Title",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Carla McDonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "carla.mcdonald@niaa.gov.au",
+                    "phone": "02 6152 3640",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54370",
+                "title": "Territories Stolen  Generations Redress Scheme & Culture & Empowerment",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Sita Jackson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sita.jackson@niaa.gov.au",
+                    "phone": "08 7972 4207",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1557",
+            "title": "Jobs & Economic Development",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Jessica Guthrie",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.guthrie@niaa.gov.au",
+                "phone": "02 6152 3594",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Ashley Pieterse",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6152 3594",
+                "importance": 3
+              },
+              {
+                "role": "Executive Officer",
+                "person": "TBC Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2031",
+                "title": "Business and Economic",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Shane Dexter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.dexter@niaa.gov.au",
+                    "phone": "02 6152 3511",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Tatyana Rodriguez",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tatyana.rodriguez@niaa.gov.au",
+                    "phone": "02 6267 7595",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3216",
+                "title": "Policy",
+                "roles": [
+                  {
+                    "role": "Senior Director",
+                    "person": "Elizabeth Crombie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "elizabeth.crombie@niaa.gov.au",
+                    "phone": "02 6152 3594",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Sabine Down",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sabine.down@niaa.gov.au",
+                    "phone": "02 6152 3135",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1007",
+                "title": "RAES Implementation",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Mitchell Taylor-Briscoe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mitchell.taylor-briscoe@niaa.gov.au",
+                    "phone": "02 6152 3008",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Caitlyn Fogarty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "caitlyn.fogarty@niaa.gov.au",
+                    "phone": "02 6152 3008",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43128",
+                "title": "Remote Jobs & Employment Programs",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Ben O'Sullivan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.o'sullivan@niaa.gov.au",
+                    "phone": "02 6152 3008",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Caitlyn Fogarty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "caitlyn.fogarty@niaa.gov.au",
+                    "phone": "02 6152 3008",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2032",
+            "title": "Social Policy",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Ali Jenkins",
+                "vacant": false,
+                "acting": false,
+                "email": "ali.jenkins@niaa.gov.au",
+                "phone": "02 6152 3375",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Kaity Schultz",
+                "vacant": false,
+                "acting": false,
+                "email": "kaity.schultz@niaa.gov.au",
+                "phone": "02 6152 3931",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Tania Holland",
+                "vacant": false,
+                "acting": false,
+                "email": "tania.holland@niaa.gov.au",
+                "phone": "03 6232 4511",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2034",
+                "title": "Early Years and Education Branch",
+                "roles": [
+                  {
+                    "role": "Acting Branch Manager",
+                    "person": "Megan Chisholm",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "megan.chisholm@niaa.gov.au",
+                    "phone": "02 6267 7533",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Casey O'Neil",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "casey.o'neil@niaa.gov.au",
+                    "phone": "02 6152 3028",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2033",
+                "title": "Families and Safety Branch",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Priya Powell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "priya.powell@niaa.gov.au",
+                    "phone": "02 6152 3679",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Miranda Banfield-Powell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "miranda.banfield-powell@niaa.gov.au",
+                    "phone": "02 6150 6245",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2035",
+                "title": "Health and Wellbeing Branch",
+                "roles": [
+                  {
+                    "role": "Acting Branch Manager",
+                    "person": "Cath Orchard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "catherine.orchard@niaa.gov.au",
+                    "phone": "02 6152 3860",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Executive Assistant",
+                    "person": "Lucille Duvenhage",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lucille.duvenhage@niaa.gov.au",
+                    "phone": "02 6152 3534",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Branch Manager 11 Apr",
+                    "person": "Tom Nettleton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tom.nettleton@niaa.gov.au",
+                    "phone": "02 6152 3118",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1008",
+                "title": "Housing and Infrastructure",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Simone Persson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "simone.persson@niaa.gov.au",
+                    "phone": "02 6152 3022",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Kayla Barry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kayla.barry@niaa.gov.au",
+                    "phone": "02 6150 6234",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1556",
+            "title": "Strategy",
+            "roles": [
+              {
+                "role": "Group Manager",
+                "person": "Simon Gordon",
+                "vacant": false,
+                "acting": false,
+                "email": "simon.gordon@niaa.gov.au",
+                "phone": "02 6152 3290",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Alex Pourouzidis",
+                "vacant": false,
+                "acting": false,
+                "email": "alex.pourouzidis@niaa.gov.au",
+                "phone": "02 6152 3071",
+                "importance": 2
+              },
+              {
+                "role": "Acting Executive Officer",
+                "person": "Paul Hayes",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.hayes@niaa.gov.au",
+                "phone": "02 6152 3309",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1002",
+                "title": "Closing the Gap",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Erin Selmes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "erin.selmes@niaa.gov.au",
+                    "phone": "02 6267 7430",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Christine Kazias",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christine.kazias@niaa.gov.au",
+                    "phone": "02 6152 3746",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1010",
+                "title": "Strategic Insights Branch",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Nattlie Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nattlie.smith@niaa.gov.au",
+                    "phone": "02 6152 3692",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Alex Pourouzidis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.pourouzidis@niaa.gov.au",
+                    "phone": "02 6152 3071",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "975",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "Branch Manager",
+                    "person": "Vern Lim",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vern.lim@niaa.gov.au",
+                    "phone": "02 6152 3017",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant",
+                    "person": "Tamara Harbus",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tamara.harbus@niaa.gov.au",
+                    "phone": "02 6152 3721",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "content_id": "210",
+  "title": "Parliamentary Budget Office",
+  "acronym": "PBO",
+  "portfolio": "Parliamentary Departments (not a portfolio)",
+  "website": "http://www.pbo.gov.au",
+  "description": "The role of the Parliamentary Budget Office (PBO) is to inform the Parliament by providing independent and non-partisan analysis of the budget cycle, fiscal policy and the financial implications of proposals.",
+  "dashboard_name": "Parliamentary Budget Office",
+  "people_count": 8,
+  "tree": {
+    "content_id": "210",
+    "title": "Parliamentary Budget Office",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1400",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Parliamentary Budget Officer",
+            "person": "Sam Reinhardt",
+            "vacant": false,
+            "acting": false,
+            "email": "pbo@pbo.gov.au",
+            "phone": "(02) 6277 9500",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the Parliamentary Budget Officer",
+            "person": "Ashwina Rao",
+            "vacant": false,
+            "acting": false,
+            "email": "ashwina.rao@pbo.gov.au",
+            "phone": "(02) 6277 9591",
+            "importance": 2
+          },
+          {
+            "role": "First Assistant Parliamentary Budget Officer",
+            "person": "John Clark",
+            "vacant": false,
+            "acting": false,
+            "email": "john.clark@pbo.gov.au",
+            "phone": "02 6277 9560",
+            "importance": 3
+          },
+          {
+            "role": "Assistant Parliamentary Budget Officer",
+            "person": "Kane Travers",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Assistant Parliamentary Budget Officer",
+            "person": "Gareth (Gus) Tunks",
+            "vacant": false,
+            "acting": false,
+            "email": "gareth.tunks@pbo.gov.au",
+            "phone": "02 6277 9550",
+            "importance": 7
+          },
+          {
+            "role": "Assistant Parliamentary Budget Officer",
+            "person": "Lewis Conn",
+            "vacant": false,
+            "acting": false,
+            "email": "lewis.conn@pbo.gov.au",
+            "phone": "62779530",
+            "importance": 8
+          },
+          {
+            "role": "Assistant Parliamentary Budget Officer",
+            "person": "Chrysanthe Psychogios",
+            "vacant": false,
+            "acting": false,
+            "email": "chrysanthe.psychogios@pbo.gov.au",
+            "phone": "6277 9570",
+            "importance": 9
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Maddi Ciuffetelli",
+            "vacant": false,
+            "acting": false,
+            "email": "maddi.ciuffetelli@pbo.gov.au",
+            "phone": "6277 9596",
+            "importance": 11
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

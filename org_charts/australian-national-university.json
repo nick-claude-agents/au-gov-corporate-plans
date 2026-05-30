@@ -1,0 +1,26 @@
+{
+  "content_id": "157",
+  "title": "Australian National University",
+  "acronym": "",
+  "portfolio": "Education",
+  "website": "http://www.anu.edu.au",
+  "description": "As Australia's national university, ANU has an international reputation for excellence in research, education and policy expertise. Research is central to everything ANU does. It shapes the educational experience provided to students and enables the University to be a leading voice on issues of national and international importance. The University invests heavily in research activities and infrastructure to attract, nurture and retain world-leading researchers. Consequently its academic staff are recognised globally as among the best in their fields. ANU students are taught by, and work with, active researchers at all levels of achievement. This ensures a contemporary education based in learning and discovery, not just knowledge transfer. Being part of an active network of researchers with global connections also provides opportunities for development in Australia and abroad. Consistent with its national leadership role, ANU continues to attract high-quality students from around Australia and the world to its undergraduate, postgraduate coursework and higher degree research programs.",
+  "dashboard_name": null,
+  "people_count": 1,
+  "tree": {
+    "content_id": "157",
+    "title": "Australian National University",
+    "roles": [
+      {
+        "role": "Interim Vice-Chancellor",
+        "person": "Rebekah Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

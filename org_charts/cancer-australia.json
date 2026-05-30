@@ -1,0 +1,26 @@
+{
+  "content_id": "189",
+  "title": "Cancer Australia",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.canceraustralia.gov.au",
+  "description": "Cancer Australia was established by the Australian Government in 2006 to benefit all Australians affected by cancer, and their families and carers. Cancer Australia works to reduce the impact of cancer and improve the wellbeing of those diagnosed by ensuring that evidence informs cancer prevention, screening, diagnosis, treatment, and supportive care.<br />\n<br />\nCancer Australia works collaboratively with a wide range of groups, including those affected by cancer, key stakeholders, and health care providers with an interest in cancer control.  The agency also focuses on populations that experience poorer health outcomes, including Aboriginal and Torres Strait Islander peoples, and people living in rural and remote Australia.<br />\n<br />\nAs the lead national cancer control agency, Cancer Australia also makes recommendations to the Australian Government about cancer policy and priorities.",
+  "dashboard_name": "Cancer Australia",
+  "people_count": 1,
+  "tree": {
+    "content_id": "189",
+    "title": "Cancer Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Dorothy Keefe",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

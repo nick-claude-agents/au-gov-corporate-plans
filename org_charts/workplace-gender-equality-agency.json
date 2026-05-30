@@ -1,0 +1,26 @@
+{
+  "content_id": "276",
+  "title": "Workplace Gender Equality Agency",
+  "acronym": "WGEA",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "https://www.wgea.gov.au",
+  "description": "The Workplace Gender Equality Agency (WGEA) administers the Workplace Gender Equality Act 2012, requiring private and Commonwealth public sector employers with 100 or more employees to report to WGEA annually against six gender equality indicators. Employers who directly employ 500 or more employees must also have a policy covering each of the 6 gender equality indicators and select and meet, or improve against, gender equality targets. In addition to this regulatory role, WGEA works collaboratively with employers providing advice, practical tools and educational programs to help them improve gender equality. WGEA also promotes and contributes to understanding, acceptance and public debate of gender equality issues in the workplace.",
+  "dashboard_name": "Workplace Gender Equality Agency",
+  "people_count": 1,
+  "tree": {
+    "content_id": "276",
+    "title": "Workplace Gender Equality Agency",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Mary Wooldridge",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 9432 7000",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

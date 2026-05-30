@@ -1,0 +1,26 @@
+{
+  "content_id": "101",
+  "title": "Aged Care Quality and Safety Commission",
+  "acronym": "AAQSC",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.agedcarequality.gov.au/",
+  "description": "The Aged Care Quality and Safety Commission's purpose is to protect and enhance the safety, health, well-being and quality of life of aged care consumers.",
+  "dashboard_name": "Aged Care Quality and Safety Commission (ACQSC)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "101",
+    "title": "Aged Care Quality and Safety Commission",
+    "roles": [
+      {
+        "role": "Commissioner",
+        "person": "Elizabeth Hefren-Webb",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 7
+      }
+    ],
+    "children": []
+  }
+}

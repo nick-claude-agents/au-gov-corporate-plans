@@ -1,0 +1,71 @@
+{
+  "content_id": "125",
+  "title": "Australian Law Reform Commission",
+  "acronym": "ALRC",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.alrc.gov.au/",
+  "description": "The Australian Law Reform Commission (ALRC) conducts inquiries into areas of law at the request of the Attorney-General of Australia. Based on its research and consultations throughout an inquiry, the ALRC makes recommendations to government so that government can make informed decisions about law reform. <br />\n <br />\nThe ALRC is part of the Attorney-General's portfolio, however it is independent of government.<br />\n <br />\nThe ALRC's objective is to make recommendations that:<br />\n<br />\n- bring the law into line with current conditions and needs<br />\n- remove defects in the law<br />\n- simplify the law<br />\n- adopt new or more effective methods for administering the law and dispensing justice, and<br />\n- provide improved access to justice.<br />\n <br />\nWhen conducting an inquiry, the ALRC also monitors other jurisdictions to ensure Australia compares favourably with international best practice.<br />\n <br />\nThe ALRC aims to ensure that recommendations it makes do not trespass unduly on personal rights and liberties of citizens, or make those rights and liberties unduly dependent on administrative, rather than judicial, decisions and, as far as practicable, are consistent with the International Covenant on Civil and Political Rights.<br />\n <br />\nThe ALRC must also have regard to any effect that its recommendations may have on the costs of access to, and dispensing of, justice.",
+  "dashboard_name": "Australian Law Reform Commission",
+  "people_count": 6,
+  "tree": {
+    "content_id": "125",
+    "title": "Australian Law Reform Commission",
+    "roles": [
+      {
+        "role": "President",
+        "person": "Mordecai Bromberg",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "Part-time Commissioner",
+        "person": "Mark Moshinsky",
+        "vacant": false,
+        "acting": false,
+        "email": "info@alrc.gov.au",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Executive Director",
+        "person": "Ruth Barson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Director of Communications and Engagement",
+        "person": "Jez Hunghanfoo",
+        "vacant": false,
+        "acting": false,
+        "email": "jez.hunghanfoo@alrc.gov.au",
+        "phone": "",
+        "importance": 4
+      },
+      {
+        "role": "Director of Operations and Finance",
+        "person": "Mandeep Bahia",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 5
+      },
+      {
+        "role": "Executive Assistant to the President and Executive Director",
+        "person": "Dakota Lamont",
+        "vacant": false,
+        "acting": false,
+        "email": "dakota.lamont@alrc.gov.au",
+        "phone": "",
+        "importance": 6
+      }
+    ],
+    "children": []
+  }
+}

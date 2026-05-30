@@ -1,0 +1,62 @@
+{
+  "content_id": "212",
+  "title": "Aboriginal Hostels Limited",
+  "acronym": "AHL",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.ahl.gov.au",
+  "description": "Aboriginal Hostels Limited (AHL) contributes to Indigenous Australians' quality of life through the delivery of accommodation and support services across its national network of accommodation facilities, enabling access to a broad range of education, employment, health and other services. The company has maintained its commitment to delivering short-term accommodation to Aboriginal and Torres Strait Islander people who must live away from their country to access services and economic opportunity.",
+  "dashboard_name": "Aboriginal Hostels Limited",
+  "people_count": 5,
+  "tree": {
+    "content_id": "212",
+    "title": "Aboriginal Hostels Limited",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Shane Hamilton",
+        "vacant": false,
+        "acting": false,
+        "email": "shane.hamilton@ahl.gov.au",
+        "phone": "(02) 6212 2050",
+        "importance": 1
+      },
+      {
+        "role": "General Manager, Operations",
+        "person": "Bob Harvey",
+        "vacant": false,
+        "acting": false,
+        "email": "bob.harvey@ahl.gov.au",
+        "phone": "02 6212 2023",
+        "importance": 2
+      },
+      {
+        "role": "General Manager, Corporate",
+        "person": "Dermot Walsh",
+        "vacant": false,
+        "acting": false,
+        "email": "dermot.walsh@ahl.gov.au",
+        "phone": "(02) 6212 2022",
+        "importance": 3
+      },
+      {
+        "role": "Acting Chief People Officer",
+        "person": "Sarah Hartnell",
+        "vacant": false,
+        "acting": false,
+        "email": "sarah.hartnell@ahl.gov.au",
+        "phone": "02 6212 2087",
+        "importance": 4
+      },
+      {
+        "role": "Executive Assistant to Chief Executive Officer",
+        "person": "Karina Gowen",
+        "vacant": false,
+        "acting": false,
+        "email": "karina.gowen@ahl.gov.au",
+        "phone": "02 6212 2006",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

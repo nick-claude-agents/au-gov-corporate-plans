@@ -1,0 +1,33 @@
+{
+  "content_id": "147",
+  "title": "Defence Housing Australia",
+  "acronym": "DHA",
+  "portfolio": "Defence",
+  "website": "http://www.dha.gov.au",
+  "description": "Defence Housing Australia (DHA) provides housing for members of the Australian Defence Force and their families. Formerly known as the Defence Housing Authority (renamed in 2006), DHA reports to the Minister for Defence and the Minister for Finance. DHA is prescribed as a Government Business Enterprise under regulation 4 of the Commonwealth Authorities and Companies Regulations 1997.",
+  "dashboard_name": null,
+  "people_count": 1,
+  "tree": {
+    "content_id": "147",
+    "title": "Defence Housing Australia",
+    "roles": [
+      {
+        "role": "Managing Director",
+        "person": "Andrew Jaggers",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "13 9342",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1415",
+        "title": "Customer service enquiries",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "content_id": "151",
+  "title": "Royal Australian Navy Relief Trust Fund",
+  "acronym": "",
+  "portfolio": "Defence",
+  "website": "http://intranet.defence.gov.au/navyweb/sites/RANRTF/ComWeb.asp?page=255915",
+  "description": "The Fund provides welfare assistance to serving and ex-serving members of the RAN and their families.",
+  "dashboard_name": "Royal Australian Navy Relief Trust Fund",
+  "people_count": 1,
+  "tree": {
+    "content_id": "151",
+    "title": "Royal Australian Navy Relief Trust Fund",
+    "roles": [
+      {
+        "role": "Governance Officer",
+        "person": "Lakesh Sundar",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6266 3588",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

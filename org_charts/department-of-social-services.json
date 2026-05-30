@@ -1,0 +1,957 @@
+{
+  "content_id": "92",
+  "title": "Department of Social Services",
+  "acronym": "DSS",
+  "portfolio": "Social Services",
+  "website": "http://www.dss.gov.au",
+  "description": "The Department of Social Services is responsible for a diverse range of policies, payments, programs and services that improve the lifetime wellbeing of people and families in Australia. The department works in partnership with other government and non-government organisations to ensure the effective development, management and delivery of these initiatives. We fund services and payments that assist families, children and older people, provide a safety net for those who cannot fully support themselves, enhance the wellbeing of people with high needs, assist those who need help with care, and support a diverse and harmonious society.",
+  "dashboard_name": "Department of Social Services (DSS)",
+  "people_count": 61,
+  "tree": {
+    "content_id": "92",
+    "title": "Department of Social Services",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3666",
+        "title": "Community Grants Hub",
+        "roles": [
+          {
+            "role": "Group Manager (Acting)",
+            "person": "Kath Paton",
+            "vacant": false,
+            "acting": false,
+            "email": "kath.paton@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1075",
+            "title": "Client Grants",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Jessica Ballinger",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.ballinger@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2779",
+            "title": "Community Sector Relationships",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Emma Cook",
+                "vacant": false,
+                "acting": false,
+                "email": "emma.cook@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3793",
+            "title": "DSS Grants",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Mike Mays",
+                "vacant": false,
+                "acting": false,
+                "email": "mike.mays@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2778",
+            "title": "Hub Operations",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Tamsin Jackson",
+                "vacant": false,
+                "acting": false,
+                "email": "tamsin.jackson@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3794",
+            "title": "Inclusive Employment Delivery",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Tanya George",
+                "vacant": false,
+                "acting": false,
+                "email": "tanya.george@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3665",
+        "title": "Corporate and Government Services",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Richard Baumgart",
+            "vacant": false,
+            "acting": false,
+            "email": "richard.baumgart@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3533",
+            "title": "Communication",
+            "roles": [
+              {
+                "role": "Chief Communication Officer and Branch Manager",
+                "person": "Melissa Evans",
+                "vacant": false,
+                "acting": false,
+                "email": "melissa.evans@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3535",
+            "title": "Parliamentary, Security and Governance",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Kraig Lowes",
+                "vacant": false,
+                "acting": false,
+                "email": "kraig.lowes@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3531",
+            "title": "People Services",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Sam Ursich",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.ursich@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2596",
+        "title": "Data and Evaluation",
+        "roles": [
+          {
+            "role": "Group Manager (Acting)",
+            "person": "James Steen",
+            "vacant": false,
+            "acting": false,
+            "email": "james.steen@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3523",
+            "title": "Data Governance and Use",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Agnieszka Nelson",
+                "vacant": false,
+                "acting": false,
+                "email": "agnieszka.nelson@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3525",
+            "title": "Data Reporting and Evaluation",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Danielle Aeuckens",
+                "vacant": false,
+                "acting": false,
+                "email": "danielle.aeuckens@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2776",
+            "title": "Income Management Taskforce",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Kirsti Van Der Steen",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsti.vandersteen@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "52114",
+        "title": "Delivery and Communities",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Pia van de Zandt",
+            "vacant": false,
+            "acting": false,
+            "email": "pia.vandezandt@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "42521",
+            "title": "Closing the Gap Delivery",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Rick Haines",
+                "vacant": false,
+                "acting": false,
+                "email": "rick.haines@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "39620",
+            "title": "Communities",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Heidi Kiekebosch-Fitt",
+                "vacant": false,
+                "acting": false,
+                "email": "heidi.kiekebosch-fitt@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53695",
+            "title": "Delivery Unit",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Sarah Mourney",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.mourney@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3674",
+        "title": "Disability Employment",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Kellie Spence",
+            "vacant": false,
+            "acting": false,
+            "email": "kellie.spence@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47375",
+            "title": "Disability Employment Policy",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Alexandra Buckley",
+                "vacant": false,
+                "acting": false,
+                "email": "alex.buckley@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3675",
+            "title": "Disability Employment Programs",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Jacinda Still",
+                "vacant": false,
+                "acting": true,
+                "email": "jacinda.still@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2317",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary of the Department of Social Services",
+            "person": "Michael Lye",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 653 227",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Matt Flavel",
+            "vacant": false,
+            "acting": false,
+            "email": "matt.flavel@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Letitia Hope",
+            "vacant": false,
+            "acting": true,
+            "email": "letitia.hope@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 3
+          },
+          {
+            "role": "Chief Operating Officer",
+            "person": "Patrick Hetherington",
+            "vacant": false,
+            "acting": true,
+            "email": "pat.hetherington@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Secretary",
+            "person": "Corri McKenzie",
+            "vacant": false,
+            "acting": false,
+            "email": "corri.mckenzie@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary (Acting)",
+            "person": "Grant Lovelock",
+            "vacant": false,
+            "acting": false,
+            "email": "grant.lovelock@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 6
+          },
+          {
+            "role": "Executive Assistant to the Secretary",
+            "person": "Tricia Beath",
+            "vacant": false,
+            "acting": false,
+            "email": "tricia.beath@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 7
+          },
+          {
+            "role": "Chief of Staff to the Secretary",
+            "person": "Ellen Fitzgerald",
+            "vacant": false,
+            "acting": false,
+            "email": "ellen.fitzgerald@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 8
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3667",
+        "title": "Family Safety",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Anna Lutz",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.lutz@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2777",
+            "title": "Children’s and Youth Policy",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Emily Devine",
+                "vacant": false,
+                "acting": false,
+                "email": "emily.devine@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3668",
+            "title": "Design and Development",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Tim Crosier",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.crosier@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3669",
+            "title": "Family, Domestic and Sexual Violence Specialist Policy",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Emily Hurley",
+                "vacant": false,
+                "acting": false,
+                "email": "emily.hurley@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3670",
+            "title": "National Programs",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Eve Cordeiro",
+                "vacant": false,
+                "acting": false,
+                "email": "eve.cordeiro@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2311",
+        "title": "Family Wellbeing",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Jacqueline Hrast",
+            "vacant": false,
+            "acting": false,
+            "email": "jacqueline.hrast@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1681",
+            "title": "Child and Family Programs",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "James Steen",
+                "vacant": false,
+                "acting": true,
+                "email": "james.steen@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "972",
+            "title": "Financial Resilience and Response",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Mary Hodge",
+                "vacant": false,
+                "acting": false,
+                "email": "mary.hodge@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "51241",
+            "title": "Korea-Australia Intercountry Adoption Program",
+            "roles": [
+              {
+                "role": "Taskforce Lead",
+                "person": "Joanna Carey",
+                "vacant": false,
+                "acting": false,
+                "email": "joanna.carey@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "37881",
+            "title": "Reform and Implementation",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Janaya Cox",
+                "vacant": false,
+                "acting": false,
+                "email": "janaya.cox@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3529",
+        "title": "Finance and Information Services",
+        "roles": [
+          {
+            "role": "Chief Finance Officer and Group Manager",
+            "person": "Thea Connolly",
+            "vacant": false,
+            "acting": true,
+            "email": "thea.connolly@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3528",
+            "title": "Budget Development",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Mark Richardson",
+                "vacant": false,
+                "acting": true,
+                "email": "mark.richardson@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "41072",
+            "title": "Chief Information Officer",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Alana Lundy",
+                "vacant": false,
+                "acting": false,
+                "email": "alana.lundy@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3540",
+            "title": "Financial Management and Property Services",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Hitesh Rohra",
+                "vacant": false,
+                "acting": false,
+                "email": "hitesh.rohra@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3663",
+        "title": "Legal Services, Audit and Assurance",
+        "roles": [
+          {
+            "role": "Chief Counsel and Group Manager",
+            "person": "Bronwyn Worswick",
+            "vacant": false,
+            "acting": false,
+            "email": "bronwyn.worswick@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3534",
+            "title": "Audit and Assurance",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Rob Stedman",
+                "vacant": false,
+                "acting": false,
+                "email": "rob.stedman@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49662",
+            "title": "Legal Services",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Nicola Pearson",
+                "vacant": false,
+                "acting": false,
+                "email": "nicola.pearson@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3542",
+        "title": "Participation and Family Payments",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Ben Peoples",
+            "vacant": false,
+            "acting": false,
+            "email": "benjamin.peoples@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3544",
+            "title": "Carer, Disability and Student Payments",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Dani Chatillon",
+                "vacant": false,
+                "acting": false,
+                "email": "dani.chatillon@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53195",
+            "title": "Child Support Reform",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Lauren Power",
+                "vacant": false,
+                "acting": false,
+                "email": "lauren.power@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3545",
+            "title": "Family Payments",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Paul Dowling",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.dowling@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3543",
+            "title": "Participation and Supplementary Payments",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Katrina Chatham",
+                "vacant": false,
+                "acting": false,
+                "email": "katrina.chatham@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2874",
+        "title": "Redress",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Grant Lovelock",
+            "vacant": false,
+            "acting": true,
+            "email": "grant.lovelock@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3026",
+            "title": "Integrity and Information",
+            "roles": [
+              {
+                "role": "Branch Manager (Acting)",
+                "person": "Lauren Ambrose",
+                "vacant": false,
+                "acting": false,
+                "email": "lauren.ambrose@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1903",
+            "title": "Operations and Outcomes",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Justine Fievez",
+                "vacant": false,
+                "acting": false,
+                "email": "justine.fievez@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3526",
+            "title": "Policy, Institutions and Governance",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Val Still",
+                "vacant": false,
+                "acting": false,
+                "email": "val.still@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50882",
+        "title": "Social Policy",
+        "roles": [
+          {
+            "role": "Group Manager",
+            "person": "Andrew Whitecross",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.whitecross@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52568",
+            "title": "Strategy and Delivery",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Thomas Abhayaratna",
+                "vacant": false,
+                "acting": false,
+                "email": "thomas.abhayaratna@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "51240",
+        "title": "System, Strategy and Seniors",
+        "roles": [
+          {
+            "role": "Group Manager (Acting)",
+            "person": "Cheryl-Anne Navarro",
+            "vacant": false,
+            "acting": false,
+            "email": "cheryl-anne.navarro@dss.gov.au",
+            "phone": "1300 653 227",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3548",
+            "title": "International Payments and Compliance",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Cheryl-Anne Navarro",
+                "vacant": false,
+                "acting": false,
+                "email": "cheryl-anne.navarro@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3521",
+            "title": "Payment Structures and Seniors",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Kirsty Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsty.johnson@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52116",
+            "title": "Strategy and Analysis",
+            "roles": [
+              {
+                "role": "Branch Manager",
+                "person": "Gillian Beer",
+                "vacant": false,
+                "acting": false,
+                "email": "gillian.beer@dss.gov.au",
+                "phone": "1300 653 227",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,1091 @@
+{
+  "content_id": "115",
+  "title": "Attorney-General's Department",
+  "acronym": "AGD",
+  "portfolio": "Attorney-General's",
+  "website": "https://www.ag.gov.au",
+  "description": "The Attorney-General's Department delivers programs and policies to maintain and improve Australia's law and justice framework. Through the Australian Government Solicitor, we also provide legal services to the Commonwealth (including legal advice and representation).<br />\n<br />\nOur department is the central policy and coordinating element of the Attorney-General's portfolio.<br />\n<br />\nOur department is structured into five groups:<br />\n<br />\n• Australian Government Solicitor<br />\n• Justice and Communites<br />\n• National Security and Criminal Justice<br />\n• Integrity and International<br />\n• Enabling Services.",
+  "dashboard_name": "Attorney-General's Department",
+  "people_count": 72,
+  "tree": {
+    "content_id": "115",
+    "title": "Attorney-General's Department",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3051",
+        "title": "Australian Government Solicitor",
+        "roles": [
+          {
+            "role": "The Australian Government Solicitor",
+            "person": "Matthew Blunn",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6253 7000",
+            "importance": 1
+          },
+          {
+            "role": "National Practice Manager",
+            "person": "Nerida Nelson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6253 7000",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1318",
+            "title": "AGS Commercial",
+            "roles": [
+              {
+                "role": "National Leader",
+                "person": "Nick Terry",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 1
+              },
+              {
+                "role": "Chief Counsel Commercial",
+                "person": "Cathy Reid",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1304",
+            "title": "AGS Dispute Resolution",
+            "roles": [
+              {
+                "role": "National Leader",
+                "person": "Justine Knowles",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 1
+              },
+              {
+                "role": "Chief Counsel Dispute Resolution",
+                "person": "Tim Begbie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1315",
+            "title": "Office of General Counsel (OGC)",
+            "roles": [
+              {
+                "role": "National Leader",
+                "person": "Kathryn Graham",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 1
+              },
+              {
+                "role": "Chief General Counsel",
+                "person": "Andrew Buckland",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6253 7000",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3052",
+        "title": "Enabling Services Group",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Cameron Gifford",
+            "vacant": false,
+            "acting": false,
+            "email": "cameron.gifford@ag.gov.au",
+            "phone": "(02) 6141 6666",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2036",
+            "title": "Corporate Services Division",
+            "roles": [
+              {
+                "role": "Chief Financial Officer (CFO)",
+                "person": "Scott Sharp",
+                "vacant": false,
+                "acting": false,
+                "email": "scott.sharp@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1711",
+                "title": "AGS Finance",
+                "roles": [
+                  {
+                    "role": "AGS Chief Financial Officer",
+                    "person": "Stuart Rankin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stuart.rankin@ag.gov.au",
+                    "phone": "02 6253 7257",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36741",
+                "title": "Data, Evaluation and Behavioural Insights",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary / Chief Data and Analytics Officer",
+                    "person": "Abrie Swanepoel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "abrie.swanepoel@ag.gov.au",
+                    "phone": "02 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1712",
+                "title": "Financial Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tanya Howitt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tanya.howitt@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  },
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Charlotte Konkoly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "charlotte.konkoly@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1710",
+                "title": "Shared Services, Security and Facilities",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Alice Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alice.smith@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54322",
+                "title": "Strategic Property",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Daryl Adam",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "daryl.adam@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1708",
+            "title": "Information Division",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Michael Harrison",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.harrison@ag.gov.au",
+                "phone": "02 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42684",
+                "title": "Capability Sustainment",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Paul Boehme",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.boehme@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42685",
+                "title": "IT Engagement, Innovation and Support",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rebecca Daumont",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rebecca.daumont@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47093",
+            "title": "People and Strategy Division",
+            "roles": [
+              {
+                "role": "Chief People and Strategy Officer",
+                "person": "Bridie Dawson",
+                "vacant": false,
+                "acting": false,
+                "email": "bridie.dawson@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1707",
+                "title": "Human Resources",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrea Henson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrea.henson@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38355",
+                "title": "Office of Corporate Counsel",
+                "roles": [
+                  {
+                    "role": "Corporate Counsel",
+                    "person": "Kenneth Eagle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1709",
+                "title": "Strategy and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma Funnell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.funnell@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3055",
+        "title": "Enquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1302",
+            "title": "Media",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1303",
+            "title": "Ministerial Engagement and Executive Support",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Tayla Foster",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3056",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Katherine Jones",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6141 6666",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to Secretary",
+            "person": "Maryanne Cerina",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6141 6666",
+            "importance": 2
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Amy Burgess",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6141 6666",
+            "importance": 3
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "52414",
+        "title": "Integrity and Security Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Sarah Chidgey",
+            "vacant": false,
+            "acting": false,
+            "email": "sarah.chidgey@ag.gov.au",
+            "phone": "(02) 6141 6666",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52420",
+            "title": "Identity and Information Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Celeste Moran",
+                "vacant": false,
+                "acting": false,
+                "email": "celeste.moran@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52422",
+                "title": "Identity Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Adam Nott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adam.nott@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52421",
+                "title": "Information Law Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dianne Orr",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dianne.orr@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52423",
+                "title": "Privacy Reform Taskforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Catherine Fitch",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "catherine.fitch@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52424",
+            "title": "Integrity and Criminal Law Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Sara Samios",
+                "vacant": false,
+                "acting": false,
+                "email": "sara.samios@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52426",
+                "title": "Fraud Prevention and Anti-corruption Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Joanna Virtue",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52427",
+                "title": "National Security and Criminal Law Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke Muffett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.muffett@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52428",
+                "title": "Pacific Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rebecca Vonthethoff",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rebecca.vonthethoff@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52425",
+                "title": "Transparency Frameworks Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan McKeag",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.mckeag@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52415",
+            "title": "International Cooperation and Human Rights Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Kathryn Haigh",
+                "vacant": false,
+                "acting": false,
+                "email": "kathryn.haigh@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52416",
+                "title": "Human Rights Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Victoria Bennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "victoria.bennett@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52418",
+                "title": "International Cooperation Unit",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Rai Basu",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rai.basu@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  },
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Brittany Cole",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brittany.cole@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52417",
+                "title": "Modern Slavery and Human Trafficking Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lace Wang",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lace.wang@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52419",
+                "title": "Parole Taskforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke Brown",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.brown@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52429",
+            "title": "International and Public Law Division",
+            "roles": [
+              {
+                "role": "A/g First Assistant Secretary",
+                "person": "Susie Williamson-de Vries",
+                "vacant": false,
+                "acting": false,
+                "email": "susie.williamson-devries@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52433",
+                "title": "Knox Litigation and DVSRC Response Team",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Catherine Seaberg",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "catherine.seaberg@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52434",
+                "title": "Office of Constitutional Law",
+                "roles": [
+                  {
+                    "role": "General Counsel (Constitutional)",
+                    "person": "David Lewis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.lewis@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52430",
+                "title": "Office of International Law",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Jesse Clarke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jesse.clarke@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michael Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.johnson@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 2
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nathan Kensey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nathan.kensey@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 3
+                  },
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Yasamin Nooraii",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "yasamin.nooraii@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 4
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "James Mason",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "james.mason@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 5
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephanie Ierino",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephanie.ierino@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 6
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52432",
+                "title": "Office of Legal Services Coordination",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jacqueline McDermott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jackie.mcdermott@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54321",
+                "title": "Royal Commissions Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Tom Browne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "38356",
+        "title": "Justice and Communities Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Tamsyn Harvey",
+            "vacant": false,
+            "acting": false,
+            "email": "tamsyn.harvey@ag.gov.au",
+            "phone": "(02) 6141 6666",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38327",
+            "title": "Children and Families Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Chris Collett",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.collett@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38364",
+                "title": "Family Law Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kathleen Denley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kathleen.denley@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38365",
+                "title": "Family and Community Safety Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Samantha Byng",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.byng@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38366",
+                "title": "National Office for Child Safety",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lauren Barons",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lauren.barons@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  },
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Teresa McMichael",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "teresa.mcmichael@ag.gov.au",
+                    "phone": "02 6141 6666",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "38326",
+            "title": "Courts, Tribunals and Commercial Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tara Inverarity",
+                "vacant": false,
+                "acting": false,
+                "email": "tara.inverarity@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "50965",
+                "title": "Administrative Law Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephen Still",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephen.still@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38361",
+                "title": "Commercial and Copyright Law Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jenna Priestly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jenna.priestly@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38362",
+                "title": "Federal Courts Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Liam Demamiel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "liam.demamiel@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52404",
+            "title": "First Nations and Justice Policy Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Esther Bogaart",
+                "vacant": false,
+                "acting": false,
+                "email": "esther.bogaart@ag.gov.au",
+                "phone": "(02) 6141 6666",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52405",
+                "title": "First Nations Justice Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cassie Woods",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cassie.woods@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52408",
+                "title": "Interim Justice Reinvestment Unit",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jessica Turk",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jessica.turk@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52407",
+                "title": "Legal Assistance Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alaina Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alaina.mitchell@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52406",
+                "title": "Native Title and Priority Reforms Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bridie McAsey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bridie.mcasey@ag.gov.au",
+                    "phone": "(02) 6141 6666",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52431",
+            "title": "Working With Children Checks Reform Taskforce",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Chris Collett",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6141 6666",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3050",
+        "title": "Solicitor-General",
+        "roles": [
+          {
+            "role": "Solicitor-General",
+            "person": "Stephen Donaghue",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Christine Moy",
+            "vacant": false,
+            "acting": false,
+            "email": "christine.moy@ag.gov.au",
+            "phone": "(02) 6141 4139",
+            "importance": 2
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

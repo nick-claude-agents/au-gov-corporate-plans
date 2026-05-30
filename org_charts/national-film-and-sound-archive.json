@@ -1,0 +1,100 @@
+{
+  "content_id": "280",
+  "title": "National Film and Sound Archive of Australia",
+  "acronym": "NFSA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.nfsa.gov.au",
+  "description": "The National Film and Sound Archive of Australia (NFSA) is Australia’s national audiovisual cultural institution. We collect, preserve and share Australia’s audiovisual culture.<br />\nThe collection includes not only video and audio recordings, but also contextual materials such as costumes, scripts, props, photographs and promotional materials. It is a diverse, dynamic and often surprising repository, ranging from items inducted into the UNESCO Memory of the World register to sporting matches, game shows and advertising jingles. <br />\nAs well as preserving these items for future generations, NFSA curators continue to build the collection, ensuring it provides an unbroken record of Australian creativity and diversity.<br />\nThe NFSA ensures that the collection is available for enjoyment, learning, research and re-use through a range of public programs and services. These include Sounds of Australia, NFSA Restores, screenings and events, and learning programs delivered online and at its headquarters in Acton, Canberra. <br />\nThe wealth of stories captured in the national audiovisual collection is also available to all Australians across the NFSA’s digital channels and platforms.",
+  "dashboard_name": "National Film and Sound Archive",
+  "people_count": 7,
+  "tree": {
+    "content_id": "280",
+    "title": "National Film and Sound Archive of Australia",
+    "roles": [
+      {
+        "role": "Deputy Chief Executive Officer",
+        "person": "Jacqui Uhlmann",
+        "vacant": false,
+        "acting": false,
+        "email": "jacqui.uhlmann@nfsa.gov.au",
+        "phone": "(02) 6248 2104",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Patrick McIntyre",
+        "vacant": false,
+        "acting": false,
+        "email": "patrick.mcintyre@nfsa.gov.au",
+        "phone": "02 6248 2010",
+        "importance": 999
+      },
+      {
+        "role": "Chief Digital Officer",
+        "person": "Keir Winesmith",
+        "vacant": false,
+        "acting": false,
+        "email": "keir.winesmith@nfsa.gov.au",
+        "phone": "02 6248 2212",
+        "importance": 999
+      },
+      {
+        "role": "Chief, Collection Preservation",
+        "person": "Rebecca Coronel",
+        "vacant": false,
+        "acting": false,
+        "email": "rebecca.coronel@nfsa.gov.au",
+        "phone": "(02) 6248 2119",
+        "importance": 999
+      },
+      {
+        "role": "Chief Marketing Officer",
+        "person": "Nicole McPeake",
+        "vacant": false,
+        "acting": false,
+        "email": "nicole.mcpeake@nfsa.gov.au",
+        "phone": "(02) 8202 0179",
+        "importance": 999
+      },
+      {
+        "role": "Chief Curator",
+        "person": "Meagan Loader",
+        "vacant": false,
+        "acting": false,
+        "email": "meagan.loader@nfsa.gov.au",
+        "phone": "02 8202 0177",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1032",
+        "title": "Media Inquiries",
+        "roles": [
+          {
+            "role": "Communications",
+            "person": "Louise Alley",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 8202 0160",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1031",
+        "title": "Melbourne",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3798",
+        "title": "Sydney",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

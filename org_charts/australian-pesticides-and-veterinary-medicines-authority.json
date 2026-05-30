@@ -1,0 +1,116 @@
+{
+  "content_id": "111",
+  "title": "Australian Pesticides and Veterinary Medicines Authority",
+  "acronym": "APVMA",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "https://apvma.gov.au/",
+  "description": "The Australian Pesticides and Veterinary Medicines Authority (APVMA) is the Australian Government agency responsible for the assessment of pesticides and veterinary medicines and their regulation up to and including the point of supply (e.g. retail sale). It sits within the portfolio of the Minister for Agriculture, Fisheries and Forestry. <br />\n<br />\nThe APVMA is responsible for administering and managing the national registration scheme for agricultural and veterinary chemicals, which sets out the regulatory framework for the management of pesticides and veterinary medicines in Australia. The APVMA administers the scheme's legislation in partnership with state and territory governments. Pesticides and veterinary medicines are vital to quality food and fibre production, animal health and onshore biosecurity and the community. <br />\n<br />\nThe APVMA Chief Executive Officer is responsible for the governance and management and of the authority, including the performance of its functions and the exercise of its powers.",
+  "dashboard_name": "Australian Pesticides and Veterinary Medicines Authority",
+  "people_count": 7,
+  "tree": {
+    "content_id": "111",
+    "title": "Australian Pesticides and Veterinary Medicines Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Scott Hansen",
+        "vacant": false,
+        "acting": false,
+        "email": "scott.hansen@apvma.gov.au",
+        "phone": "0267 702 310",
+        "importance": 1
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Scott Hansen",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3049",
+        "title": "Agricultural Chemicals",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Ed Cram",
+            "vacant": false,
+            "acting": false,
+            "email": "ed.cram@apvma.gov.au",
+            "phone": "02 6770 2537",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3040",
+        "title": "Business Enabling Services",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Annie Ryan",
+            "vacant": false,
+            "acting": false,
+            "email": "annie.ryan@apvma.gov.au",
+            "phone": "02 6770 2484",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "37892",
+        "title": "Office to the Executive General Counsel",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Kilifoti Eteuati",
+            "vacant": false,
+            "acting": false,
+            "email": "kilifoti.eteuati@apvma.gov.au",
+            "phone": "02 6770 2470",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3039",
+        "title": "Science and Assurance",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Maria Trainer",
+            "vacant": false,
+            "acting": false,
+            "email": "maria.trainer@apvma.gov.au",
+            "phone": "02 6770 2437",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "52917",
+        "title": "Veterinary Medicines",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Lee Metcalf",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6770 2537",
+            "importance": 1
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

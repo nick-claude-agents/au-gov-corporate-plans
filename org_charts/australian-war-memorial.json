@@ -1,0 +1,335 @@
+{
+  "content_id": "243",
+  "title": "Australian War Memorial",
+  "acronym": "AWM",
+  "portfolio": "Veterans' Affairs (part of the Defence Portfolio)",
+  "website": "http://www.awm.gov.au",
+  "description": "The Australian War Memorial combines a shrine, a world-class museum, and an extensive archive. The Memorial's purpose is to commemorate the sacrifice of those Australians who have died in war or on operational service and those who have served our nation in times of conflict. Its mission is to assist Australians to remember, interpret and understand the Australian experience of war and its enduring impact on Australian society.",
+  "dashboard_name": "Australian War Memorial (AWM)",
+  "people_count": 21,
+  "tree": {
+    "content_id": "243",
+    "title": "Australian War Memorial",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Matt Anderson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Senior Executive Assistant to the Director",
+        "person": "Jenny Halpin",
+        "vacant": false,
+        "acting": false,
+        "email": "director.office@awm.gov.au",
+        "phone": "(02) 6243 4262",
+        "importance": 999
+      },
+      {
+        "role": "Director",
+        "person": "Matt Anderson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6243 4211",
+        "importance": 999
+      },
+      {
+        "role": "Admin",
+        "person": "Daniel Martynow",
+        "vacant": false,
+        "acting": false,
+        "email": "executive@awm.gov.au",
+        "phone": "0262434211",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2335",
+        "title": "Corporate Services",
+        "roles": [
+          {
+            "role": "Assistant Director",
+            "person": "Leanne Patterson",
+            "vacant": false,
+            "acting": false,
+            "email": "leanne.patterson@awm.gov.au",
+            "phone": "(02) 6243 4233",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2337",
+            "title": "Buildings and Services",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "David Fitzgerald",
+                "vacant": false,
+                "acting": false,
+                "email": "david.fitzgerald@awm.gov.au",
+                "phone": "(02) 6243 4497",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2338",
+            "title": "Finance",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Helen Petrovski",
+                "vacant": false,
+                "acting": false,
+                "email": "helen.petrovski@awm.gov.au",
+                "phone": "02 6243 4235",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2339",
+            "title": "Information Technology",
+            "roles": [
+              {
+                "role": "IT",
+                "person": "John Rodgers",
+                "vacant": false,
+                "acting": false,
+                "email": "john.rodgers@awm.gov.au",
+                "phone": "02 6243 4501",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2340",
+            "title": "People Management",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Frances Henderson",
+                "vacant": false,
+                "acting": false,
+                "email": "frances.henderson@awm.gov.au",
+                "phone": "(02) 6243 4295",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2346",
+            "title": "Retail and On-line Services",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Matthew Oliver",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.oliver@awm.gov.au",
+                "phone": "02 6243 4450",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2334",
+        "title": "National Collections",
+        "roles": [
+          {
+            "role": "Assistant Director",
+            "person": "Tim Sullivan",
+            "vacant": false,
+            "acting": false,
+            "email": "tim.sullivan@awm.gov.au",
+            "phone": "(02) 6243 4297",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2345",
+            "title": "Art",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2344",
+            "title": "Collection Services",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Brian Dawson",
+                "vacant": false,
+                "acting": false,
+                "email": "brian.dawson@awm.gov.au",
+                "phone": "(02) 6241 4540",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2343",
+            "title": "Military Heraldry and Technology",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Nick Fletcher",
+                "vacant": false,
+                "acting": false,
+                "email": "nick.fletcher@awm.gov.au",
+                "phone": "(02) 6243 4281",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2341",
+            "title": "Photographs, Film and Sound",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Hans Reppin",
+                "vacant": false,
+                "acting": false,
+                "email": "hans.reppin@awm.gov.au",
+                "phone": "(02) 6243 4535",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2342",
+            "title": "Research Centre",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Robyn Van Dyk",
+                "vacant": false,
+                "acting": false,
+                "email": "robyn.van-dyk@awm.gov.au",
+                "phone": "(02) 6263 6678",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2333",
+        "title": "Public Programs",
+        "roles": [
+          {
+            "role": "Assistant Director",
+            "person": "Anne Bennie",
+            "vacant": false,
+            "acting": false,
+            "email": "anne.bennie@awm.gov.au",
+            "phone": "(02) 6243 4285",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2350",
+            "title": "Commemoration and Visitor Engagement",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Sarah Hitchcock",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.hitchcock@awm.gov.au",
+                "phone": "(02) 6243 4206",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2349",
+            "title": "Communications and Marketing",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Chris Wagner",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.wagner@awm.gov.au",
+                "phone": "(02) 6243 4383",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2348",
+            "title": "Digital Experience",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Lloyd Brie",
+                "vacant": false,
+                "acting": false,
+                "email": "brie.lloyd@awm.gov.au",
+                "phone": "(02) 6243 4305",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2347",
+            "title": "Exhibitions",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Suzanne Myers",
+                "vacant": false,
+                "acting": false,
+                "email": "suzanne.myers@awm.gov.au",
+                "phone": "(02) 6243 4273",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2336",
+            "title": "Military History",
+            "roles": [
+              {
+                "role": "Head, Military History Section",
+                "person": "Ashley Ekins",
+                "vacant": false,
+                "acting": false,
+                "email": "ashley.ekins@awm.gov.au",
+                "phone": "(02) 6243 4358",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

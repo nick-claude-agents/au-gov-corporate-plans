@@ -1,0 +1,67 @@
+{
+  "content_id": "145",
+  "title": "Screen Australia",
+  "acronym": "SA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.screenaustralia.gov.au/",
+  "description": "Screen Australia is the Commonwealth Government screen agency providing support to Australian film, television, documentary and digital media makers.",
+  "dashboard_name": "Screen Australia",
+  "people_count": 4,
+  "tree": {
+    "content_id": "145",
+    "title": "Screen Australia",
+    "roles": [
+      {
+        "role": "Chief Executive",
+        "person": "Deirde Brennan",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 8113 5800",
+        "importance": 999
+      },
+      {
+        "role": "Chief Financial Officer",
+        "person": "Richard Nankivell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 8113 5800",
+        "importance": 999
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Grainne Brunsdon",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 8113 5800",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1037",
+        "title": "Media Inquiries",
+        "roles": [
+          {
+            "role": "Media Inquiries",
+            "person": "Jessica Parry",
+            "vacant": false,
+            "acting": false,
+            "email": "jessica.parry@screenaustralia.gov.au",
+            "phone": "(02) 8113 5833",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1038",
+        "title": "Melbourne",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "content_id": "50041",
+  "title": "National Commission for Aboriginal and Torres Strait Islander Children and Young People",
+  "acronym": "",
+  "portfolio": "Social Services",
+  "website": "https://www.ncatsicyp.gov.au/",
+  "description": "The National Commission for Aboriginal and Torres Strait Islander Children and Young People is an independent body that aims to promote and protect the rights of First Nations children and young people.",
+  "dashboard_name": "National Commission for Aboriginal and Torres Strait Islander Children and Young People",
+  "people_count": 1,
+  "tree": {
+    "content_id": "50041",
+    "title": "National Commission for Aboriginal and Torres Strait Islander Children and Young People",
+    "roles": [
+      {
+        "role": "National Commissioner",
+        "person": "Sue-Anne Hunter",
+        "vacant": false,
+        "acting": false,
+        "email": "admin@ncatsicyp.gov.au",
+        "phone": "",
+        "importance": 1
+      }
+    ],
+    "children": []
+  }
+}

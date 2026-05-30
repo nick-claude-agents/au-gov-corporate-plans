@@ -1,0 +1,26 @@
+{
+  "content_id": "159",
+  "title": "Australian Skills Quality Authority (National Vocational Education and Training Regulator)",
+  "acronym": "",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "http://www.asqa.gov.au",
+  "description": "As Australia’s national vocational education and training (VET) regulator, the Australian Skills Quality Authority (ASQA) regulates providers that:<br />\n<br />\n•\tdeliver VET qualifications and courses to students in Australia <br />\n•\toffer Australian qualifications internationally <br />\n•\tdeliver VET courses to overseas students. <br />\n<br />\nASQA also: <br />\n<br />\n•\tregulates certain providers that deliver English Language Intensive Courses for Overseas Students, and <br />\n•\taccredits VET courses to make sure nationally approved standards are met.",
+  "dashboard_name": "Australian Skills Quality Authority (ASQA)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "159",
+    "title": "Australian Skills Quality Authority (National Vocational Education and Training Regulator)",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Saxon Rice",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

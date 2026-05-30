@@ -1,0 +1,39 @@
+{
+  "content_id": "187",
+  "title": "Australian Radiation Protection and Nuclear Safety Agency",
+  "acronym": "ARPANSA",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.arpansa.gov.au",
+  "description": "The Australian Radiation Protection and Nuclear Safety Agency (ARPANSA) is the Australian Government's primary authority on radiation protection and nuclear safety. The ARPANSA regulates Commonwealth entities using radiation with the objective of protecting people and the environment from the harmful effects of radiation. The agency undertakes research, provides services, and promotes national uniformity and the implementation of international best practice across all jurisdictions.",
+  "dashboard_name": "Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "187",
+    "title": "Australian Radiation Protection and Nuclear Safety Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Gillian Hirth",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1611",
+        "title": "New South Wales",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1612",
+        "title": "Victoria",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

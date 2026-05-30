@@ -1,0 +1,75 @@
+{
+  "content_id": "112",
+  "title": "Cotton Research and Development Corporation",
+  "acronym": "CRDC",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "http://crdc.com.au/",
+  "description": "The Cotton Research and Development Corporation (CRDC) is a statutory corporation, established under the Primary Industries Research and Development Act 1989 and is the declared cotton industry body under  the Primary Industries Levies and Charges Disbursement Act 2024. CRDC was established by the Australian Government to work with industry to invest in research, development and extension (RD&E) for a more profitable, sustainable and dynamic cotton industry. CRDC is primarily funded by a statutory levy paid by cotton growers on the sale of cotton fibre, disbursed under the Primary Industries Levies and Charges Disbursement Act 2024,  and Australian Government funds for eligible R&D. CRDC is based in Narrabri, the centre of one of Australia's major cotton growing regions.",
+  "dashboard_name": null,
+  "people_count": 4,
+  "tree": {
+    "content_id": "112",
+    "title": "Cotton Research and Development Corporation",
+    "roles": [
+      {
+        "role": "Executive Director",
+        "person": "Allan Williams",
+        "vacant": false,
+        "acting": false,
+        "email": "executive.director@crdc.com.au",
+        "phone": "02 6792 4088",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49517",
+        "title": "Business & Finance",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Graeme Tolson",
+            "vacant": false,
+            "acting": false,
+            "email": "graeme.tolson@crdc.com.au",
+            "phone": "02 6792 4088",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49518",
+        "title": "Communications & Extension",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Ruth Redfern",
+            "vacant": false,
+            "acting": false,
+            "email": "ruth.redfern@crdc.com.au",
+            "phone": "02 6792 4088",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49516",
+        "title": "Innovation",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Meredith Conaty",
+            "vacant": false,
+            "acting": false,
+            "email": "meredith.conaty@crdc.com.au",
+            "phone": "02 6792 4088",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

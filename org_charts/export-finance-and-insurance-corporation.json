@@ -1,0 +1,49 @@
+{
+  "content_id": "180",
+  "title": "Export Finance Australia (EFA)",
+  "acronym": "EFIC",
+  "portfolio": "Foreign Affairs and Trade",
+  "website": "http://www.exportfinance.gov.au",
+  "description": "Export Finance Australia is the Australian Government’s export credit agency. <br />\n<br />\nIt provides financial expertise and solutions to drive sustainable growth that benefits Australia and its partners. Through its loans, guarantees, bonds and insurance options, Export Finance Australia:<br />\n<br />\n-\tsupports SMEs, corporates and governments to realise export opportunities or contribute to the export supply chain<br />\n-\thelps finance sustainable infrastructure in the Pacific region and beyond<br />\n-\tprovides defence export finance through the Defence Export Facility.<br />\nExport Finance Australia works together with banks and other government agencies to help Australian businesses take on the world.",
+  "dashboard_name": "Export Finance and Insurance Corporation (EFIC, Export Finance Australia)",
+  "people_count": 2,
+  "tree": {
+    "content_id": "180",
+    "title": "Export Finance Australia (EFA)",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2060",
+        "title": "External Relations",
+        "roles": [
+          {
+            "role": "Head of Corporate Affairs",
+            "person": "Nic Frankham",
+            "vacant": false,
+            "acting": false,
+            "email": "nic.frankham@exportfinance.gov.au",
+            "phone": "61 2 8273 5476",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2603",
+        "title": "Office Details",
+        "roles": [
+          {
+            "role": "Managing Director and Chief Executive Officer",
+            "person": "John Hopkins",
+            "vacant": false,
+            "acting": false,
+            "email": "info@exportfinance.gov.au",
+            "phone": "+61 2 8273 5333",
+            "importance": 1
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

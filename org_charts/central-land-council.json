@@ -1,0 +1,44 @@
+{
+  "content_id": "217",
+  "title": "Central Land Council",
+  "acronym": "CLC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.clc.org.au",
+  "description": "The Central Land Council (CLC) is a Council of 90 Aboriginal people elected from communities in the southern half of the Northern Territory. The Central Land Council is a representative body promoting Aboriginal rights. It is a statutory authority under the Aboriginal Land Rights (Northern Territory) Act 1976 and PGPA Act. It also has functions under the Native Title Act 1993 and the Pastoral Land Act 1992.<br />\n<br />\nThe CLC provides a number of services for the benefit of traditional owners and other Aboriginal residents of the CLC region, including:<br />\n<br />\n- providing a strong voice for the Aboriginal people of Central Australia.<br />\n- helping Aboriginal people get back country.<br />\n- helping Aboriginal people manage their land<br />\n- consulting with landowners on mining activity, employment, development and other land use proposals<br />\n- protecting Aboriginal culture and sacred sites.<br />\n- assisting with economic projects on Aboriginal land.<br />\n- promoting and delivering community development and improving service delivery.<br />\n- fighting for legal recognition of Aboriginal people's rights.<br />\n- helping resolve land disputes, native title claims and compensation cases.<br />\n- administering the permit system for visitors to Aboriginal land",
+  "dashboard_name": "Central Land Council",
+  "people_count": 3,
+  "tree": {
+    "content_id": "217",
+    "title": "Central Land Council",
+    "roles": [
+      {
+        "role": "Chairperson",
+        "person": "Warren Williams",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Deputy Chairperson",
+        "person": "Barbara Shaw",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Les Turner",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(08) 8951 6211",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

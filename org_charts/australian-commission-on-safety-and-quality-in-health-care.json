@@ -1,0 +1,26 @@
+{
+  "content_id": "182",
+  "title": "Australian Commission on Safety and Quality in Health Care",
+  "acronym": "ACSQHC",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.safetyandquality.gov.au",
+  "description": "\"In 2006, the Council of Australian Governments established the Commission to lead and coordinate national improvements in the safety and quality of health care.<br />\n<br />\nIn 2011, the Federal Parliament passed the National Health Reform Act 2011 (NHR Act) which established the Commission as a corporate Commonwealth entity under the Public Governance, Performance and Accountability Act 2013. The Commission’s governance structure is determined by these Acts. <br />\n<br />\nThe Commission's role is to provide health ministers with strategic advice on best practices to improve safety and quality in the health system. The Commission develops and supports national safety and clinical standards, formulates and implements national accreditation schemes, and develops national health-related data sets. It is also working on reducing unwarranted variations in practice and outcomes for individuals and populations, and undertaking nationally coordinated action to address health care associated infections and antimicrobial resistance.<br />\n<br />\nThe Commission’s annual program of work is developed in consultation with the Australian, state and territory Health Ministers.",
+  "dashboard_name": "Australian Commission on Safety and Quality in Health Care (ACSQHC)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "182",
+    "title": "Australian Commission on Safety and Quality in Health Care",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Anne Elizabeth Duggan",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

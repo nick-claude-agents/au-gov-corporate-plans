@@ -1,0 +1,33 @@
+{
+  "content_id": "266",
+  "title": "Royal Australian Mint",
+  "acronym": "The Mint",
+  "portfolio": "Treasury",
+  "website": "http://www.ramint.gov.au",
+  "description": "The Royal Australian Mint (RAM) is a government agency operating within the Commonwealth Government portfolio of the Treasury and is the sole supplier of Australia's circulating coinage. RAM also produces a range of high quality collector coins (numismatic coins) which are sold through an extensive mail order operation, e-commerce, a network of domestic and international coin dealers, selected Australia Post outlets and the Mint shop.  RAM is a major Canberra tourist attraction with a public gallery and shop that have attracted an average of 150,000 visitors over the last three years.<br />\n<br />\nRAM also produces circulating coins for other countries (mainly South Pacific countries).",
+  "dashboard_name": "Royal Australian Mint",
+  "people_count": 1,
+  "tree": {
+    "content_id": "266",
+    "title": "Royal Australian Mint",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Emily Martin",
+        "vacant": false,
+        "acting": false,
+        "email": "emily.martin@ramint.gov.au",
+        "phone": "(02) 6202 6999",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1552",
+        "title": "Retail Sales Inquiries",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

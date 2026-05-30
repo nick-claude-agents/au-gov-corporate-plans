@@ -1,0 +1,59 @@
+{
+  "content_id": "175",
+  "title": "Commonwealth Superannuation Corporation",
+  "acronym": "CSC",
+  "portfolio": "Finance",
+  "website": "https://www.csc.gov.au/",
+  "description": "CSC provides superannuation services and products to Australian Government employees, employers and Australian Defence Force members and their families.<br />\n<br />\nCSC is trustee of five regulated superannuation schemes: <br />\n> Commonwealth Superannuation Scheme (CSS)<br />\n> Public Sector Superannuation Scheme (PSS) <br />\n> Public Sector Superannuation accumulation plan (PSSap) (Commonwealth Superannuation Corporation retirement income (CSCri) is available through the PSSap)<br />\n> Australian Defence Force Superannuation Scheme (ADF Super), and<br />\n> Military Superannuation and Benefts Scheme (MilitarySuper)<br />\n<br />\nCSC administers six exempt public sector schemes that are not regulated under the Superannuation Industry (Supervision) Act 1993:<br />\n> the Australian Defence Force Cover Scheme (ADF Cover)<br />\n> Defence Force Retirement and Death Benefits (DFRDB) Scheme<br />\n> 1922 Scheme<br />\n> the Defence Forces Retirement Benefits (DFRB) Scheme<br />\n> Papua New Guinea (PNG) Scheme, and <br />\n> the Defence Force (Superannuation) (Productivity Benefit) Determination (DFSPB).<br />\n<br />\nCSC is supported by an administrator for its accumulation plans, a custodian and other specialist service providers, including leading Australian and international investment managers.",
+  "dashboard_name": "Commonwealth Superannuation Corporation",
+  "people_count": 0,
+  "tree": {
+    "content_id": "175",
+    "title": "Commonwealth Superannuation Corporation",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2720",
+        "title": "ADF Cover",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2719",
+        "title": "ADF Super",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2714",
+        "title": "CSS",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2715",
+        "title": "DFRDB",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2716",
+        "title": "MilitarySuper",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2717",
+        "title": "PSS",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2718",
+        "title": "PSSap",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

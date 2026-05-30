@@ -1,0 +1,125 @@
+{
+  "content_id": "53612",
+  "title": "Australian Centre for Disease Control",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.cdc.gov.au",
+  "description": "The Australian Centre for Disease Control (Australian CDC) is an independent national agency established to strengthen Australia's preparedness for, response to, and prevention of public health emergencies. It provides trusted, evidence based public health advice, coordinates national disease surveillance, and leads emergency health management functions, building on the work of the interim CDC established in 2024. The agency brings together expertise, data systems, and partnerships across governments and scientific communities to improve health outcomes and enhance Australia's resilience against emerging health threats.",
+  "dashboard_name": null,
+  "people_count": 12,
+  "tree": {
+    "content_id": "53612",
+    "title": "Australian Centre for Disease Control",
+    "roles": [
+      {
+        "role": "Director-General",
+        "person": "Zoe Wainer",
+        "vacant": false,
+        "acting": false,
+        "email": "director-general@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 1
+      },
+      {
+        "role": "Executive Assistant to Director-General",
+        "person": "Paulette Billings-Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "paulette.billings-brown@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 2
+      },
+      {
+        "role": "General Counsel",
+        "person": "Raoul Salpeter",
+        "vacant": false,
+        "acting": false,
+        "email": "raoul.salpeter@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 3
+      },
+      {
+        "role": "Deputy Director-General, Public Health",
+        "person": "Emily Harper",
+        "vacant": false,
+        "acting": false,
+        "email": "paulette.billings-brown@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 4
+      },
+      {
+        "role": "Deputy Director-General, Strategy and Operations",
+        "person": "Paul McCormack",
+        "vacant": false,
+        "acting": false,
+        "email": "paul.mccormack@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 5
+      },
+      {
+        "role": "Assistant Director-General, Communicable Diseases",
+        "person": "Stephanie Williams",
+        "vacant": false,
+        "acting": false,
+        "email": "stephanie.williams@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 6
+      },
+      {
+        "role": "Assistant Director-General, Data, Evidence and Analysis",
+        "person": "Jacob Madden",
+        "vacant": false,
+        "acting": false,
+        "email": "jacob.madden@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 7
+      },
+      {
+        "role": "Assistant Director-General, One Health, Climate and Environment",
+        "person": "Rajan Martin",
+        "vacant": false,
+        "acting": false,
+        "email": "rajan.martin@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 8
+      },
+      {
+        "role": "Assistant Director-General, Operations and Integrity",
+        "person": "Bernard Philbrick",
+        "vacant": false,
+        "acting": false,
+        "email": "bernard.philbrick@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 9
+      },
+      {
+        "role": "Assistant Director-General, Preparedness",
+        "person": "Emma Denehy",
+        "vacant": false,
+        "acting": false,
+        "email": "emma.denehy@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 10
+      },
+      {
+        "role": "Assistant Director-General, Strategy and Engagement",
+        "person": "Masha Somi",
+        "vacant": false,
+        "acting": false,
+        "email": "masha.somi@cdc.gov.au",
+        "phone": "1800 296 878",
+        "importance": 11
+      },
+      {
+        "role": "Director-General",
+        "person": "Zoe Wainer",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

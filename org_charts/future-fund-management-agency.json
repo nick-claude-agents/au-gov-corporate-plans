@@ -1,0 +1,26 @@
+{
+  "content_id": "176",
+  "title": "Future Fund Management Agency",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "http://www.futurefund.gov.au",
+  "description": "The Future Fund Management Agency (the Agency) supports the Future Fund Board of Guardians (the Board) in undertaking its functions in relation to the Future Fund, the Medical Research Future Fund, the Aboriginal and Torres Strait Islander Land and Sea Future Fund, the Future Drought Fund, the Disaster Ready Fund, the DisabilityCare Australia Fund, and the Housing Australia Future Fund. The Agency is responsible for the development of recommendations to the Board on the most appropriate investment strategy for each Fund and for the implementation of these strategies. All administrative and operational functions associated with the management of the Funds are undertaken by the Agency.",
+  "dashboard_name": "Future Fund Management Agency",
+  "people_count": 1,
+  "tree": {
+    "content_id": "176",
+    "title": "Future Fund Management Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Raphael Arndt",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(03) 8656 6400",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

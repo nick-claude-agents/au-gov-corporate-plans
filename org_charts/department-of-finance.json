@@ -1,0 +1,1573 @@
+{
+  "content_id": "250",
+  "title": "Department of Finance",
+  "acronym": "Finance",
+  "portfolio": "Finance",
+  "website": "http://www.finance.gov.au",
+  "description": "As a central agency of the Australian Government, the Department of Finance  (Finance) plays an important role in assisting government across a wide range of policy areas to ensure its outcomes are met, particularly with regard to expenditure, financial management, and the operations of government.<br />\n <br />\nEssential services delivered by Finance include supporting the delivery of the Australian Government Budget, the ongoing management of the Australian Government's non-defence domestic property portfolio and key asset sales. Finance is also responsible for the financial framework for Australian Government Agencies. Additionally, Finance provides entitlements advice and support to parliamentarians and their employees, maintains shareholder oversight for Government Business Enterprises (GBEs), provides general insurance services to government agencies and promotes improved risk management. Finance also provides strategic advice, guidance and service provision for the productive application of new and existing information and communication technologies to government operations.",
+  "dashboard_name": "Department of Finance",
+  "people_count": 96,
+  "tree": {
+    "content_id": "250",
+    "title": "Department of Finance",
+    "roles": [
+      {
+        "role": "Secretary",
+        "person": "Matt Yannopoulos",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2321",
+        "title": "Central Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2606",
+            "title": "Budget Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Richard Windeyer",
+                "vacant": false,
+                "acting": false,
+                "email": "richard.windeyer@finance.gov.au",
+                "phone": "(02) 6215 3463",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2609",
+                "title": "Budget Policy",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Paul Pfitzner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.pfitzner@finance.gov.au",
+                    "phone": "02 6215 3412",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3484",
+                    "title": "Budget Management",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Holly Hart",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "holly.hart1@finance.gov.au",
+                        "phone": "(02) 6215 2446",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2612",
+                    "title": "Budget Policy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Marianne Dolman",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "marianne.dolman@finance.gov.au",
+                        "phone": "02 6215 2895",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "54873",
+                "title": "Government and Defence",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Andrew Byrne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.byrne@finance.gov.au",
+                    "phone": "02 6215 3884",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3323",
+                    "title": "Central Agencies and Attorney-General's",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Stephanie Wawn",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "stephanie.wawn@finance.gov.au",
+                        "phone": "(02) 6215 2222",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54874",
+                    "title": "Defence",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Kate Glynn",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "kate.glynn@finance.gov.au",
+                        "phone": "02 6215 1884",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2635",
+                    "title": "Home and Foreign Affairs",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sebastian Mathew",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sebastian.mathew@finance.gov.au",
+                        "phone": "02 6215 1812",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2611",
+                "title": "Industry, Education and Infrastructure",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Stephen Sorbello",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephen.sorbello@finance.gov.au",
+                    "phone": "(02) 6215 3220",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3027",
+                    "title": "Education, Employment & Workplace Relations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Gemma Cooper",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "gemma.cooper@finance.gov.au",
+                        "phone": "02 6215 9761",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2615",
+                    "title": "Industry, Climate & Environment",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Hannah Lipshut",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "hannah.lipshut@finance.gov.au",
+                        "phone": "(02) 6215 2194",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2616",
+                    "title": "Infrastructure, Communications and Agriculture",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Louise Sasaki",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "louise.sasaki@finance.gov.au",
+                        "phone": "(02) 6215 9299",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "459",
+                "title": "Social Policy",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Natasha Cole",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natasha.cole@finance.gov.au",
+                    "phone": "(02) 6215 2802",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2618",
+                    "title": "Aged Care, Veterans and Care Workforce",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Carly Makin",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "carly.makin@finance.gov.au",
+                        "phone": "(02) 6215 2851",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "456",
+                    "title": "Health",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Martin Rocks",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "martin.rocks@finance.gov.au",
+                        "phone": "(02) 6215 1791",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "457",
+                    "title": "Social Services, Disability & Indigenous",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Christine Duke",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "christine.duke@finance.gov.au",
+                        "phone": "(02) 6215 3821",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "465",
+            "title": "Business Enabling Services",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Simon Newnham",
+                "vacant": false,
+                "acting": false,
+                "email": "simon.newnham@finance.gov.au",
+                "phone": "(02) 6215 1568",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "460",
+                "title": "Corporate Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Glen Casson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "glen.casson@finance.gov.au",
+                    "phone": "(02) 6215 1322",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "48201",
+                    "title": "Business Services and Support",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Tim Burchfield",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "tim.burchfield@finance.gov.au",
+                        "phone": "02 6215 2807",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54565",
+                    "title": "Capability Review Taskforce",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sebastian Powney",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sebastian.powney@finance.gov.au",
+                        "phone": "02 6215 1603",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "458",
+                    "title": "Chief Financial Officer",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Neil Dawson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "neil.dawson@finance.gov.au",
+                        "phone": "(02) 6215 3805",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "453",
+                    "title": "Communications",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sally Harris",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sally.harris@finance.gov.au",
+                        "phone": "02 6215 2503",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "48199",
+                    "title": "Human Resources",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Catherine McLachlan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "catherine.mclachlan@finance.gov.au",
+                        "phone": "(02) 6215 3197",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2621",
+                    "title": "Parliamentary, Governance and Strategy",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Louise Sartore",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "louise.sartore@finance.gov.au",
+                        "phone": "02 6215 1691",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2527",
+                "title": "Enterprise Systems and Services",
+                "roles": [
+                  {
+                    "role": "A/g First Assistant Secretary",
+                    "person": "Belinda Duffy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "belinda.duffy@finance.gov.au",
+                    "phone": "(02) 6215 2415",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "49907",
+                    "title": "Digital Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Maree Christensen",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "maree.christensen@finance.gov.au",
+                        "phone": "(02) 6215 2992",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3320",
+                    "title": "Operations & Service Management",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Helen Martin",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "helen.martin@finance.gov.au",
+                        "phone": "02 6215 1036",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2598",
+                "title": "ICT",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary, Chief Information Officer",
+                    "person": "Peter Qui",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "peter.qui@finance.gov.au",
+                    "phone": "(02) 6215 1492",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "464",
+                    "title": "CBMS",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Cathryn Martin",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "cathryn.martin@finance.gov.au",
+                        "phone": "(02) 6215 2285",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "449",
+                    "title": "Government Digital and Network Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sharyn Clarkson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sharyn.clarkson@finance.gov.au",
+                        "phone": "(02) 6215 3339",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "448",
+                    "title": "Government Services",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Natalie Roberts",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "natalie.roberts@finance.gov.au",
+                        "phone": "(02) 6215 3565",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "462",
+                    "title": "Internal Services and Cyber",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Yifan Zhang",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "yifan.zhang@finance.gov.au",
+                        "phone": "(02) 6215 2006",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "54566",
+                "title": "Legal, Risk and Claims",
+                "roles": [
+                  {
+                    "role": "A/g First Assistant Secretary",
+                    "person": "Kathleen Denley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kathleen.denley@finance.gov.au",
+                    "phone": "02 6215 2576",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "54575",
+                    "title": "Comcover and Discretionary Payment Claims",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Meagan Wilson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "meagan.wilson@finance.gov.au",
+                        "phone": "02 6215 3160",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "48200",
+                    "title": "Legal and Assurance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Kelly Hoffmeister",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "kelly.hoffmeister@finance.gov.au",
+                        "phone": "(02) 6215 2594",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54567",
+                    "title": "Risk and Insurance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Grant Stevens",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "grant.stevens@finance.gov.au",
+                        "phone": "02 6215 3825",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2619",
+                "title": "Ministerial and Parliamentary Services",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Shannon Frazer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shannon.frazer@finance.gov.au",
+                    "phone": "(02) 6215 3981",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2623",
+                    "title": "COMCAR and Programs",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Alex McKellar",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "alex.mckellar@finance.gov.au",
+                        "phone": "(02) 6215 1609",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2624",
+                    "title": "HR Frameworks",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Scott McWhirter",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "scott.mcwhirter@finance.gov.au",
+                        "phone": "(02) 6215 3899",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54563",
+                    "title": "MaPS Reform Projects",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Daniel Fulton",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "daniel.fulton@finance.gov.au",
+                        "phone": "02 6215 3845",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3324",
+                    "title": "PBR Framework",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Liz Alder",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "liz.alder@finance.gov.au",
+                        "phone": "02 6215 3480",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54564",
+                    "title": "Parliamentary Ecosystem Review",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Ayesha Nawaz",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "ayesha.nawaz@finance.gov.au",
+                        "phone": "02 6215 1961",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "2607",
+            "title": "Commercial Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Marisa Purvis-Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "marisa.purvis-smith@finance.gov.au",
+                "phone": "(02) 6215 1342",
+                "importance": 4
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54084",
+                "title": "AI Delivery and Enablement",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Monita Lal",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "monita.lal@finance.gov.au",
+                    "phone": "02 6215 3415",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "54085",
+                    "title": "Acceleration and Enablement",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Paul Hubbard",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "paul.hubbard@finance.gov.au",
+                        "phone": "02 6215 2034",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54087",
+                    "title": "GovAI",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Daniel Livesey",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "daniel.livesey@finance.gov.au",
+                        "phone": "02 6215 3042",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54086",
+                    "title": "Stewardship and Monitoring",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Leana Ugrinovska",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "leana.ugrinovska@finance.gov.au",
+                        "phone": "02 6215 2987",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "53537",
+                "title": "Commercial",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "David Webster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.webster@finance.gov.au",
+                    "phone": "02 6215 2693",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "996",
+                "title": "Commercial Investments",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "2628",
+                    "title": "Commercial Policy and Advice",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "David O'Connor",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "david.o'connor@finance.gov.au",
+                        "phone": "+61262153889",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2627",
+                    "title": "Communications and Energy Investments",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Amy Parry",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "amy.parry@finance.gov.au",
+                        "phone": "(02) 6215 2273",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2629",
+                    "title": "Defence Investments",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sacha De Re",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sacha.dere@finance.gov.au",
+                        "phone": "(02) 6215 2643",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43668",
+                    "title": "SIVs and Funds",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Fotos Andreou",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "fotos.andreou@finance.gov.au",
+                        "phone": "(02) 6215 2636",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "997",
+                    "title": "Transport Investment and Governance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Elise Aquilina",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "elise.aquilina@finance.gov.au",
+                        "phone": "(02) 6215 2882",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "49900",
+                "title": "Major Projects",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Nick McClintock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nick.mcclintock@finance.gov.au",
+                    "phone": "(02) 6215 2896",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "49901",
+                    "title": "NSOP Delivery",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "George Stellios",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "george.stellios@finance.gov.au",
+                        "phone": "(02) 6215 3055",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2626",
+                "title": "Procurement",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Andrew Danks",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.danks@finance.gov.au",
+                    "phone": "(02) 6215 3996",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "54075",
+                    "title": "Procurement Capability",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sabrena King",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sabrena.king@finance.gov.au",
+                        "phone": "02 6215 2177",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "451",
+                    "title": "Procurement Policy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Gareth Sebar",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "gareth.sebar@finance.gov.au",
+                        "phone": "(02) 6215 3516",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "38097",
+                    "title": "Procurement Systems and Insights",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Gareth Hall",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "gareth.hall@finance.gov.au",
+                        "phone": "02 6215 2843",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "450",
+                    "title": "Strategic Contracting",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Robert Bradley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6215",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43155",
+                    "title": "Strategic Procurement",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Alice Fenwick",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "alice.fenwick@finance.gov.au",
+                        "phone": "(02) 6215 2133",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2625",
+                "title": "Property and Construction",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Libor Pelecky",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "libor.pelecky@finance.gov.au",
+                    "phone": "(02) 6215 1948",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3276",
+                    "title": "Climate Action and Property Data",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Louise Starr",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "louise.starr@finance.gov.au",
+                        "phone": "(02) 6215 2982",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "53320",
+                    "title": "Divestment",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Anush Avakian",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "anush.avakian@finance.gov.au",
+                        "phone": "02 6215 1595",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "40174",
+                    "title": "Property Frameworks and Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Suzanne Hinchcliffe",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "suzanne.hinchcliffe@finance.gov.au",
+                        "phone": "(02) 6215",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "447",
+                    "title": "Property Management and Projects",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Elliot Zwangobani",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "elliot.zwangobani@finance.gov.au",
+                        "phone": "(02) 6215 2399",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "2608",
+            "title": "Governance and Resource Management",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Anna Harmer",
+                "vacant": false,
+                "acting": false,
+                "email": "anna.harmer@finance.gov.au",
+                "phone": "02 6215 3079",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41497",
+                "title": "Digital ID and Data Policy",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "John Shepherd",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "john.shepherd@finance.gov.au",
+                    "phone": "(02) 6215 3208",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "42709",
+                    "title": "Communications, Inclusion & Governance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Penelope Jones",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "penelope.jones@finance.gov.au",
+                        "phone": "02 6215 2056",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43667",
+                    "title": "Data Policy and Assurance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Laura Johnson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "laura.johnson@finance.gov.au",
+                        "phone": "(02) 6215 3316",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "42711",
+                    "title": "Digital ID Legislation & Rules",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Duncan Anderson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "duncan.anderson1@finance.gov.au",
+                        "phone": "(02) 6215 1619",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "42710",
+                    "title": "Digital ID Policy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Matt Sedgwick",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "matt.sedgwick@finance.gov.au",
+                        "phone": "(02) 6215 2476",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2631",
+                "title": "Financial Analysis, Reporting and Management",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Amy Fox",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amy.fox@finance.gov.au",
+                    "phone": "02 6215 2036",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2633",
+                    "title": "Accounting & Frameworks",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Lasantha Samaranayake",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lasantha.samaranayake@finance.gov.au",
+                        "phone": "02 6215 2629",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2634",
+                    "title": "Estimates and Reporting",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Angela Baum",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "angela.baum@finance.gov.au",
+                        "phone": "02 6215 2222",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "452",
+                    "title": "Financial Management",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Chi Tran",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "chi.tran@finance.gov.au",
+                        "phone": "(02) 6215 1888",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "43659",
+                "title": "Governance and Grants",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Lucinda Atkinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lucinda.atkinson1@finance.gov.au",
+                    "phone": "02 6215 1336",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "43651",
+                    "title": "Data Governance and Analytics",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Nhi Nguyen",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "nhi.nguyen@finance.gov.au",
+                        "phone": "(02) 6215 3950",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43662",
+                    "title": "Electoral and Superannuation Policy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Taylor Black",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "taylor.black@finance.gov.au",
+                        "phone": "02 6215 2231",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43663",
+                    "title": "Grants Policy",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Calandra Colman",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "calandra.colman@finance.gov.au",
+                        "phone": "02 6215 3348",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "43661",
+                    "title": "PGPA and Digital Reporting",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Amanda Bruce",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "amanda.bruce@finance.gov.au",
+                        "phone": "(02) 6215 1499",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "38142",
+                "title": "Office of the National Data Commissioner",
+                "roles": [
+                  {
+                    "role": "A/g National Data Commissioner",
+                    "person": "Andrew Lalor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.lalor@finance.gov.au",
+                    "phone": "(02) 6215 1735",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "38143",
+                    "title": "Platforms and Regulation",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Andrew Taylor",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "andrew.taylor1@finance.gov.au",
+                        "phone": "(02) 6215 3764",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "38144",
+                    "title": "Sharing, Policy and Legal",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sally Hill",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sally.hill@finance.gov.au",
+                        "phone": "02 6215 3976",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "37280",
+                "title": "Regulatory Reform",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Christina Garbin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christina.garbin@finance.gov.au",
+                    "phone": "0418 415 292",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47837",
+                    "title": "Care Workers Screening Taskforce",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Erin Cassie",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "erin.cassie@finance.gov.au",
+                        "phone": "02 6215 1671",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "38067",
+                    "title": "Regulatory Foundations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Kelly Wood",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "kelly.wood@finance.gov.ay",
+                        "phone": "(02) 6215 2753",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "40215",
+                    "title": "Regulatory Modernisation",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Lauren Le Cerf",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lauren.lecerf@finance.gov.au",
+                        "phone": "02 6215 3305",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2320",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Deputy Secretary: Governance and Resource Management",
+            "person": "Anna Harmer",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.harmer@finance.gov.au",
+            "phone": "02 6215 2553",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Secretary: Budget and Financial Reporting",
+            "person": "Richard Windeyer",
+            "vacant": false,
+            "acting": false,
+            "email": "richard.windeyer@finance.gov.au",
+            "phone": "02 6215 3463",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary: Business Enabling Services",
+            "person": "Simon Newnham",
+            "vacant": false,
+            "acting": false,
+            "email": "simon.newnham@finance.gov.au",
+            "phone": "02 6215 1568",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary: Commercial and Government Services",
+            "person": "Marisa Purvis-Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "marisa.purvis-smith@finance.gov.au",
+            "phone": "02 6215 3996",
+            "importance": 4
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2319",
+        "title": "Inquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "466",
+            "title": "Freedom of Information",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "446",
+            "title": "Privacy",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2323",
+        "title": "Key Contacts",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2322",
+        "title": "Secretary's Office",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Matt Yannopoulos",
+            "vacant": false,
+            "acting": false,
+            "email": "matt.yannopoulos@finance.gov.au",
+            "phone": "02 6215 3445",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff to the Secretary",
+            "person": "Jessica Wilson",
+            "vacant": false,
+            "acting": false,
+            "email": "jessica.wilson@finance.gov.au",
+            "phone": "02 6215 2120",
+            "importance": 3
+          },
+          {
+            "role": "Executive Assistant to the Secretary",
+            "person": "Billie McAlpine",
+            "vacant": false,
+            "acting": false,
+            "email": "billie.mcalpine@finance.gov.au",
+            "phone": "",
+            "importance": 4
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

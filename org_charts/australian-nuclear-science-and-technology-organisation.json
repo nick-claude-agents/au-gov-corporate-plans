@@ -1,0 +1,159 @@
+{
+  "content_id": "270",
+  "title": "Australian Nuclear Science and Technology Organisation",
+  "acronym": "ANSTO",
+  "portfolio": "Industry, Science and Resources",
+  "website": "http://www.ansto.gov.au/",
+  "description": "The Australian Nuclear Science and Technology Organisation (ANSTO) is Australia's sovereign nuclear organisation. ANSTO serves as our nation's nuclear centre of excellence with activities spanning manufacturing, research, and advisory functions linked to our mandate including nuclear medicine production and human health research, advanced manufacturing and support for the resources sector, defence and national security, and research infrastructure and scientific support. ANSTO provides expert advice to Government on all matters relating to nuclear science, technology, and engineering and serves as the nation's representative within peak international nuclear bodies. ANSTO operates landmark national scientific facilities, including the Open Pool Australian Lightwater reactor (OPAL), Australia's only multipurpose nuclear research reactor, and the Australian Synchrotron, to deliver nuclear science and technology for the benefit of all Australians.",
+  "dashboard_name": "Australian Nuclear Science and Technology Organisation",
+  "people_count": 11,
+  "tree": {
+    "content_id": "270",
+    "title": "Australian Nuclear Science and Technology Organisation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Shaun Jenkinson",
+        "vacant": false,
+        "acting": false,
+        "email": "shaun.jenkinson@ansto.gov.au",
+        "phone": "(02) 9717 3717",
+        "importance": 1
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "John Edge",
+        "vacant": false,
+        "acting": false,
+        "email": "edgej@ansto.gov.au",
+        "phone": "02 9717 7435",
+        "importance": 2
+      },
+      {
+        "role": "Chief Information and Digital Officer",
+        "person": "Marianne Morton",
+        "vacant": false,
+        "acting": false,
+        "email": "mariannm@ansto.gov.au",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Deputy Chief Financial Officer",
+        "person": "Roslyn Hatton",
+        "vacant": false,
+        "acting": false,
+        "email": "roslynh@ansto.gov.au",
+        "phone": "02 9717 3798",
+        "importance": 4
+      },
+      {
+        "role": "Chief Financial Officer",
+        "person": "Emily Hodgson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 9717 7430",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3371",
+        "title": "Capital Programs",
+        "roles": [
+          {
+            "role": "General Executive, Capital Programs and Chief Engineer",
+            "person": "Con Lyras",
+            "vacant": false,
+            "acting": false,
+            "email": "cly@ansto.gov.au",
+            "phone": "02 9717 3382",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3373",
+        "title": "Commercial Products and Services",
+        "roles": [
+          {
+            "role": "Group Executive, Commercial Products and Services",
+            "person": "Oleh Nakone",
+            "vacant": false,
+            "acting": false,
+            "email": "nakoneco@ansto.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3374",
+        "title": "Government and International Affairs",
+        "roles": [
+          {
+            "role": "Director, Corporate Affairs",
+            "person": "Alan Brindell",
+            "vacant": false,
+            "acting": false,
+            "email": "brindela@ansto.gov.au",
+            "phone": "02 9717 3670",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3370",
+        "title": "Nuclear Precinct",
+        "roles": [
+          {
+            "role": "Group Executive, Nuclear Precinct",
+            "person": "Pamela Naidoo-Ameglio",
+            "vacant": false,
+            "acting": false,
+            "email": "pamelaa@ansto.gov.au",
+            "phone": "02 9717 9104",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "44923",
+        "title": "Nuclear Safety, Security and Stewardship",
+        "roles": [
+          {
+            "role": "Group Executive, Nuclear Safety Security and Stewardship",
+            "person": "Miles Apperley",
+            "vacant": false,
+            "acting": false,
+            "email": "milesa@ansto.gov.au",
+            "phone": "02 9717 9975",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3372",
+        "title": "Nuclear Science and Technology",
+        "roles": [
+          {
+            "role": "Group Executive, Nuclear Science and Technology",
+            "person": "Andrew Peele",
+            "vacant": false,
+            "acting": false,
+            "email": "peelea@ansto.gov.au",
+            "phone": "03 8540 4283",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

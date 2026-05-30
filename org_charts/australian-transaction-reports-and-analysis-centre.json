@@ -1,0 +1,26 @@
+{
+  "content_id": "124",
+  "title": "Australian Transaction Reports and Analysis Centre",
+  "acronym": "AUSTRAC",
+  "portfolio": "Home Affairs",
+  "website": "http://www.austrac.gov.au",
+  "description": "AUSTRAC is Australia’s financial intelligence unit and anti-money laundering and counter-terrorism financing regulator. This Australian Government statutory agency is responsible for detecting, deterring and disrupting criminal abuse of the financial system, to protect the community from serious and organised crime. Through regulation and intelligence capabilities, AUSTRAC collects and analyses financial reports and information to generate financial intelligence. This vital information about potential criminals and criminal activity contributes to our national security and law enforcement investigations.<br />\n<br />\nAUSTRAC’s purpose is to build resilience in the financial system and use financial intelligence and regulation to disrupt money laundering, terrorism financing and other serious crime.",
+  "dashboard_name": "Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "124",
+    "title": "Australian Transaction Reports and Analysis Centre",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Brendan Thomas",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

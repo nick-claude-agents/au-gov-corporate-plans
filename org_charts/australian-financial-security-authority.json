@@ -1,0 +1,80 @@
+{
+  "content_id": "119",
+  "title": "Australian Financial Security Authority",
+  "acronym": "AFSA",
+  "portfolio": "Treasury",
+  "website": "https://www.afsa.gov.au/",
+  "description": "AFSA is an executive agency in the Treasury portfolio. <br />\n<br />\nAFSA is a dynamic organisation that facilitates improved and equitable financial outcomes for consumers, business and the community through excellence in service delivery. We are responsible for Australia's personal insolvency and personal property securities systems, which provide Australian consumers and business with enhanced financial risk management, investor confidence and a reduced cost of credit.",
+  "dashboard_name": "Australian Financial Security Authority (AFSA)",
+  "people_count": 7,
+  "tree": {
+    "content_id": "119",
+    "title": "Australian Financial Security Authority",
+    "roles": [
+      {
+        "role": "Chief Executive, Inspector-General in Bankruptcy, Registrar of Personal Property Securities",
+        "person": "Tim Beresford",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "General Manager, Regulatory Operations Group",
+        "person": "Emma Greenwood",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 2
+      },
+      {
+        "role": "National Manager, Regulatory Services",
+        "person": "Marcel Savary",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "National Manager, Education, Surveillance & Enforcement",
+        "person": "Sarah Marshall",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 4
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Annie Ryan",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 5
+      },
+      {
+        "role": "National Manager, Strategy & Government",
+        "person": "Elyse Herrald-Woods",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 6
+      },
+      {
+        "role": "Chief Information Officer",
+        "person": "Greg Cassis",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 7
+      }
+    ],
+    "children": []
+  }
+}

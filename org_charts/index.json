@@ -1,0 +1,1760 @@
+{
+  "count": 195,
+  "agencies": [
+    {
+      "slug": "aaf-company",
+      "title": "AAF Company (Trustee of Army Amenities Fund and Messes Trust Fund)",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "AAF Company"
+    },
+    {
+      "slug": "aboriginal-hostels-limited",
+      "title": "Aboriginal Hostels Limited",
+      "acronym": "AHL",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Aboriginal Hostels Limited"
+    },
+    {
+      "slug": "administrative-review-tribunal",
+      "title": "Administrative Review Tribunal",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Administrative Review Tribunal"
+    },
+    {
+      "slug": "aged-care-quality-and-safety-commission",
+      "title": "Aged Care Quality and Safety Commission",
+      "acronym": "AAQSC",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Aged Care Quality and Safety Commission (ACQSC)"
+    },
+    {
+      "slug": "airservices-australia",
+      "title": "Airservices Australia",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 0,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "anindilyakwa-land-council",
+      "title": "Anindilyakwa Land Council",
+      "acronym": "ALC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Anindilyakwa Land Council"
+    },
+    {
+      "slug": "army-and-air-force-canteen-service",
+      "title": "Army and Air Force Canteen Service",
+      "acronym": "AAFCANS",
+      "portfolio": "Defence",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Army and Air Force Canteen Service"
+    },
+    {
+      "slug": "asbestos-and-silica-safety-and-eradication-agency",
+      "title": "Asbestos and Silica Safety and Eradication Agency",
+      "acronym": "ASEA",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Asbestos and Silica Safety and Eradication Agency"
+    },
+    {
+      "slug": "asc-pty-ltd-statement-of-corporate-intent",
+      "title": "ASC Pty Ltd",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "ASC Pty Ltd Statement of Corporate Intent"
+    },
+    {
+      "slug": "attorney-general-s-department",
+      "title": "Attorney-General's Department",
+      "acronym": "AGD",
+      "portfolio": "Attorney-General's",
+      "people_count": 72,
+      "in_dashboard": true,
+      "dashboard_name": "Attorney-General's Department"
+    },
+    {
+      "slug": "australian-broadcasting-corporation",
+      "title": "Australian Broadcasting Corporation",
+      "acronym": "ABC",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Broadcasting Corporation"
+    },
+    {
+      "slug": "australian-bureau-of-statistics",
+      "title": "Australian Bureau of Statistics",
+      "acronym": "ABS",
+      "portfolio": "Treasury",
+      "people_count": 58,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Bureau of Statistics (ABS)"
+    },
+    {
+      "slug": "australian-centre-for-disease-control",
+      "title": "Australian Centre for Disease Control",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 12,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "australian-centre-for-international-agricultural-research",
+      "title": "Australian Centre for International Agricultural Research",
+      "acronym": "ACIAR",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 37,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Centre for International Agricultural Research (ACIAR)"
+    },
+    {
+      "slug": "australian-commission-on-safety-and-quality-in-health-care",
+      "title": "Australian Commission on Safety and Quality in Health Care",
+      "acronym": "ACSQHC",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Commission on Safety and Quality in Health Care (ACSQHC)"
+    },
+    {
+      "slug": "australian-communications-and-media-authority",
+      "title": "Australian Communications and Media Authority",
+      "acronym": "The ACMA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 19,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Communications and Media Authority (ACMA)"
+    },
+    {
+      "slug": "australian-competition-and-consumer-commission",
+      "title": "Australian Competition and Consumer Commission",
+      "acronym": "ACCC",
+      "portfolio": "Treasury",
+      "people_count": 37,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Competition and Consumer Commission (ACCC)"
+    },
+    {
+      "slug": "australian-criminal-intelligence-commission",
+      "title": "Australian Criminal Intelligence Commission",
+      "acronym": "ACIC",
+      "portfolio": "Home Affairs",
+      "people_count": 14,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Criminal Intelligence Commission (ACIC)"
+    },
+    {
+      "slug": "australian-curriculum-assessment-and-reporting-authority",
+      "title": "Australian Curriculum, Assessment and Reporting Authority",
+      "acronym": "ACARA",
+      "portfolio": "Education",
+      "people_count": 6,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Curriculum, Assessment and Reporting Authority"
+    },
+    {
+      "slug": "australian-digital-health-agency",
+      "title": "Australian Digital Health Agency",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Digital Health Agency"
+    },
+    {
+      "slug": "australian-electoral-commission",
+      "title": "Australian Electoral Commission",
+      "acronym": "AEC",
+      "portfolio": "Finance",
+      "people_count": 46,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Electoral Commission (AEC)"
+    },
+    {
+      "slug": "australian-federal-police",
+      "title": "Australian Federal Police",
+      "acronym": "AFP",
+      "portfolio": "Home Affairs",
+      "people_count": 104,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Federal Police (AFP)"
+    },
+    {
+      "slug": "australian-film-television-and-radio-school",
+      "title": "Australian Film, Television and Radio School",
+      "acronym": "AFTRS",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Film, Television and Radio School"
+    },
+    {
+      "slug": "australian-financial-security-authority",
+      "title": "Australian Financial Security Authority",
+      "acronym": "AFSA",
+      "portfolio": "Treasury",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Financial Security Authority (AFSA)"
+    },
+    {
+      "slug": "australian-fisheries-management-authority",
+      "title": "Australian Fisheries Management Authority",
+      "acronym": "AFMA",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Fisheries Management Authority"
+    },
+    {
+      "slug": "australian-hearing-services",
+      "title": "Australian Hearing Services (Hearing Australia)",
+      "acronym": "HA",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Hearing Services (Hearing Australia)"
+    },
+    {
+      "slug": "australian-human-rights-commission",
+      "title": "Australian Human Rights Commission",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Human Rights Commission (AHRC)"
+    },
+    {
+      "slug": "australian-institute-for-teaching-and-school-leadership",
+      "title": "Australian Institute for Teaching and School Leadership Limited",
+      "acronym": "",
+      "portfolio": "Education",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute for Teaching and School Leadership"
+    },
+    {
+      "slug": "australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+      "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+      "acronym": "AIATSIS",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)"
+    },
+    {
+      "slug": "australian-institute-of-criminology",
+      "title": "Australian Institute of Criminology",
+      "acronym": "AIC",
+      "portfolio": "Home Affairs",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute of Criminology (AIC)"
+    },
+    {
+      "slug": "australian-institute-of-family-studies",
+      "title": "Australian Institute of Family Studies",
+      "acronym": "AIFS",
+      "portfolio": "Social Services",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute of Family Studies (AIFS)"
+    },
+    {
+      "slug": "australian-institute-of-health-and-welfare",
+      "title": "Australian Institute of Health and Welfare",
+      "acronym": "AIHW",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 35,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute of Health and Welfare (AIHW)"
+    },
+    {
+      "slug": "australian-institute-of-marine-science",
+      "title": "Australian Institute of Marine Science",
+      "acronym": "AIMS",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 14,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Institute of Marine Science (AIMS)"
+    },
+    {
+      "slug": "australian-law-reform-commission",
+      "title": "Australian Law Reform Commission",
+      "acronym": "ALRC",
+      "portfolio": "Attorney-General's",
+      "people_count": 6,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Law Reform Commission"
+    },
+    {
+      "slug": "australian-maritime-safety-authority",
+      "title": "Australian Maritime Safety Authority",
+      "acronym": "AMSA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Maritime Safety Authority"
+    },
+    {
+      "slug": "australian-military-forces-relief-trust-fund",
+      "title": "Australian Military Forces Relief Trust Fund",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Military Forces Relief Trust Fund"
+    },
+    {
+      "slug": "australian-national-audit-office",
+      "title": "Australian National Audit Office",
+      "acronym": "ANAO",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 34,
+      "in_dashboard": true,
+      "dashboard_name": "Australian National Audit Office (ANAO)"
+    },
+    {
+      "slug": "australian-national-maritime-museum",
+      "title": "Australian National Maritime Museum",
+      "acronym": "ANMM",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Australian National Maritime Museum"
+    },
+    {
+      "slug": "australian-national-university",
+      "title": "Australian National University",
+      "acronym": "",
+      "portfolio": "Education",
+      "people_count": 1,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "australian-naval-infrastructure-pty-ltd-statement-of-corporate-intent",
+      "title": "Australian Naval Infrastructure Pty Ltd",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Naval Infrastructure Pty Ltd Statement of Corporate Intent"
+    },
+    {
+      "slug": "australian-naval-nuclear-power-safety-regulator",
+      "title": "Australian Naval Nuclear Power Safety Regulator",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "australian-nuclear-science-and-technology-organisation",
+      "title": "Australian Nuclear Science and Technology Organisation",
+      "acronym": "ANSTO",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 11,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Nuclear Science and Technology Organisation"
+    },
+    {
+      "slug": "australian-office-of-financial-management",
+      "title": "Australian Office of Financial Management",
+      "acronym": "AOFM",
+      "portfolio": "Treasury",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Office of Financial Management (AOFM)"
+    },
+    {
+      "slug": "australian-pesticides-and-veterinary-medicines-authority",
+      "title": "Australian Pesticides and Veterinary Medicines Authority",
+      "acronym": "APVMA",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Pesticides and Veterinary Medicines Authority"
+    },
+    {
+      "slug": "australian-postal-corporation-statement-of-corporate-intent",
+      "title": "Australian Postal Corporation",
+      "acronym": "APC Australia Post",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Postal Corporation Statement of Corporate Intent"
+    },
+    {
+      "slug": "australian-prudential-regulation-authority",
+      "title": "Australian Prudential Regulation Authority",
+      "acronym": "APRA",
+      "portfolio": "Treasury",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Prudential Regulation Authority (APRA)"
+    },
+    {
+      "slug": "australian-public-service-commission",
+      "title": "Australian Public Service Commission",
+      "acronym": "APSC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 20,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Public Service Commission (APSC)"
+    },
+    {
+      "slug": "australian-radiation-protection-and-nuclear-safety-agency",
+      "title": "Australian Radiation Protection and Nuclear Safety Agency",
+      "acronym": "ARPANSA",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)"
+    },
+    {
+      "slug": "australian-rail-track-corporation-limited-statement-of-corporate-intent",
+      "title": "Australian Rail Track Corporation Limited",
+      "acronym": "ARTC",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Rail Track Corporation Limited Statement of Corporate Intent"
+    },
+    {
+      "slug": "australian-reinsurance-pool-corporation",
+      "title": "Australian Reinsurance Pool Corporation",
+      "acronym": "ARPC",
+      "portfolio": "Treasury",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Reinsurance Pool Corporation"
+    },
+    {
+      "slug": "australian-renewable-energy-agency",
+      "title": "Australian Renewable Energy Agency",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 16,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Renewable Energy Agency"
+    },
+    {
+      "slug": "australian-research-council",
+      "title": "Australian Research Council",
+      "acronym": "ARC",
+      "portfolio": "Education",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Research Council (ARC)"
+    },
+    {
+      "slug": "australian-secret-intelligence-service",
+      "title": "Australian Secret Intelligence Service",
+      "acronym": "",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 1,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "australian-securities-and-investments-commission",
+      "title": "Australian Securities and Investments Commission",
+      "acronym": "ASIC",
+      "portfolio": "Treasury",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Securities and Investments Commission (ASIC)"
+    },
+    {
+      "slug": "australian-security-intelligence-organisation",
+      "title": "Australian Security Intelligence Organisation",
+      "acronym": "ASIO",
+      "portfolio": "Home Affairs",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Security Intelligence Organisation (ASIO)"
+    },
+    {
+      "slug": "australian-signals-directorate",
+      "title": "Australian Signals Directorate",
+      "acronym": "ASD",
+      "portfolio": "Defence",
+      "people_count": 20,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Signals Directorate (ASD)"
+    },
+    {
+      "slug": "australian-skills-quality-authority",
+      "title": "Australian Skills Quality Authority (National Vocational Education and Training Regulator)",
+      "acronym": "",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Skills Quality Authority (ASQA)"
+    },
+    {
+      "slug": "australian-sports-commission",
+      "title": "Australian Sports Commission",
+      "acronym": "ASC",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 10,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Sports Commission (Australian Institute of Sport)"
+    },
+    {
+      "slug": "australian-sports-foundation-limited",
+      "title": "Australian Sports Foundation Limited",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Sports Foundation Limited"
+    },
+    {
+      "slug": "australian-strategic-policy-institute",
+      "title": "Australian Strategic Policy Institute Limited",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Strategic Policy Institute"
+    },
+    {
+      "slug": "australian-submarine-agency",
+      "title": "Australian Submarine Agency",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Submarine Agency"
+    },
+    {
+      "slug": "australian-taxation-office",
+      "title": "Australian Taxation Office",
+      "acronym": "ATO",
+      "portfolio": "Treasury",
+      "people_count": 258,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Taxation Office (ATO)"
+    },
+    {
+      "slug": "austrade",
+      "title": "Australian Trade and Investment Commission (Austrade)",
+      "acronym": "AUSTRADE",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 44,
+      "in_dashboard": true,
+      "dashboard_name": "Austrade (Australian Trade and Investment Commission)"
+    },
+    {
+      "slug": "australian-transaction-reports-and-analysis-centre",
+      "title": "Australian Transaction Reports and Analysis Centre",
+      "acronym": "AUSTRAC",
+      "portfolio": "Home Affairs",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Transaction Reports and Analysis Centre (AUSTRAC)"
+    },
+    {
+      "slug": "australian-transport-safety-bureau",
+      "title": "Australian Transport Safety Bureau",
+      "acronym": "ATSB",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Australian Transport Safety Bureau"
+    },
+    {
+      "slug": "australian-war-memorial",
+      "title": "Australian War Memorial",
+      "acronym": "AWM",
+      "portfolio": "Veterans' Affairs (part of the Defence Portfolio)",
+      "people_count": 21,
+      "in_dashboard": true,
+      "dashboard_name": "Australian War Memorial (AWM)"
+    },
+    {
+      "slug": "bundanon-trust",
+      "title": "Bundanon Trust",
+      "acronym": "BT",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Bundanon Trust"
+    },
+    {
+      "slug": "bureau-of-meteorology",
+      "title": "Bureau of Meteorology",
+      "acronym": "CBOM",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 32,
+      "in_dashboard": true,
+      "dashboard_name": "Bureau of Meteorology (BoM)"
+    },
+    {
+      "slug": "cancer-australia",
+      "title": "Cancer Australia",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Cancer Australia"
+    },
+    {
+      "slug": "cea-technologies-pty-limited",
+      "title": "CEA Technologies Pty Limited",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 0,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "central-land-council",
+      "title": "Central Land Council",
+      "acronym": "CLC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Central Land Council"
+    },
+    {
+      "slug": "civil-aviation-safety-authority",
+      "title": "Civil Aviation Safety Authority",
+      "acronym": "CASA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Civil Aviation Safety Authority (CASA)"
+    },
+    {
+      "slug": "clean-energy-finance-corporation",
+      "title": "Clean Energy Finance Corporation",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Clean Energy Finance Corporation"
+    },
+    {
+      "slug": "clean-energy-regulator",
+      "title": "Clean Energy Regulator",
+      "acronym": "CER",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 29,
+      "in_dashboard": true,
+      "dashboard_name": "Clean Energy Regulator (CER)"
+    },
+    {
+      "slug": "climate-change-authority",
+      "title": "Climate Change Authority",
+      "acronym": "CCA",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Climate Change Authority"
+    },
+    {
+      "slug": "coal-mining-industry-corporation",
+      "title": "Coal Mining Industry (Long Service Leave Funding) Corporation",
+      "acronym": "CMILSLFC",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Coal Mining Industry (Long Service Leave Funding) Corporation"
+    },
+    {
+      "slug": "comcare",
+      "title": "Comcare",
+      "acronym": "COMCARE",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Comcare"
+    },
+    {
+      "slug": "commonwealth-grants-commission",
+      "title": "Commonwealth Grants Commission",
+      "acronym": "CGC",
+      "portfolio": "Treasury",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Commonwealth Grants Commission"
+    },
+    {
+      "slug": "commonwealth-scientific-and-industrial-research-organisation",
+      "title": "Commonwealth Scientific and Industrial Research Organisation",
+      "acronym": "CSIRO",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Commonwealth Scientific and Industrial Research Organisation (CSIRO)"
+    },
+    {
+      "slug": "commonwealth-superannuation-corporation",
+      "title": "Commonwealth Superannuation Corporation",
+      "acronym": "CSC",
+      "portfolio": "Finance",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Commonwealth Superannuation Corporation"
+    },
+    {
+      "slug": "cotton-research-and-development-corporation",
+      "title": "Cotton Research and Development Corporation",
+      "acronym": "CRDC",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 4,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "creative-australia",
+      "title": "Creative Australia",
+      "acronym": "AC",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 6,
+      "in_dashboard": true,
+      "dashboard_name": "Creative Australia"
+    },
+    {
+      "slug": "defence-and-veterans-services-commission",
+      "title": "Defence and Veterans’ Services Commission",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 4,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "defence-housing-australia",
+      "title": "Defence Housing Australia",
+      "acronym": "DHA",
+      "portfolio": "Defence",
+      "people_count": 1,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "department-of-agriculture-fisheries-and-forestry",
+      "title": "Department of Agriculture, Fisheries and Forestry",
+      "acronym": "DAFF",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 160,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Agriculture, Fisheries and Forestry (DAFF)"
+    },
+    {
+      "slug": "department-of-climate-change-energy-the-environment-and-water",
+      "title": "Department of Climate Change, Energy, the Environment and Water",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 179,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)"
+    },
+    {
+      "slug": "department-of-defence",
+      "title": "Department of Defence",
+      "acronym": "DEFENCE",
+      "portfolio": "Defence",
+      "people_count": 289,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Defence"
+    },
+    {
+      "slug": "department-of-education",
+      "title": "Department of Education",
+      "acronym": "DE",
+      "portfolio": "Education",
+      "people_count": 91,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Education"
+    },
+    {
+      "slug": "department-of-employment-and-workplace-relations",
+      "title": "Department of Employment and Workplace Relations",
+      "acronym": "",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 130,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Employment and Workplace Relations (DEWR)"
+    },
+    {
+      "slug": "department-of-finance",
+      "title": "Department of Finance",
+      "acronym": "Finance",
+      "portfolio": "Finance",
+      "people_count": 96,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Finance"
+    },
+    {
+      "slug": "department-of-foreign-affairs-and-trade",
+      "title": "Department of Foreign Affairs and Trade",
+      "acronym": "DFAT",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 491,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Foreign Affairs and Trade (DFAT)"
+    },
+    {
+      "slug": "department-of-health-disability-and-ageing",
+      "title": "Department of Health, Disability and Ageing",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 242,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Health, Disability and Ageing"
+    },
+    {
+      "slug": "department-of-home-affairs",
+      "title": "Department of Home Affairs",
+      "acronym": "HA",
+      "portfolio": "Home Affairs",
+      "people_count": 231,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Home Affairs"
+    },
+    {
+      "slug": "department-of-industry-science-and-resources",
+      "title": "Department of Industry, Science and Resources",
+      "acronym": "",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 115,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Industry, Science and Resources (DISR)"
+    },
+    {
+      "slug": "department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts",
+      "title": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 126,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts"
+    },
+    {
+      "slug": "department-of-parliamentary-services",
+      "title": "Department of Parliamentary Services",
+      "acronym": "",
+      "portfolio": "Parliamentary Departments (not a portfolio)",
+      "people_count": 24,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Parliamentary Services"
+    },
+    {
+      "slug": "department-of-social-services",
+      "title": "Department of Social Services",
+      "acronym": "DSS",
+      "portfolio": "Social Services",
+      "people_count": 61,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Social Services (DSS)"
+    },
+    {
+      "slug": "department-of-the-house-of-representatives",
+      "title": "Department of the House of Representatives",
+      "acronym": "",
+      "portfolio": "Parliamentary Departments (not a portfolio)",
+      "people_count": 17,
+      "in_dashboard": true,
+      "dashboard_name": "Department of the House of Representatives"
+    },
+    {
+      "slug": "department-of-the-prime-minister-and-cabinet",
+      "title": "Department of the Prime Minister and Cabinet",
+      "acronym": "DPMC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 98,
+      "in_dashboard": true,
+      "dashboard_name": "Department of the Prime Minister and Cabinet (PM&C)"
+    },
+    {
+      "slug": "department-of-the-senate",
+      "title": "Department of the Senate",
+      "acronym": "",
+      "portfolio": "Parliamentary Departments (not a portfolio)",
+      "people_count": 12,
+      "in_dashboard": true,
+      "dashboard_name": "Department of the Senate"
+    },
+    {
+      "slug": "department-of-the-treasury",
+      "title": "Department of the Treasury",
+      "acronym": "Treasury",
+      "portfolio": "Treasury",
+      "people_count": 124,
+      "in_dashboard": true,
+      "dashboard_name": "Department of the Treasury"
+    },
+    {
+      "slug": "department-of-veterans-affairs",
+      "title": "Department of Veterans' Affairs",
+      "acronym": "DVA",
+      "portfolio": "Veterans' Affairs (part of the Defence Portfolio)",
+      "people_count": 76,
+      "in_dashboard": true,
+      "dashboard_name": "Department of Veterans' Affairs (DVA)"
+    },
+    {
+      "slug": "digital-transformation-agency",
+      "title": "Digital Transformation Agency",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 10,
+      "in_dashboard": true,
+      "dashboard_name": "Digital Transformation Agency (DTA)"
+    },
+    {
+      "slug": "director-of-national-parks",
+      "title": "Director of National Parks",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Director of National Parks"
+    },
+    {
+      "slug": "domestic-family-and-sexual-violence-commission",
+      "title": "Domestic, Family and Sexual Violence Commission",
+      "acronym": "",
+      "portfolio": "Social Services",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Domestic, Family and Sexual Violence Commission"
+    },
+    {
+      "slug": "export-finance-and-insurance-corporation",
+      "title": "Export Finance Australia (EFA)",
+      "acronym": "EFIC",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Export Finance and Insurance Corporation (EFIC, Export Finance Australia)"
+    },
+    {
+      "slug": "fair-work-commission",
+      "title": "Fair Work Commission",
+      "acronym": "",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 9,
+      "in_dashboard": true,
+      "dashboard_name": "Fair Work Commission"
+    },
+    {
+      "slug": "federal-court-of-australia",
+      "title": "Federal Court of Australia",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Federal Court of Australia"
+    },
+    {
+      "slug": "fisheries-research-and-development-corporation",
+      "title": "Fisheries Research and Development Corporation",
+      "acronym": "FRDC",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 6,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "food-standards-australia-new-zealand",
+      "title": "Food Standards Australia New Zealand",
+      "acronym": "FSANZ",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Food Standards Australia New Zealand"
+    },
+    {
+      "slug": "future-fund-management-agency",
+      "title": "Future Fund Management Agency",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Future Fund Management Agency"
+    },
+    {
+      "slug": "geoscience-australia",
+      "title": "Geoscience Australia",
+      "acronym": "",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 21,
+      "in_dashboard": true,
+      "dashboard_name": "Geoscience Australia"
+    },
+    {
+      "slug": "grains-research-and-development-corporation",
+      "title": "Grains Research and Development Corporation",
+      "acronym": "GRDC",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 8,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "great-barrier-reef-marine-park-authority",
+      "title": "Great Barrier Reef Marine Park Authority",
+      "acronym": "GBRMPA",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "Great Barrier Reef Marine Park Authority"
+    },
+    {
+      "slug": "high-speed-rail-authority",
+      "title": "High Speed Rail Authority",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "High Speed Rail Authority"
+    },
+    {
+      "slug": "housing-australia",
+      "title": "Housing Australia",
+      "acronym": "NHFIC",
+      "portfolio": "Treasury",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Housing Australia"
+    },
+    {
+      "slug": "independent-health-and-aged-care-pricing-authority",
+      "title": "Independent Health and Aged Care Pricing Authority",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Independent Health and Aged Care Pricing Authority"
+    },
+    {
+      "slug": "independent-parliamentary-expenses-authority",
+      "title": "Independent Parliamentary Expenses Authority",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "Independent Parliamentary Expenses Authority"
+    },
+    {
+      "slug": "indigenous-business-australia",
+      "title": "Indigenous Business Australia",
+      "acronym": "IBA",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Indigenous Business Australia"
+    },
+    {
+      "slug": "indigenous-land-and-sea-corporation",
+      "title": "Indigenous Land and Sea Corporation",
+      "acronym": "ILSC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Indigenous Land and Sea Corporation"
+    },
+    {
+      "slug": "infrastructure-australia",
+      "title": "Infrastructure Australia",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Infrastructure Australia"
+    },
+    {
+      "slug": "inspector-general-of-taxation-and-taxation-ombudsman",
+      "title": "Inspector-General of Taxation",
+      "acronym": "IGT",
+      "portfolio": "Treasury",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Inspector-General of Taxation and Taxation Ombudsman (IGTO)"
+    },
+    {
+      "slug": "ip-australia",
+      "title": "IP Australia",
+      "acronym": "",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 10,
+      "in_dashboard": true,
+      "dashboard_name": "IP Australia"
+    },
+    {
+      "slug": "murray-darling-basin-authority",
+      "title": "Murray-Darling Basin Authority",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 25,
+      "in_dashboard": true,
+      "dashboard_name": "Murray-Darling Basin Authority (MDBA)"
+    },
+    {
+      "slug": "national-anti-corruption-commission",
+      "title": "National Anti-Corruption Commission",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "National Anti-Corruption Commission"
+    },
+    {
+      "slug": "national-archives-of-australia",
+      "title": "National Archives of Australia",
+      "acronym": "NAA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 9,
+      "in_dashboard": true,
+      "dashboard_name": "National Archives of Australia (NAA)"
+    },
+    {
+      "slug": "national-australia-day-council-limited",
+      "title": "National Australia Day Council Limited",
+      "acronym": "NADC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "National Australia Day Council Limited"
+    },
+    {
+      "slug": "national-blood-authority",
+      "title": "National Blood Authority",
+      "acronym": "NBA",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "National Blood Authority (NBA)"
+    },
+    {
+      "slug": "national-capital-authority",
+      "title": "National Capital Authority",
+      "acronym": "NCA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "National Capital Authority"
+    },
+    {
+      "slug": "national-commission-for-aboriginal-and-torres-strait-islander-children-and-young-people",
+      "title": "National Commission for Aboriginal and Torres Strait Islander Children and Young People",
+      "acronym": "",
+      "portfolio": "Social Services",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "National Commission for Aboriginal and Torres Strait Islander Children and Young People"
+    },
+    {
+      "slug": "national-competition-council",
+      "title": "National Competition Council",
+      "acronym": "NCC",
+      "portfolio": "Treasury",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "National Competition Council"
+    },
+    {
+      "slug": "national-disability-insurance-agency",
+      "title": "National Disability Insurance Agency",
+      "acronym": "NDIA",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 126,
+      "in_dashboard": true,
+      "dashboard_name": "National Disability Insurance Agency (NDIA)"
+    },
+    {
+      "slug": "national-emergency-management-agency",
+      "title": "National Emergency Management Agency",
+      "acronym": "",
+      "portfolio": "Home Affairs",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "National Emergency Management Agency"
+    },
+    {
+      "slug": "national-film-and-sound-archive",
+      "title": "National Film and Sound Archive of Australia",
+      "acronym": "NFSA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "National Film and Sound Archive"
+    },
+    {
+      "slug": "national-gallery-of-australia",
+      "title": "National Gallery of Australia",
+      "acronym": "NGA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "National Gallery of Australia (NGA)"
+    },
+    {
+      "slug": "national-health-and-medical-research-council",
+      "title": "National Health and Medical Research Council",
+      "acronym": "NHMRC",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "National Health and Medical Research Council (NHMRC)"
+    },
+    {
+      "slug": "national-health-funding-body",
+      "title": "National Health Funding Body",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "National Health Funding Body"
+    },
+    {
+      "slug": "national-indigenous-australians-agency",
+      "title": "National Indigenous Australians Agency",
+      "acronym": "",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 128,
+      "in_dashboard": true,
+      "dashboard_name": "National Indigenous Australians Agency (NIAA)"
+    },
+    {
+      "slug": "national-intermodal-corporation-limited-statement-of-corporate-intent",
+      "title": "National Intermodal Corporation Limited",
+      "acronym": "NICL",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "National Intermodal Corporation Limited Statement of Corporate Intent"
+    },
+    {
+      "slug": "national-library-of-australia",
+      "title": "National Library of Australia",
+      "acronym": "NLA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 6,
+      "in_dashboard": true,
+      "dashboard_name": "National Library of Australia (NLA)"
+    },
+    {
+      "slug": "national-museum-of-australia",
+      "title": "National Museum of Australia",
+      "acronym": "NMA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "National Museum of Australia (NMA)"
+    },
+    {
+      "slug": "national-offshore-petroleum-safety-and-environmental-management-authority",
+      "title": "National Offshore Petroleum Safety and Environmental Management Authority",
+      "acronym": "NOPSEMA",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "National Offshore Petroleum Safety and Environmental Management Authority"
+    },
+    {
+      "slug": "national-portrait-gallery-of-australia",
+      "title": "National Portrait Gallery of Australia",
+      "acronym": "NPG",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "National Portrait Gallery of Australia"
+    },
+    {
+      "slug": "national-reconstruction-fund-corporation",
+      "title": "National Reconstruction Fund Corporation",
+      "acronym": "",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "National Reconstruction Fund Corporation"
+    },
+    {
+      "slug": "national-transport-commission",
+      "title": "National Transport Commission",
+      "acronym": "NTC",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "National Transport Commission"
+    },
+    {
+      "slug": "nbn-co-limited-statement-of-corporate-intent",
+      "title": "NBN Co Limited",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "NBN Co Limited Statement of Corporate Intent"
+    },
+    {
+      "slug": "ndis-quality-and-safeguards-commission",
+      "title": "NDIS Quality and Safeguards Commission",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 19,
+      "in_dashboard": true,
+      "dashboard_name": "NDIS Quality and Safeguards Commission"
+    },
+    {
+      "slug": "net-zero-economy-authority",
+      "title": "Net Zero Economy Authority",
+      "acronym": "",
+      "portfolio": "Industry, Science and Resources",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Net Zero Economy Authority"
+    },
+    {
+      "slug": "northern-australia-infrastructure-facility",
+      "title": "Northern Australia Infrastructure Facility",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Northern Australia Infrastructure Facility"
+    },
+    {
+      "slug": "northern-land-council",
+      "title": "Northern Land Council",
+      "acronym": "NLC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Northern Land Council"
+    },
+    {
+      "slug": "northern-territory-aboriginal-investment-corporation",
+      "title": "Northern Territory Aboriginal Investment Corporation",
+      "acronym": "",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "office-of-national-intelligence",
+      "title": "Office of National Intelligence",
+      "acronym": "ONI",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 0,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "office-of-parliamentary-counsel",
+      "title": "Office of Parliamentary Counsel",
+      "acronym": "OPC",
+      "portfolio": "Attorney-General's",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Office of Parliamentary Counsel"
+    },
+    {
+      "slug": "office-of-the-auditing-and-assurance-standards-board",
+      "title": "Office of the Auditing and Assurance Standards Board",
+      "acronym": "AUASB",
+      "portfolio": "Treasury",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Auditing and Assurance Standards Board"
+    },
+    {
+      "slug": "office-of-the-australian-accounting-standards-board",
+      "title": "Office of the Australian Accounting Standards Board",
+      "acronym": "AASB",
+      "portfolio": "Treasury",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Australian Accounting Standards Board"
+    },
+    {
+      "slug": "office-of-the-australian-information-commissioner",
+      "title": "Office of the Australian Information Commissioner",
+      "acronym": "OAIC",
+      "portfolio": "Attorney-General's",
+      "people_count": 12,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Australian Information Commissioner"
+    },
+    {
+      "slug": "office-of-the-commonwealth-ombudsman",
+      "title": "Office of the Commonwealth Ombudsman",
+      "acronym": "CO",
+      "portfolio": "Attorney-General's",
+      "people_count": 11,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Commonwealth Ombudsman"
+    },
+    {
+      "slug": "office-of-the-director-of-public-prosecutions",
+      "title": "Office of the Director of Public Prosecutions",
+      "acronym": "CDPP",
+      "portfolio": "Attorney-General's",
+      "people_count": 10,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Director of Public Prosecutions (CDPP)"
+    },
+    {
+      "slug": "office-of-the-fair-work-ombudsman",
+      "title": "Office of the Fair Work Ombudsman",
+      "acronym": "",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Fair Work Ombudsman (FWO)"
+    },
+    {
+      "slug": "office-of-the-inspector-general-of-aged-care",
+      "title": "Office of the Inspector-General of Aged Care",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Inspector-General of Aged Care"
+    },
+    {
+      "slug": "inspector-general-of-intelligence-and-security",
+      "title": "Office of the Inspector-General of Intelligence and Security",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Inspector-General of Intelligence and Security (IGIS)"
+    },
+    {
+      "slug": "office-of-the-official-secretary-to-the-governor-general",
+      "title": "Office of the Official Secretary to the Governor-General",
+      "acronym": "",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Official Secretary to the Governor-General"
+    },
+    {
+      "slug": "office-of-the-special-investigator",
+      "title": "Office of the Special Investigator",
+      "acronym": "",
+      "portfolio": "Attorney-General's",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Office of the Special Investigator"
+    },
+    {
+      "slug": "old-parliament-house",
+      "title": "Old Parliament House",
+      "acronym": "MOAD",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "Old Parliament House"
+    },
+    {
+      "slug": "organ-and-tissue-authority",
+      "title": "Organ and Tissue Authority",
+      "acronym": "",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Organ and Tissue Authority"
+    },
+    {
+      "slug": "outback-stores-pty-ltd",
+      "title": "Outback Stores Pty Ltd",
+      "acronym": "Outback Stores",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Outback Stores Pty Ltd"
+    },
+    {
+      "slug": "parliamentary-budget-office",
+      "title": "Parliamentary Budget Office",
+      "acronym": "PBO",
+      "portfolio": "Parliamentary Departments (not a portfolio)",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Parliamentary Budget Office"
+    },
+    {
+      "slug": "parliamentary-workplace-support-service",
+      "title": "Parliamentary Workplace Support Service (PWSS)",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 6,
+      "in_dashboard": true,
+      "dashboard_name": "Parliamentary Workplace Support Service"
+    },
+    {
+      "slug": "productivity-commission",
+      "title": "Productivity Commission",
+      "acronym": "",
+      "portfolio": "Treasury",
+      "people_count": 25,
+      "in_dashboard": true,
+      "dashboard_name": "Productivity Commission"
+    },
+    {
+      "slug": "professional-services-review",
+      "title": "Professional Services Review",
+      "acronym": "PSR",
+      "portfolio": "Health, Disability and Ageing",
+      "people_count": 5,
+      "in_dashboard": true,
+      "dashboard_name": "Professional Services Review"
+    },
+    {
+      "slug": "raaf-welfare-recreational-company",
+      "title": "RAAF Welfare Recreational Company",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "RAAF Welfare Recreational Company"
+    },
+    {
+      "slug": "regional-investment-corporation",
+      "title": "Regional Investment Corporation",
+      "acronym": "",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Regional Investment Corporation"
+    },
+    {
+      "slug": "reserve-bank-of-australia",
+      "title": "Reserve Bank of Australia",
+      "acronym": "RBA",
+      "portfolio": "Treasury",
+      "people_count": 3,
+      "in_dashboard": true,
+      "dashboard_name": "Reserve Bank of Australia"
+    },
+    {
+      "slug": "royal-australian-air-force-veterans-residences-trust-fund",
+      "title": "Royal Australian Air Force Veterans' Residences Trust Fund",
+      "acronym": "RAAFVRT",
+      "portfolio": "Defence",
+      "people_count": 5,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "royal-australian-air-force-welfare-trust-fund",
+      "title": "Royal Australian Air Force Welfare Trust Fund",
+      "acronym": "RWTF",
+      "portfolio": "Defence",
+      "people_count": 7,
+      "in_dashboard": true,
+      "dashboard_name": "Royal Australian Air Force Welfare Trust Fund"
+    },
+    {
+      "slug": "royal-australian-mint",
+      "title": "Royal Australian Mint",
+      "acronym": "The Mint",
+      "portfolio": "Treasury",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Royal Australian Mint"
+    },
+    {
+      "slug": "royal-australian-navy-central-canteens-board",
+      "title": "Royal Australian Navy Central Canteens Board (Royal Australian Navy Central Canteens Fund)",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Royal Australian Navy Central Canteens Board"
+    },
+    {
+      "slug": "royal-australian-navy-relief-trust-fund",
+      "title": "Royal Australian Navy Relief Trust Fund",
+      "acronym": "",
+      "portfolio": "Defence",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Royal Australian Navy Relief Trust Fund"
+    },
+    {
+      "slug": "rural-industries-research-and-development-corporation",
+      "title": "Rural Industries Research and Development Corporation (trading as AgriFutures Australia)",
+      "acronym": "RIRDC",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 7,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "safe-work-australia",
+      "title": "Safe Work Australia",
+      "acronym": "SWA",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 8,
+      "in_dashboard": true,
+      "dashboard_name": "Safe Work Australia"
+    },
+    {
+      "slug": "screen-australia",
+      "title": "Screen Australia",
+      "acronym": "SA",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 4,
+      "in_dashboard": true,
+      "dashboard_name": "Screen Australia"
+    },
+    {
+      "slug": "seafarers-safety-rehabilitation-and-compensation-authority",
+      "title": "Seafarers Safety, Rehabilitation and Compensation Authority",
+      "acronym": "SEACARE",
+      "portfolio": "Employment and Workplace Relations",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Seafarers Safety, Rehabilitation and Compensation Authority"
+    },
+    {
+      "slug": "services-australia",
+      "title": "Services Australia",
+      "acronym": "",
+      "portfolio": "Finance",
+      "people_count": 198,
+      "in_dashboard": true,
+      "dashboard_name": "Services Australia"
+    },
+    {
+      "slug": "snowy-hydro",
+      "title": "Snowy Hydro Ltd",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Snowy Hydro"
+    },
+    {
+      "slug": "special-broadcasting-service-corporation",
+      "title": "Special Broadcasting Service Corporation",
+      "acronym": "SBS",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 0,
+      "in_dashboard": true,
+      "dashboard_name": "Special Broadcasting Service Corporation"
+    },
+    {
+      "slug": "sport-integrity-australia",
+      "title": "Sport Integrity Australia",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Sport Integrity Australia"
+    },
+    {
+      "slug": "sydney-harbour-federation-trust",
+      "title": "Sydney Harbour Federation Trust",
+      "acronym": "",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Sydney Harbour Federation Trust"
+    },
+    {
+      "slug": "tertiary-education-quality-and-standards-agency",
+      "title": "Tertiary Education Quality and Standards Agency",
+      "acronym": "",
+      "portfolio": "Education",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Tertiary Education Quality and Standards Agency (TEQSA)"
+    },
+    {
+      "slug": "tiwi-land-council",
+      "title": "Tiwi Land Council",
+      "acronym": "TLC",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Tiwi Land Council"
+    },
+    {
+      "slug": "torres-strait-regional-authority",
+      "title": "Torres Strait Regional Authority",
+      "acronym": "TSRA",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Torres Strait Regional Authority"
+    },
+    {
+      "slug": "tourism-australia",
+      "title": "Tourism Australia",
+      "acronym": "TA",
+      "portfolio": "Foreign Affairs and Trade",
+      "people_count": 23,
+      "in_dashboard": true,
+      "dashboard_name": "Tourism Australia"
+    },
+    {
+      "slug": "wine-australia",
+      "title": "Wine Australia",
+      "acronym": "",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "people_count": 9,
+      "in_dashboard": false,
+      "dashboard_name": null
+    },
+    {
+      "slug": "workplace-gender-equality-agency",
+      "title": "Workplace Gender Equality Agency",
+      "acronym": "WGEA",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "Workplace Gender Equality Agency"
+    },
+    {
+      "slug": "wreck-bay-aboriginal-community-council",
+      "title": "Wreck Bay Aboriginal Community Council",
+      "acronym": "",
+      "portfolio": "Prime Minister and Cabinet",
+      "people_count": 2,
+      "in_dashboard": true,
+      "dashboard_name": "Wreck Bay Aboriginal Community Council"
+    },
+    {
+      "slug": "wsa-co-limited",
+      "title": "WSA Co Limited",
+      "acronym": "",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "people_count": 1,
+      "in_dashboard": true,
+      "dashboard_name": "WSA Co Limited"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "content_id": "153",
+  "title": "Royal Australian Air Force Welfare Trust Fund",
+  "acronym": "RWTF",
+  "portfolio": "Defence",
+  "website": "",
+  "description": "The Trust provides benefits for serving and former members of the Royal Australian Air Force and their dependants.",
+  "dashboard_name": "Royal Australian Air Force Welfare Trust Fund",
+  "people_count": 7,
+  "tree": {
+    "content_id": "153",
+    "title": "Royal Australian Air Force Welfare Trust Fund",
+    "roles": [
+      {
+        "role": "Trustee",
+        "person": "Ken Birrer",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chairman",
+        "person": "Kevin Russell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Royce Thompson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Catherine Wallis",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Mark Pentreath",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Secretary to the Trustees",
+        "person": "Russ Thomson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6265 4632",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Allana Frank",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

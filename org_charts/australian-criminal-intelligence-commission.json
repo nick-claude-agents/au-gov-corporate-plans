@@ -1,0 +1,319 @@
+{
+  "content_id": "279",
+  "title": "Australian Criminal Intelligence Commission",
+  "acronym": "ACIC",
+  "portfolio": "Home Affairs",
+  "website": "http://www.acic.gov.au",
+  "description": "The Australian Criminal Intelligence Commission (ACIC) is Australia's national criminal intelligence agency, with an exclusive mandate to combat serious and organised crime. The ACIC protects Australia from criminal exploitation by collecting, analysing, assessing and communicating unique, actionable and insightful criminal intelligence, and by administering national significant policing information systems and services. Through its operational and strategic insights into serious and organised crime, the ACIC supports whole-of-government decision-making across intelligence, law enforcement, policy, regulatory and legislative environments. Working closely with state and territory, national and international partners, the ACIC collects and integrates criminal intelligence to strengthen Australia’s collective ability to prevent, disrupt and respond to serious and organised crime impacting Australia.",
+  "dashboard_name": "Australian Criminal Intelligence Commission (ACIC)",
+  "people_count": 14,
+  "tree": {
+    "content_id": "279",
+    "title": "Australian Criminal Intelligence Commission",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Heather Cook",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3063",
+        "title": "Chief Executive Officer Portfolio",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Heather Cook",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Alisha Abbot",
+            "vacant": false,
+            "acting": false,
+            "email": "officeoftheceo@acic.gov.au",
+            "phone": "(02) 6268 7000",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1146",
+            "title": "Australian Institute of Criminology",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Heather Cook",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant to the Director",
+                "person": "Alisha Abbot",
+                "vacant": false,
+                "acting": false,
+                "email": "officeoftheceo@acic.gov.au",
+                "phone": "(02) 6268 7000",
+                "importance": 2
+              },
+              {
+                "role": "Deputy Director",
+                "person": "Rick Brown",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "43354",
+        "title": "Deputy CEO, Chief Operating Officer",
+        "roles": [
+          {
+            "role": "Deputy CEO, Chief Operating Officer",
+            "person": "Angela Barrett",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6268 7000",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3064",
+            "title": "Corporate Governance and Communication",
+            "roles": [
+              {
+                "role": "Executive Director, Corporate Governance and Communication",
+                "person": "Heath Axelby",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1684",
+                "title": "Finance and Enterprise Support",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3028",
+                "title": "Governance and Communication",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1683",
+                "title": "People",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3060",
+            "title": "Intelligence and Information Systems",
+            "roles": [
+              {
+                "role": "Executive Director, Intelligence and Information Systems",
+                "person": "Heidi Madden",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1686",
+                "title": "Chief Information Officer",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "54332",
+                "title": "National Criminal Intelligence System",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1685",
+                "title": "Systems Design and Delivery",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54331",
+            "title": "Legal and Assurance",
+            "roles": [
+              {
+                "role": "Chief Counsel, Legal and Assurance",
+                "person": "Nicole Mayo",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54333",
+                "title": "Integrity, Security and Assurance",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "43355",
+            "title": "Policing Information and Checking Services",
+            "roles": [
+              {
+                "role": "Executive Director, Policing Information and Checking Services",
+                "person": "Jeremy Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1147",
+                "title": "National Police Checking Service",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1682",
+                "title": "National Policing Information",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "43363",
+        "title": "Deputy CEO, Intelligence",
+        "roles": [
+          {
+            "role": "Deputy CEO, Intelligence",
+            "person": "Matt Rippon",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6268 7000",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3062",
+            "title": "Collection Operations",
+            "roles": [
+              {
+                "role": "Executive Director, Collection Operations",
+                "person": "Jennifer Hurst",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1687",
+                "title": "Collection Operations North",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1688",
+                "title": "Collection Operations South",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1701",
+                "title": "Examinations and Operational Enablement",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "43372",
+                "title": "Specialist Capabilities",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1694",
+            "title": "Mission Coordination and Analysis",
+            "roles": [
+              {
+                "role": "Executive Director, Mission Coordination and Analysis",
+                "person": "Adam Meyer",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6268 7000",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54452",
+                "title": "Mission Coordination",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "54454",
+                "title": "Operational Analysis",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "54453",
+                "title": "Strategic Analysis and Outreach",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "content_id": "106",
+  "title": "Sport Integrity Australia",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "https://www.sportintegrity.gov.au/",
+  "description": "From commencement on 1 July 2020, Sport Integrity Australia will cohesively draw together, develop and nationally coordinate all elements of the sports integrity threat response. This will include acting as a single point of contact for athletes, sporting organisations, sports wagering service providers and other stakeholders for matters relating to sports integrity. Sport Integrity Australia will provide direct assistance to small and emerging Australian sports lacking capacity to deal with integrity issues.<br />\n<br />\nThe remit of Sport Integrity Australia includes providing advice and assistance in countering:<br />\n•\tManipulation of sporting competitions<br />\n•\tUse of drugs and doping methods in sport<br />\n•\tAbuse of children and other persons in a sporting environment<br />\n•\tFailure to protect members of sporting organisations and other persons in a sporting environment from bullying, intimidation, discrimination or harassment.<br />\n<br />\nThe agency will focus on policy development, intelligence, investigations (primarily of doping cases), and education/outreach/capability building.  The agency will function as Australia’s National Anti-Doping Organisation.",
+  "dashboard_name": "Sport Integrity Australia",
+  "people_count": 1,
+  "tree": {
+    "content_id": "106",
+    "title": "Sport Integrity Australia",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Sarah Benson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

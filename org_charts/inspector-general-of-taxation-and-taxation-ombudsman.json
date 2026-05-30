@@ -1,0 +1,35 @@
+{
+  "content_id": "237",
+  "title": "Inspector-General of Taxation",
+  "acronym": "IGT",
+  "portfolio": "Treasury",
+  "website": "http://www.igt.gov.au",
+  "description": "The Inspector-General of Taxation Act 2003 (the Act) established an independent statutory agency to review:<br />\n<br />\n- actions taken by a tax official relating to administrative matters under the tax laws;<br />\n- systems established by the Australian Taxation Office to administer the tax laws;<br />\n- systems established by tax laws in relation to administrative matters; and<br />\n- for the purpose of reporting and making recommendations to Government on how those systems could be improved.<br />\n<br />\nThe Act precludes the Inspector-General of Taxation from reviewing the imposition of taxes and tax rates, and the eligibility criteria for, or levels of, any rebates or grants administered by the Commissioner of Taxation. The Inspector-General seeks to improve the administration of the tax laws for the benefit of all taxpayers. Individuals and/or groups of taxpayers, professional associations and businesses are welcome to bring systemic administration issues to the attention of the Inspector-General. The Inspector-General will endeavour to address taxpayer concerns on defective administration while ensuring resources of the agency are directed to those areas of most benefit to taxpayers overall.",
+  "dashboard_name": "Inspector-General of Taxation and Taxation Ombudsman (IGTO)",
+  "people_count": 2,
+  "tree": {
+    "content_id": "237",
+    "title": "Inspector-General of Taxation",
+    "roles": [
+      {
+        "role": "Inspector-General of Taxation",
+        "person": "Ruth Owen",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Inspector-General of Taxation",
+        "person": "Ruth Owen",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 8239 2111",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

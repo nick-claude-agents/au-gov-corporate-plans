@@ -1,0 +1,2051 @@
+{
+  "content_id": "37176",
+  "title": "Department of Employment and Workplace Relations",
+  "acronym": "",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "https://www.dewr.gov.au",
+  "description": "We enable access to quality skills, training and employment to support Australians find secure work in fair, productive and safe workplaces – supporting individuals and our nation to prosper.",
+  "dashboard_name": "Department of Employment and Workplace Relations (DEWR)",
+  "people_count": 130,
+  "tree": {
+    "content_id": "37176",
+    "title": "Department of Employment and Workplace Relations",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "37290",
+        "title": "Contact the Department",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "37292",
+        "title": "Corporate and Enabling Services",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Corporate and Enabling Services",
+            "person": "Catherine Rule",
+            "vacant": false,
+            "acting": false,
+            "email": "catherine.rule@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "37372",
+            "title": "Digital Experience and Solutions",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Adam Shain",
+                "vacant": false,
+                "acting": false,
+                "email": "adam.shain@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37373",
+                "title": "Application Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Phillip Siu",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "philip.siu@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37375",
+                "title": "Employment Systems Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nicky Antonius",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicky.antonius@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37374",
+                "title": "Innovation, Design and Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lyle Crombie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lyle.crombie@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37377",
+                "title": "Portfolio, Governance and Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kylie Marks",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kylie.marks@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37367",
+            "title": "Enterprise Technology",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Scott Wallace",
+                "vacant": false,
+                "acting": false,
+                "email": "scott.wallace@dewr.gov.au",
+                "phone": "Switchboard 1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37369",
+                "title": "Cyber Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mick Roses",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mick.roses@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37370",
+                "title": "Digital Workplace",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chris Jaggers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christopher.jaggers@dewr.gov.au",
+                    "phone": "Switchboard 1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53080",
+                "title": "Enterprise Business Platform Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Zane Zhao",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "zane.zhao@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37368",
+                "title": "Infrastructure, Platforms and Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ricardo Alberto",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "ricardo.alberto@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37364",
+            "title": "Finance, Governance and Enterprise Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Ben Sladic",
+                "vacant": false,
+                "acting": false,
+                "email": "ben.sladic@dewr.gov.au",
+                "phone": "Switchboard 1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37366",
+                "title": "External Budgets, Strategy and Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mathew Gilliland",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "mathew.gilliland@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37365",
+                "title": "Finance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Erin Cockram",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "erin.cockram@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37362",
+                "title": "Parliamentary and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Penny Edwards",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "penny.edwards@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53079",
+                "title": "Property, ICT Procurement and Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Fiona O'Brien",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.obrien@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37378",
+            "title": "Legal and Assurance",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tim Ffrench",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.ffrench@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37380",
+                "title": "Commercial and Information Law",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke De Jong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.dejong@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37381",
+                "title": "Enterprise Risk, Assurance  and Investigations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kathy Dennis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kathy.dennis@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37379",
+                "title": "Program Advice and Corporate Law",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kerrie Cowan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kerrie.cowan@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37359",
+            "title": "People and Communication",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Miranda Lauman",
+                "vacant": false,
+                "acting": false,
+                "email": "miranda.lauman@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37361",
+                "title": "Communication and Media",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Leah Tuckwell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leah.tuckwell@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40161",
+                "title": "Organisation Design",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Janet Wilson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "janet.wilson@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37360",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Charlotte Keefe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "harlotte.keefe@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3625",
+        "title": "Employment and Workforce",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Employment and Workforce",
+            "person": "Tania Rishniw",
+            "vacant": false,
+            "acting": true,
+            "email": "tania.rishniw@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "36820",
+            "title": "Customer Experience and Engagement",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Fiona DEWAR",
+                "vacant": false,
+                "acting": false,
+                "email": "fiona.dewar@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "36826",
+                "title": "Activities, Engagement and Payments",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ian Nicholas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ian.nicholas@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36825",
+                "title": "Contact Centres",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Juliette Edwards",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "juliette.edwards@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Ag Assistant Secretary",
+                    "person": "Kristina Durcinoski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kristina.durcinoski@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Ag Assistant Secretary",
+                    "person": "Melita Benson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melita.benson@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53861",
+                "title": "Customer Experience and Digital Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Natasha Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natasha.ryan@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53862",
+                "title": "Group Communication and Content",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Orietta Melfi",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "orietta.melfi@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36828",
+                "title": "Workforce Australia Operational Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rachel Addy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.addy@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "36821",
+            "title": "Delivery and Partnerships",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Edwina Spanos",
+                "vacant": false,
+                "acting": false,
+                "email": "edwina.spanos@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53863",
+                "title": "Employer and Tailored Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Melanie Croke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melanie.croke@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36832",
+                "title": "Employment Services  Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Pietrukowski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.pietrukowski@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36834",
+                "title": "NSW/ACT",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Joanne Tester",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joanne.tester@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36840",
+                "title": "NT",
+                "roles": [
+                  {
+                    "role": "A/g State Manager",
+                    "person": "Gavin Bucklar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "gavin.bucklar@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53866",
+                "title": "Provider Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Therese Maher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "therese.maher@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36835",
+                "title": "QLD",
+                "roles": [
+                  {
+                    "role": "State Manager",
+                    "person": "Stacey Lange",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stacey.lange@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36838",
+                "title": "SA",
+                "roles": [
+                  {
+                    "role": "State Manager",
+                    "person": "Tricia Hennessy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tricia.hennessy@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53867",
+                "title": "State Network National Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tim Matthews",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tim.matthews@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36839",
+                "title": "TAS",
+                "roles": [
+                  {
+                    "role": "State Manager",
+                    "person": "Brent McIntyre",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brent.mcintyre@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36836",
+                "title": "VIC",
+                "roles": [
+                  {
+                    "role": "A/g State Manager",
+                    "person": "David Elliott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.elliott@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36837",
+                "title": "WA",
+                "roles": [
+                  {
+                    "role": "Executive Level 2, State Manager",
+                    "person": "Danielle Savage",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "danielle.savage@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52381",
+            "title": "EWG Design Unit",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Natasha Ryan",
+                "vacant": false,
+                "acting": false,
+                "email": "natasha.ryan@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "36823",
+            "title": "Labour Market and Industry Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Bronwyn Field",
+                "vacant": false,
+                "acting": false,
+                "email": "bronwyn.field@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53876",
+                "title": "Employer and Regional Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Eve Wisowaty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "eve.wisowaty@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47799",
+                "title": "Employment System Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Niran Gunawardena",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "niran.gunawardena@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46618",
+                "title": "First Nations and Targeted Policies",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lisa Conway",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisa.conway@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53877",
+                "title": "Industry Transition and Net Zero",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Richard Bolto",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "richard.bolto@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52006",
+                "title": "Integrity of the Targeted  Compliance Framework  Taskforce",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Ken Bell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ken.bell@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36845",
+                "title": "Mutual Obligations, Compliance and Stream Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nadine Groney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nadine.groney@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47800",
+            "title": "Pacific Labour Operations",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Jason Stott",
+                "vacant": false,
+                "acting": false,
+                "email": "jason.stott@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47801",
+                "title": "PALM Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Patrick Bryson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "patrick.bryson@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47803",
+                "title": "PALM Integrity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Felicity Rowe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "felicity.rowe@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47802",
+                "title": "PALM Policy and Communications",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Quyen Tran",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "quyen.tran@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53085",
+                "title": "PALM Program Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dany Turner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dany.turner@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "36824",
+            "title": "Quality, Strategy and Improvement",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Lisa Schofield",
+                "vacant": false,
+                "acting": true,
+                "email": "lisa.schofield@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "36851",
+                "title": "Assurance and Risk Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrew Rodrigues",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.rodrigues@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51448",
+                "title": "Complaints Resolution",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nicole Fitzgerald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicole.fitzgerald@dewr.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36849",
+                "title": "Data and Insights",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Claire Sparke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "claire.sparke@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53874",
+                "title": "Employment Services Purchasing and Contracting",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jennifer Hewitt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jennifer.hewitt@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36850",
+                "title": "Evaluation and Improvement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bruce Cunningham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bruce.cunningham@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53875",
+                "title": "Minister- Counsellor Employment OECD Paris",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alex Gordon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.gordon@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36848",
+                "title": "Strategy, Governance and Closing the Gap",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Janet Lui",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "janet.lui@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "37291",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Simon Duggan",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 488 064",
+            "importance": 1
+          },
+          {
+            "role": "Assistant Secretary, Chief of Staff",
+            "person": "Daniel Tracey",
+            "vacant": false,
+            "acting": false,
+            "email": "daniel.tracey@dewr.gov.au",
+            "phone": "Switchboard 1300 488 064",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary, Employment and Workforce",
+            "person": "Tania Rishniw",
+            "vacant": false,
+            "acting": true,
+            "email": "tania.rishniw@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary, Workplace Relations",
+            "person": "Greg Manning",
+            "vacant": false,
+            "acting": false,
+            "email": "greg.manning@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Secretary, Skills and Training",
+            "person": "Anna Faithfull",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.faithfull@dewr.gov.au",
+            "phone": "Switchboard 1300 488 064",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary, Corporate and Enabling Services",
+            "person": "Catherine Rule",
+            "vacant": false,
+            "acting": false,
+            "email": "catherine.rule@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 6
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "38988",
+        "title": "Jobs and Skills Australia",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Simon Booth",
+            "vacant": false,
+            "acting": false,
+            "email": "simon.booth@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "40235",
+            "title": "Enterprise and Systems",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Maria Shanahan",
+                "vacant": false,
+                "acting": false,
+                "email": "maria.shanahan@jobsandskills.gov.au",
+                "phone": "Switchboard 1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38989",
+            "title": "Labour Market and Migration",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Cliff Bingham",
+                "vacant": false,
+                "acting": true,
+                "email": "clifton.bingham@jobsandskills.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38990",
+            "title": "National Skills System",
+            "roles": [
+              {
+                "role": "A/g, Assistant Secretary",
+                "person": "Fan Xiang",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38991",
+            "title": "Workforce Futures",
+            "roles": [
+              {
+                "role": "A/g Assistant Secretary",
+                "person": "Kirsty Leslie",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsty.leslie@jobsandskills.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3109",
+        "title": "Skills and Training",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Skills and Training",
+            "person": "Anna Faithfull",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.faithfull@dewr.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1863",
+            "title": "Apprenticeships and Digital Projects",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Belinda Campbell",
+                "vacant": false,
+                "acting": false,
+                "email": "belinda.campbell@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38029",
+                "title": "Apprenticeships Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sharon Huender",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sharon.huender@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1875",
+                "title": "Apprenticeships Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Meredith Bryant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "meredith.bryant@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52235",
+                "title": "Digital Projects",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ann Borg-Barthet",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1864",
+            "title": "Defence International VSL and Assessment",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Renae Houston",
+                "vacant": false,
+                "acting": false,
+                "email": "renae.houston@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1877",
+                "title": "CPP Awards and Ministerial Events",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "David Fisher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.fisher@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42704",
+                "title": "International Policy and Defence",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chris Alach",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.alach@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40234",
+                "title": "Trades Recognition Australia",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bronwyn Meyrick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bronwyn.meyrick@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52233",
+                "title": "VET Student Loans",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Varendorff Thomas",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "thomas.varendorff@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1861",
+            "title": "Industry Partnership, Quality and Integrity",
+            "roles": [
+              {
+                "role": "A/g First Assistant Secretary",
+                "person": "Danica Yanchenko",
+                "vacant": false,
+                "acting": false,
+                "email": "danica.yanchenko@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1866",
+                "title": "Energy, Digital and Delivery",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Liam Smyth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "liam.smyth@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1867",
+                "title": "Service, Community and Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Marina Henley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marina.henley@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52232",
+                "title": "Skills Compliance and Integrity Unit",
+                "roles": [
+                  {
+                    "role": "A/g, Assistant Secretary",
+                    "person": "Keira Byrne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1869",
+                "title": "VET Quality and Regulation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Katerina Lawler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katerina.lawler@dewr.gov.au",
+                    "phone": "Switchboard 1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Ag Assistant Secretary",
+                    "person": "Katrina Blair",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katrina.blair@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Ag Assistant Secretary",
+                    "person": "Rosie Hunt-Walshe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rosie.hunt-walshe@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1865",
+            "title": "National Reform and Foundation Skills",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Vicki Wilkinson",
+                "vacant": false,
+                "acting": false,
+                "email": "vicki.wilkinson@dewr.gov.au",
+                "phone": "Switchboard 1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "48040",
+                "title": "Fee Free TAFE, Skills Funding and Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kimberley McDonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kimberley.mcdonald@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52236",
+                "title": "Foundation Skills",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cara Sergeant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1879",
+                "title": "Stewardship and NSA Implementation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Fitzgerald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.fitzgerald@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Beth Ross",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "beth.ross@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1862",
+            "title": "Policy, Pathways and Inclusion",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Laura Angus",
+                "vacant": false,
+                "acting": false,
+                "email": "laura.angus@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "48030",
+                "title": "First Nations and Inclusion",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tamara Prosser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tamara.prosser@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52772",
+                "title": "General Manager, Student Identifiers Registrar",
+                "roles": [
+                  {
+                    "role": "A/g, General Manager, Student Identifiers Registrar",
+                    "person": "Charee O'Riley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "charee.oriley@usi.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48031",
+                "title": "Pathways Policy and Budget Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Helen Stitt",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "helen.stitt@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48032",
+                "title": "Skills Entities and Data",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Naomi Perdomo",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "naomi.perdomo@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Celia Gleeson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "celia.gleeson@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "37382",
+        "title": "Workplace Relations",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Workplace Relations",
+            "person": "Greg Manning",
+            "vacant": false,
+            "acting": false,
+            "email": "greg.manning@dewr.gov.au",
+            "phone": "1300 488 064",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52887",
+            "title": "Closing the Gap Branch",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Cris Castro",
+                "vacant": false,
+                "acting": false,
+                "email": "cris.castro@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "37395",
+            "title": "Employment Conditions",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Diab Harb",
+                "vacant": false,
+                "acting": false,
+                "email": "diab.harb@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47822",
+                "title": "AI Institutions and Consultations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Costelloe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.costelloe@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37397",
+                "title": "Equity Entitlements and International",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anshu De Silva Wijeyeratne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anshu.desilvawijeyeratne@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37399",
+                "title": "Minister-Counsellor (International Labour Organization) Geneva",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tara Williams",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tara.williams@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37398",
+                "title": "Safety Net",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alanna Maddock",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "alanna.maddock@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37396",
+                "title": "Strategy and Protection",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Henry Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "henry.jones@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37383",
+            "title": "Entitlements Safeguards",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Elizabeth Brayshaw",
+                "vacant": false,
+                "acting": false,
+                "email": "elizabeth.brayshaw@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37384",
+                "title": "Fair Entitlements Guarantee",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bridie Cosgriff",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bridie.cosgriff@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37385",
+                "title": "Recovery and Litigation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Henry Carr",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "henry.carr@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37386",
+                "title": "Workplace Exploitation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lavinia Gracik-Anczewska",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lavinia.gracik-anczewska@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47821",
+            "title": "Office of the Chief Economist",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Matt Cowgill",
+                "vacant": false,
+                "acting": false,
+                "email": "matt.cowgill@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52078",
+                "title": "Data",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jenny Humphrys",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jenny.humphrys@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50232",
+                "title": "Economics",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Elizabeth Wakerly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "elizabeth.wakerly@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52007",
+                "title": "Strategic Policy Unit",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mathew Gilliland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mathew.gilliland@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37387",
+            "title": "Safety and Industry Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Jody Anderson",
+                "vacant": false,
+                "acting": true,
+                "email": "jody.anderson@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37390",
+                "title": "Bargaining Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Cains",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.cains@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49187",
+                "title": "Construction Policy Reforms",
+                "roles": [
+                  {
+                    "role": "A/g, Assistant Secretary",
+                    "person": "Platts Natasha",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natasha.platts@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37389",
+                "title": "Federal Safety Commissioner",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Denney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.denney@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37388",
+                "title": "Safety and Compensation Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Elizabeth De Hoog",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "elizabeth.dehoog@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37391",
+            "title": "Workplace Relations Legal",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Sarah Godden",
+                "vacant": false,
+                "acting": true,
+                "email": "sarah.godden@dewr.gov.au",
+                "phone": "1300 488 064",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37392",
+                "title": "Bargaining and Coverage",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stuart Kerr",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "stuart.kerr@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37393",
+                "title": "Employment Standards and Institutions",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma Hallas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.hallas@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37394",
+                "title": "FEG, Appointments, Compensation and Safety",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Calautti",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.calautti@dewr.gov.au",
+                    "phone": "1300 488 064",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

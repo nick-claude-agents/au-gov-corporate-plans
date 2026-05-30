@@ -1,0 +1,60 @@
+{
+  "content_id": "229",
+  "title": "Australian Prudential Regulation Authority",
+  "acronym": "APRA",
+  "portfolio": "Treasury",
+  "website": "http://www.apra.gov.au",
+  "description": "The Australian Prudential Regulation Authority (APRA) is the prudential regulator of the Australian financial services industry. It oversees banks, credit unions, building societies, general insurance and reinsurance companies, life insurance, friendly societies, and most of the superannuation industry. APRA is funded largely by the industries that it supervises. It was established on 1 July 1998. APRA currently supervises institutions holding $4.5 trillion in assets for Australian depositors, policyholders and superannuation fund members.",
+  "dashboard_name": "Australian Prudential Regulation Authority (APRA)",
+  "people_count": 0,
+  "tree": {
+    "content_id": "229",
+    "title": "Australian Prudential Regulation Authority",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1463",
+        "title": "Media and Public Affairs",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1469",
+        "title": "Other offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1468",
+            "title": "AUSTRALIAN CAPITAL TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1464",
+            "title": "QUEENSLAND",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1466",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1467",
+            "title": "VICTORIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1465",
+            "title": "WESTERN AUSTRALIA",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

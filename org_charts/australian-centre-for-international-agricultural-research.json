@@ -1,0 +1,498 @@
+{
+  "content_id": "178",
+  "title": "Australian Centre for International Agricultural Research",
+  "acronym": "ACIAR",
+  "portfolio": "Foreign Affairs and Trade",
+  "website": "http://www.aciar.gov.au",
+  "description": "The Australian Centre for International Agricultural Research (ACIAR) is the Australian Government’s specialist agricultural research-for-development agency within the Australian aid program. The purpose of ACIAR is to contribute to reducing poverty and improving the livelihoods of many in the Indo-Pacific region through more productive and sustainable agriculture emerging from collaborative international research. This is achieved by brokering, facilitating, investing in and managing strategic partnerships with public and private research institutions to improve the productivity and sustainability of agricultural systems and the resilience of food systems.",
+  "dashboard_name": "Australian Centre for International Agricultural Research (ACIAR)",
+  "people_count": 37,
+  "tree": {
+    "content_id": "178",
+    "title": "Australian Centre for International Agricultural Research",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1240",
+        "title": "Australian Centre for International Agricultural Research",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1242",
+        "title": "Corporate Programs",
+        "roles": [
+          {
+            "role": "Chief Finance Officer",
+            "person": "Albert Blair",
+            "vacant": false,
+            "acting": false,
+            "email": "albert.blair@aciar.gov.au",
+            "phone": "(02) 6217 0567",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1246",
+            "title": "Business Systems Support",
+            "roles": [
+              {
+                "role": "A/g Manager, Business Systems Support",
+                "person": "David Skinner",
+                "vacant": false,
+                "acting": false,
+                "email": "david.skinner@aciar.gov.au",
+                "phone": "(02) 6217 0529",
+                "importance": 999
+              },
+              {
+                "role": "Business Systems Information Technology Officer",
+                "person": "Inderpal Sidhu",
+                "vacant": false,
+                "acting": false,
+                "email": "inderpal.sidhu@aciar.gov.au",
+                "phone": "(02) 6217 0563",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1241",
+            "title": "Communications and Stakeholder Engagement",
+            "roles": [
+              {
+                "role": "Manager, External Engagement and Media Presence",
+                "person": "Andrew Heaney",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.heaney@aciar.gov.au",
+                "phone": "(02) 6217 0505",
+                "importance": 999
+              },
+              {
+                "role": "Communications and Executive Support Officer",
+                "person": "Abigail Brogan",
+                "vacant": false,
+                "acting": false,
+                "email": "abigail.brogan@aciar.gov.au",
+                "phone": "(02) 6217 0534",
+                "importance": 999
+              },
+              {
+                "role": "Officer, Corporate Engagement and Communications",
+                "person": "Cassandra Proudfoot",
+                "vacant": false,
+                "acting": false,
+                "email": "cassandra.proudfoot@aciar.gov.au",
+                "phone": "(02) 6217 0509",
+                "importance": 999
+              },
+              {
+                "role": "External Engagement and Media Presence Officer",
+                "person": "Kirsten Davey",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsten.davey@aciar.gov.au",
+                "phone": "(02) 6217 0534",
+                "importance": 999
+              },
+              {
+                "role": "Manager, Corporate Engagement and Communications",
+                "person": "Robyn Henderson",
+                "vacant": false,
+                "acting": false,
+                "email": "robyn.henderson@aciar.gov.au",
+                "phone": "(02) 6217 0521",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1245",
+            "title": "Finance",
+            "roles": [
+              {
+                "role": "Finance and Payroll Officer",
+                "person": "Katy Kimball",
+                "vacant": false,
+                "acting": false,
+                "email": "katy.kimball@aciar.gov.au",
+                "phone": "(02) 6217 0566",
+                "importance": 999
+              },
+              {
+                "role": "Accountant",
+                "person": "Gary Kwan",
+                "vacant": false,
+                "acting": false,
+                "email": "gary.kwan@aciar.gov.au",
+                "phone": "(02) 6217 0514",
+                "importance": 999
+              },
+              {
+                "role": "Director Finance",
+                "person": "James Malizani",
+                "vacant": false,
+                "acting": false,
+                "email": "james.malizani@aciar.gov.au",
+                "phone": "(02) 6217 0509",
+                "importance": 999
+              },
+              {
+                "role": "Manager, Procurement and Contracting Support",
+                "person": "Parnell Kennon",
+                "vacant": false,
+                "acting": false,
+                "email": "parnell.kennon@acair.gov.au",
+                "phone": "(02) 6217 0568",
+                "importance": 999
+              },
+              {
+                "role": "Senior Finance Officer",
+                "person": "Frances Mcpherson",
+                "vacant": false,
+                "acting": false,
+                "email": "frances.mcpherson@aciar.gov.au",
+                "phone": "(02) 6217 0564",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1244",
+            "title": "Human Resources",
+            "roles": [
+              {
+                "role": "Manager, Human Resources",
+                "person": "Sharyn Turner",
+                "vacant": false,
+                "acting": false,
+                "email": "sharyn.turner@aciar.gov.au",
+                "phone": "(02) 6217 0556",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1243",
+            "title": "Information Technology Services",
+            "roles": [
+              {
+                "role": "Business Systems Information Technology Officer",
+                "person": "Inderpal Sidhu",
+                "vacant": false,
+                "acting": false,
+                "email": "inderpal.sidhu@aciar.gov.au",
+                "phone": "(02) 6217 0563",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1247",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Andrew Campbell",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.campbell@aciar.gov.au",
+            "phone": "(02) 6217 0500",
+            "importance": 999
+          },
+          {
+            "role": "Executive Officer to the CEO",
+            "person": "Suzie Gaynor",
+            "vacant": false,
+            "acting": false,
+            "email": "suzie.gaynor@aciar.gov.au",
+            "phone": "(02) 6217 0576",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1248",
+        "title": "Research and Development Programs",
+        "roles": [
+          {
+            "role": "Principal Advisor Research",
+            "person": "John Dixon",
+            "vacant": false,
+            "acting": false,
+            "email": "john.dixon@aciar.gov.au",
+            "phone": "(02) 6217 0531",
+            "importance": 999
+          },
+          {
+            "role": "General Manager Country Programs",
+            "person": "Peter Horne",
+            "vacant": false,
+            "acting": false,
+            "email": "peter.horne@aciar.gov.au",
+            "phone": "(02) 6217 0522",
+            "importance": 999
+          },
+          {
+            "role": "General Manager Global Programs",
+            "person": "Mellissa Wood",
+            "vacant": false,
+            "acting": false,
+            "email": "mellissa.wood@aciar.gov.au",
+            "phone": "(02) 6217 0565",
+            "importance": 999
+          },
+          {
+            "role": "General Manager Global Programs",
+            "person": "Pending Assignment #13",
+            "vacant": false,
+            "acting": false,
+            "email": "mellissa.wood@aciar.gov.au",
+            "phone": "(02) 6217 0565",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1259",
+            "title": "Agribusiness",
+            "roles": [
+              {
+                "role": "Research Program Manager, Agribusiness",
+                "person": "Rodd Dyer",
+                "vacant": false,
+                "acting": false,
+                "email": "rodd.dyer@aciar.gov.au",
+                "phone": "(02) 6217 0535",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1258",
+            "title": "Agricultural Development Policy",
+            "roles": [
+              {
+                "role": "Research Program Manager, Agricultural Development Policy",
+                "person": "Ejaz Qureshi",
+                "vacant": false,
+                "acting": false,
+                "email": "ejaz.qureshi@aciar.gov.au",
+                "phone": "(02) 6217 0591",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1257",
+            "title": "Agricultural Systems Management",
+            "roles": [
+              {
+                "role": "Research Program Manager, Agricultural Systems Management",
+                "person": "Jayne Curnow",
+                "vacant": false,
+                "acting": false,
+                "email": "jayne.curnow@aciar.gov.au",
+                "phone": "(02) 6217 0532",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1256",
+            "title": "Animal Sciences",
+            "roles": [
+              {
+                "role": "Research Program Manager, Animal Health",
+                "person": "Mike Nunn",
+                "vacant": false,
+                "acting": false,
+                "email": "mike.nunn@aciar.gov.au",
+                "phone": "(02) 6217 0540",
+                "importance": 999
+              },
+              {
+                "role": "Research Program Manager, Livestock Production Systems",
+                "person": "Werner Stur",
+                "vacant": false,
+                "acting": false,
+                "email": "werner.stur@aciar.gov.au",
+                "phone": "(02) 6217 0560",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1260",
+            "title": "Crop Sciences",
+            "roles": [
+              {
+                "role": "Research Program Manager, Crop Improvement and Management",
+                "person": "Eric Huttner",
+                "vacant": false,
+                "acting": false,
+                "email": "eric.huttner@aciar.gov.au",
+                "phone": "(02) 6217 0527",
+                "importance": 999
+              },
+              {
+                "role": "Research Program Manager, Horticulture",
+                "person": "Richard Markham",
+                "vacant": false,
+                "acting": false,
+                "email": "richard.markham@aciar.gov.au",
+                "phone": "(02) 6217 0530",
+                "importance": 999
+              },
+              {
+                "role": "Research Program Manager, Cropping Systems and Economics",
+                "person": "John Dixon",
+                "vacant": false,
+                "acting": false,
+                "email": "john.dixon@aciar.gov.au",
+                "phone": "(02) 6217 0531",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1255",
+            "title": "Fisheries",
+            "roles": [
+              {
+                "role": "Research Program Manager, Fisheries",
+                "person": "Chris Barlow",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.barlow@aciar.gov.au",
+                "phone": "(02) 6217 0508",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1254",
+            "title": "Forestry",
+            "roles": [
+              {
+                "role": "Research Program Manager, Forestry",
+                "person": "Tony Bartlett",
+                "vacant": false,
+                "acting": false,
+                "email": "tony.bartlett@aciar.gov.au",
+                "phone": "(02) 6217 0549",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1253",
+            "title": "Horticulture",
+            "roles": [
+              {
+                "role": "Research Program Manager, Horticulture",
+                "person": "Richard Markham",
+                "vacant": false,
+                "acting": false,
+                "email": "richard.markham@aciar.gov.au",
+                "phone": "(02) 6217 0530",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1252",
+            "title": "Impact Assessment",
+            "roles": [
+              {
+                "role": "Research Program Manager, Impact Assessment",
+                "person": "Andrew Alford",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.alford@aciar.gov.au",
+                "phone": "(02) 6217 0541",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1251",
+            "title": "Natural Resources Management",
+            "roles": [
+              {
+                "role": "Research Program Manager, Soil Management and Crop Nutrition",
+                "person": "Robert Edis",
+                "vacant": false,
+                "acting": false,
+                "email": "robert.edis@aciar.gov.au",
+                "phone": "(02) 6217 0558",
+                "importance": 999
+              },
+              {
+                "role": "Research Program Manager, Land and Water Resources",
+                "person": "Evan Christen",
+                "vacant": false,
+                "acting": false,
+                "email": "evan.christen@aciar.gov.au",
+                "phone": "(02) 6217 0561",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1249",
+            "title": "Soil Management and Crop Nutrition",
+            "roles": [
+              {
+                "role": "Dr Robert Edis",
+                "person": "Pending Assignment #26",
+                "vacant": false,
+                "acting": false,
+                "email": "robert.edis@aciar.gov.au",
+                "phone": "(02) 6217 0558",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1250",
+            "title": "Training Program",
+            "roles": [
+              {
+                "role": "Project Officer - Capacity Building",
+                "person": "Catherine Hanley",
+                "vacant": false,
+                "acting": false,
+                "email": "catherine.hanley@aciar.gov.au",
+                "phone": "(02) 6217 0503",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

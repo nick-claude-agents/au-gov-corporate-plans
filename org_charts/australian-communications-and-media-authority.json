@@ -1,0 +1,345 @@
+{
+  "content_id": "129",
+  "title": "Australian Communications and Media Authority",
+  "acronym": "The ACMA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.acma.gov.au/",
+  "description": "The Australian Communications and Media Authority (ACMA) is Australia's regulator for telecommunications, broadcasting, radiocommunications, unsolicited communications and certain online content. The ACMA’s purpose is to maximise the economic and social benefits of communications infrastructure, services, and content for all Australia. <br />\n<br />\nThe ACMA has responsibilities under four principal acts: the Radiocommunications Act, the Telecommunications Act, the Telecommunications (Consumer Protection and Service Standards) Act and the Broadcasting Services Act. There are other Acts to which the agency responds in areas such as spam, the Do Not Call Register, and interactive gambling.",
+  "dashboard_name": "Australian Communications and Media Authority (ACMA)",
+  "people_count": 19,
+  "tree": {
+    "content_id": "129",
+    "title": "Australian Communications and Media Authority",
+    "roles": [
+      {
+        "role": "Chair & Agency Head",
+        "person": "Nerida O'Loughlin",
+        "vacant": false,
+        "acting": false,
+        "email": "officeofthechair@acma.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2252",
+        "title": "Communications Infrastructure",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Michael Brealey",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.brealey@acma.gov.au",
+            "phone": "02 9334 7782",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2248",
+            "title": "Licensing and Infrastructure Safeguards",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Allan Major",
+                "vacant": false,
+                "acting": false,
+                "email": "allan.major@acma.gov.au",
+                "phone": "(03) 9963 6800",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2249",
+            "title": "Spectrum Allocations",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Robert Crofts",
+                "vacant": false,
+                "acting": false,
+                "email": "robert.crofts@acma.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2247",
+            "title": "Spectrum Planning and Engineering",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Chris Worley",
+                "vacant": false,
+                "acting": false,
+                "email": "christopher.worley@acma.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "49918",
+        "title": "Consumer Division",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Cathy Rainsford",
+            "vacant": false,
+            "acting": false,
+            "email": "cathy.rainsford@acma.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "49919",
+            "title": "Telecommunications Safeguards and Numbers",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Tanya Farrell",
+                "vacant": false,
+                "acting": false,
+                "email": "tanya.farrell@acma.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49920",
+            "title": "Unsolicited Communications and Scams",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Jeremy Fenton",
+                "vacant": false,
+                "acting": false,
+                "email": "jeremy.fenton@acma.gov.au",
+                "phone": "03 9963 6924",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2239",
+        "title": "Content Division",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Autumn Field",
+            "vacant": false,
+            "acting": false,
+            "email": "autumn.field@acma.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2246",
+            "title": "Content Safeguards",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Alana Fraser",
+                "vacant": false,
+                "acting": false,
+                "email": "alana.fraser@acma.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49917",
+            "title": "Gambling and Mis/Disinformation",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Rochelle Zurnamer",
+                "vacant": false,
+                "acting": false,
+                "email": "rochelle.zurnamer@acma.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2257",
+        "title": "Corporate and Research",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Helen Owens",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6219 5555",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2243",
+            "title": "Digital and Technology Services",
+            "roles": [
+              {
+                "role": "Chief Information and Digital Officer",
+                "person": "Chris Dale",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.dale@acma.gov.au",
+                "phone": "(02) 6219 5202",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "49928",
+                "title": "Digital and Technology Services",
+                "roles": [
+                  {
+                    "role": "Executive Manager",
+                    "person": "Chris Dale",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.dale@acma.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2241",
+            "title": "Finance, Reporting and Operations",
+            "roles": [
+              {
+                "role": "Chief Financial Officer (Executive Manager)",
+                "person": "Sam MacCready",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.maccready@acma.gov.au",
+                "phone": "(02) 6219 5288",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2253",
+            "title": "Human Resources and Communications",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Andrew Spencer",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.spencer@acma.gov.au",
+                "phone": "6219 5255",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2242",
+            "title": "Research, Data and Governance",
+            "roles": [
+              {
+                "role": "Executive Manager",
+                "person": "Richard Bullock",
+                "vacant": false,
+                "acting": false,
+                "email": "richard.bullock@acma.gov.au",
+                "phone": "(02) 6219 5319",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2256",
+        "title": "Legal Services",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Brendan Byrne",
+            "vacant": false,
+            "acting": false,
+            "email": "brendan.byrne@acma.gov.au",
+            "phone": "(02) 9334 7700",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2493",
+        "title": "Office of the eSafety Commissioner",
+        "roles": [
+          {
+            "role": "Commissioner",
+            "person": "Julie Inman-Grant",
+            "vacant": false,
+            "acting": false,
+            "email": "enquiries@esafety.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2255",
+        "title": "Offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2240",
+            "title": "Canberra Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2258",
+            "title": "Melbourne Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2238",
+            "title": "Sydney Office",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

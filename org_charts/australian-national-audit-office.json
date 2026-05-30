@@ -1,0 +1,366 @@
+{
+  "content_id": "214",
+  "title": "Australian National Audit Office",
+  "acronym": "ANAO",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.anao.gov.au",
+  "description": "The Australian National Audit Office (ANAO) is a specialist public sector practice providing a full range of audit and assurance services to the Parliament and Commonwealth public sector entities.",
+  "dashboard_name": "Australian National Audit Office (ANAO)",
+  "people_count": 34,
+  "tree": {
+    "content_id": "214",
+    "title": "Australian National Audit Office",
+    "roles": [
+      {
+        "role": "Auditor-General",
+        "person": "Caralee McLiesh",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6203 7300",
+        "importance": 1
+      },
+      {
+        "role": "Deputy Auditor-General",
+        "person": "Rona Mellor",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6203 7300",
+        "importance": 2
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3245",
+        "title": "Corporate Management Group",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Sue Goodear",
+            "vacant": false,
+            "acting": false,
+            "email": "sue.goodear@anao.gov.au",
+            "phone": "02 6203 7343",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Chief Operating Officer",
+            "person": "Jacquie Walton",
+            "vacant": false,
+            "acting": false,
+            "email": "jacquie.walton@anao.gov.au",
+            "phone": "02 6203 7305",
+            "importance": 3
+          },
+          {
+            "role": "Executive Director",
+            "person": "Kristian Gage",
+            "vacant": false,
+            "acting": false,
+            "email": "kristian.gage@anao.gov.au",
+            "phone": "02 6203 7300",
+            "importance": 5
+          },
+          {
+            "role": "Executive Director",
+            "person": "Sally Ramsey",
+            "vacant": false,
+            "acting": false,
+            "email": "sally.ramsey@anao.gov.au",
+            "phone": "(02) 6203 7359",
+            "importance": 12
+          },
+          {
+            "role": "Chief Digital Officer",
+            "person": "Matthew Rigter",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.rigter@anao.gov.au",
+            "phone": "(02) 6203 7382",
+            "importance": 15
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2930",
+        "title": "Financial Statements Audit Services Group",
+        "roles": [
+          {
+            "role": "Group Executive Director",
+            "person": "Carla Jago",
+            "vacant": false,
+            "acting": false,
+            "email": "carla.jago@anao.gov.au",
+            "phone": "02 6203 7761",
+            "importance": 1
+          },
+          {
+            "role": "Senior Executive Director",
+            "person": "Sean Benfield",
+            "vacant": false,
+            "acting": false,
+            "email": "sean.benfield@anao.gov.au",
+            "phone": "02 6203 7579",
+            "importance": 2
+          },
+          {
+            "role": "Senior Executive Director (acting)",
+            "person": "Jeffrey Hobson",
+            "vacant": false,
+            "acting": false,
+            "email": "jeffrey.hobson@anao.gov.au",
+            "phone": "02 6203 7651",
+            "importance": 2
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Philip Collier",
+            "vacant": false,
+            "acting": false,
+            "email": "philip.collier@anao.gov.au",
+            "phone": "02 6203 7513",
+            "importance": 3
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Ann MacNeill",
+            "vacant": false,
+            "acting": false,
+            "email": "ann.macneill@anao.gov.au",
+            "phone": "02 6203 7344",
+            "importance": 5
+          },
+          {
+            "role": "Executive Director",
+            "person": "Peter Kerr",
+            "vacant": false,
+            "acting": false,
+            "email": "peter.kerr@anao.gov.au",
+            "phone": "(02) 6203 7401",
+            "importance": 6
+          },
+          {
+            "role": "Executive Director",
+            "person": "Clea Lewis",
+            "vacant": false,
+            "acting": false,
+            "email": "clea.lewis@anao.gov.au",
+            "phone": "(02) 6203 7363",
+            "importance": 8
+          },
+          {
+            "role": "Executive Director",
+            "person": "Fiona Sheppard",
+            "vacant": false,
+            "acting": false,
+            "email": "fiona.sheppard@anao.gov.au",
+            "phone": "(02) 6203 7684",
+            "importance": 12
+          },
+          {
+            "role": "Executive Director",
+            "person": "Lorena Skipper",
+            "vacant": false,
+            "acting": false,
+            "email": "lorena.skipper@anao.gov.au",
+            "phone": "(02) 6203 7805",
+            "importance": 14
+          },
+          {
+            "role": "Executive Director",
+            "person": "Rahul Tejani",
+            "vacant": false,
+            "acting": false,
+            "email": "rahul.tejani@anao.gov.au",
+            "phone": "(02) 6203 7354",
+            "importance": 20
+          },
+          {
+            "role": "Executive Director",
+            "person": "Mark Vial",
+            "vacant": false,
+            "acting": false,
+            "email": "mark.vial@anao.gov.au",
+            "phone": "(02) 6203 7642",
+            "importance": 20
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2931",
+        "title": "Performance Audit Services Group",
+        "roles": [
+          {
+            "role": "Group Executive Director",
+            "person": "Peta Lane",
+            "vacant": false,
+            "acting": false,
+            "email": "peta.lane@anao.gov.au",
+            "phone": "02 6203 7319",
+            "importance": 1
+          },
+          {
+            "role": "Group Executive Director",
+            "person": "Ian Goodwin",
+            "vacant": false,
+            "acting": false,
+            "email": "ian.goodwin@anao.gov.au",
+            "phone": "02 6203 7736",
+            "importance": 3
+          },
+          {
+            "role": "Senior Executive Director",
+            "person": "Michelle Page",
+            "vacant": false,
+            "acting": false,
+            "email": "michelle.page@anao.gov.au",
+            "phone": "02 6203 7561",
+            "importance": 4
+          },
+          {
+            "role": "Executive Director",
+            "person": "Brian Boyd",
+            "vacant": false,
+            "acting": false,
+            "email": "brian.boyd@anao.gov.au",
+            "phone": "(02) 6203 7672",
+            "importance": 6
+          },
+          {
+            "role": "Executive Director",
+            "person": "Christine Chalmers",
+            "vacant": false,
+            "acting": false,
+            "email": "christine.chalmers@anao.gov.au",
+            "phone": "(02) 6203 7459",
+            "importance": 10
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Nathan Callaway",
+            "vacant": false,
+            "acting": false,
+            "email": "nathan.callaway@anao.gov.au",
+            "phone": "02 6203 7535",
+            "importance": 12
+          },
+          {
+            "role": "Executive Director",
+            "person": "Susan Drennan",
+            "vacant": false,
+            "acting": false,
+            "email": "susan.drennan@anao.gov.au",
+            "phone": "(02) 6203 7897",
+            "importance": 13
+          },
+          {
+            "role": "Executive Director",
+            "person": "David Tellis",
+            "vacant": false,
+            "acting": false,
+            "email": "david.tellis@anao.gov.au",
+            "phone": "(02) 6203 7518",
+            "importance": 22
+          },
+          {
+            "role": "Executive Director",
+            "person": "Corinne Horton",
+            "vacant": false,
+            "acting": false,
+            "email": "corinne.horton@anao.gov.au",
+            "phone": "02 6203 7501",
+            "importance": 25
+          },
+          {
+            "role": "Executive Director",
+            "person": "Amy Willmott",
+            "vacant": false,
+            "acting": false,
+            "email": "amy.willmott@anao.gov.au",
+            "phone": "(02) 6203 7569",
+            "importance": 30
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3246",
+        "title": "Performance Statements Audit Services Group",
+        "roles": [
+          {
+            "role": "Group Executive Director",
+            "person": "George Sotiropoulos",
+            "vacant": false,
+            "acting": false,
+            "email": "george.sotiropoulos@anao.gov.au",
+            "phone": "(02) 6203 7370",
+            "importance": 1
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Catherine Pauli",
+            "vacant": false,
+            "acting": false,
+            "email": "catherine.pauli@anao.gov.au",
+            "phone": "(02) 6203 7483",
+            "importance": 5
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Richard Grant",
+            "vacant": false,
+            "acting": false,
+            "email": "richard.grant@anao.gov.au",
+            "phone": "02 6203 7612",
+            "importance": 10
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2932",
+        "title": "Professional Services Group",
+        "roles": [
+          {
+            "role": "Group Executive Director",
+            "person": "Jane Meade",
+            "vacant": false,
+            "acting": false,
+            "email": "jane.meade@anao.gov.au",
+            "phone": "(02) 6203 7676",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2933",
+        "title": "Systems Assurance and Data Analytics Group",
+        "roles": [
+          {
+            "role": "Group Executive Director",
+            "person": "Lesa Craswell",
+            "vacant": false,
+            "acting": false,
+            "email": "lesa.craswell@anao.gov.au",
+            "phone": "02 6203 7484",
+            "importance": 2
+          },
+          {
+            "role": "Executive Director (acting)",
+            "person": "Edwin Apoderado",
+            "vacant": false,
+            "acting": false,
+            "email": "edwin.apoderado@anao.gov.au",
+            "phone": "02 6203 7312",
+            "importance": 5
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

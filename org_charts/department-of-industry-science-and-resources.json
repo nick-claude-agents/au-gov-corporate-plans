@@ -1,0 +1,1826 @@
+{
+  "content_id": "195",
+  "title": "Department of Industry, Science and Resources",
+  "acronym": "",
+  "portfolio": "Industry, Science and Resources",
+  "website": "http://www.industry.gov.au",
+  "description": "The department's vision is to enable growth and productivity for globally competitive industries by supporting innovation, science and commercialisation; growing business investment and improving business capability; streamlining regulations; and building a high performance organisation.",
+  "dashboard_name": "Department of Industry, Science and Resources (DISR)",
+  "people_count": 115,
+  "tree": {
+    "content_id": "195",
+    "title": "Department of Industry, Science and Resources",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "877",
+        "title": "Anti-Dumping Commission",
+        "roles": [
+          {
+            "role": "Commissioner",
+            "person": "David Latina",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "03 8539 2419",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "895",
+            "title": "Investigations",
+            "roles": [
+              {
+                "role": "Deputy Commissioner",
+                "person": "Isolde Lueckenhausen",
+                "vacant": false,
+                "acting": false,
+                "email": "isolde.lueckenhausen@adcommission.gov.au",
+                "phone": "03 8539 2404",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3792",
+            "title": "Strategy & Operations",
+            "roles": [
+              {
+                "role": "Deputy Commissioner",
+                "person": "Aggie Marek",
+                "vacant": false,
+                "acting": false,
+                "email": "aggie.marek@adcommission.gov.au",
+                "phone": "02 6243 7202",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3358",
+        "title": "Australian Radioactive Waste Agency",
+        "roles": [
+          {
+            "role": "CEO",
+            "person": "Sam Usher",
+            "vacant": false,
+            "acting": false,
+            "email": "sam.usher@industry.gov.au",
+            "phone": "08 8406 4787",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "46686",
+            "title": "Policy, Governance & Strategy",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Mark Weaver",
+                "vacant": false,
+                "acting": false,
+                "email": "mark.weaver@industry.gov.au",
+                "phone": "02 6243 7104",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47038",
+            "title": "Program Delivery",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Matthew Morrissey",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.morrissey@industry.gov.au",
+                "phone": "08 8406 4773",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3359",
+            "title": "Safety & Technical",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Amanda Fortanier",
+                "vacant": false,
+                "acting": false,
+                "email": "amanda.fortanier@industry.gov.au",
+                "phone": "08 8456 3841",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3360",
+            "title": "Social License & Operational Support",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jodie Lindsay",
+                "vacant": false,
+                "acting": false,
+                "email": "jodie.lindsay@industry.gov.au",
+                "phone": "08 8456 3866",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "41210",
+        "title": "Enabling & Business Services Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "39107",
+            "title": "Business Grants Hub",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Derek Stiller",
+                "vacant": false,
+                "acting": false,
+                "email": "derek.stiller@industry.gov.au",
+                "phone": "02 6102 9999",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3000",
+                "title": "Assurance & Grant Programs",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Noel Taloni",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "noel.taloni@industry.gov.au",
+                    "phone": "02 9397 1660",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39133",
+                "title": "Grant Programs",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Kathie Dent",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kathie.dent@industry.gov.au",
+                    "phone": "02 6276 1616",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47413",
+                "title": "Onboarding & Grant Programs",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Judith Blake",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "judith.blake@industry.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47043",
+            "title": "Chief Counsel & Integrity",
+            "roles": [
+              {
+                "role": "Head of Division, Chief Counsel",
+                "person": "Janean Richards",
+                "vacant": false,
+                "acting": false,
+                "email": "janean.richards@industry.gov.au",
+                "phone": "02 6102 9195",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "48688",
+                "title": "Corporate & Information Law",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Rachel Besley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.besley@industry.gov.au",
+                    "phone": "02 6102 9020",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47045",
+                "title": "Integrity",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Gemma Denton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "gemma.denton@industry.gov.au",
+                    "phone": "02 6102 9945",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47044",
+                "title": "Public Law & Dispute Resolution",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Annalisa Heger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "annalisa.heger@industry.gov.au",
+                    "phone": "+61 3 8664 7770",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39104",
+            "title": "Chief Finance Officer",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Leanne Yannopoulos",
+                "vacant": false,
+                "acting": false,
+                "email": "leanne.yannopoulos@industry.gov.au",
+                "phone": "02 6213 7646",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39132",
+                "title": "External Budgets & Costings",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Joanna Stone",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joanna.stone@industry.gov.au",
+                    "phone": "02 6102 8284",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3502",
+                "title": "Financial & Shared Services",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Kirsty Bunfield",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kirsty.bunfield@industry.gov.au",
+                    "phone": "02 6243 7990",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3503",
+                "title": "Financial Management",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Jane Childs",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.childs@industry.gov.au",
+                    "phone": "(02) 6102 8573",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39106",
+            "title": "Chief Information Officer",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Rebecca Lee",
+                "vacant": false,
+                "acting": false,
+                "email": "rebecca.lee@industry.gov.au",
+                "phone": "(02) 6276 1050",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52803",
+                "title": "Digital Services Modernisation Taskforce",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Simone Boulding",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "simone.boulding@industry.gov.au",
+                    "phone": "02 6276 1827",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2514",
+                "title": "Digital Services for Business",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Kirsty Bailey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kirsty.bailey@industry.gov.au",
+                    "phone": "(02) 6243 7940",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2513",
+                "title": "Digital Strategy & Cyber Security",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Patrick Roberts",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "patrick.roberts@industry.gov.au",
+                    "phone": "02 6102 8960",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1719",
+                "title": "ICT Operations",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Kevin Grange",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kevin.grange@industry.gov.au",
+                    "phone": "02 62437151",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39105",
+            "title": "Chief Operating Officer",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Casey Millward",
+                "vacant": false,
+                "acting": false,
+                "email": "casey.millward@industry.gov.au",
+                "phone": "02 6243 7530",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "887",
+                "title": "Communications",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Louise Wallensky",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "louise.wallensky@industry.gov.au",
+                    "phone": "02 6243 7994",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2511",
+                "title": "Ministerial and Executive Enabling",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Dwayne Purdy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dwayne.purdy@industry.gov.au",
+                    "phone": "02 6243 7320",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1078",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Samantha Darnton-Turner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.darnton-turner@industry.gov.au",
+                    "phone": "02 6102 8370",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1721",
+                "title": "Property & Place",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Frances McNamara",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "frances.mcnamara@industry.gov.au",
+                    "phone": "TBC",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "884",
+        "title": "Enquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "889",
+            "title": "Freedom of Information",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "890",
+            "title": "Library Services and Interlibrary Loans",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "891",
+            "title": "Media enquiries",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3369",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Meghan Quinn",
+            "vacant": false,
+            "acting": false,
+            "email": "meghan.quinn@industry.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Nino Miletovic",
+            "vacant": false,
+            "acting": false,
+            "email": "nino.miletovic@industry.gov.au",
+            "phone": "02 6213 6515",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to the Secretary",
+            "person": "Belinda Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "belinda.smith@industry.gov.au",
+            "phone": "02 6213 6672",
+            "importance": 3
+          },
+          {
+            "role": "Executive Advisor - Secretary",
+            "person": "Monique Davis",
+            "vacant": false,
+            "acting": false,
+            "email": "monique.davis@industry.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Secretary - Resources & Strategy Group",
+            "person": "Robert Jeremenko",
+            "vacant": false,
+            "acting": false,
+            "email": "robert.jeremenko@industry.gov.au",
+            "phone": "02 6276 1256",
+            "importance": 5
+          },
+          {
+            "role": "Executive Assistant - Deputy Secretary, Resources & Strategy Group",
+            "person": "Lori Fowlie",
+            "vacant": false,
+            "acting": false,
+            "email": "lori.fowlie@industry.gov.au",
+            "phone": "02 6102 8302",
+            "importance": 6
+          },
+          {
+            "role": "Deputy Secretary - Science & Technology Group",
+            "person": "Helen Wilson",
+            "vacant": false,
+            "acting": false,
+            "email": "helen.wilson@industry.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "Executive Assistant - Deputy Secretary, Science & Technology Group",
+            "person": "Matthew Dowler",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.dowler@industry.gov.au",
+            "phone": "02 6213 6559",
+            "importance": 8
+          },
+          {
+            "role": "Deputy Secretary - Industry & Commercialisation Group",
+            "person": "Julia Pickworth",
+            "vacant": false,
+            "acting": false,
+            "email": "julia.pickworth@industry.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "Executive Assistant - Deputy Secretary, Industry & Commercialisation Group",
+            "person": "Melissa Pegg",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.pegg@industry.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "Deputy Secretary - Enabling & Business Services Group",
+            "person": "Neal Mason",
+            "vacant": false,
+            "acting": false,
+            "email": "neal.mason@industry.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "Executive Assistant - Deputy Secretary, Enabling & Business Services Group",
+            "person": "Phuong Pham",
+            "vacant": false,
+            "acting": false,
+            "email": "phuong.pham@industry.gov.au",
+            "phone": "02 6102 9613",
+            "importance": 12
+          },
+          {
+            "role": "Head of Whyalla Steelworks Taskforce",
+            "person": "Troy Sloan",
+            "vacant": false,
+            "acting": false,
+            "email": "troy.sloan@industry.gov.au",
+            "phone": "02 6102 8148",
+            "importance": 13
+          },
+          {
+            "role": "Executive Assistant - Head of Whyalla Steelworks Taskforce",
+            "person": "Kelly Cox",
+            "vacant": false,
+            "acting": false,
+            "email": "kelly.cox@industry.gov.au",
+            "phone": "01 6102 8327",
+            "importance": 14
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "41208",
+        "title": "Industry & Commercialisation Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2639",
+            "title": "Commercialisation",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Matt Crawshaw",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.crawshaw@industry.gov.au",
+                "phone": "02 6276 1853",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39130",
+                "title": "Commercialisation Policy & Programs",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Sarah Kosciuk",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.kosciuk@industry.gov.au",
+                    "phone": "02 6243 7203",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52245",
+                "title": "Industry Growth",
+                "roles": [
+                  {
+                    "role": "Executive Director",
+                    "person": "David Chuter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.chuter@industry.gov.au",
+                    "phone": "03 9960 7381",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52469",
+                "title": "Industry Growth Program & CRC Policy",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Brett Yeomans",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brett.yeomans@industry.gov.au",
+                    "phone": "02 6213 6146",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2237",
+                "title": "Office of Industry Innovation and Science Australia",
+                "roles": [
+                  {
+                    "role": "A/g Executive Director",
+                    "person": "Chris Allen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.allen2@industry.gov.au",
+                    "phone": "02 9397 1620",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43653",
+                "title": "Research & Development Tax Incentive (RDTI)",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Heather Nielsen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "heather.nielsen@industry.gov.au",
+                    "phone": "02 6102 8143",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "883",
+            "title": "Heavy Industry Transition",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Tara Oliver",
+                "vacant": false,
+                "acting": false,
+                "email": "tara.oliver@industry.gov.au",
+                "phone": "02 6243 7582",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3789",
+                "title": "Industrial Transition",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Alex Cassie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.cassie@industry.gov.au",
+                    "phone": "08 9287 3572",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52468",
+                "title": "Net Zero & Clean Energy Manufacturing",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Leah Wojcik",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leah.wojcik@industry.gov.au",
+                    "phone": "02 6276 1738",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37925",
+                "title": "Trade Remedies & Global Industry",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Ana Markulev",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ana.markulev@industry.gov.au",
+                    "phone": "03 9268 7540",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39102",
+            "title": "Industrial Capability & Supply Chains",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Jocelyn Cooper",
+                "vacant": false,
+                "acting": false,
+                "email": "jocelyn.cooper@industry.gov.au",
+                "phone": "02 6213 7582",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "49375",
+                "title": "Advanced Manufacturing & Priority Sectors",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Tanya Blight",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tanya.blight@industry.gov.au",
+                    "phone": "02 6213 7572",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3501",
+                "title": "Industry Priorities & Projects",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Emma Cully",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.cully@industry.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43652",
+                "title": "NRF & Industry Policy",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Jasminder Higgins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6243 7762",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3255",
+                "title": "Office of Supply Chain Resilience",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Tim Wong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tim.wong@industry.gov.au",
+                    "phone": "02 6102 9176",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "881",
+            "title": "Whole of Industry",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Bridget Gannon",
+                "vacant": false,
+                "acting": false,
+                "email": "bridget.gannon@industry.gov.au",
+                "phone": "02 6102 8494",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3001",
+                "title": "AusIndustry & Business Services",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Sarah Howard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.howard@industry.gov.au",
+                    "phone": "(02) 6102 8517",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47042",
+                "title": "Future Made In Australia Implementation",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Rebecca Lannen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rebecca.lannen@industry.gov.au",
+                    "phone": "02 6243 7883",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54884",
+                "title": "Green Metals",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Kirsten Embery",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kirsten.embery@industry.gov.au",
+                    "phone": "02 6213 7577",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3005",
+                "title": "Procurement Strategy",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "John Krbaleski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "john.krbaleski@industry.gov.au",
+                    "phone": "02 6243 7551",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "41207",
+        "title": "Resources & Strategy Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "992",
+            "title": "Analysis, Insights & Strategy",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Dom English",
+                "vacant": false,
+                "acting": false,
+                "email": "dom.english@industry.gov.au",
+                "phone": "02 6213 6491",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "899",
+                "title": "Budget Planning & Reporting",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Kimberley Shrives",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kimberley.shrives@industry.gov.au",
+                    "phone": "02 6102 9607",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2512",
+                "title": "Business, Innovation & Economic Insights",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Kate Penney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.penney@industry.gov.au",
+                    "phone": "02 6213 7934",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2643",
+                "title": "Data & Evaluation",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Merrick Peisley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "merrick.peisley@industry.gov.au",
+                    "phone": "02 6276 1139",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1838",
+                "title": "Resources, Energy & Industry Insights",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Crystal Ossolinski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "crystal.ossolinski@industry.gov.au",
+                    "phone": "02 6213 6892",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52879",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Hayley Arbaut-Zaalen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "hayley.arbaut-zaalen@industry.gov.au",
+                    "phone": "02 6243 7016",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39101",
+            "title": "International Strategy & National Security",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Alison Drury",
+                "vacant": false,
+                "acting": false,
+                "email": "alison.drury@industry.gov.au",
+                "phone": "02 6102 9683",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39103",
+                "title": "International Strategy & Engagement",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Paula Perrett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paula.perrett@industry.gov.au",
+                    "phone": "02 6102 8837",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "898",
+                "title": "National & Economic Security & Trade",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Matthew Deady",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matthew.deady@industry.gov.au",
+                    "phone": "02 6213 6418",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3354",
+            "title": "Minerals & Resources",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Marie Illman",
+                "vacant": false,
+                "acting": false,
+                "email": "marie.illman@industry.gov.au",
+                "phone": "02 6243 7719",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "49374",
+                "title": "Critical Minerals Office",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Samantha Robertson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.robertson@industry.gov.au",
+                    "phone": "02 6102 8255",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1722",
+                "title": "Critical Minerals Security",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Geoff Mason",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "geoff.mason@industry.gov.au",
+                    "phone": "02 6213 6272",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53263",
+                "title": "Critical Minerals Strategic Reserve Markets and Proposals",
+                "roles": [
+                  {
+                    "role": "Special Advisor",
+                    "person": "Damien Dunn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "damien.dunn@industry.gov.au",
+                    "phone": "02 6276 1602",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53264",
+                "title": "Critical Minerals Strategic Reserve Policy, Governance and Engagement",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Katherine Pohl",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katherine.pohl@industry.gov.au",
+                    "phone": "08 8406 4777",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3355",
+                "title": "Mining & Remediation",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Linda Lee",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "linda.lee@industry.gov.au",
+                    "phone": "02 6276 1380",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3008",
+            "title": "Oil & Gas Division",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Sam Chard",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.chard@industry.gov.au",
+                "phone": "02 6102 8320",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "991",
+                "title": "Gas",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Dan Quinn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dan.quinn@industry.gov.au",
+                    "phone": "02 6276 1816",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35859",
+                "title": "National Offshore Petroleum Titles Administrator",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Graeme Waters",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "graeme.waters@industry.gov.au",
+                    "phone": "08 6424 5303",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3009",
+                "title": "Northern Endeavour",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Shane McWhinney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.mcwhinney@industry.gov.au",
+                    "phone": "02 6213 7302",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46028",
+                "title": "Offshore Decommissioning Directorate",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Francela Barba",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "francela.barba@industry.gov.au",
+                    "phone": "02 6102 9967",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35858",
+                "title": "Offshore Resources",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Cliff Weeks",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cliff.weeks@industry.gov.au",
+                    "phone": "08 6254 8913",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40269",
+                "title": "Offshore Strategy",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Norelle Laucher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "norelle.laucher@industry.gov.au",
+                    "phone": "02 6243 7369",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "41209",
+        "title": "Science & Technology Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "51517",
+            "title": "National AI Centre",
+            "roles": [
+              {
+                "role": "Executive DIrector",
+                "person": "Lee Hickin",
+                "vacant": false,
+                "acting": false,
+                "email": "lee.hickin@industry.gov.au",
+                "phone": "TBC",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "882",
+            "title": "National Measurement Institute",
+            "roles": [
+              {
+                "role": "Chief Executive Officer",
+                "person": "Deb Anton",
+                "vacant": false,
+                "acting": false,
+                "email": "deb.anton@industry.gov.au",
+                "phone": "02 6213 7885",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "902",
+                "title": "Analytical Services",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Tim Stobaus",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tim.stobaus@measurement.gov.au",
+                    "phone": "(03) 9644 4849",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "903",
+                "title": "Chemical & Biological Metrology",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Helen Salouros",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "helen.salouros@measurement.gov.au",
+                    "phone": "02 9449 0197",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "901",
+                "title": "Legal Metrology",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Bill Loizides",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bill.loizides@measurement.gov.au",
+                    "phone": "08 7002 1124",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "900",
+                "title": "Physical Metrology",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Victoria Coleman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "victoria.coleman@measurement.gov.au",
+                    "phone": "02 8467 3820",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1145",
+                "title": "Strategy & Operations",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Lisa Hind",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisa.hind@industry.gov.au",
+                    "phone": "03 9268 7563",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52802",
+            "title": "Principal Advisor - Science & Technology",
+            "roles": [
+              {
+                "role": "Principal Advisor",
+                "person": "Camille de Burgh",
+                "vacant": false,
+                "acting": false,
+                "email": "camille.deburgh@industry.gov.au",
+                "phone": "02 6213 6024",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "879",
+            "title": "Questacon - The National Science and Technology Centre",
+            "roles": [
+              {
+                "role": "Executive Director",
+                "person": "Jo White",
+                "vacant": false,
+                "acting": false,
+                "email": "jo.white@questacon.edu.au",
+                "phone": "02 6270 2801",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "897",
+                "title": "Operations",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Steve Stirling",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "steve.stirling@questacon.edu.au",
+                    "phone": "02 6270 2864",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "892",
+                "title": "Science & Learning",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Bobby Cerini",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bobby.cerini@questacon.edu.au",
+                    "phone": "02 6270 2865",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2999",
+            "title": "Science",
+            "roles": [
+              {
+                "role": "Head of Division",
+                "person": "Anthony McGregor",
+                "vacant": false,
+                "acting": false,
+                "email": "anthony.mcgregor@industry.gov.au",
+                "phone": "02 6102 8920",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "50712",
+                "title": "Chief Scientist",
+                "roles": [
+                  {
+                    "role": "Chief Scientist",
+                    "person": "Tony Haymet",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tony.haymet@chiefscientist.gov.au",
+                    "phone": "02 6213 7897",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47390",
+                "title": "International Science & Investment",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Jo Fielding",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.fielding@industry.gov.au",
+                    "phone": "02 6102 8132",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39070",
+                "title": "Office of the Chief Scientist",
+                "roles": [
+                  {
+                    "role": "A/g Executive Director",
+                    "person": "Natalie Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natalie.smith@chiefscientist.gov.au",
+                    "phone": "02 6276 1547",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2638",
+                "title": "Science Governance",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Natalie Weddell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natalie.weddell@industry.gov.au",
+                    "phone": "02 6102 9433",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2637",
+                "title": "Science Policy & Engagement",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Teneille Tress",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "teneille.tress@industry.gov.au",
+                    "phone": "02 6243 7736",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2497",
+            "title": "Technology & Digital Policy",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Jessica Foote",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.foote@industry.gov.au",
+                "phone": "07 3227 4786",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39072",
+                "title": "AI Governance",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Michelle Adamson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michelle.adamson@industry.gov.au",
+                    "phone": "02 6243 7852",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2499",
+                "title": "AI Policy",
+                "roles": [
+                  {
+                    "role": "General Manager",
+                    "person": "Michele Graham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michele.graham@industry.gov.au",
+                    "phone": "02 6213 6887",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47389",
+                "title": "Critical Technologies",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Candice El-Asmar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "candice.el-asmar@industry.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39071",
+                "title": "Technology Strategy & Engagement",
+                "roles": [
+                  {
+                    "role": "A/g General Manager",
+                    "person": "Joel Einstein",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joel.einstein@industry.gov.au",
+                    "phone": "02 6102 8762",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "51512",
+        "title": "Whyalla Steelworks Taskforce",
+        "roles": [
+          {
+            "role": "Head of Whyalla Steelworks Taskforce",
+            "person": "Troy Sloan",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "General Manager",
+            "person": "Lucas Rutherford",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6102 9548",
+            "importance": 2
+          },
+          {
+            "role": "General Manager - Administration",
+            "person": "Dianna Gaetjens",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "08 8406 4715",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54502",
+            "title": "Industrial Transition Response  Team",
+            "roles": [
+              {
+                "role": "A/g Head of Division",
+                "person": "Louise Talbot",
+                "vacant": false,
+                "acting": false,
+                "email": "louise.talbot@industry.gov.au",
+                "phone": "02 6276 1619",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54503",
+                "title": "Industrial Transition Response Team",
+                "roles": [
+                  {
+                    "role": "General Manager - Glencore",
+                    "person": "Bede Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bede.jones@industry.gov.au",
+                    "phone": "02 6102 8058",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54504",
+                "title": "Industrial Transition Response Team",
+                "roles": [
+                  {
+                    "role": "A/g General Manager - Tomago",
+                    "person": "Tanja Racic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tanja.racic@industry.gov.au",
+                    "phone": "02 6213 6999",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54505",
+                "title": "Industrial Transition Response Team",
+                "roles": [
+                  {
+                    "role": "General Manager - Nyrstar Stage 2 & 3",
+                    "person": "Mark Beaumont",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mark.beaumont@industry.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

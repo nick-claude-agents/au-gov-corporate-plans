@@ -1,0 +1,214 @@
+{
+  "content_id": "215",
+  "title": "Digital Transformation Agency",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "https://www.dta.gov.au",
+  "description": "The Digital Transformation Agency (DTA) is the Australian Government’s trusted advisor on digital and ICT transformation. The DTA provides strategic and policy leadership, expert investment advice and oversight to drive digital transformation that delivers benefits to all Australians.<br />\n<br />\nThe DTA is an Executive Agency within the Finance Portfolio.",
+  "dashboard_name": "Digital Transformation Agency (DTA)",
+  "people_count": 10,
+  "tree": {
+    "content_id": "215",
+    "title": "Digital Transformation Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Chris Fechner",
+        "vacant": false,
+        "acting": false,
+        "email": "chris.fechner@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 1
+      },
+      {
+        "role": "Deputy CEO, Strategy, Planning and Performance",
+        "person": "Lucy Poole",
+        "vacant": false,
+        "acting": false,
+        "email": "lucy.poole@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 2
+      },
+      {
+        "role": "Deputy CEO, Digital Investment Advice and Sourcing",
+        "person": "Simon Quarrell",
+        "vacant": false,
+        "acting": false,
+        "email": "simon.quarrell@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 3
+      },
+      {
+        "role": "Deputy CEO",
+        "person": "Liz Bundy",
+        "vacant": false,
+        "acting": false,
+        "email": "liz.bundy@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 4
+      },
+      {
+        "role": "Chief Operating Officer, Corporate",
+        "person": "Tomas Gilmartin",
+        "vacant": false,
+        "acting": false,
+        "email": "tomas.gilmartin@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 5
+      },
+      {
+        "role": "Chief Technology Officer",
+        "person": "Andrew Morrison",
+        "vacant": false,
+        "acting": false,
+        "email": "andrew.morrison@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 6
+      },
+      {
+        "role": "Chief of Staff",
+        "person": "Matt Sanderson",
+        "vacant": false,
+        "acting": false,
+        "email": "matt.sanderson@dta.gov.au",
+        "phone": "",
+        "importance": 7
+      },
+      {
+        "role": "Executive Officer to Chief Executive Officer",
+        "person": "Kayla D’Ambrosio",
+        "vacant": false,
+        "acting": false,
+        "email": "kayla.d'ambrosio@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 8
+      },
+      {
+        "role": "Executive Assistant to Chief Executive Officer",
+        "person": "Amy Vizy",
+        "vacant": false,
+        "acting": false,
+        "email": "amy.vizy@dta.gov.au",
+        "phone": "(02) 6120 8707",
+        "importance": 9
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Chris Fechner",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "37034",
+        "title": "Chief Executive Officer: Chris Fechner",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "37035",
+            "title": "A/g Deputy CEO, Digital Investment Advice and Sourcing: Simon Quarrell",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "37046",
+                "title": "A/g Branch Manager, Investment Advice & Contestability: Samrat Sen",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "37048",
+                "title": "Branch Manager, Digital Sourcing:  Michelle Tuck",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "37047",
+                "title": "Branch Manager, Portfolio Assurance: Jamie Whitcombe",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "52482",
+                "title": "Branch Manager, Whole-of-Government Contracts: Nicole Bain",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37037",
+            "title": "Chief Operating Officer, Corporate: Tomas Gilmartin",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "37117",
+            "title": "Chief Technology Officer: Andrew Morrison",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "52483",
+            "title": "Deputy CEO, Strategy, Planning and Performance: Lucy Poole",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "52487",
+                "title": "Branch Manager, AI Technical Standards: Ramsey Beydoun",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "52486",
+                "title": "Branch Manager, Australian Government  Architecture and Policy: Vanessa Douglas-Savage",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "52485",
+                "title": "Branch Manager, Digital Capability Planning: Ben Leech",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "52484",
+                "title": "Branch Manager, Strategy and Prioritisation: Lauren Mills",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37039",
+            "title": "Office of the Chief Executive Officer",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "37052",
+                "title": "Chief of Staff: Matt Sanderson",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "37050",
+                "title": "Executive Assistant: Amy Vizy",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "37049",
+                "title": "Executive Officer: Kayla D’Ambrosio",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

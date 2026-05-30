@@ -1,0 +1,26 @@
+{
+  "content_id": "40566",
+  "title": "Office of the Fair Work Ombudsman",
+  "acronym": "",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "",
+  "description": "The Office of the Fair Work Ombudsman assists the Fair Work Ombudsman to provide education, assistance, advice and guidance to employers, employees, outworkers, outworker entities and organisations; to promote and monitor compliance with workplace laws; to inquire into and investigate breaches of the Fair Work Act; and to take appropriate enforcement action.",
+  "dashboard_name": "Office of the Fair Work Ombudsman (FWO)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "40566",
+    "title": "Office of the Fair Work Ombudsman",
+    "roles": [
+      {
+        "role": "Fair Work Ombudsman",
+        "person": "Anna Booth",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

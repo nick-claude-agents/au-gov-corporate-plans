@@ -1,0 +1,88 @@
+{
+  "content_id": "121",
+  "title": "Australian Security Intelligence Organisation",
+  "acronym": "ASIO",
+  "portfolio": "Home Affairs",
+  "website": "http://www.asio.gov.au/",
+  "description": "ASIO's role is to identify and investigate threats to security, wherever they arise, and to provide advice to protect Australia, its people and its interests. ASIO's functions are set out in the  Australian Security Intelligence Organisation Act 1979 (the ASIO Act). <br />\n<br />\nSecurity is defined in the ASIO Act as espionage, serious threats to Australia's territorial and border integrity, sabotage, politically motivated violence, the promotion of communal violence, attacks on Australia's defence system, and acts of foreign interference. It also includes the carrying out of Australia's responsibilities to any foreign country in relation to threats to security with a particular focus on politically motivated violence.",
+  "dashboard_name": "Australian Security Intelligence Organisation (ASIO)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "121",
+    "title": "Australian Security Intelligence Organisation",
+    "roles": [
+      {
+        "role": "Director-General",
+        "person": "Mike Burgess",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3086",
+        "title": "Media Liaison",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3085",
+        "title": "State offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1148",
+            "title": "AUSTRALIAN CAPITAL TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1149",
+            "title": "NEW SOUTH WALES",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1150",
+            "title": "NORTHERN TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1155",
+            "title": "QUEENSLAND",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1151",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1152",
+            "title": "TASMANIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1153",
+            "title": "VICTORIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1154",
+            "title": "WESTERN AUSTRALIA",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

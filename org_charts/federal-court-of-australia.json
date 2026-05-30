@@ -1,0 +1,147 @@
+{
+  "content_id": "278",
+  "title": "Federal Court of Australia",
+  "acronym": "",
+  "portfolio": "Attorney-General's",
+  "website": "https://www.fedcourt.gov.au/",
+  "description": "The Court is a superior court of record and a court of law and equity. It sits in all capital cities and elsewhere in Australia from time to time.<br />\n<br />\nThe primary functions of the Court are to, decide disputes according to law - promptly, courteously and effectively and, in so doing, to interpret the statutory law and develop the general law of the Commonwealth, so as to fulfil the role of a court exercising the judicial power of the Commonwealth under the Constitution.",
+  "dashboard_name": "Federal Court of Australia",
+  "people_count": 7,
+  "tree": {
+    "content_id": "278",
+    "title": "Federal Court of Australia",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3763",
+        "title": "Corporate Services",
+        "roles": [
+          {
+            "role": "Executive Director, Corporate Services",
+            "person": "Catherine Sullivan",
+            "vacant": false,
+            "acting": false,
+            "email": "catherine.sullivan@fedcourt.gov.au",
+            "phone": "(02) 9230 8567",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3768",
+        "title": "Federal Court Registry (ACT)",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3761",
+        "title": "Federal Court Registry (NSW)",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3767",
+        "title": "Federal Court Registry (NT)",
+        "roles": [
+          {
+            "role": "National Judicial Registrar and District Registrar",
+            "person": "Nicola Colbran",
+            "vacant": false,
+            "acting": false,
+            "email": "nicola.colbran@fedcourt.gov.au",
+            "phone": "(08) 8219 1000",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3766",
+        "title": "Federal Court Registry (Qld)",
+        "roles": [
+          {
+            "role": "National Judicial Registrar and District Registrar",
+            "person": "Murray Belcher",
+            "vacant": false,
+            "acting": false,
+            "email": "murray.belcher@fedcourt.gov.au",
+            "phone": "(07) 3248 1100",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3765",
+        "title": "Federal Court Registry (SA)",
+        "roles": [
+          {
+            "role": "National Judicial Registrar and District Registrar",
+            "person": "Nicola Colbran",
+            "vacant": false,
+            "acting": false,
+            "email": "nicola.colbran@fedcourt.gov.au",
+            "phone": "(08) 8219 1000",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3764",
+        "title": "Federal Court Registry (Tas)",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3769",
+        "title": "Federal Court Registry (Vic)",
+        "roles": [
+          {
+            "role": "Judicial Registrar/District Registrar",
+            "person": "Timothy Luxton",
+            "vacant": false,
+            "acting": false,
+            "email": "tim.luxton@fedcourt.gov.au",
+            "phone": "(03) 8600 3333",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3770",
+        "title": "Federal Court Registry (WA)",
+        "roles": [
+          {
+            "role": "National Judicial Registrar and District Registrar",
+            "person": "R Trott",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(08) 9268 7100",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3762",
+        "title": "Principal Registry",
+        "roles": [
+          {
+            "role": "Chief Executive Office/Principal Registrar",
+            "person": "Sia Lagos",
+            "vacant": false,
+            "acting": false,
+            "email": "sia.lagos@fedcourt.gov.au",
+            "phone": "(03) 8600 3333",
+            "importance": 2
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

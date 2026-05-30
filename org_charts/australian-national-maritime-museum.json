@@ -1,0 +1,43 @@
+{
+  "content_id": "136",
+  "title": "Australian National Maritime Museum",
+  "acronym": "ANMM",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.anmm.gov.au",
+  "description": "The Australian National Maritime Museum's (ANMM) role is to interpret, preserve and promote Australia's maritime heritage and culture. It fulfils this by undertaking research, acquisitions, managing its collections and heritage vessels and providing access through public programs and exhibitions.<br />\n<br />\nThe ANMM's strategic direction is to explore and manage maritime heritage in ways that enlighten, inspire and delight people everywhere by:<br />\n<br />\n- Developing and managing the National Maritime Collection through research, acquisition, conservation, and interpretation;<br />\n- Exhibiting the National Maritime Collection and other historical material;<br />\n- Presenting maritime heritage information through public and learning programs, events, the internet and publications; and<br />\n- Expanding sponsorship, marketing and other commercial revenue sources.",
+  "dashboard_name": "Australian National Maritime Museum",
+  "people_count": 2,
+  "tree": {
+    "content_id": "136",
+    "title": "Australian National Maritime Museum",
+    "roles": [
+      {
+        "role": "Director & CEO",
+        "person": "Daryl Karp",
+        "vacant": false,
+        "acting": false,
+        "email": "daryl.karp@sea.museum",
+        "phone": "(02) 9298 3620",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2254",
+        "title": "Senior Management",
+        "roles": [
+          {
+            "role": "Director & CEO",
+            "person": "Daryl Karp",
+            "vacant": false,
+            "acting": false,
+            "email": "daryl.karp@sea.museum",
+            "phone": "(02) 9298 3620",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

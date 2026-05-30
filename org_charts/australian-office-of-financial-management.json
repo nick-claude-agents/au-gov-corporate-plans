@@ -1,0 +1,26 @@
+{
+  "content_id": "228",
+  "title": "Australian Office of Financial Management",
+  "acronym": "AOFM",
+  "portfolio": "Treasury",
+  "website": "http://www.aofm.gov.au",
+  "description": "The AOFM's key responsibilities involve managing the Australian Government's debt portfolio through the issuance of Australian Government Securities (AGS), managing the Australian Government's overall cash balance in the Official Public Account (OPA), and any investment in financial assets arising from these activities or as a result of any specific policy mandate from the Australian Government. This requires close working relations with the Department of the Treasury, Department of Finance and the Reserve Bank of Australia (RBA). It also requires that the AOFM maintain credible professional relationships with the banking sector (which act as intermediaries in the CGS market) and with domestic and international investors in CGS.",
+  "dashboard_name": "Australian Office of Financial Management (AOFM)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "228",
+    "title": "Australian Office of Financial Management",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Anna Hughes",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6263 1100",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

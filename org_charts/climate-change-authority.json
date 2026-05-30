@@ -1,0 +1,26 @@
+{
+  "content_id": "261",
+  "title": "Climate Change Authority",
+  "acronym": "CCA",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://climatechangeauthority.gov.au",
+  "description": "The Authority is an independent statutory body established to provide expert advice to the Australian Government on climate change mitigation initiatives, including through conducting regular and specifically commissioned reviews and through undertaking climate change research.",
+  "dashboard_name": "Climate Change Authority",
+  "people_count": 1,
+  "tree": {
+    "content_id": "261",
+    "title": "Climate Change Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Kath Rowley",
+        "vacant": false,
+        "acting": false,
+        "email": "kath.rowley@cca.gov.au",
+        "phone": "0422 244 545",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

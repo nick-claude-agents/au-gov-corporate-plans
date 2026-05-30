@@ -1,0 +1,35 @@
+{
+  "content_id": "221",
+  "title": "Northern Land Council",
+  "acronym": "NLC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.nlc.org.au",
+  "description": "The Northern Land Council (NLC) is an independent statutory authority of the Commonwealth. It is responsible for assisting Aboriginal peoples in the Top End of the Northern Territory to acquire and manage their traditional lands and seas.<br />\n <br />\nThe NLC is also the Native title Representative Body for the northern region - including the Tiwi Islands and Groote Eylandt.  This includes land that does not fall under ALRA, such as crown land or other lands in towns, national parks, and land vested in the Northern Territory Land Corporation, pastoral leases and offshore areas.",
+  "dashboard_name": "Northern Land Council",
+  "people_count": 2,
+  "tree": {
+    "content_id": "221",
+    "title": "Northern Land Council",
+    "roles": [
+      {
+        "role": "Chairperson",
+        "person": "Matthew Ryan",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Yuseph Deen",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(08) 8920 5100",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "content_id": "197",
+  "title": "IP Australia",
+  "acronym": "",
+  "portfolio": "Industry, Science and Resources",
+  "website": "https://www.ipaustralia.gov.au/",
+  "description": "IP Australia is the entity responsible for administering Australia's IP rights system, specifically patents, trade marks, designs and plant  breeder's rights. IP Australia's vision is to create a world leading IP system building prosperity for Australia. IP Australia includes office holders as specified under the Designs Act 2003, the Plant Breeder's Rights Act 1994, the Patents Act 1990 and the Trade Marks Act 1995.",
+  "dashboard_name": "IP Australia",
+  "people_count": 10,
+  "tree": {
+    "content_id": "197",
+    "title": "IP Australia",
+    "roles": [
+      {
+        "role": "A/g Director General",
+        "person": "Margaret Tregurtha",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 6283 2344",
+        "importance": 1
+      },
+      {
+        "role": "A/g Deputy Director General, Policy & Corporate Division",
+        "person": "Kelly Sims",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 6225 6138",
+        "importance": 2
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2452",
+        "title": "Customer Services Division",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2453",
+            "title": "Customer Experience Group",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Justine Hall",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6225 6148",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3825",
+            "title": "Patents Examination Group",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Andrew Wilkinson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6225 6199",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1608",
+            "title": "Patents Oppositions, Business Improvement & Plant Breeder's Rights Group",
+            "roles": [
+              {
+                "role": "A/g General Manager",
+                "person": "Clinton McCarthur",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6283 7924",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3361",
+            "title": "Trade Marks and Designs Group",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Kelly Sims",
+                "vacant": false,
+                "acting": false,
+                "email": "kelly.sims@ipaustralia.gov.au",
+                "phone": "02 6225 6138",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1609",
+        "title": "Policy and Corporate Division",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2454",
+            "title": "Finance & People Services Group",
+            "roles": [
+              {
+                "role": "Chief Financial Officer/ General Manager Finance & Business Services Group",
+                "person": "Doug Pereira",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6283 2048",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3368",
+            "title": "Governance Group",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jennifer Hutchinson",
+                "vacant": false,
+                "acting": false,
+                "email": "jennifer.hutchinson@ipaustralia.gov.au",
+                "phone": "02 6283 2740",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1610",
+            "title": "Innovation & Technology Group",
+            "roles": [
+              {
+                "role": "Chief Information Officer & General Manager",
+                "person": "Chris Rathborne",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.rathborne@ipaustralia.gov.au",
+                "phone": "03 9935 9629",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2455",
+            "title": "Policy and Stakeholders Group",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jodie McAlister",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6283 2291",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "content_id": "166",
+  "title": "Fair Work Commission",
+  "acronym": "",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "https://www.fwc.gov.au/",
+  "description": "The Fair Work Commission is Australia's national workplace relations tribunal. It is an independent body with the power to carry out a range of functions including:<br />\n<br />\n- Providing a safety new of minimum conditions, including minimum wages in awards;<br />\n- Facilitating good faith bargaining and the making of enterprise agreements;<br />\n- Granting remedies for unfair dismissal;                                                                                        <br />\n- Regulating the taking of industrial action; and<br />\n- Resolving a range of collective and individual workplace disputes.",
+  "dashboard_name": "Fair Work Commission",
+  "people_count": 9,
+  "tree": {
+    "content_id": "166",
+    "title": "Fair Work Commission",
+    "roles": [
+      {
+        "role": "General Manager",
+        "person": "Murray Furlong",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 6
+      },
+      {
+        "role": "General Manager",
+        "person": "Murray Furlong",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "929",
+        "title": "Contact the Commission",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "925",
+        "title": "Fair Work Commission offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "994",
+            "title": "AUSTRALIAN CAPITAL TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "995",
+            "title": "NEW SOUTH WALES",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "921",
+            "title": "NORTHERN TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "920",
+            "title": "Principal Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "930",
+            "title": "QUEENSLAND",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "923",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "927",
+            "title": "TASMANIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "928",
+            "title": "VICTORIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "922",
+            "title": "WESTERN AUSTRALIA",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "924",
+        "title": "Officers",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Murray Furlong",
+            "vacant": false,
+            "acting": false,
+            "email": "murray.furlong@fwc.gov.au",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Enabling Services Branch",
+            "person": "Jack Lambalk",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Legal, Performance and Engagement Branch",
+            "person": "Zoe Bright",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Registered Organisations Services Branch",
+            "person": "Patrick Coyle",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Dispute Resolution and Support Services Branch",
+            "person": "Chloë Eaton",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Labour Standards Support Branch",
+            "person": "Joelle Leggett",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director, Tribunal Support Branch",
+            "person": "Kellie Fonseca",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

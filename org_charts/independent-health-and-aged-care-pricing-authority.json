@@ -1,0 +1,26 @@
+{
+  "content_id": "191",
+  "title": "Independent Health and Aged Care Pricing Authority",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.ihacpa.gov.au/",
+  "description": "The Independent Health and Aged Care Pricing Authority (Pricing Authority) provides independent and transparent advice to the Australian Government in relation to funding for public hospitals and residential aged<br />\ncare services. <br />\n<br />\nThe principal roles of the Pricing Authority are:<br />\n• to promote improved efficiency in, and access to, public hospital services.<br />\n• to advise the Commonwealth in relation to health care pricing or costing matters (whether or not the matters relate to health care services provided by public hospitals).<br />\n• to provide advice to the relevant Commonwealth Minister in relation to aged care pricing or costing matters, including in relation to methods for calculating amounts of subsidies to be paid under the Aged Care Act 1997 (the Aged Care Act) or the Aged Care (Transitional Provisions) Act 1997.",
+  "dashboard_name": "Independent Health and Aged Care Pricing Authority",
+  "people_count": 1,
+  "tree": {
+    "content_id": "191",
+    "title": "Independent Health and Aged Care Pricing Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Michael Pervan",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

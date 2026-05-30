@@ -1,0 +1,107 @@
+{
+  "content_id": "116",
+  "title": "Fisheries Research and Development Corporation",
+  "acronym": "FRDC",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "http://frdc.com.au",
+  "description": "The Fisheries Research and Development Corporation (FRDC) takes a leading role in planning and investing in fisheries research, development and extension (RD&E) to support the ongoing sustainability of our aquatic sectors and ecosystems.<br />\n<br />\nThe Corporation is a co-funded partnership between the Australian Government and fisheries and aquaculture. It is a statutory corporation under the Primary Industries Research and Development Act 1989 (the PIRD Act) and is responsible to the Minister for Agriculture, Fisheries and Forestry.  <br />\n<br />\nFRDC plans, invests in and manages RD&E for fishing and aquaculture and the wider community, and encourages adoption of the resulting knowledge and innovation for impact. FRDC coordinates government and industry investment and works with stakeholders to establish and address their RD&E priorities.<br />\n<br />\nOn behalf of the Australian Government, FRDC has a significant responsibility to ensure research is undertaken to assist in the management of fisheries and aquaculture resources for their ongoing sustainability. This means a significant proportion of funding is directed to RD&E benefitting the four sectors: Indigenous, commercial and recreational fishing and aquaculture while also delivering a public good benefit to the Australian community.",
+  "dashboard_name": null,
+  "people_count": 6,
+  "tree": {
+    "content_id": "116",
+    "title": "Fisheries Research and Development Corporation",
+    "roles": [
+      {
+        "role": "Managing Director",
+        "person": "Sean Sloan",
+        "vacant": false,
+        "acting": false,
+        "email": "sean.sloan@frdc.com.au",
+        "phone": "02 6122 2110",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49505",
+        "title": "Finance & Business",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Cheryl Cole",
+            "vacant": false,
+            "acting": false,
+            "email": "cheryl.cole@frdc.com.au",
+            "phone": "02 6122 2118",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49501",
+        "title": "ICT & Digitalisation",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Kyaw Kyaw Soe Hlaing",
+            "vacant": false,
+            "acting": false,
+            "email": "kyawkyaw.soehlaing@frdc.com.au",
+            "phone": "02 6122 2112",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49500",
+        "title": "Research & Development Investment",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Crispian Ashby",
+            "vacant": false,
+            "acting": false,
+            "email": "crispian.ashby@frdc.com.au",
+            "phone": "02 6122 2125",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49506",
+        "title": "Stakeholder Engagement",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Kylie Dunstan",
+            "vacant": false,
+            "acting": false,
+            "email": "kylie.dunstan@frdc.com.au",
+            "phone": "02 6122 2107",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49507",
+        "title": "Strategy, Planning, Innovation & Performance",
+        "roles": [
+          {
+            "role": "A/g General Manager",
+            "person": "Jennifer Marshall",
+            "vacant": false,
+            "acting": false,
+            "email": "jennifer.marshall@frdc.com.au",
+            "phone": "02 6122 2100",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

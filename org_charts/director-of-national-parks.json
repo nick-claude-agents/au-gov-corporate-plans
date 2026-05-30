@@ -1,0 +1,26 @@
+{
+  "content_id": "255",
+  "title": "Director of National Parks",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "https://www.dcceew.gov.au/parks-heritage/national-parks/parks-australia/director-national-parks",
+  "description": "Australia's natural and cultural heritage is unique. Our land and seascapes are distinctive, home to plants and animals found nowhere else in the world, and to some of the oldest living cultures on earth. These environments and cultures are an essential part of our national identity, and visitors travel from across the country and the world to experience them. The Director of National Parks (the Director) is responsible for six national parks, the Australian National Botanic Gardens, 60 Australian Marine Parks and the Heard Island and McDonald Islands Marine Reserve established under the Environment Protection and Biodiversity Conservation Act 1999.  The Director of National Parks is supported by staff in the Parks Australia Division of Department of Climate Change, Energy, the Environment and Water. We work to protect and showcase these natural and cultural wonders to the world, demonstrating to all why these places are so special, and inspiring communities to become more invested in their care and future.",
+  "dashboard_name": "Director of National Parks",
+  "people_count": 1,
+  "tree": {
+    "content_id": "255",
+    "title": "Director of National Parks",
+    "roles": [
+      {
+        "role": "Director of National Parks",
+        "person": "Ricky Archer",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

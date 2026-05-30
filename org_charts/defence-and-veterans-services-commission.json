@@ -1,0 +1,53 @@
+{
+  "content_id": "52797",
+  "title": "Defence and Veterans’ Services Commission",
+  "acronym": "",
+  "portfolio": "Defence",
+  "website": "https://www.dvsc.gov.au/",
+  "description": "The Defence and Veterans' Service Commission provides independent oversight and evidence-based advice to Government, to drive system reform to improve suicide prevention and wellbeing outcomes for current and ex-serving ADF members.",
+  "dashboard_name": null,
+  "people_count": 4,
+  "tree": {
+    "content_id": "52797",
+    "title": "Defence and Veterans’ Services Commission",
+    "roles": [
+      {
+        "role": "Acting Commissioner",
+        "person": "Penny McKay",
+        "vacant": false,
+        "acting": false,
+        "email": "commissioner@dvsc.gov.au",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Lisa Pulko",
+        "vacant": false,
+        "acting": false,
+        "email": "contact@dvsc.gov.au",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Assistant Commissioner, Inquiries and Legal",
+        "person": "Catherine Seaberg",
+        "vacant": false,
+        "acting": false,
+        "email": "contact@dvsc.gov.au",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Support to the Commissioner",
+        "person": "Frances Finney",
+        "vacant": false,
+        "acting": false,
+        "email": "contact@dvsc.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

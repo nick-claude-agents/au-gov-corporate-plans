@@ -1,0 +1,79 @@
+{
+  "content_id": "43353",
+  "title": "Parliamentary Workplace Support Service (PWSS)",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "",
+  "description": "The Parliamentary Workplace Support Service (PWSS) is an independent and confidential service which provides:<br />\n•\ta broad range of human resource advice and assistance to parliamentarians and Members of Parliament (Staff) Act 1984 (MOPS) employees including education and work health and safety policy, compliance and incident management.<br />\n•\ta range of trauma-informed support services and complaint resolution for all Commonwealth parliamentary workplace participants, <br />\n•\tPending the establishment of the Independent Parliamentary Standards Commission, the PWSS will also maintain an expanded workplace review function.",
+  "dashboard_name": "Parliamentary Workplace Support Service",
+  "people_count": 6,
+  "tree": {
+    "content_id": "43353",
+    "title": "Parliamentary Workplace Support Service (PWSS)",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Leonie McGregor",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "43364",
+        "title": "Key People",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Leonie McGregor",
+            "vacant": false,
+            "acting": false,
+            "email": "leonie.mcgregor@pwss.gov.au",
+            "phone": "1800 747 977",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Jodie Rodda",
+            "vacant": false,
+            "acting": false,
+            "email": "jodie.rodda@pwss.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Kate Wandmaker",
+            "vacant": false,
+            "acting": false,
+            "email": "kate.wandmaker@pwss.gov.au",
+            "phone": "1800 747 977",
+            "importance": 3
+          },
+          {
+            "role": "Chief People Officer",
+            "person": "Scott Mischke",
+            "vacant": false,
+            "acting": false,
+            "email": "scott.mischke@pwss.gov.au",
+            "phone": "1800 747 977",
+            "importance": 4
+          },
+          {
+            "role": "Acting Chief Operating Officer",
+            "person": "Leanne Martens",
+            "vacant": false,
+            "acting": false,
+            "email": "leanne.martens@pwss.gov.au",
+            "phone": "1800 747 977",
+            "importance": 5
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

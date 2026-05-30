@@ -1,0 +1,125 @@
+{
+  "content_id": "139",
+  "title": "National Museum of Australia",
+  "acronym": "NMA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.nma.gov.au",
+  "description": "The National Museum of Australia's role is to develop and maintain a national collection of historical material and increase awareness and understanding of Australia's history and culture. It fulfils this by undertaking research, managing its collections and providing access through public programs and exhibitions.<br />\n<br />\nIt's mission is to promote an understanding of Australia's history and an awareness of future possibilities by:<br />\n- developing, preserving, digitising and exhibiting a significant national collection;<br />\n- taking a leadership role in research and scholarship;<br />\n- engaging and providing access for audiences nationally and internationally; and<br />\n- delivering innovative programmes.",
+  "dashboard_name": "National Museum of Australia (NMA)",
+  "people_count": 8,
+  "tree": {
+    "content_id": "139",
+    "title": "National Museum of Australia",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Katherine McMahon",
+        "vacant": false,
+        "acting": false,
+        "email": "katherine.mcmahon@nma.gov.au",
+        "phone": "(02) 6208 5001",
+        "importance": 999
+      },
+      {
+        "role": "Executive Officer to the Director",
+        "person": "Kate Hatzis",
+        "vacant": false,
+        "acting": false,
+        "email": "kathy.hatzis@nma.gov.au",
+        "phone": "P: 02 6208 5000",
+        "importance": 999
+      },
+      {
+        "role": "Office of the Director",
+        "person": "Tracy Sutherland",
+        "vacant": false,
+        "acting": false,
+        "email": "tracy.sutherland@nma.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1033",
+        "title": "Collection and Curatorial",
+        "roles": [
+          {
+            "role": "Deputy Director, Collection and Curatorial",
+            "person": "Sophie Jensen",
+            "vacant": false,
+            "acting": false,
+            "email": "sophie.jensen@nma.gov.au",
+            "phone": "02 6208 5000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1036",
+        "title": "Corporate",
+        "roles": [
+          {
+            "role": "A/g Deputy Director Corporate",
+            "person": "Rohan Haslam",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "52087",
+        "title": "First Nations",
+        "roles": [
+          {
+            "role": "Deputy Director, First Nations",
+            "person": "Jilda Andrews",
+            "vacant": false,
+            "acting": false,
+            "email": "jilda.andrews@nma.gov.au",
+            "phone": "02 6208 5000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1034",
+        "title": "Growth and Engagement",
+        "roles": [
+          {
+            "role": "Deputy Director, Growth and Engagement",
+            "person": "Michael Cook",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.cook@nma.gov.au",
+            "phone": "02 6208 5000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1035",
+        "title": "Visitor Experience",
+        "roles": [
+          {
+            "role": "A/g Associate Director, Visitor Experience",
+            "person": "Brenda Stephens",
+            "vacant": false,
+            "acting": false,
+            "email": "brenda.stephens@nma.gov.au",
+            "phone": "02 6208 5000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

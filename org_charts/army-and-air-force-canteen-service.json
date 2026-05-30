@@ -1,0 +1,26 @@
+{
+  "content_id": "144",
+  "title": "Army and Air Force Canteen Service",
+  "acronym": "AAFCANS",
+  "portfolio": "Defence",
+  "website": "http://www.aafcans.gov.au",
+  "description": "The Army and Air Force Canteen Service (AAFCANS), trading since 1915, provides on-base and deployed convenience food, services and everyday essentials through a variety of retail options. AAFCANS is a non-profit organisation that supports local base community",
+  "dashboard_name": "Army and Air Force Canteen Service",
+  "people_count": 1,
+  "tree": {
+    "content_id": "144",
+    "title": "Army and Air Force Canteen Service",
+    "roles": [
+      {
+        "role": "Company Secretary",
+        "person": "Jane Onley",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

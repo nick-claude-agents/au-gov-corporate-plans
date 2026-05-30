@@ -1,0 +1,69 @@
+{
+  "content_id": "156",
+  "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+  "acronym": "AIATSIS",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://aiatsis.gov.au/",
+  "description": "The Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS) is a Commonwealth statutory authority established under the Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989 (Cth) (the Act) and a corporate Commonwealth entity under the Public Governance, Performance and Accountability Act 2013 (Cth).<br />\n<br />\nThe mission of AIATSIS is: <br />\n- to tell the story of Aboriginal and Torres Strait Islander Australia; <br />\n- create opportunities for people to encounter, engage with and be transformed by that story; <br />\n- support and facilitate Aboriginal and Torres Strait Islander cultural resurgence; and<br />\n- shape our national narrative.<br />\n<br />\nThe Functions of AIATSIS (as defined by the Act) are:<br />\n1. To develop, preserve and provide access to a national collection of Aboriginal and Torres Strait Islander culture and heritage;<br />\n2. To use that national collection to strengthen and promote knowledge and understanding of Aboriginal and Torres Strait Islander culture and heritage;<br />\n3. To provide leadership in the fields of:<br />\n      a. Aboriginal and Torres Strait Islander research; and<br />\n      b. Ethics and protocols for research, and other activities relating to collections, related to Aboriginal and Torres Strait Islander peoples; and<br />\n      c. Use (including use for research) of that national collection and other collections containing Aboriginal and Torres Strait Islander culture and heritage.<br />\n4. To lead and promote collaborations and partnerships among the academic, research, non-government, business and government sectors and Aboriginal and Torres Strait Islander peoples in support of the other functions of the Institute;<br />\n5. To provide advice to the Commonwealth on the situation and status of Aboriginal and Torres Strait Islander culture and heritage.",
+  "dashboard_name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+  "people_count": 3,
+  "tree": {
+    "content_id": "156",
+    "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Leonard Hill",
+        "vacant": false,
+        "acting": false,
+        "email": "leonard.hill@aiatsis.gov.au",
+        "phone": "02 6246 1197",
+        "importance": 1
+      },
+      {
+        "role": "Deputy Chief Executive Officer/Chief Operating Officer",
+        "person": "Jude Barlow",
+        "vacant": false,
+        "acting": false,
+        "email": "jude.barlow@aiatsis.gov.au",
+        "phone": "02 6246 1138",
+        "importance": 2
+      },
+      {
+        "role": "Executive Assistant",
+        "person": "Tracy Caine",
+        "vacant": false,
+        "acting": false,
+        "email": "tracy.caine@aiatsis.gov.au",
+        "phone": "02 6246 1137",
+        "importance": 3
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3112",
+        "title": "Aboriginal Studies Press (ASP)",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3111",
+        "title": "Audiovisual Archives",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3113",
+        "title": "Library",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3114",
+        "title": "Research",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

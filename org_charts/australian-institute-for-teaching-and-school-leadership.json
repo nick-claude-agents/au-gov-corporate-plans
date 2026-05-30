@@ -1,0 +1,26 @@
+{
+  "content_id": "160",
+  "title": "Australian Institute for Teaching and School Leadership Limited",
+  "acronym": "",
+  "portfolio": "Education",
+  "website": "http://www.aitsl.edu.au/about-us",
+  "description": "Australian Institute for Teaching and School Leadership Limited's (AITSL) mission is to promote excellence so that teachers and school leaders have the maximum impact on student learning in all Australian schools.<br />\n<br />\nAITSL's areas of focus are on initial teacher education, school leadership for more autonomous schools and on supporting practicing teachers. Accordingly, AITSL develops policies and resources, pursues partnerships to embed its work undertakes research on what works best so that student learning is maximised. In brief, AITSL: defines and maintains national standards for teachers and principals; leads and influences improvement in teaching and school leadership; supports and recognises high quality professional practice.<br />\n<br />\nAITSL is also the designated assessing authority for people migrating to Australia as teachers. The Commonwealth of Australia, as represented by the Minister for Education, is the sole member of the company. AITSL operates under its own constitution, with an independent board of directors.",
+  "dashboard_name": "Australian Institute for Teaching and School Leadership",
+  "people_count": 1,
+  "tree": {
+    "content_id": "160",
+    "title": "Australian Institute for Teaching and School Leadership Limited",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Tim Bullard",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,311 @@
+{
+  "content_id": "240",
+  "title": "Productivity Commission",
+  "acronym": "",
+  "portfolio": "Treasury",
+  "website": "https://www.pc.gov.au",
+  "description": "The Productivity Commission (the Commission) is the Australian Government's independent research and advisory body on a range of economic, social and environmental issues affecting the welfare of Australians. Its role, expressed simply, is to help governments make better policies in the long term interest of the Australian community.<br />\n<br />\nAs its name implies, the Commission's focus is on ways of achieving a more productive economy - the key to higher living standards. As an advisory body, its influence depends on the power of its arguments and the efficacy of its public processes.",
+  "dashboard_name": "Productivity Commission",
+  "people_count": 25,
+  "tree": {
+    "content_id": "240",
+    "title": "Productivity Commission",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1550",
+        "title": "Australian Government Competitive Neutrality Complaints Office",
+        "roles": [
+          {
+            "role": "Director",
+            "person": "Shane Chisholm",
+            "vacant": false,
+            "acting": false,
+            "email": "cnoffice@pc.gov.au",
+            "phone": "(02) 6240 3200",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1544",
+        "title": "Commissioners",
+        "roles": [
+          {
+            "role": "Deputy Chair, Productivity Commission",
+            "person": "Alex Robson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Chair, Productivity Commission",
+            "person": "Danielle Wood",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "36102",
+            "title": "All",
+            "roles": [
+              {
+                "role": "Commissioner",
+                "person": "Julie Abramson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Stephen King",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Selwyn Button",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Alison Roberts",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Catherine de Fontenay",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Joanne Chong",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Martin Stokie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner",
+                "person": "Barry Sterland",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1546",
+        "title": "General enquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1548",
+            "title": "Freedom of information",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1549",
+            "title": "Media",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Tiernan Morrison",
+                "vacant": false,
+                "acting": false,
+                "email": "media@pc.gov.au",
+                "phone": "(02) 6240 3330",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1547",
+            "title": "Publications",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1542",
+        "title": "Office of the Productivity Commission",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1543",
+            "title": "Canberra office",
+            "roles": [
+              {
+                "role": "Assistant Commissioner, Industry and Trade Stream",
+                "person": "Catie Bradbear",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner A/g, Data and Digital Stream",
+                "person": "Hudan Nuch",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner, GST Review (2026)",
+                "person": "Peter Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6240 3203",
+                "importance": 3
+              },
+              {
+                "role": "Head of Office",
+                "person": "Lisa Studdert",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2641",
+            "title": "Melbourne office",
+            "roles": [
+              {
+                "role": "Assistant Commissioner, Climate Change and Energy Stream and Productivity Stream",
+                "person": "Lou Will",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2224",
+                "importance": 2
+              },
+              {
+                "role": "Assistant Commissioner, Industry and Trade Stream",
+                "person": "Jessica Read",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "03 9653 2256",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner, Health and Ageing Streem and Aboriginal and Torres Strait Islander Policy Stream",
+                "person": "Miriam Veisman-Apter",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2247",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner A/g, Aboriginal and Torres Strait Islander Stream and Closing the Gap Reporting",
+                "person": "Amanda Meric",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2141",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner A/g, Environment and Water Streem",
+                "person": "Paul Loke",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2316",
+                "importance": 3
+              },
+              {
+                "role": "Assistant Commissioner A/g, Commonwealth–State Reporting and Review",
+                "person": "Sook-Ling Yeow",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2103",
+                "importance": 4
+              },
+              {
+                "role": "Assistant Commissioner, Corporate Group",
+                "person": "Jane Holmes",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2251",
+                "importance": 5
+              },
+              {
+                "role": "Assistant Commissioner, Strategic Communications and Engagement Group",
+                "person": "Seamus Coleman",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "03 9653 2117",
+                "importance": 5
+              },
+              {
+                "role": "First Assistant Commissioner",
+                "person": "Anna Heaney",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(03) 9653 2175",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

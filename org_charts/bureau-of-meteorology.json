@@ -1,0 +1,500 @@
+{
+  "content_id": "171",
+  "title": "Bureau of Meteorology",
+  "acronym": "CBOM",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.bom.gov.au",
+  "description": "The Bureau of Meteorology provides trusted, reliable and responsive weather, water, climate and ocean services for Australia—all day, every day. The Bureau of Meteorology’s work directly informs decisions by governments, industry and the community and supports all Australians, the Australian Defence Force and key sectors such as emergency management, aviation, transport, water management, agriculture and environmental management.",
+  "dashboard_name": "Bureau of Meteorology (BoM)",
+  "people_count": 32,
+  "tree": {
+    "content_id": "171",
+    "title": "Bureau of Meteorology",
+    "roles": [
+      {
+        "role": "CEO and Director of Meteorology",
+        "person": "Stuart Minchin",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2271",
+        "title": "Business Solutions Group",
+        "roles": [
+          {
+            "role": "Group Executive Business Solutions",
+            "person": "Peter Stone",
+            "vacant": false,
+            "acting": false,
+            "email": "ge_bs@bom.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the Group Executive",
+            "person": "Rosie Fisher",
+            "vacant": false,
+            "acting": false,
+            "email": "rosie.fisher@bom.gov.au",
+            "phone": "(03) 6221 2108",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3316",
+            "title": "Agriculture & Water",
+            "roles": [
+              {
+                "role": "General Manager A/g",
+                "person": "Glen Brown",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_ag@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2270",
+            "title": "Aviation, Land & Maritime Transport",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "James Lannan",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_almt@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2269",
+            "title": "Energy & Resources",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Stephen Duggan",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_er@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "35748",
+            "title": "International Development",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Andrew Jones",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_id@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3803",
+            "title": "National Security & Space",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Kristen Reeson",
+                "vacant": false,
+                "acting": false,
+                "email": "gm-nss@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2264",
+        "title": "Community Services Group",
+        "roles": [
+          {
+            "role": "Group Executive Community Services Group",
+            "person": "Piero Chessa",
+            "vacant": false,
+            "acting": false,
+            "email": "ge_csg@bom.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the Group Executive",
+            "person": "Debra Green",
+            "vacant": false,
+            "acting": false,
+            "email": "debra.green@bom.gov.au",
+            "phone": "(03) 9669 4493",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2281",
+            "title": "Decision Support Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Chantal Donnelly",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_dss@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2282",
+            "title": "Environmental Prediction Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Matthew Collopy",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_eps@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2280",
+            "title": "National Production Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Michael Logan",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_nps@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2263",
+        "title": "Data & Digital Group",
+        "roles": [
+          {
+            "role": "Chief Information Officer and Group Executive Data and Digital",
+            "person": "Nichole Brinsmead",
+            "vacant": false,
+            "acting": false,
+            "email": "ge_dd@bom.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the Group Executive",
+            "person": "Sylvia Wu",
+            "vacant": false,
+            "acting": false,
+            "email": "sylvia.wu@bom.gov.au",
+            "phone": "(03) 9669 4607",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2261",
+            "title": "Application Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Anthony Volo",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_as@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2274",
+            "title": "Data",
+            "roles": [
+              {
+                "role": "Chief Data Officer and General Manager",
+                "person": "Boris Kelly-Gerreyn",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_data@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52472",
+            "title": "Delivery Enablement",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Peter Fattoush",
+                "vacant": false,
+                "acting": false,
+                "email": "ge_de@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2273",
+            "title": "Observing Systems & Operations",
+            "roles": [
+              {
+                "role": "Chief Engineer and General Manager",
+                "person": "Robert Davis",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_oso@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2260",
+            "title": "Planning & Architecture",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Cameron Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_p&a@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53414",
+            "title": "Security",
+            "roles": [
+              {
+                "role": "General Manager & Chief Information Security Officer A/g",
+                "person": "Cassy Baker",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_ciso@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2259",
+            "title": "Service & Infrastructure Management",
+            "roles": [
+              {
+                "role": "General Manager A/g",
+                "person": "Robert Iacobucci",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_sim@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2265",
+        "title": "Enterprise Services Group",
+        "roles": [
+          {
+            "role": "Group Executive",
+            "person": "Astrid Heward",
+            "vacant": false,
+            "acting": false,
+            "email": "ge_enterprise_services@bom.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3783",
+            "title": "Business Management",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Mark Lyons",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_bm@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3784",
+            "title": "Communications",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Timothy McLean",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_comms@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3686",
+            "title": "Organisational Development",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Tim Abrahams",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_od@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3687",
+            "title": "Organisational Resilience",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Bridie Andriske",
+                "vacant": false,
+                "acting": false,
+                "email": "generalcounsel@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3685",
+            "title": "Strategy",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Benjamin Haydon",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_strategy@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2262",
+        "title": "Science & Innovation Group",
+        "roles": [
+          {
+            "role": "Group Executive Science and Innovation",
+            "person": "Robert Argent",
+            "vacant": false,
+            "acting": false,
+            "email": "ge_si@bom.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the Group Executive",
+            "person": "Christine Kowal",
+            "vacant": false,
+            "acting": false,
+            "email": "christine.kowal@bom.gov.au",
+            "phone": "(03) 8638 8261",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3322",
+            "title": "Research",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Karl Braganza",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_research@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3321",
+            "title": "Research to Operations",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "David Farr",
+                "vacant": false,
+                "acting": false,
+                "email": "gm_r2o@bom.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

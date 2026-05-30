@@ -1,0 +1,1208 @@
+{
+  "content_id": "257",
+  "title": "National Disability Insurance Agency",
+  "acronym": "NDIA",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.ndis.gov.au/about-us",
+  "description": "Its  main statutory functions are:<br />\n<br />\n- delivering the National Disability Insurance Scheme (NDIS) so as to, amongst other things, support the independence, and social and economic participation, of people with disability and enable people with disability to exercise choice and control in the pursuit of their goals and the planning and delivery of their supports;<br />\n- managing, and advising and reporting on, the financial sustainability of the NDIS;<br />\n- developing and enhancing the disability sector;<br />\n- building community awareness of disabilities and the social contributors to disabilities;<br />\n- collecting, analysing and exchanging data about disabilities and the supports for people with disability; and<br />\n- undertaking research relating to disabilities, the supports for people with disability and the social contributors to disabilities.",
+  "dashboard_name": "National Disability Insurance Agency (NDIA)",
+  "people_count": 126,
+  "tree": {
+    "content_id": "257",
+    "title": "National Disability Insurance Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Graeme Head",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "1800 800 110",
+        "importance": 1
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Graeme Head",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "50097",
+        "title": "Children, Specialised Services  and Scheme Interfaces",
+        "roles": [
+          {
+            "role": "Deputy CEO Children, Specialised Services and Scheme Interfaces",
+            "person": "Amity Durham",
+            "vacant": false,
+            "acting": false,
+            "email": "amity.durham@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM Specialised Service Delivery",
+            "person": "Jodie Stangel",
+            "vacant": false,
+            "acting": false,
+            "email": "jodie.stangel@ndis.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "BM Scheme Eligibility",
+            "person": "Cassie Hammond",
+            "vacant": false,
+            "acting": false,
+            "email": "cassie.hammond@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "BM Complex Support Needs",
+            "person": "Sheena Walters",
+            "vacant": false,
+            "acting": false,
+            "email": "sheena.walters@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM Aged Care and Hospital Interface",
+            "person": "Melissa Flanagan",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.flanagan@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "BM Compensation",
+            "person": "Michelle Kellert",
+            "vacant": false,
+            "acting": false,
+            "email": "michelle.kellert@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "GM Children’s Strategy and Services",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "BM Children’s Practice",
+            "person": "Ksharmra Brandon",
+            "vacant": false,
+            "acting": true,
+            "email": "ksharmra.brandon@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "BM Children’s Policy and Pathways",
+            "person": "Melissa Clements",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.clements@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM National Early Childhood",
+            "person": "Tori Stevens",
+            "vacant": false,
+            "acting": false,
+            "email": "tori.stevens@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "GM Scheme Interfaces and Intergovernmental Relations",
+            "person": "Gabriela Pulczynski",
+            "vacant": false,
+            "acting": true,
+            "email": "gabriela.pulczynski@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Intergovernmental Relations and Mainstream",
+            "person": "Simon O'Brien",
+            "vacant": false,
+            "acting": true,
+            "email": "simon.o'brien@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Ecosystem Reform",
+            "person": "Matthew Curtis",
+            "vacant": false,
+            "acting": true,
+            "email": "matthew.curtis@ndis.gov.au",
+            "phone": "",
+            "importance": 14
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "40440",
+        "title": "Enabling Services / Chief Operating Officer",
+        "roles": [
+          {
+            "role": "Deputy CEO Enabling Services / Chief Operating Officer",
+            "person": "Samuel Porter",
+            "vacant": false,
+            "acting": false,
+            "email": "samuel.porter@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Office of Agency Accessibility and Inclusion",
+            "person": "Ed Holicky",
+            "vacant": false,
+            "acting": true,
+            "email": "edward.holicky@ndis.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Chief People and Wellbeing Officer",
+            "person": "Ally Doyle",
+            "vacant": false,
+            "acting": false,
+            "email": "allison.doyle@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "BM Workforce, Data, Insights and Culture",
+            "person": "Ainslie Wood",
+            "vacant": false,
+            "acting": false,
+            "email": "ainslie.wood@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM People Support and Integrity",
+            "person": "Amy Hand",
+            "vacant": false,
+            "acting": false,
+            "email": "amy.hand@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "BM Workplace Conditions and SES Services",
+            "person": "Kristy Dam",
+            "vacant": false,
+            "acting": false,
+            "email": "kristy.dam@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "BM Recruitment and Staff Development",
+            "person": "Daniela Schlesier",
+            "vacant": false,
+            "acting": true,
+            "email": "daniela.schlesier@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "BM Safety, Wellbeing and Security",
+            "person": "Shannon Cook",
+            "vacant": false,
+            "acting": false,
+            "email": "shannon.cook@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "Chief Risk Officer / GM Audit, Risk and Resilience",
+            "person": "Andrew Parsons",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.parsons@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM Audit",
+            "person": "Analyn Vasquez",
+            "vacant": false,
+            "acting": true,
+            "email": "analyn.vasquez@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "BM Risk and Emergency Management",
+            "person": "Stuart Fisher",
+            "vacant": false,
+            "acting": false,
+            "email": "stuart.fisher@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "Chief Corporate and Commercial Officer",
+            "person": "Phoebe Thompson",
+            "vacant": false,
+            "acting": false,
+            "email": "phoebe.thompson@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Procurement",
+            "person": "Elita Barrett",
+            "vacant": false,
+            "acting": false,
+            "email": "elita.barrett@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Corporate, Information and Property Services",
+            "person": "Ryan Wickson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "BM Enterprise Performance and Improvement",
+            "person": "Kiane McKinlay",
+            "vacant": false,
+            "acting": false,
+            "email": "kiane.mckinlay@ndis.gov.au",
+            "phone": "",
+            "importance": 15
+          },
+          {
+            "role": "Chief Financial Officer",
+            "person": "Chris Breitkreuz",
+            "vacant": false,
+            "acting": false,
+            "email": "chris.breitkreuz@ndis.gov.au",
+            "phone": "",
+            "importance": 16
+          },
+          {
+            "role": "BM Financial Reporting and Control",
+            "person": "Joshua Campbell",
+            "vacant": false,
+            "acting": false,
+            "email": "joshua.campbell@ndis.gov.au",
+            "phone": "",
+            "importance": 17
+          },
+          {
+            "role": "BM Budget Management, Strategy and Support",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 18
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "45240",
+        "title": "First Nations",
+        "roles": [
+          {
+            "role": "Deputy CEO First Nations",
+            "person": "Janine Mohamed",
+            "vacant": false,
+            "acting": false,
+            "email": "janine.mohamed@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM First Nations",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "BM First Nations Policy and Data",
+            "person": "Tanya Malthouse",
+            "vacant": false,
+            "acting": false,
+            "email": "tanya.malthouse@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "BM First Nations Cultural Safety",
+            "person": "Andy Johnston",
+            "vacant": false,
+            "acting": true,
+            "email": "andy.johnston@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM First Nations Strategy and Governance",
+            "person": "Curently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "BM First Nations Pathways and Innovation",
+            "person": "Matthew Berne",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.berne@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "40441",
+        "title": "Integrity Transformation and Technology Services",
+        "roles": [
+          {
+            "role": "Deputy CEO Integrity Transformation and Technology Services",
+            "person": "John Dardo",
+            "vacant": false,
+            "acting": false,
+            "email": "john.dardo@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM Reform Implementation",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "christine.kruse@ndis.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "BM New Framework Planning",
+            "person": "Daniela Schlesier",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "GM Integrity and Payments Transformation",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM Transformation and Technology Business Management",
+            "person": "Christine Kruse",
+            "vacant": false,
+            "acting": true,
+            "email": "christine.kruse@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "BM Scheme Payments Transformation",
+            "person": "Sean Fitzpatrick",
+            "vacant": false,
+            "acting": false,
+            "email": "sean.fitzpatrick@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "BM Claims and Payments",
+            "person": "Michael Ryan",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.ryan@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "GM Fraud Fusion Taskforce and Integrity Capability",
+            "person": "Kitsa Papadopoulos",
+            "vacant": false,
+            "acting": true,
+            "email": "kitsa.papadopoulos@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "BM Fraud Fusion Taskforce Capability",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM Intelligence and Analytics",
+            "person": "Laurel Kong",
+            "vacant": false,
+            "acting": false,
+            "email": "laurel.kong@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "BM Scalable Integrity Responses",
+            "person": "Nicholas Winton",
+            "vacant": false,
+            "acting": true,
+            "email": "nicholas.winton@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "BM Fraud Investigations",
+            "person": "Richard Honey",
+            "vacant": false,
+            "acting": true,
+            "email": "richard.honey@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "Chief Information Officer / GM Technology Services",
+            "person": "Martin Mane",
+            "vacant": false,
+            "acting": false,
+            "email": "martin.mane@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Scheme System Platforms",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "BM Digital Delivery and Integration",
+            "person": "Owen McKerrow",
+            "vacant": false,
+            "acting": false,
+            "email": "owen.mckerrow@ndis.gov.au",
+            "phone": "",
+            "importance": 15
+          },
+          {
+            "role": "BM Scheme CRM Platforms",
+            "person": "Phil Bergersen",
+            "vacant": false,
+            "acting": false,
+            "email": "phil.bergersen@ndis.gov.au",
+            "phone": "",
+            "importance": 16
+          },
+          {
+            "role": "BM Agency ICT Services",
+            "person": "Lyle Wells",
+            "vacant": false,
+            "acting": false,
+            "email": "lyle.wells@ndis.gov.au",
+            "phone": "",
+            "importance": 17
+          },
+          {
+            "role": "BM Cyber Security and Identity",
+            "person": "Mark McKenzie",
+            "vacant": false,
+            "acting": false,
+            "email": "mark.mckenzie@ndis.gov.au",
+            "phone": "",
+            "importance": 18
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2314",
+        "title": "Legal, Reviews, Actuarial and  Data",
+        "roles": [
+          {
+            "role": "Deputy CEO Legal, Reviews, Actuarial and Data",
+            "person": "Matthew Swainson",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.swainson@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "BM Board Secretary, Ministerial and Parliamentary",
+            "person": "Jane Heffernan",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Chief Counsel",
+            "person": "Tom McGregor",
+            "vacant": false,
+            "acting": false,
+            "email": "tom.mcgregor@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Chief Counsel Public Law Legislation and Practice",
+            "person": "Ben Cheever",
+            "vacant": false,
+            "acting": false,
+            "email": "ben.cheever@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Chief Counsel Dispute Resolution and Litigation",
+            "person": "Kathryn Johnson",
+            "vacant": false,
+            "acting": false,
+            "email": "kathryn.johnson@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Chief Counsel Agency Legal Services",
+            "person": "Liz Jehu",
+            "vacant": false,
+            "acting": false,
+            "email": "liz.jehu@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "GM Reviews and Information Release",
+            "person": "Daniel Flowers",
+            "vacant": false,
+            "acting": false,
+            "email": "daniel.flowers@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "BM External Review",
+            "person": "Tim Stork",
+            "vacant": false,
+            "acting": false,
+            "email": "tim.stork@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "BM Information Access and Privacy",
+            "person": "Fiona Castles",
+            "vacant": false,
+            "acting": false,
+            "email": "fiona.castles@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM Internal Review",
+            "person": "Melissa Brotherson-Clarke",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.brotherson-clarke@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "GM Scheme Actuary and Chief Data Officer",
+            "person": "David Gifford",
+            "vacant": false,
+            "acting": false,
+            "email": "david.gifford@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "BM Data and Analytics",
+            "person": "Aidan McDermott",
+            "vacant": false,
+            "acting": false,
+            "email": "aidan.mcdermott@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Actuarial Insights and Monitoring",
+            "person": "Jessica Lilley",
+            "vacant": false,
+            "acting": false,
+            "email": "jessica.lilley@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Scheme Effectiveness and Forecasting",
+            "person": "Nicole Stransky",
+            "vacant": false,
+            "acting": false,
+            "email": "nicole.stransky@ndis.gov.au",
+            "phone": "",
+            "importance": 14
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "38173",
+        "title": "Partners, Providers and Home and Living",
+        "roles": [
+          {
+            "role": "Deputy CEO Partners, Providers and Home and Living",
+            "person": "Penelope McKay",
+            "vacant": false,
+            "acting": false,
+            "email": "penelope.mckay@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM Partners and Providers",
+            "person": "Miriam Slattery",
+            "vacant": false,
+            "acting": false,
+            "email": "miriam.slattery@ndis.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "BM Navigator Design",
+            "person": "Scott Fitzpatrick",
+            "vacant": false,
+            "acting": true,
+            "email": "scott.fitzpatrick@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "BM Partners",
+            "person": "Kate Storey",
+            "vacant": false,
+            "acting": false,
+            "email": "kate.storey@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM Intermediary Programs",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "fiona.delahunt@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "BM Providers",
+            "person": "Stephen Broadfoot",
+            "vacant": false,
+            "acting": false,
+            "email": "stephen.broadfoot@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "GM Home and Living",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "BM Home and Living Reform",
+            "person": "Jo Collins",
+            "vacant": false,
+            "acting": true,
+            "email": "jo.collins@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "BM Home and Living Capital",
+            "person": "Julia Cooper",
+            "vacant": false,
+            "acting": false,
+            "email": "julia.cooper@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "GM Markets",
+            "person": "Mark Wiggins",
+            "vacant": false,
+            "acting": false,
+            "email": "mark.wiggins@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "BM Market Strategy",
+            "person": "Kade Dillon",
+            "vacant": false,
+            "acting": false,
+            "email": "kade.dillon@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "BM Economics and Pricing",
+            "person": "Curently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Market Stewardship",
+            "person": "Rhianna Lawson",
+            "vacant": false,
+            "acting": false,
+            "email": "rhianna.lawson@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Markets Delivery",
+            "person": "Paula Wilton",
+            "vacant": false,
+            "acting": false,
+            "email": "paula.wilton@ndis.gov.au",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "BM Market Projects",
+            "person": "Kirsten Flynn",
+            "vacant": false,
+            "acting": false,
+            "email": "kirsten.flynn@ndis.gov.au",
+            "phone": "",
+            "importance": 15
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2313",
+        "title": "Service Delivery",
+        "roles": [
+          {
+            "role": "Deputy CEO Service Delivery",
+            "person": "Scott McNaughton",
+            "vacant": false,
+            "acting": false,
+            "email": "scott.mcnaughton@ndis.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM QLD Regional Services",
+            "person": "Des Lee",
+            "vacant": false,
+            "acting": false,
+            "email": "desmond.lee@ndis.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "GM NSW/ACT Regional Services",
+            "person": "Rochelle Waterhouse",
+            "vacant": false,
+            "acting": false,
+            "email": "rochelle.waterhouse@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "NSW/ACT Region Manager",
+            "person": "Jacquelyn Hicks",
+            "vacant": false,
+            "acting": false,
+            "email": "jacquelyn.hicks@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "GM VIC/TAS Regional Services",
+            "person": "Damian Poel",
+            "vacant": false,
+            "acting": false,
+            "email": "damian.poel@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "VIC/TAS Region Manager",
+            "person": "Ian Watson",
+            "vacant": false,
+            "acting": false,
+            "email": "ian.watson@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "GM SA, WA, NT Regional and Remote Services",
+            "person": "Fleur Hill",
+            "vacant": false,
+            "acting": false,
+            "email": "fleur.hill@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "SA Region Manager",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "WA Region Manager",
+            "person": "Barbie Lundgren",
+            "vacant": false,
+            "acting": false,
+            "email": "barbie.lundgren@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM Remote Services",
+            "person": "Steven Wenzel",
+            "vacant": false,
+            "acting": false,
+            "email": "steven.wenzel@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "NT Region Manager",
+            "person": "Darcy Godden",
+            "vacant": false,
+            "acting": false,
+            "email": "darcy.godden@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "GM National Operations and Performance",
+            "person": "Andrew Maitland",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.maitland@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Home and Living Planning and Operations",
+            "person": "Ed Duncan",
+            "vacant": false,
+            "acting": false,
+            "email": "ed.duncan@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "BM Performance, Quality and National Workload Management",
+            "person": "David Robinson",
+            "vacant": false,
+            "acting": false,
+            "email": "david.robinson@ndis.gov.au",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "BM Participant Safeguarding Response",
+            "person": "Jo Wickes",
+            "vacant": false,
+            "acting": true,
+            "email": "jo.wickes@ndis.gov.au",
+            "phone": "",
+            "importance": 15
+          },
+          {
+            "role": "BM Technical Advice and Practice Improvement",
+            "person": "Helen Beavan",
+            "vacant": false,
+            "acting": false,
+            "email": "helen.beavan@ndis.gov.au",
+            "phone": "",
+            "importance": 16
+          },
+          {
+            "role": "GM NCC and Complaints",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 17
+          },
+          {
+            "role": "BM Complaints",
+            "person": "Emma Cotterill",
+            "vacant": false,
+            "acting": false,
+            "email": "emma.cotterill@ndis.gov.au",
+            "phone": "",
+            "importance": 18
+          },
+          {
+            "role": "BM National Contact Centre",
+            "person": "Martin Nightingale",
+            "vacant": false,
+            "acting": true,
+            "email": "martin.nightingale@ndis.gov.au",
+            "phone": "",
+            "importance": 19
+          },
+          {
+            "role": "GM Scheme Transformation and Capability",
+            "person": "Lisa Buckingham",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.buckingham@ndis.gov.au",
+            "phone": "",
+            "importance": 20
+          },
+          {
+            "role": "BM Frontline Capability",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 21
+          },
+          {
+            "role": "BM Scheme Reforms and Transition",
+            "person": "Kellie Maloney",
+            "vacant": false,
+            "acting": false,
+            "email": "kellie.maloney@ndis.gov.au",
+            "phone": "",
+            "importance": 22
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2316",
+        "title": "Service Design and Improvement",
+        "roles": [
+          {
+            "role": "Deputy CEO Service Design and Improvement",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "GM Strategic Communications",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "BM Digital Channels and Marketing",
+            "person": "Tom O'Byrne",
+            "vacant": false,
+            "acting": false,
+            "email": "tom.o'byrne@ndis.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "BM Communications and Media",
+            "person": "Laura Ryan",
+            "vacant": false,
+            "acting": false,
+            "email": "laura.ryan@ndis.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "BM Corporate Communications",
+            "person": "Yvette McKenzie",
+            "vacant": false,
+            "acting": false,
+            "email": "yvette.mckenzie@ndis.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "GM Service Design",
+            "person": "Laura Wilkinson",
+            "vacant": false,
+            "acting": false,
+            "email": "laura.wilkinson@ndis.gov.au",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "BM Service Design Delivery",
+            "person": "Raffaella Recupero",
+            "vacant": false,
+            "acting": false,
+            "email": "raffealla.recupero@ndis.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "BM Strategy",
+            "person": "Clair Wheeler",
+            "vacant": false,
+            "acting": true,
+            "email": "clair.wheeler@ndis.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "GM Co-Design and Engagement",
+            "person": "Aaron Verlin",
+            "vacant": false,
+            "acting": true,
+            "email": "aaron.verlin@ndis.gov.au",
+            "phone": "",
+            "importance": 9
+          },
+          {
+            "role": "BM Co-Design",
+            "person": "Susan Moore",
+            "vacant": false,
+            "acting": false,
+            "email": "susan.moore@ndis.gov.au",
+            "phone": "",
+            "importance": 10
+          },
+          {
+            "role": "BM Engagement and Inclusion",
+            "person": "Alexandria Rosenthal",
+            "vacant": false,
+            "acting": false,
+            "email": "alexandria.rosenthal@ndis.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "BM Strategic Change",
+            "person": "Julie Fayers",
+            "vacant": false,
+            "acting": false,
+            "email": "julie.fayers@ndis.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "BM Service Guidance",
+            "person": "Carly Sierota",
+            "vacant": false,
+            "acting": false,
+            "email": "carly.sierota@ndis.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "Office of the Participant Advocate",
+            "person": "Donna Purcell",
+            "vacant": false,
+            "acting": false,
+            "email": "donna.purcell@ndis.gov.au",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "GM Policy and Practice Leadership",
+            "person": "Prue Coroneos",
+            "vacant": false,
+            "acting": false,
+            "email": "prue.coroneos@ndis.gov.au",
+            "phone": "",
+            "importance": 16
+          },
+          {
+            "role": "BM Scheme Policy",
+            "person": "Peggie Tobin",
+            "vacant": false,
+            "acting": false,
+            "email": "peggie.tobin@ndis.gov.au",
+            "phone": "",
+            "importance": 17
+          },
+          {
+            "role": "BM Participant Outcomes, Evidence and Evaluation",
+            "person": "Renee Cassidy",
+            "vacant": false,
+            "acting": false,
+            "email": "renee.cassidy@ndis.gov.au",
+            "phone": "",
+            "importance": 18
+          },
+          {
+            "role": "BM New Framework Policy",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "",
+            "importance": 19
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "content_id": "168",
+  "title": "Safe Work Australia",
+  "acronym": "SWA",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "https://www.safeworkaustralia.gov.au/",
+  "description": "Safe Work Australia is a tripartite body with the following members: <br />\n<br />\n- a Chair; <br />\n- Members representing the Commonwealth and each state and territory; <br />\n- Members representing the interests of workers; <br />\n- Members representing the interests of employers, and <br />\n- the Chief Executive Officer. <br />\n<br />\nFurther information about Safe Work Australia Members can be found under the 'Our Members' page on our website. <br />\n<br />\nSafe Work Australia was established to lead policy development that improves work health and safety and workers' compensation arrangements across Australia. It performs its functions in accordance with strategic and operational plans agreed annually by Work Health and Safety Ministers. <br />\n<br />\nSafe Work Australia began operating as an independent Australian Government statutory agency on 1 November 2009. It is jointly funded by the Commonwealth, state and territory governments through an Intergovernmental Agreement. <br />\n<br />\nAs a national policy body Safe Work Australia does not regulate work health and safety laws nor does it have responsibility for workers' compensation schemes. The Commonwealth, states and territories have responsibility for regulating and enforcing work health and safety laws and administering workers' compensation schemes in their jurisdiction.",
+  "dashboard_name": "Safe Work Australia",
+  "people_count": 8,
+  "tree": {
+    "content_id": "168",
+    "title": "Safe Work Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Marie Boland",
+        "vacant": false,
+        "acting": false,
+        "email": "marie.boland@swa.gov.au",
+        "phone": "(02) 6121 9163",
+        "importance": 1
+      },
+      {
+        "role": "Group Manager, Policy & Engagement Group",
+        "person": "Angela Wallbank",
+        "vacant": false,
+        "acting": false,
+        "email": "angela.wallbank@swa.gov.au",
+        "phone": "(02) 6121 8130",
+        "importance": 2
+      },
+      {
+        "role": "Branch Manager - Hazards & Industries Policy",
+        "person": "James Sumner",
+        "vacant": false,
+        "acting": true,
+        "email": "james.sumner@swa.gov.au",
+        "phone": "(08) 8306 8615",
+        "importance": 3
+      },
+      {
+        "role": "Branch Manager - Legal & Framework Policy",
+        "person": "Nathan Lee",
+        "vacant": false,
+        "acting": true,
+        "email": "nathan.lee@swa.gov.au",
+        "phone": "0409 758 094",
+        "importance": 4
+      },
+      {
+        "role": "Branch Manager - Evidence & Communications",
+        "person": "Amber Skurr",
+        "vacant": false,
+        "acting": true,
+        "email": "amber.skurr@swa.gov.au",
+        "phone": "(02) 6121 3997",
+        "importance": 5
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Elmer Wiegold",
+        "vacant": false,
+        "acting": false,
+        "email": "elmer.wiegold@swa.gov.au",
+        "phone": "02 6121 9123",
+        "importance": 6
+      },
+      {
+        "role": "Branch Manager, Best Practice Review",
+        "person": "Nathan Lee",
+        "vacant": false,
+        "acting": false,
+        "email": "nathan.lee@swa.gov.au",
+        "phone": "02 6121 3793",
+        "importance": 6
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Marie Boland",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

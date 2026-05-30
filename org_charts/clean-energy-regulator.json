@@ -1,0 +1,555 @@
+{
+  "content_id": "271",
+  "title": "Clean Energy Regulator",
+  "acronym": "CER",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.cleanenergyregulator.gov.au",
+  "description": "The Clean Energy Regulator is a statutory authority responsible for administering legislation that will contribute to a reduction in Australia's greenhouse gas emissions. The Clean Energy Regulator has administrative responsibilities for the National Greenhouse and Energy Reporting scheme, Emissions Reduction Fund, Australian National Registry of Emissions Units, Safeguard Mechanism and Renewable Energy Target.",
+  "dashboard_name": "Clean Energy Regulator (CER)",
+  "people_count": 29,
+  "tree": {
+    "content_id": "271",
+    "title": "Clean Energy Regulator",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3133",
+        "title": "Corporate Branch",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Karen Najjar",
+            "vacant": false,
+            "acting": false,
+            "email": "karen.najjar@cer.gov.au",
+            "phone": "(02) 6159 3562",
+            "importance": 999
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Maria Crowley",
+            "vacant": false,
+            "acting": false,
+            "email": "maria.crowley@cer.gov.au",
+            "phone": "(02) 6159 3250",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1046",
+            "title": "Communications and Contact Centre",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1049",
+            "title": "Finance",
+            "roles": [
+              {
+                "role": "Chief Financial Officer",
+                "person": "Sue Knox",
+                "vacant": false,
+                "acting": false,
+                "email": "sue.knox@cer.gov.au",
+                "phone": "(02) 6159 3799",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1047",
+            "title": "Human Resources, Facilities and Security",
+            "roles": [
+              {
+                "role": "General Manager HR",
+                "person": "Melanie Herpen",
+                "vacant": false,
+                "acting": false,
+                "email": "melanie.herpen@cer.gov.au",
+                "phone": "(02) 6159 3446",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1048",
+            "title": "Planning, Performance and Parliamentary",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3130",
+        "title": "Legal Services and Governance Branch",
+        "roles": [
+          {
+            "role": "General Counsel",
+            "person": "Geoff Purvis-Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "geoff.purvis-smith@cer.gov.au",
+            "phone": "(02) 6159 3242",
+            "importance": 1
+          },
+          {
+            "role": "Practice Manager/ Executive Officer",
+            "person": "Myndee Hannaford",
+            "vacant": false,
+            "acting": false,
+            "email": "myndee.hannaford@cer.gov.au",
+            "phone": "(02) 6159 3242",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1054",
+            "title": "Agency Conformance, Regulator Support and Disclosure",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1051",
+            "title": "Legal Services",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1050",
+            "title": "Risk, Audit and Fraud",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3428",
+        "title": "Office of the Chair",
+        "roles": [
+          {
+            "role": "Chair",
+            "person": "David Parker",
+            "vacant": false,
+            "acting": false,
+            "email": "chair@cer.gov.au",
+            "phone": "(02) 6159 3640",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Tiffeny Horwood",
+            "vacant": false,
+            "acting": false,
+            "email": "tiffeny.horwood@cer.gov.au",
+            "phone": "(02) 6159 3404",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to the Chair",
+            "person": "Glenda Jones",
+            "vacant": false,
+            "acting": false,
+            "email": "glenda.jones@cer.gov.au",
+            "phone": "(02) 6159 3640",
+            "importance": 3
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3416",
+        "title": "Scheme Operations Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Shayleen Thompson",
+            "vacant": false,
+            "acting": false,
+            "email": "shayleen.thompson@cer.gov.au",
+            "phone": "(02) 6159 3232",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Amy Quinn",
+            "vacant": false,
+            "acting": false,
+            "email": "amy.quinn@cer.gov.au",
+            "phone": "(02) 6159 3232",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Elda Whitfield",
+            "vacant": false,
+            "acting": false,
+            "email": "elda.whitfield@cer.gov.au",
+            "phone": "02 6159 3981",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1044",
+            "title": "ERF Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Michelle Crosbie",
+                "vacant": false,
+                "acting": false,
+                "email": "michelle.crosbie@cer.gov.au",
+                "phone": "(02) 6159 3592",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Hollie Ebsworth",
+                "vacant": false,
+                "acting": false,
+                "email": "hollie.ebsworth@cer.gov.au",
+                "phone": "02 6159 3567",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3425",
+                "title": "ERAC Secretariat and ERF Policy",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3419",
+                "title": "Emissions Avoidance",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3418",
+                "title": "Land and Forest",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3420",
+                "title": "Savanna, Agriculture and Soil Assessment",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3421",
+            "title": "Method Development Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Melanie Ford",
+                "vacant": false,
+                "acting": false,
+                "email": "melanie.ford@cer.gov.au",
+                "phone": "02 6159 3575",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Michaela Cunningham",
+                "vacant": false,
+                "acting": false,
+                "email": "michaela.cunningham@cer.gov.au",
+                "phone": "02 5162 2501",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3424",
+                "title": "Auctions and Contracts",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3423",
+                "title": "Emissions Avoidance Methods",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3422",
+                "title": "Land, Forest and Blue Carbon Methods",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1043",
+            "title": "NGER and Safeguard Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jane Wardlaw",
+                "vacant": false,
+                "acting": false,
+                "email": "jane.wardlaw@cer.gov.au",
+                "phone": "(02) 6159 3399",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Sally Fraser",
+                "vacant": false,
+                "acting": false,
+                "email": "sally.fraser@cer.gov.au",
+                "phone": "(02) 6159 3486",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3426",
+                "title": "ANREU and International",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1061",
+                "title": "NGER Obligation Management",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1064",
+                "title": "NGER Report Assessment and Publication",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3427",
+                "title": "Safeguard and Crediting Below Baseline",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1045",
+            "title": "RET Branch",
+            "roles": [
+              {
+                "role": "A/g General Manager",
+                "person": "Matthew Power",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.power@cer.gov.au",
+                "phone": "02 6159 3972",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Elka Aslimoski",
+                "vacant": false,
+                "acting": false,
+                "email": "elka.aslimoski@cer.gov.au",
+                "phone": "02 6159 3420",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1063",
+                "title": "Large Scale Renewables",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3417",
+                "title": "RET Liability and EITEs",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1062",
+                "title": "SRES Operations",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3135",
+        "title": "Scheme Support Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Mark Williamson",
+            "vacant": false,
+            "acting": false,
+            "email": "mark.williamson@cer.gov.au",
+            "phone": "(02) 6159 3961",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Leiah Genders",
+            "vacant": false,
+            "acting": false,
+            "email": "leiah.genders@cer.gov.au",
+            "phone": "02 5162 2874",
+            "importance": 3
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Amy O'Hehir",
+            "vacant": false,
+            "acting": false,
+            "email": "amy.ohehir@cleanenergyregulator.gov.au",
+            "phone": "02 6159 3602",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1052",
+            "title": "Compliance Branch",
+            "roles": [
+              {
+                "role": "A/g General Manager",
+                "person": "Daniel Bartlett",
+                "vacant": false,
+                "acting": false,
+                "email": "daniel.bartlett@cer.gov.au",
+                "phone": "02 6159 3725",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Elka Aslimoski",
+                "vacant": false,
+                "acting": false,
+                "email": "elka.aslimoski@cer.gov.au",
+                "phone": "(02) 6159 3420",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3413",
+                "title": "Assessment, Intelligence & Monitoring",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3414",
+                "title": "Compliance and Enforcement",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1059",
+                "title": "Scheme Audit and Assurance",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1042",
+            "title": "Digital Services Branch",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Steven Stolk",
+                "vacant": false,
+                "acting": false,
+                "email": "steven.stolk@cer.gov.au",
+                "phone": "(02) 6159 3593",
+                "importance": 999
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Nectaria Christis",
+                "vacant": false,
+                "acting": false,
+                "email": "nectaria.christis@cer.gov.au",
+                "phone": "02 6159 3483",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1058",
+                "title": "Engagement",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1056",
+                "title": "Governance",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1057",
+                "title": "Products and Services",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1053",
+            "title": "Policy, Markets and Data Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Mary-Anne Wilson",
+                "vacant": false,
+                "acting": false,
+                "email": "mary-anne.wilson@cer.gov.au",
+                "phone": "(02) 6159 3346",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Nectaria Christis",
+                "vacant": false,
+                "acting": false,
+                "email": "nectaria.christis@cer.gov.au",
+                "phone": "02 6159 3483",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1060",
+                "title": "Data and Innovation",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1055",
+                "title": "Economic Analysis",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3415",
+                "title": "Energy Policy and Partnerships",
+                "roles": [],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

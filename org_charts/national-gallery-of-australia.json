@@ -1,0 +1,53 @@
+{
+  "content_id": "140",
+  "title": "National Gallery of Australia",
+  "acronym": "NGA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://nga.gov.au",
+  "description": "The purpose of the National Gallery of Australia is to develop and maintain a national collection of works of art. It exhibits, or makes available for exhibition by others, works of art from the national collection or works of art that are in the possession of the Gallery and uses every endeavour to make the most advantageous use of the national collection in the national interest.",
+  "dashboard_name": "National Gallery of Australia (NGA)",
+  "people_count": 4,
+  "tree": {
+    "content_id": "140",
+    "title": "National Gallery of Australia",
+    "roles": [
+      {
+        "role": "Executive Adviser",
+        "person": "Helen Gee",
+        "vacant": false,
+        "acting": false,
+        "email": "helen.gee@nga.gov.au",
+        "phone": "(02) 6240 6590",
+        "importance": 999
+      },
+      {
+        "role": "Director",
+        "person": "Nick Mitzevich",
+        "vacant": false,
+        "acting": false,
+        "email": "nick.mitzevich@nga.gov.au",
+        "phone": "(02) 6240 6590",
+        "importance": 999
+      },
+      {
+        "role": "Chief Financial Officer and Commercial",
+        "person": "Felicity McGinnes",
+        "vacant": false,
+        "acting": false,
+        "email": "felicity.mcginnes@nga.gov.au",
+        "phone": "(02) 6240 6712",
+        "importance": 999
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Alison Halpin",
+        "vacant": false,
+        "acting": false,
+        "email": "alison.halpin@nga.gov.au",
+        "phone": "(02) 6240 6582",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

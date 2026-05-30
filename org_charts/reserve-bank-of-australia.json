@@ -1,0 +1,51 @@
+{
+  "content_id": "239",
+  "title": "Reserve Bank of Australia",
+  "acronym": "RBA",
+  "portfolio": "Treasury",
+  "website": "https://www.rba.gov.au/",
+  "description": "The Reserve Bank of Australia (RBA) is Australia's central bank and derives its functions and powers from the Reserve Bank Act 1959.<br />\n<br />\nIts duty is to contribute to the stability of the currency, full employment, and the economic prosperity and welfare of the Australian people. It does this by setting the cash rate to meet an agreed medium-term inflation target, working to maintain a strong and stable financial system and efficient payments system, and issuing the nation's banknotes. The RBA provides certain banking services as required to the Australian Government and its agencies, and to a number of overseas central banks and official institutions. Additionally, it manages Australia's gold and foreign exchange reserves.<br />\n<br />\nThe RBA operates Australia's high-value payments system and sets payments system policy. The RBA has two boards: the Reserve Bank Board and the Payments System Board.",
+  "dashboard_name": "Reserve Bank of Australia",
+  "people_count": 3,
+  "tree": {
+    "content_id": "239",
+    "title": "Reserve Bank of Australia",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1551",
+        "title": "Executive, Reserve Bank of Australia",
+        "roles": [
+          {
+            "role": "Governor",
+            "person": "Michele Bullock",
+            "vacant": false,
+            "acting": false,
+            "email": "governor@rba.gov.au",
+            "phone": "(02) 9551 8111",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Governor",
+            "person": "Andrew Hauser",
+            "vacant": false,
+            "acting": false,
+            "email": "rbainfo@rba.gov.au",
+            "phone": "(02) 9551 8111",
+            "importance": 2
+          },
+          {
+            "role": "Secretary",
+            "person": "Anthony Dickman",
+            "vacant": false,
+            "acting": false,
+            "email": "secretary@rba.gov.au",
+            "phone": "(02) 9551 9700",
+            "importance": 3
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,606 @@
+{
+  "content_id": "267",
+  "title": "Australian Trade and Investment Commission (Austrade)",
+  "acronym": "AUSTRADE",
+  "portfolio": "Foreign Affairs and Trade",
+  "website": "http://www.austrade.gov.au",
+  "description": "The Australian Trade and Investment Commission (Austrade) contributes to Australia's economic prosperity by helping Australian businesses, education institutions, tourism operators, governments and citizens as they:<br />\n<br />\n- develop international markets and promote international education<br />\n- win productive foreign direct investment <br />\n- strengthen Australia's tourism industry <br />\n- seek consular and passport services.",
+  "dashboard_name": "Austrade (Australian Trade and Investment Commission)",
+  "people_count": 44,
+  "tree": {
+    "content_id": "267",
+    "title": "Australian Trade and Investment Commission (Austrade)",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3408",
+        "title": "Corporate Services",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Melissa Woodburn",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.woodburn@austrade.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "39579",
+            "title": "Corporate Services",
+            "roles": [
+              {
+                "role": "Chief People Officer",
+                "person": "Ben Wyers",
+                "vacant": false,
+                "acting": true,
+                "email": "ben.wyers@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Chief Financial Officer",
+                "person": "Jennifer Lynch",
+                "vacant": false,
+                "acting": false,
+                "email": "jennifer.lynch@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Chief Counsel, Head of Legal and Fraud",
+                "person": "David Tonkin",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Chief Security Officer, Head of Global Corporate Operations",
+                "person": "Patrick Hanlon",
+                "vacant": false,
+                "acting": false,
+                "email": "patrick.hanlon@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38662",
+            "title": "Digital and Technology Services",
+            "roles": [
+              {
+                "role": "Head of Information Technology Services",
+                "person": "Darren Cameron",
+                "vacant": false,
+                "acting": true,
+                "email": "darren.cameron@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Head of Architecture and Platforms",
+                "person": "Bill Notley",
+                "vacant": false,
+                "acting": false,
+                "email": "bill.notley@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1261",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Paul Grimes",
+            "vacant": false,
+            "acting": false,
+            "email": "paul.grimes@austrade.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Chief Executive Officer, Policy and Programs",
+            "person": "Dara Williams",
+            "vacant": false,
+            "acting": false,
+            "email": "dara.williams@austrade.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Chief Executive Officer, Trade and Investment",
+            "person": "Daniel Boyer",
+            "vacant": false,
+            "acting": false,
+            "email": "daniel.boyer@austrade.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Chief Operating Officer",
+            "person": "Melissa Woodburn",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.woodburn@austrade.gov.au",
+            "phone": "",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "43555",
+            "title": "Office of the CEO",
+            "roles": [
+              {
+                "role": "Acting Head of Strategy",
+                "person": "Jacob Erlandsen",
+                "vacant": false,
+                "acting": false,
+                "email": "jacob.erlandsen@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer to CEO",
+                "person": "Beth Deer",
+                "vacant": false,
+                "acting": false,
+                "email": "beth.deer@austrade.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1277",
+        "title": "Head Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1264",
+            "title": "AUSTRADE offices",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "1276",
+                "title": "AUSTRALIAN CAPITAL TERRITORY",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1275",
+                "title": "NEW SOUTH WALES",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1274",
+                "title": "NORTHERN TERRITORY",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1273",
+                "title": "QUEENSLAND",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1272",
+                "title": "SOUTH AUSTRALIA",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1271",
+                "title": "TASMANIA",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1270",
+                "title": "TRADESTART",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "1266",
+                    "title": "Export Hubs",
+                    "roles": [],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "1269",
+                "title": "VICTORIA",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1268",
+                "title": "WESTERN AUSTRALIA",
+                "roles": [
+                  {
+                    "role": "State Manager",
+                    "person": "Jane Caforio",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(08) 9261 7901",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1278",
+        "title": "Inquiries",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1262",
+        "title": "Policy and Programs",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer, Policy and Programs",
+            "person": "Dara Williams",
+            "vacant": false,
+            "acting": false,
+            "email": "dara.williams@austrade.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Assistant General Manager, Grants Management",
+            "person": "Dannielle Green",
+            "vacant": false,
+            "acting": false,
+            "email": "dannielle.green@austrade.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Special Advisor EMDG",
+            "person": "Nerma Gunic",
+            "vacant": false,
+            "acting": false,
+            "email": "nerma.gunic@austrade.gov.au",
+            "phone": "",
+            "importance": 6
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38659",
+            "title": "Government and Policy",
+            "roles": [
+              {
+                "role": "General Manager, Government and Policy",
+                "person": "Elizabeth Fells",
+                "vacant": false,
+                "acting": false,
+                "email": "elizabeth.fells@austrade.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Head of International Relationships",
+                "person": "Laura Timmins",
+                "vacant": false,
+                "acting": false,
+                "email": "laura.timmins@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Head of Ministerial and Government",
+                "person": "Joanna Bunting",
+                "vacant": false,
+                "acting": true,
+                "email": "joanna.bunting@austrade.gov.au",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Head of Economic Policy",
+                "person": "John Southwell",
+                "vacant": false,
+                "acting": false,
+                "email": "john.southwell@austrade.gov.au",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Pacific Business Liaison",
+                "person": "Jodie McAlister",
+                "vacant": false,
+                "acting": false,
+                "email": "jodie.mcalister@austrade.gov.au",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Chief Economist, Head of Economics and Data",
+                "person": "Matthew Johnson",
+                "vacant": false,
+                "acting": true,
+                "email": "matthew.johnson@austrade.gov.au",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38660",
+            "title": "Office of Tourism and Visitor Economy",
+            "roles": [
+              {
+                "role": "Head of Office of Tourism and Visitor Economy",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Assistant General Manager, Tourism and Visitor Economy Policy",
+                "person": "Carla Giuca",
+                "vacant": false,
+                "acting": false,
+                "email": "carla.giuca@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Assistant General Manager, Visitor Economy Sustainability and Tourism Research Australia",
+                "person": "Grant Ferres",
+                "vacant": false,
+                "acting": false,
+                "email": "grant.ferres@austrade.gov.au",
+                "phone": "02 6201 8344",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38658",
+            "title": "Simplified Trade, Communication and Marketing",
+            "roles": [
+              {
+                "role": "General Manager, Simplified Trade, Communication and Marketing",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Head of Communication and Marketing",
+                "person": "Sarah Holder",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.holder@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Head of Marketing and Channels",
+                "person": "",
+                "vacant": false,
+                "acting": false,
+                "email": "krystal.perkins@austrade.gov.au",
+                "phone": "132 878",
+                "importance": 2
+              },
+              {
+                "role": "Head of Simplified Trade System Unit",
+                "person": "Jessica Bowen-Thomas",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.bowen-thomas@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50750",
+        "title": "Secondments",
+        "roles": [
+          {
+            "role": "Interim Commonwealth Aviation Industry Ombudsperson (temporary transfer to DITRDCSA from Austrade)",
+            "person": "Samantha Palmer",
+            "vacant": false,
+            "acting": false,
+            "email": "samantha.palmer@infrastructure.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1263",
+        "title": "Trade and Investment",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer, Trade and Investment",
+            "person": "Daniel Boyer",
+            "vacant": false,
+            "acting": false,
+            "email": "daniel.boyer@austrade.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38667",
+            "title": "Investment",
+            "roles": [
+              {
+                "role": "General Manager, Investment",
+                "person": "Peter Horn",
+                "vacant": false,
+                "acting": false,
+                "email": "peter.horn@austrade.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Head of Asia Desk",
+                "person": "Michael Helleman",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.helleman@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Head of Europe, Middle East and Africa (EMEA) Desk",
+                "person": "Frances Van Ruth",
+                "vacant": false,
+                "acting": false,
+                "email": "frances.vanruth@austrade.gov.au",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Head of Americas Desk",
+                "person": "Carolyn Conner",
+                "vacant": false,
+                "acting": false,
+                "email": "carolyn.conner@austrade.gov.au",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Manager, Strategy, Insights and Performance",
+                "person": "Shaun Stevenson",
+                "vacant": false,
+                "acting": false,
+                "email": "shaun.stevenson@austrade.gov.au",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Manager, Strategy, Insights and Performance",
+                "person": "Nicole Commerford",
+                "vacant": false,
+                "acting": false,
+                "email": "nicole.commerford@austrade.gov.au",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38668",
+            "title": "Trade",
+            "roles": [
+              {
+                "role": "General Manager, Trade",
+                "person": "Jay Meek",
+                "vacant": false,
+                "acting": true,
+                "email": "jay.meek@austrade.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Head of International Education, Digital Delivery and EMDG Policy",
+                "person": "Elodie Journet",
+                "vacant": false,
+                "acting": false,
+                "email": "elodie.journet@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Head of Green Economy and Agrifood",
+                "person": "Susan Kahwati",
+                "vacant": false,
+                "acting": false,
+                "email": "susan.kahwati@austrade.gov.au",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Head of Technology, Defence and Health",
+                "person": "Anthony Weymouth",
+                "vacant": false,
+                "acting": false,
+                "email": "anthony.weymouth@austrade.gov.au",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Manager, State and Territory Partnerships, Trade Service Excellence",
+                "person": "Patrick Kearins",
+                "vacant": false,
+                "acting": false,
+                "email": "patrick.kearins@austrade.gov.au",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52761",
+            "title": "Trade Diversification Taskforce",
+            "roles": [
+              {
+                "role": "Trade Diversification Taskforce",
+                "person": "Jay Meek",
+                "vacant": false,
+                "acting": false,
+                "email": "jay.meek@austrade.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Trade Diversification Taskforce",
+                "person": "Paul Landgren",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.landgren@austrade.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

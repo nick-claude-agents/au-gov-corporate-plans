@@ -1,0 +1,26 @@
+{
+  "content_id": "192",
+  "title": "National Health Funding Body",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.nhfb.gov.au",
+  "description": "The primary function of the National Health Funding Body (NHFB) is to assist the Administrator of the National Health Funding Pool in the performance of his/her functions. The role of the Administrator is to calculate and advise the Treasurer of the Commonwealth of the amounts required to be paid by the Commonwealth under the National Health Reform Agreement into each State Pool Account of the National Health Funding Pool, to monitor payments into and out of the state pool account for each state and territory, and to report on various funding and service delivery matters.",
+  "dashboard_name": "National Health Funding Body",
+  "people_count": 1,
+  "tree": {
+    "content_id": "192",
+    "title": "National Health Funding Body",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Shannon White",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

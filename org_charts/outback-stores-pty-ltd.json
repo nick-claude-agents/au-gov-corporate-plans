@@ -1,0 +1,35 @@
+{
+  "content_id": "224",
+  "title": "Outback Stores Pty Ltd",
+  "acronym": "Outback Stores",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.outbackstores.com.au",
+  "description": "Outback Stores provides retail services to remote stores on behalf of Indigenous communities with the aim to improve the health, employment and economy of remote Indigenous communities.",
+  "dashboard_name": "Outback Stores Pty Ltd",
+  "people_count": 2,
+  "tree": {
+    "content_id": "224",
+    "title": "Outback Stores Pty Ltd",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Michael Borg",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(08) 8982 1911",
+        "importance": 999
+      },
+      {
+        "role": "Chairman",
+        "person": "Cameron Miller",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

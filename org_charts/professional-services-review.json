@@ -1,0 +1,77 @@
+{
+  "content_id": "251",
+  "title": "Professional Services Review",
+  "acronym": "PSR",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.psr.gov.au",
+  "description": "Professional Services Review (PSR) protects patients and the community from the risks associated with inappropriate practice, and protects the Commonwealth from having to meet the cost of medical / health services provided as a result of inappropriate practice.<br />\n<br />\nThe PSR is responsible for reviewing and examining possible inappropriate practice by practitioners when they provide Medicare services, or prescribe Government subsidised medicines under the PBS. PSR examines suspected cases of inappropriate practice that have been referred by the Secretary of the Department of Human Services. PSR cannot initiate its own reviews of practitioners.",
+  "dashboard_name": "Professional Services Review",
+  "people_count": 5,
+  "tree": {
+    "content_id": "251",
+    "title": "Professional Services Review",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Antonio Di Dio",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Associate Director",
+        "person": "Annette Barratt",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Associate Director",
+        "person": "David Brand",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "51727",
+        "title": "General Counsel",
+        "roles": [
+          {
+            "role": "General Counsel",
+            "person": "Margaret Parker",
+            "vacant": false,
+            "acting": false,
+            "email": "margaret.parker@psr.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1651",
+        "title": "General Manager",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Georgia Weichert",
+            "vacant": false,
+            "acting": false,
+            "email": "georgia.weichert@psr.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

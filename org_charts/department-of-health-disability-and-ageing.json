@@ -1,0 +1,3632 @@
+{
+  "content_id": "183",
+  "title": "Department of Health, Disability and Ageing",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.health.gov.au/",
+  "description": "The Department's role is to deliver the Australian Government's priorities (outcomes) for health. It does this by developing evidence based policies, managing programs, and undertaking research and regulatory activities. The Department also leads and works closely with other agencies to achieve results for the Australian Government and community, and engages in open and constructive consultation with professionals, providers, industry, and community groups.",
+  "dashboard_name": "Department of Health, Disability and Ageing",
+  "people_count": 242,
+  "tree": {
+    "content_id": "183",
+    "title": "Department of Health, Disability and Ageing",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2291",
+        "title": "Ageing and Aged Care",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Sonja Stewart",
+            "vacant": false,
+            "acting": false,
+            "email": "sonja.stewart@health.gov.au",
+            "phone": "02 5132 2475",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1960",
+            "title": "Access and Home Support",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Greg Pugh",
+                "vacant": false,
+                "acting": false,
+                "email": "greg.pugh@health.gov.au",
+                "phone": "02 5132 3193",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1668",
+                "title": "Home Support Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Julia Atkinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "julia.atkinson@health.gov.au",
+                    "phone": "02 5132 0315",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1670",
+                "title": "Navigation and Access",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Aimee Chambers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aimee.chambers@health.gov.au",
+                    "phone": "03 7041 0173",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1667",
+                "title": "Single Assessments System",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rachel Blackwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "racehl.blackwood@health.gov.au",
+                    "phone": "02 5132 0813",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1669",
+                "title": "Support at Home Policy and Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jasmine Snow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jasmine.snow@health.gov.au",
+                    "phone": "02 5132 3483",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "51264",
+            "title": "Dementia, Diversity and Residential Care",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Daen Dorazio",
+                "vacant": false,
+                "acting": false,
+                "email": "daen.dorazio@health.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "51272",
+                "title": "Contributions and Accommodation Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Trainor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.trainor@health.gov.au",
+                    "phone": "02 5132 5472",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1964",
+                "title": "Dementia, Diversity and Design",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Genevieve Donnelly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "genevieve.donnelly@health.gov.au",
+                    "phone": "02 5132 1915",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51273",
+                "title": "Residential Care and Hotelling Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mark Shen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mark.shen@health.gov.au",
+                    "phone": "02 5132 3516",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51283",
+                "title": "Residential Risk and Funding Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jason Lange",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jason.lange@health.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52354",
+            "title": "Interim First Nations Aged Care Commissioner",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Andrea Kelly",
+                "vacant": false,
+                "acting": false,
+                "email": "andrea.kelly@health.gov.au",
+                "phone": "02 5132 6143",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1959",
+            "title": "Market and Stewardship",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Luke Mansfield",
+                "vacant": false,
+                "acting": false,
+                "email": "luke.mansfield@health.gov.au",
+                "phone": "02 5132 6497",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52033",
+                "title": "Ageing Policy, Systems and Evidence",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Travis Power",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "travis.power@health.gov.au",
+                    "phone": "02 5132 3147",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1965",
+                "title": "First Nations Aged Care",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Shonella Tatipata",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shonella.tatipata@health.gov.au",
+                    "phone": "02 5132 5738",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1967",
+                "title": "Market Intelligence",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jessica Evans",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jessica.evans@health.gov.au",
+                    "phone": "02 5132 2089",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Eleanor Browne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "eleanor.browne@health.gov.au",
+                    "phone": "02 5132 0969",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1966",
+                "title": "Thin Markets",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Megan Lancaster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "megan.lancaster@health.gov.au",
+                    "phone": "02 5132 6393",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2364",
+            "title": "Quality and Assurance",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Robert Day",
+                "vacant": false,
+                "acting": false,
+                "email": "robert.day@health.gov.au",
+                "phone": "02 5132 1625",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2040",
+                "title": "Legal Stewardship and Projects",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephen Bouwhuis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephen.bouwhuis@health.gov.au",
+                    "phone": "02 5132 0898",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2751",
+                "title": "Program Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chamandeep Chehl",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chamandeep.chehl@health.gov.au",
+                    "phone": "02 5132 1328",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nisette Anderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nisette.anderson@health.gov.au",
+                    "phone": "02 5132 0426",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1961",
+                "title": "Regulatory Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ingrid Leonard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ingrid.leonard@health.gov.au",
+                    "phone": "02 5132 4700",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1962",
+                "title": "Strategic Regulatory Matters",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Katie Holm",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katie.holm@health.gov.au",
+                    "phone": "02 5132 4375",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "35273",
+            "title": "Reform Implementation",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Josh Maldon",
+                "vacant": false,
+                "acting": false,
+                "email": "josh.maldon@health.gov.au",
+                "phone": "02 5132 2778",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39998",
+                "title": "Assessment and Home Care Transition",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lezah Rushton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lezah.rushton@health.gov.au",
+                    "phone": "02 5132 5367",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Erika Barnett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "erika.barnett@health.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35275",
+                "title": "Digital Strategy and Business Assurance",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Toby Burgess",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "toby.bugess@health.gov.au",
+                    "phone": "03 6175 7013",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35276",
+                "title": "Financial Management and Reporting",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nikolai Tsyganov",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nikolai.tsyganov@health.gov.au",
+                    "phone": "02 5132 5654",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51186",
+                "title": "NACA Program Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Greg Keen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "greg.keen@health.gov.au",
+                    "phone": "02 5132 6132",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47530",
+                "title": "New Aged Care Act Transition",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Maria Filardo",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "maria.filardo@health.gov.au",
+                    "phone": "02 5132 2146",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1958",
+            "title": "Service Delivery",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Trish Garrett",
+                "vacant": false,
+                "acting": false,
+                "email": "trish.garrett@health.gov.au",
+                "phone": "02 5132 3981",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "35283",
+                "title": "NSW/ACT State Manager",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Elsy Brammesan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "elsy.brammesan2@health.gov.au",
+                    "phone": "02 7232 5140",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1982",
+                "title": "QLD/NT Office",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nicole Jarvis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicole.jarvis@health.gov.au",
+                    "phone": "07 2114 2497",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35285",
+                "title": "SA/WA State Manager",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cassie Mason",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cassie.mason@health.gov.au",
+                    "phone": "08 7333 5856",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1666",
+                "title": "Systems Strategy and Network Support",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jonathan Bray",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jonathan.bray@health.gov.au",
+                    "phone": "02 5132 0931",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Emma Parker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35284",
+                "title": "VIC/TAS State Manager",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kate Berry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.berry@health.gov.au",
+                    "phone": "03 7071 9644",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2283",
+        "title": "Committees",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1662",
+            "title": "National Expert Advisory Group on Safety and Quality in Australian Health Care",
+            "roles": [
+              {
+                "role": "Contact Officer",
+                "person": "Martin Fletcher",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1663",
+            "title": "National Immunisation Committee",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1664",
+            "title": "National Information Management Principal Committee",
+            "roles": [
+              {
+                "role": "Member",
+                "person": "Jodie Geissler",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Secretariat",
+                "person": "Maria Bubinc",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Sabrina Walsh",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Merran Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Colin Xanthis",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Owen Smalley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Simon Barnsley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Chair",
+                "person": "Fran Thorn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "David Filby",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Peter Williams",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "James Angus",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Pending Assignment #17",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Pending Assignment #16",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Pending Assignment #19",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Pending Assignment #18",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Lisa Foreman",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1665",
+            "title": "Pathology Services Table Committee",
+            "roles": [
+              {
+                "role": "Scientific Adviser",
+                "person": "John Beilby",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Observer",
+                "person": "Lloyd McGuire",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Ian Clark",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Peter Stewart",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member - Senior Medical Adviser",
+                "person": "David Jeacocke",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6124 7960",
+                "importance": 999
+              },
+              {
+                "role": "Member - Pathology Section",
+                "person": "Hilary Metcalf",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Julia Alles",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Pathology Adviser",
+                "person": "Syd Bell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Mike Ralston",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Observer",
+                "person": "Mary Jo Waters",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Observer",
+                "person": "Tamsin Waterhouse",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Secretariat",
+                "person": "Rob Lillie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Scott Jansson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Observer",
+                "person": "Ann Webb",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Observer",
+                "person": "Keith Barnes",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Beverley Rowbotham",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member - Medical Adviser",
+                "person": "David Barton",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              },
+              {
+                "role": "Member",
+                "person": "Peter Garcia-Webb",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6289 4080",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1661",
+            "title": "Regulatory Services Group Committees",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "1660",
+                "title": "Committees",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "1659",
+                    "title": "TGA-Industry Consultative Committee",
+                    "roles": [
+                      {
+                        "role": "Chair TGA-Industry Consultative Committee",
+                        "person": "Pending Assignment #88",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2284",
+        "title": "Corporate Operations",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Rachel Balmanno",
+            "vacant": false,
+            "acting": false,
+            "email": "rachel.balmanno@health.gov.au",
+            "phone": "02 5132 0917",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "51182",
+            "title": "Chief Digital Information Officer",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Fay Flevaras",
+                "vacant": false,
+                "acting": false,
+                "email": "fay.flevaras@health.gov.au",
+                "phone": "02 7232 5358",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "51185",
+                "title": "Digital Business and Sector Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Janine Bennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "janine.bennett@health.gov.au",
+                    "phone": "02 5132 0707",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51183",
+                "title": "Digital Strategy, Architecture and Innovation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Amanda Chesher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.chesher@health.gov.au",
+                    "phone": "07 2114 2514",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51184",
+                "title": "Enterprise Portfolio Management and Commercials",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Layla Morrow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "layla.morrow@health.gov.au",
+                    "phone": "02 5132 2855",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39021",
+            "title": "Digital Transformation and Delivery",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Brian Schumacher",
+                "vacant": false,
+                "acting": false,
+                "email": "brian.schumacher@health.gov.au",
+                "phone": "02 5132 3382",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40014",
+                "title": "Aged Care Digital Portfolio Management",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Petar Krajina",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "petar.krajina@health.gov.au",
+                    "phone": "02 5132 6317",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35394",
+                "title": "Aged Care Funding Reform and Systems",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Marguerite Gandini",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marguerite.gandini2@health.gov.au",
+                    "phone": "02 5132 5957",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35395",
+                "title": "Aged Care Services and Sustainability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Marina Muttukumaru",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marina.muttukumaru@health.gov.au",
+                    "phone": "02 5132 2894",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1977",
+                "title": "Aged Care Transformation and Quality",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Amanda Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.smith@health.gov.au",
+                    "phone": "02 5132 3449",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3298",
+            "title": "Financial Management and Assurance",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "David Hicks",
+                "vacant": false,
+                "acting": false,
+                "email": "david.hicks@health.gov.au",
+                "phone": "02 5132 4495",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40016",
+                "title": "Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Pat Janek",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "pat.janek@health.gov.au",
+                    "phone": "02 5132 4774",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2774",
+                "title": "Corporate and Financial Strategy Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stewart Munro",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stewart.munro@health.gov.au",
+                    "phone": "02 5132 2835",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1970",
+                "title": "Finance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kris Arnold",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kris.arnold@health.gov.au",
+                    "phone": "02 5132 0494",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1972",
+                "title": "Financial Performance, Advice and Analytics",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cindy McGhie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cindylee.mcghie@health.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35390",
+                "title": "Grants and Procurement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Craig Chalmers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "craig.chalmers@health.gov.au",
+                    "phone": "02 5132 1275",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3299",
+            "title": "Information Technology",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Lisa Tepper",
+                "vacant": false,
+                "acting": false,
+                "email": "lisa.tepper@health.gov.au",
+                "phone": "03 7041 2398",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1978",
+                "title": "Corporate Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Reid Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "reid.johnson@health.gov.au",
+                    "phone": "02 5132 2388",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35392",
+                "title": "Cyber and Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.johnson@health.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1975",
+                "title": "Data and Analytics Platform Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Damien Hobbin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "damien.hobbin@health.gov.au",
+                    "phone": "07 2114 2495",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1976",
+                "title": "Health Business Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jennifer Frisby",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jennifer.frisby@health.gov.au",
+                    "phone": "02 5132 2363",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48635",
+                "title": "NextEra Digital Taskforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma Hallam-Wilcock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.hallam@health.gov.au",
+                    "phone": "02 5132 4301",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1974",
+                "title": "Service Operations and Infrastructure",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Jonathan Leen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jonathan.leen@health.gov.au",
+                    "phone": "02 5132 6387",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3296",
+            "title": "Legal",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Miriam Moore",
+                "vacant": false,
+                "acting": false,
+                "email": "miriam.moore@health.gov.au",
+                "phone": "02 5132 2624",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52352",
+                "title": "Commercial and Information Law",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.white@health.gov.au",
+                    "phone": "02 5132 6998",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2046",
+                "title": "Legal Advice and Legislation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Christina Johnston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.johnston@health.gov.au",
+                    "phone": "02 5132 1386",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2047",
+                "title": "Litigation, Corporate and Compliance Law",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Danae Paxinos",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "danae.paxinos@health.gov.au",
+                    "phone": "02 5132 2970",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Melissa Purdy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melissa.purdy@health.gov.au",
+                    "phone": "02 5132 3205",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3297",
+            "title": "People, Communication and Parliamentary",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Amy Laffan",
+                "vacant": false,
+                "acting": false,
+                "email": "amy.laffan@health.gov.au",
+                "phone": "02 5132 6259",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2773",
+                "title": "Communication Strategies and Campaigns",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Leanne Ringwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leanne.ringwood@health.gov.au",
+                    "phone": "02 5132 5282",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52035",
+                "title": "Corporate Communication",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jodie Grieve",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jodie.grieve@health.gov.au",
+                    "phone": "02 5132 4218",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47412",
+                "title": "Integrity and Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stefanie Janiec",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stefanie.janic@health.gov.au",
+                    "phone": "02 5132 4780",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2048",
+                "title": "Ministerial and Parliamentary Support",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jo Hutchinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.hutchinson@health.gov.au",
+                    "phone": "02 5132 1806",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2771",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Emma Purdy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.purdy@health.gov.au",
+                    "phone": "02 5132 3204",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Sam Hollins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.hollins@health.gov.au",
+                    "phone": "02 5132 4388",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35391",
+                "title": "Workplace and Culture",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jo Mond",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.mond@health.gov.au",
+                    "phone": "02 5132 2606",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2285",
+        "title": "Departmental Executive",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1652",
+            "title": "Executive",
+            "roles": [
+              {
+                "role": "Secretary",
+                "person": "Blair Comley",
+                "vacant": false,
+                "acting": false,
+                "email": "blair.comley@health.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Anthony Lawler",
+                "vacant": false,
+                "acting": false,
+                "email": "anthony.lawler@health.gov.au",
+                "phone": "02 5132 8223",
+                "importance": 2
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Celia Street",
+                "vacant": false,
+                "acting": false,
+                "email": "celia.street@health.gov.au",
+                "phone": "02 5132 3759",
+                "importance": 3
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Sonja Stewart",
+                "vacant": false,
+                "acting": false,
+                "email": "sonja.stewart@health.gov.au",
+                "phone": "02 5132 2475",
+                "importance": 4
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Penny Shakespeare",
+                "vacant": false,
+                "acting": false,
+                "email": "penny.shakespeare@health.gov.au",
+                "phone": "02 5132 3350",
+                "importance": 5
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Liz Develin",
+                "vacant": false,
+                "acting": false,
+                "email": "liz.develin@health.gov.au",
+                "phone": "02 5132 1788",
+                "importance": 6
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Mary Wood",
+                "vacant": false,
+                "acting": false,
+                "email": "mary.wood@health.gov.au",
+                "phone": "02 5132 2461",
+                "importance": 7
+              },
+              {
+                "role": "Chief Operating Officer",
+                "person": "Rachel Balmanno",
+                "vacant": false,
+                "acting": false,
+                "email": "rachel.balmanno@health.gov.au",
+                "phone": "02 5132 0917",
+                "importance": 8
+              },
+              {
+                "role": "Chief Medical Officer",
+                "person": "Michael Kidd",
+                "vacant": false,
+                "acting": false,
+                "email": "michael.kidd@health.gov.au",
+                "phone": "02 5132 7925",
+                "importance": 9
+              },
+              {
+                "role": "Deputy Secretary",
+                "person": "Robyn Shannon",
+                "vacant": false,
+                "acting": false,
+                "email": "robyn.shannon@health.gov.au",
+                "phone": "",
+                "importance": 10
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "52336",
+        "title": "Disability and Carers",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Mary Wood",
+            "vacant": false,
+            "acting": false,
+            "email": "mary.wood@health.gov.au",
+            "phone": "02 5132 2461",
+            "importance": 1
+          },
+          {
+            "role": "Chief Disability Advisor",
+            "person": "James MacIsaac",
+            "vacant": false,
+            "acting": false,
+            "email": "james.macisaac@health.gov.au",
+            "phone": "03 8537 0813",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52337",
+            "title": "Carers, Autism, Markets and Safeguards",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Ross Schafer",
+                "vacant": false,
+                "acting": false,
+                "email": "ross.schafer@health.gov.au",
+                "phone": "02 5132 6926",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52345",
+                "title": "Carers, Autism and Early Childhood",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lydia Ross",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lydia.ross@health.gov.au",
+                    "phone": "02 5132 6744",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52342",
+                "title": "Markets and Workforce Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alex Abel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alexander.abel@health.gov.au",
+                    "phone": "02 5132 0022",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52341",
+                "title": "Quality and Safeguards Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Carita Davis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "carita.davis@health.gov.au",
+                    "phone": "02 5132 1598",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52338",
+            "title": "Disability Strategy, Support and Inclusion",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Genevieve Quilty",
+                "vacant": false,
+                "acting": false,
+                "email": "genevieve.quilty@health.gov.au",
+                "phone": "02 5132 6883",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52344",
+                "title": "Advocacy and Inclusion Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Suzanne Muir",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "suzanne.muir@health.gov.au",
+                    "phone": "02 5132 6910",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52346",
+                "title": "Australia’s Disability Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jodi Cassar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jodi.cassar@health.gov.au",
+                    "phone": "02 7232 5457",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52340",
+            "title": "NDIS Strategy and Policy",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Erin Rule",
+                "vacant": false,
+                "acting": false,
+                "email": "erin.rule@health.gov.au",
+                "phone": "02 5132 2471",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52343",
+                "title": "Disability Evidence",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Louise O'Rance",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lousie.o'rance@health.gov.au",
+                    "phone": "02 5132 6659",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52351",
+                "title": "NDIS Legislation, Policy and Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Hawke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.hawke@health.gov.au",
+                    "phone": "02 5132 6875",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52349",
+                "title": "NDIS Strategy and Governance",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Nerissa Stewart",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nerissa.stewart@health.gov.au",
+                    "phone": "02 5132 7034",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54594",
+            "title": "NDIS Sustainability Taskforce",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Anthea Long",
+                "vacant": false,
+                "acting": false,
+                "email": "anthea.long@health.gov.au",
+                "phone": "02 5132 0540",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53812",
+            "title": "Thriving Kids Taskforce",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Gabriela Pulczynski",
+                "vacant": false,
+                "acting": false,
+                "email": "gabriela.pulczynski@health.gov.au",
+                "phone": "03 7041 0268",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52347",
+                "title": "Foundational Support Reforms",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lisha Jackman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisha.jackman@health.gov.au",
+                    "phone": "02 5132 6338",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2287",
+        "title": "Health Products Regulation",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Anthony Lawler",
+            "vacant": false,
+            "acting": false,
+            "email": "anthony.lawler@health.gov.au",
+            "phone": "0251328223",
+            "importance": 1
+          },
+          {
+            "role": "Chief Medical Advisor",
+            "person": "Robyn Langham",
+            "vacant": false,
+            "acting": false,
+            "email": "robyn.langham@health.gov.au",
+            "phone": "02 5132 6409",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2370",
+            "title": "Australian Industrial Chemicals Introduction Scheme",
+            "roles": [
+              {
+                "role": "Executive Director",
+                "person": "Graeme Barden",
+                "vacant": false,
+                "acting": false,
+                "email": "graeme.barden@industrialchemicals.gov.au",
+                "phone": "02 7232 5103",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2369",
+                "title": "Regulatory Integrity and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Rumble",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.rumble@industrialchemicals.gov.au",
+                    "phone": "02 7232 5882",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48632",
+                "title": "Regulatory Science",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Claire Larter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "claire.larter@industrialchemicals.gov.au",
+                    "phone": "02 5132 6417",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1915",
+            "title": "Medical Devices and Product Quality",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tracey Duffy",
+                "vacant": false,
+                "acting": false,
+                "email": "tracey.duffy@health.gov.au",
+                "phone": "02 5132 1836",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1922",
+                "title": "Laboratories",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lisa Kerr",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisa.kerr@health.gov.au",
+                    "phone": "02 5132 6174",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1923",
+                "title": "Manufacturing Quality",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Hongxia Jin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "hongxia.jin@health.gov.au",
+                    "phone": "02 5132 4604",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1921",
+                "title": "Medical Devices Authorisation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "John Jamieson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "john.jamieson@health.gov.au",
+                    "phone": "02 5132 4764",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1924",
+                "title": "Medical Devices Survelliance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Marcelle Noja",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marcelle.noja@health.gov.au",
+                    "phone": "02 5132 4981",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1914",
+            "title": "Medicines Regulation",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Nick Henderson",
+                "vacant": false,
+                "acting": false,
+                "email": "nick.henderson@health.gov.au",
+                "phone": "02 5132 4449",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1918",
+                "title": "Complementary and OTC Medicines",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Avinash Clarke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "avinash.clarke@health.gov.au",
+                    "phone": "02 5132 1436",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35270",
+                "title": "International Regulatory",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michael Wiseman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.wiseman@health.gov.au",
+                    "phone": "02 5132 5702",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1919",
+                "title": "Pharmacovigilance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tahli Fenner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tahli.fenner@health.gov.au",
+                    "phone": "02 5132 2082",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1917",
+                "title": "Prescription Medicines Authorisation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrew Simpson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.simpson@health.gov.au",
+                    "phone": "02 5132 3553",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1920",
+                "title": "Scientific Evaluation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "George Vuckovic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "george.vuckovic@health.gov.au",
+                    "phone": "02 5132 0130",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2041",
+            "title": "Office of the Gene Technology Regulator",
+            "roles": [
+              {
+                "role": "Gene Technology Regulator",
+                "person": "Rajumati Bhula",
+                "vacant": false,
+                "acting": false,
+                "email": "raj.bhula@health.gov.au",
+                "phone": "02 5132 3966",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "35288",
+                "title": "Regulatory Practice and Compliance",
+                "roles": [
+                  {
+                    "role": "Executive Director",
+                    "person": "Neil Ellis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "neil.ellis@health.gov.au",
+                    "phone": "02 5132 2008",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "53786",
+            "title": "Regulatory Legal Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Bridget Gilmour-Walsh",
+                "vacant": false,
+                "acting": false,
+                "email": "bridget.gilmour-walsh@health.gov.au",
+                "phone": "02 5132 3951",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53788",
+                "title": "Dispute Resolution, Compliance and Commercial",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sascha Gelfand",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sascha.gelfand@health.gov.au",
+                    "phone": "03 7071 9660",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53787",
+                "title": "Legislation, Advice and FOI",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Fintan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dave.fintan@health.gov.au",
+                    "phone": "02 5132 3865",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1916",
+            "title": "Regulatory Practice and Support",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Chris Bedford",
+                "vacant": false,
+                "acting": false,
+                "email": "chris.bedford@health.gov.au",
+                "phone": "02 5132 0659",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40772",
+                "title": "HPRG Transformation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cindy Toms",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cindy.toms@health.gov.au",
+                    "phone": "02 5132 3447",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1925",
+                "title": "Office of Drug Control",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Avi Rebera",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "avi.rebera@health.gov.au",
+                    "phone": "02 5132 5207",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1926",
+                "title": "Regulatory Compliance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tracey Lutton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tracey.lutton@health.gov.au",
+                    "phone": "02 5132 6628",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2006",
+                "title": "Regulatory Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Syme",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.syme@health.gov.au",
+                    "phone": "02 5132 3854",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47484",
+                "title": "Vaping Implementation and Enforcement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ashley McLachlan-Bent",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ashley.mclachlan-bent@health.gov.au",
+                    "phone": "02 5132 7067",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2286",
+        "title": "Health Resourcing",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Penny Shakespeare",
+            "vacant": false,
+            "acting": false,
+            "email": "penny.shakespeare@health.gov.au",
+            "phone": "02 5132 3350",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2755",
+            "title": "Benefits Integrity",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Matthew Williams",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.williams@health.gov.au",
+                "phone": "02 5156 1122",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2758",
+                "title": "Fraud and Integrity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Evenden",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.evenden@health.gov.au",
+                    "phone": "02 5132 2096",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2760",
+                "title": "Health Integrity Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Narelle Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "narelle.smith@health.gov.au",
+                    "phone": "02 5132 3477",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2759",
+                "title": "Health Professionals Compliance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anthony McEachran",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anthony.mceachran@health.gov.au",
+                    "phone": "02 5132 2565",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2756",
+                "title": "Risk Analysis and Management, Data and Enterprise Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alice Creelman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alice.creelman@health.gov.au",
+                    "phone": "02 5132 1203",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Luke Bricknell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.bricknell@health.gov.au",
+                    "phone": "03 6175 7010",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42422",
+                "title": "Strategy and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Brigid Dohnt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brigid.dohnt@health.gov.au",
+                    "phone": "08 6185 8735",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47504",
+            "title": "Health Security and Immunisation",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Anna Peatt",
+                "vacant": false,
+                "acting": false,
+                "email": "anna.peatt@health.gov.au",
+                "phone": "02 5132 2974",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "35867",
+                "title": "Health Emergency Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Ness",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.ness@health.gov.au",
+                    "phone": "02 5132 4913",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35869",
+                "title": "Health Security and Medical Countermeasures",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Samira Hassan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samira.hassan@health.gov.au",
+                    "phone": "02 5132 4105",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47508",
+                "title": "Immunisation Assessment Systems and Access",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dave McNally",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dave.mcnally@health.gov.au",
+                    "phone": "02 5132 2426",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47507",
+                "title": "Immunisation Transformation, Supply and Distribution",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rachelle Davis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachelle.davis@health.gov.au",
+                    "phone": "02 5132 1610",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1939",
+            "title": "Medicare Benefits and Digital Health",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Daniel McCabe",
+                "vacant": false,
+                "acting": false,
+                "email": "daniel.mccabe@health.gov.au",
+                "phone": "02 6289 5306",
+                "importance": 1
+              },
+              {
+                "role": "Australian Health Genomics Commissioner",
+                "person": "Tiffany Boughtwood",
+                "vacant": false,
+                "acting": false,
+                "email": "tiffany.boughtwood@health.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Medical Officer",
+                "person": "Andrew Singer",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.singer@health.gov.au",
+                "phone": "02 5132 3600",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39022",
+                "title": "Care Integration and Access",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Matthew Castle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matthew.castle@health.gov.au",
+                    "phone": "02 5132 1236",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2799",
+                "title": "Diagnostic Imaging and Pathology",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mary Warner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mary.warner@health.gov.au",
+                    "phone": "02 5132 5605",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2757",
+                "title": "Digital Health",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Simon Cleverley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "simon.cleverley@health.gov.au",
+                    "phone": "02 5132 1454",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51180",
+                "title": "Genomics Australia",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Renaye Lucchese",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "renaye.lucchese@health.gov.au",
+                    "phone": "02 5132 6600",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2761",
+                "title": "MBS Policy and Reviews",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Louise Riley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "louise.riley@health.gov.au",
+                    "phone": "02 5132 5276",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1948",
+                "title": "MBS Policy and Specialist Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nigel Murray",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nigel.murray@health.gov.au",
+                    "phone": "02 5132 2785",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1941",
+            "title": "Technology Assessment and Access",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Duncan McIntyre",
+                "vacant": false,
+                "acting": false,
+                "email": "duncan.mcintyre@health.gov.au",
+                "phone": "02 5132 2377",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1952",
+                "title": "Community Access Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Norris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.norris@health.gov.au",
+                    "phone": "02 5132 4997",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1950",
+                "title": "PBS Listing Pricing and Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rebecca Richardson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rebecca.richardson@health.gov.au",
+                    "phone": "02 5132 7077",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35385",
+                "title": "Pharmaceutical Assessment",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrew Rintoul",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.rintoul@health.gov.au",
+                    "phone": "02 5132 5283",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1953",
+                "title": "Technology Assessment and Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anne-marie Boxall",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anne-marie.boxall@health.gov.au",
+                    "phone": "02 5132 0913",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1945",
+            "title": "Workforce",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Eliza Strapp",
+                "vacant": false,
+                "acting": false,
+                "email": "eliza.strapp@health.gov.au",
+                "phone": "02 5132 3757",
+                "importance": 1
+              },
+              {
+                "role": "Acting Deputy Chief Medical Officer",
+                "person": "Susan Wearne",
+                "vacant": false,
+                "acting": false,
+                "email": "susan.wearne@health.gov.au",
+                "phone": "02 5132 5642",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "35278",
+                "title": "Aged Care Workforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephanie Kaiser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephanie.kaiser@health.gov.au",
+                    "phone": "02 5132 6723",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51177",
+                "title": "Primary Care and Workforce Reviews Taskforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nick Morgan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nick.morgan@health.gov.au",
+                    "phone": "02 5132 2638",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1678",
+                "title": "Rural and First Nations Workforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sean Lane",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sean.lane@health.gov.au",
+                    "phone": "02 5132 6401",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35386",
+                "title": "Workforce Distribution",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stewart Webster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stewart.webster@health.gov.au",
+                    "phone": "02 5132 5759",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1677",
+                "title": "Workforce Strategies",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Natalie Bekis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natalie.bekis@health.gov.au",
+                    "phone": "03 7041 0094",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1676",
+                "title": "Workforce Training",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mike Pope",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mike.pope@health.gov.au",
+                    "phone": "02 5132 3133",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2289",
+        "title": "Inquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1654",
+            "title": "Freedom of Information",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1657",
+            "title": "General",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1655",
+            "title": "Library Services",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1656",
+            "title": "Media",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1658",
+            "title": "National Information Lines",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1653",
+            "title": "Publications",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2290",
+        "title": "Primary Care, Community and First Nations",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Liz Develin",
+            "vacant": false,
+            "acting": false,
+            "email": "liz.develin@health.gov.au",
+            "phone": "02 5132 1788",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2042",
+            "title": "Chronic Conditions and Screening",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Ariane Hermann",
+                "vacant": false,
+                "acting": false,
+                "email": "ariane.hermann@health.gov.au",
+                "phone": "02 5132 4475",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1957",
+                "title": "Cancer and Palliative Care",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Mel Caldow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "melissa.caldow@health.gov.au",
+                    "phone": "02 5132 1823",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2766",
+                "title": "Chronic Conditions and Hearing",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jess Pratt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jessica.pratt@health.gov.au",
+                    "phone": "02 5132 3159",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39020",
+                "title": "Screening Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jo Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.smith3@health.gov.au",
+                    "phone": "02 5132 4615",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1956",
+                "title": "Screening Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Perdi Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "perdi.mitchell@health.gov.au",
+                    "phone": "02 5132 2774",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1927",
+            "title": "First Nations Health",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Melinda Turner",
+                "vacant": false,
+                "acting": false,
+                "email": "melinda.turner@health.gov.au",
+                "phone": "02 5132 5669",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1673",
+                "title": "Policy, Partnerships and Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chantal Jackson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chantal.jackson@health.gov.au",
+                    "phone": "02 5132 4741",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1675",
+                "title": "Primary Health Care and Community Control",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Benjamin Barratt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.barratt@health.gov.au",
+                    "phone": "02 5132 4336",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1674",
+                "title": "Targeted Health Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Thomas Lester",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "thomas.lester@health.gov.au",
+                    "phone": "02 5132 5263",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1929",
+            "title": "Mental Health and Suicide Prevention",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Gavin Matthews",
+                "vacant": false,
+                "acting": false,
+                "email": "gavin.matthews@health.gov.au",
+                "phone": "02 5132 2493",
+                "importance": 1
+              },
+              {
+                "role": "Chief Psychiatrist - Mental Health",
+                "person": "Sophie Davison",
+                "vacant": false,
+                "acting": false,
+                "email": "chiefpsychiatrist@health.gov.au",
+                "phone": "02 6289 1555",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1935",
+                "title": "Child, Youth and Priority Populations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Laffan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.laffan@health.gov.au",
+                    "phone": "02 5132 6340",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2754",
+                "title": "Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Darius Everett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "darius.everett@health.gov.au",
+                    "phone": "02 5132 2098",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35286",
+                "title": "Suicide Prevention",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kristen Price",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kristen.price2@health.gov.au",
+                    "phone": "02 5132 3178",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1936",
+                "title": "System Enablers",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Krista Vanderheide",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "krista.vanderheide@health.gov.au",
+                    "phone": "03 7041 0000",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2753",
+                "title": "System Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma Gleeson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.gleeson@health.gov.au",
+                    "phone": "02 5132 4030",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "48644",
+            "title": "National Mental Health Commission",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "David McGrath",
+                "vacant": false,
+                "acting": false,
+                "email": "david.mcgrath@mentalhealthcommission.gov.au",
+                "phone": "02 7232 5184",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "48648",
+                "title": "National Suicide Prevention Office",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Alexander Hains",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.hains@nspo.gov.au",
+                    "phone": "02 7232 5707",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2043",
+            "title": "Population Health",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Trish Clancy",
+                "vacant": false,
+                "acting": false,
+                "email": "trish.clancy@health.gov.au",
+                "phone": "02 5132 7138",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1955",
+                "title": "Alcohol, Other Drugs and Food",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ben Mudaliar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.mudaliar@health.gov.au",
+                    "phone": "02 5132 2810",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39011",
+                "title": "Prevention and Equity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rhiannon Box",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rhiannon.box@health.gov.au",
+                    "phone": "02 5132 0946",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39999",
+                "title": "Tobacco & E-Cigarette Control",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Karlie Brown",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "karlie.brown@health.gov.au",
+                    "phone": "02 5132 0972",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1928",
+            "title": "Primary Care",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Mark Roddam",
+                "vacant": false,
+                "acting": false,
+                "email": "mark.roddam@health.gov.au",
+                "phone": "02 5132 5160",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47502",
+                "title": "MyMedicare and Bulk Billing Clinics",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jo Da Rocha",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.darocha@health.gov.au",
+                    "phone": "02 5132 1581",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51115",
+                "title": "Primary Care Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sam Peascod",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.peascod@health.gov.au",
+                    "phone": "02 5132 2984",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1910",
+                "title": "Primary Health Networks and Partnerships",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tracy Creech",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tracy.creech@health.gov.au",
+                    "phone": "02 5132 4567",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39023",
+                "title": "Urgent Care",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Sinclair",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.sinclair@health.gov.au",
+                    "phone": "02 5132 2661",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3292",
+        "title": "Systems Strategy",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Ceila Street",
+            "vacant": false,
+            "acting": false,
+            "email": "ceila.street@health.gov.au",
+            "phone": "02 5132 3759",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3295",
+            "title": "Evidence and Research",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Duncan Young",
+                "vacant": false,
+                "acting": false,
+                "email": "duncan.young@health.gov.au",
+                "phone": "03 6175 7121",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2769",
+                "title": "Data and Analytics",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kayla Jordan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kayla.jordan@health.gov.au",
+                    "phone": "07 2114 2531",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2768",
+                "title": "Health Modelling, Partnerships and Evaluation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nicholas Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicholas.johnson@health.gov.au",
+                    "phone": "02 5132 2523",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2770",
+                "title": "Health and Medical Research Office",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Natasha Ploenges",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "natasha.ploenges@health.gov.au",
+                    "phone": "02 5132 3120",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52021",
+            "title": "Office of the Chief Health Economist",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Emily Lancsar",
+                "vacant": false,
+                "acting": false,
+                "email": "emily.lancsar@health.gov.au",
+                "phone": "02 5132 6395",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "52022",
+                "title": "Health Economist",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Fifine Cahill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fifine.cahill@health.gov.au",
+                    "phone": "02 5132 1078",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "51106",
+            "title": "Portfolio Strategy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Ross Hawkins",
+                "vacant": false,
+                "acting": false,
+                "email": "ross.hawkins@health.gov.au",
+                "phone": "02 5132 4124",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "51108",
+                "title": "Budget Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kelly Fisher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kelly.fisher@health.gov.au",
+                    "phone": "02 5132 2167",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51109",
+                "title": "International Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Matthew Short",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matthew.short@health.gov.au",
+                    "phone": "02 5132 3538",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51110",
+                "title": "Private Hospital",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Brian Kelleher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brian.kelleher@health.gov.au",
+                    "phone": "02 5132 6145",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51111",
+                "title": "Private Hospital Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Paul McBride",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.mcbride@health.gov.au",
+                    "phone": "02 5132 2526",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51113",
+                "title": "Public Hospital System Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Caitlin O'Brien",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "caitlin.obrien@health.gov.au",
+                    "phone": "02 5132 6644",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51107",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anthea Raven",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anthea.raven@health.gov.au",
+                    "phone": "02 5132 5108",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "53792",
+            "title": "Professional Advisory Unit",
+            "roles": [
+              {
+                "role": "Chief Nursing and Midwifery Officer",
+                "person": "Alison McMillan",
+                "vacant": false,
+                "acting": false,
+                "email": "alison.mcmillan@health.gov.au",
+                "phone": "02 5132 2415",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "51116",
+                "title": "Chief Allied Health Officer",
+                "roles": [
+                  {
+                    "role": "Chief Allied Health Officer",
+                    "person": "Anita Hobson-Powell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anita.hobson-powell@health.gov.au",
+                    "phone": "07 2114 2749",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

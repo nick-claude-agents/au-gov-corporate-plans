@@ -1,0 +1,89 @@
+{
+  "content_id": "235",
+  "title": "National Competition Council",
+  "acronym": "NCC",
+  "portfolio": "Treasury",
+  "website": "http://ncc.gov.au/",
+  "description": "The National Competition Council is a research and advisory body which was established in 1995 by agreement of the Council of Australian Governments (COAG).<br />\n<br />\nThe Council's main function is to recommend on the regulation of third party access to services provided by monopoly infrastructure.  Section 29B of the Competition and Consumer Act 2010 sets out the functions and powers of the Council. The Council is an independent entity, which has an arrangement with the Australian Competition and Consumer Commission with respect to the provision of secretariat services.",
+  "dashboard_name": "National Competition Council",
+  "people_count": 5,
+  "tree": {
+    "content_id": "235",
+    "title": "National Competition Council",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1538",
+        "title": "Corporate Services and Communications",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1539",
+        "title": "National Access Regimes and Energy",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Scott Rogers",
+            "vacant": false,
+            "acting": false,
+            "email": "scott.rogers@ncc.gov.au",
+            "phone": "02 6243 1320",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1541",
+        "title": "National Competition Council",
+        "roles": [
+          {
+            "role": "President",
+            "person": "Katrina Groshinski",
+            "vacant": false,
+            "acting": false,
+            "email": "katrina.groshinski@ncc.gov.au",
+            "phone": "1800099470",
+            "importance": 2
+          },
+          {
+            "role": "Councillor",
+            "person": "Craig Emerson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6243 1320",
+            "importance": 3
+          },
+          {
+            "role": "Councillor",
+            "person": "Sally McMahon",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6243 1320",
+            "importance": 4
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1540",
+        "title": "Secretariat",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Scott Rogers",
+            "vacant": false,
+            "acting": false,
+            "email": "scott.rogers@ncc.gov.au",
+            "phone": "02 6243 1320",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

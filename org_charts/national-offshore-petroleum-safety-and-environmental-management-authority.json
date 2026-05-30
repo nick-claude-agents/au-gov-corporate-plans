@@ -1,0 +1,95 @@
+{
+  "content_id": "200",
+  "title": "National Offshore Petroleum Safety and Environmental Management Authority",
+  "acronym": "NOPSEMA",
+  "portfolio": "Industry, Science and Resources",
+  "website": "http://www.nopsema.gov.au",
+  "description": "The National Offshore Petroleum Safety and Environmental Management Authority (NOPSEMA) is Australia's independent expert regulator for health and safety, structural integrity, well integrity and environmental management for all offshore energy operations and greenhouse gas storage activities in Commonwealth waters, and in coastal waters where regulatory powers and functions have been conferred. <br />\n<br />\nNOPSEMA also administers the functions of the Offshore Infrastructure Regulator (OIR), for the offshore renewables industry. This includes the regulation of work health and safety, infrastructure integrity, and environmental management for offshore renewable energy infrastructure activities.",
+  "dashboard_name": "National Offshore Petroleum Safety and Environmental Management Authority",
+  "people_count": 7,
+  "tree": {
+    "content_id": "200",
+    "title": "National Offshore Petroleum Safety and Environmental Management Authority",
+    "roles": [
+      {
+        "role": "Deputy CEO, Strategic Regulation and Improvement",
+        "person": "Cameron Grebe",
+        "vacant": false,
+        "acting": false,
+        "email": "cameron.grebe@nopsema.gov.au",
+        "phone": "(08) 6188 8704",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3365",
+        "title": "Corporate and Business Transformation",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Charmain Fitzgerald",
+            "vacant": false,
+            "acting": false,
+            "email": "charmain.fitzerald@nopsema.gov.au",
+            "phone": "(08) 6188 8706",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1679",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Executive Assistant to the CEO",
+            "person": "Leah Wilson",
+            "vacant": false,
+            "acting": false,
+            "email": "leah.wilson@nopsema.gov.au",
+            "phone": "(08) 6188 8944",
+            "importance": 999
+          },
+          {
+            "role": "Chief Executive Officer",
+            "person": "Susan (Sue) McCarrey",
+            "vacant": false,
+            "acting": false,
+            "email": "sue.mccarrey@nopsema.gov.au",
+            "phone": "(08) 6188 8808",
+            "importance": 999
+          },
+          {
+            "role": "Executive Director – Strategic Communications and Engagement",
+            "person": "Lisa Azzarello",
+            "vacant": false,
+            "acting": false,
+            "email": "lisa.azzarello@nopsema.gov.au",
+            "phone": "08 6188 8863",
+            "importance": 999
+          },
+          {
+            "role": "Deputy CEO - Regulatory Operations",
+            "person": "Graham Blair",
+            "vacant": false,
+            "acting": false,
+            "email": "graham.blair@nopsema.gov.au",
+            "phone": "08 6188 8703",
+            "importance": 999
+          },
+          {
+            "role": "Deputy CEO - Strategic Regulation and Improvement",
+            "person": "Cameron Grebe",
+            "vacant": false,
+            "acting": false,
+            "email": "cameron.grebe@nopsema.gov.au",
+            "phone": "08 6188 8704",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

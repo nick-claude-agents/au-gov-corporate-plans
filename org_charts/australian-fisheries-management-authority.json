@@ -1,0 +1,91 @@
+{
+  "content_id": "109",
+  "title": "Australian Fisheries Management Authority",
+  "acronym": "AFMA",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "http://www.afma.gov.au/",
+  "description": "The Australian Fisheries Management Authority (AFMA) is the Australian Government agency responsible for the efficient and sustainable management of Commonwealth fish resources on behalf of the Australian community. AFMA was established under and is governed by the Fisheries Administration Act 1991. <br />\n<br />\nAFMA manages Commonwealth commercial fisheries across an extensive marine area generally extending from three nautical miles out to sea to the extent of the Australian Fishing Zone including Australian fishing vessels operating on the High Seas. Under its foreign compliance functions, AFMA works with other Australian Government agencies and its international counterparts to deter illegal fishing in the Australian Fishing Zone. AFMA also provides fisheries management services to Joint Authorities of the Commonwealth and state governments, including the Torres Strait Protected Zone Joint Authority (PZJA). <br />\n<br />\nAFMA has a Commission (not Board). Max no. of members: no more than 8 part-time Commissioners (including the Chair) plus the CEO.<br />\n<br />\nThe commission performs and exercises all the domestic fisheries management functions and powers of AFMA. It is responsible for ensuring that all boats operating within the AFZ or a fishery under a fishing concession or port permit issued by AFMA, and people on such boats, comply with the fisheries management arrangements. This covers all fishing operations in the zone other than illegal fishing by foreign boats. It also covers all fishing outside the AFZ licensed by AFMA. The commission’s responsibilities include:<br />\n•\tmanaging Commonwealth fisheries efficiently and sustainably<br />\n•\tallocating and managing statutory fishing concessions, fishing licences, fishing permits and fish receiver permits <br />\n•\tissuing scientific and port permits to foreign boats<br />\n•\tdeveloping management plans and harvest strategies for fisheries <br />\n•\tsetting quotas and determinations for target species, bycatch species, fishing effort, fishing gear, the area of the fisheries and requirements on fishers and fish receivers to collect and report information<br />\n•\tensuring compliance with domestic fisheries management arrangements and taking action against breaches of them<br />\n•\testablishing management advisory committees and other committees to assist with performing functions and exercising powers.",
+  "dashboard_name": "Australian Fisheries Management Authority",
+  "people_count": 5,
+  "tree": {
+    "content_id": "109",
+    "title": "Australian Fisheries Management Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Wez Norris",
+        "vacant": false,
+        "acting": false,
+        "email": "wez.norris@afma.gov.au",
+        "phone": "0411 885 566",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49404",
+        "title": "Corporate Services",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Mira Bacelj",
+            "vacant": false,
+            "acting": false,
+            "email": "mira.bacelj@afma.gov.au",
+            "phone": "02 6225 5326",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49407",
+        "title": "Fisheries Information & Services",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Anna Willock",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.willock@afma.gov.au",
+            "phone": "0436 006 058",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49405",
+        "title": "Fisheries Management",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Anna Willock",
+            "vacant": false,
+            "acting": false,
+            "email": "anna.willock@afma.gov.au",
+            "phone": "0436 006 058",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49406",
+        "title": "Fisheries Operations",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Justin Bathurst",
+            "vacant": false,
+            "acting": false,
+            "email": "justin.bathurst@afma.gov.au",
+            "phone": "02 6225 5316",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "content_id": "242",
+  "title": "Independent Parliamentary Expenses Authority",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "",
+  "description": "The core functions of the Independent Parliamentary Expenses Authority (IPEA) are to audit and report on parliamentarians’ work expenses. It will also provide advice, monitor and administer claims for travel expenses and allowances by parliamentarians and their employees, ensuring that taxpayers' funds are spent appropriately and in compliance with the relevant principles and regulations. From 1 July 2017, the Independent Parliamentary Expenses Authority has been established as a Commonwealth statutory authority.",
+  "dashboard_name": "Independent Parliamentary Expenses Authority",
+  "people_count": 4,
+  "tree": {
+    "content_id": "242",
+    "title": "Independent Parliamentary Expenses Authority",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Christina Grant",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3182",
+        "title": "Corporate, Governance and Strategy",
+        "roles": [
+          {
+            "role": "Branch Manager",
+            "person": "Michael Frost",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.frost@ipea.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3183",
+        "title": "Transparency,Assurance and Legal",
+        "roles": [
+          {
+            "role": "A/g Branch Manager",
+            "person": "Judith Winternitz",
+            "vacant": false,
+            "acting": false,
+            "email": "judith.winternitz@ipea.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3184",
+        "title": "Travel, Education and Advice",
+        "roles": [
+          {
+            "role": "Branch Manager",
+            "person": "Marco Spaccavento",
+            "vacant": false,
+            "acting": false,
+            "email": "marco.spaccavento@ipea.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

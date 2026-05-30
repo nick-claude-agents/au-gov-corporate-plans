@@ -1,0 +1,194 @@
+{
+  "content_id": "209",
+  "title": "Department of the Senate",
+  "acronym": "",
+  "portfolio": "Parliamentary Departments (not a portfolio)",
+  "website": "http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Department_of_the_Senate",
+  "description": "The Department of the Senate provides the Senate, its committees, the President of the Senate and Senators with a broad range of advisory and support services related to the exercise of the legislative power of the Commonwealth. Part of the Department of the Senate, the Parliamentary Education Office provides a wealth of information on Parliament by facilitating education programs, including role-plays, for over 90,000 students per year. They also create a range of engaging print and online resources about the work of the federal Parliament.<br />\n<br />\nThe Senate contains a number of Standing Committees, Select Committees and Joint Committees; for further details refer to:<br />\nhttp://www.aph.gov.au/Parliamentary_Business/Committees/Senate",
+  "dashboard_name": "Department of the Senate",
+  "people_count": 12,
+  "tree": {
+    "content_id": "209",
+    "title": "Department of the Senate",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1727",
+        "title": "Black Rod's Office",
+        "roles": [
+          {
+            "role": "Usher of the Black Rod",
+            "person": "John Begley",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6277 3398",
+            "importance": 1
+          },
+          {
+            "role": "Director, Senators' Services",
+            "person": "John Baczynski",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6277 3378",
+            "importance": 999
+          },
+          {
+            "role": "Chief Finance Officer",
+            "person": "Fiona O'Loughlin",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6277 3897",
+            "importance": 999
+          },
+          {
+            "role": "Director, Human Resource Management",
+            "person": "Bianca Wellington",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6277 5757",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1728",
+        "title": "Committee Office",
+        "roles": [
+          {
+            "role": "Senior Clerk of Committees",
+            "person": "Jeanette Radcliffe",
+            "vacant": false,
+            "acting": false,
+            "email": "seniorclerk.committees.sen@aph.gov.au",
+            "phone": "(02) 6277 3506",
+            "importance": 999
+          },
+          {
+            "role": "Clerk Assistant (Committees)",
+            "person": "Rachel Callinan",
+            "vacant": false,
+            "acting": false,
+            "email": "ca.committees.sen@aph.gov.au",
+            "phone": "(02) 6277 3371",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1729",
+        "title": "Office of the Clerk",
+        "roles": [
+          {
+            "role": "Clerk of the Senate",
+            "person": "Richard Pye",
+            "vacant": false,
+            "acting": false,
+            "email": "clerk.sen@aph.gov.au",
+            "phone": "(02) 6277 3350",
+            "importance": 999
+          },
+          {
+            "role": "Deputy Clerk of the Senate",
+            "person": "Jackie Morris",
+            "vacant": false,
+            "acting": false,
+            "email": "depclerk.sen@aph.gov.au",
+            "phone": "(02) 6277 3360",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1730",
+        "title": "Procedure Office",
+        "roles": [
+          {
+            "role": "Clerk Assistant (Procedure)",
+            "person": "Toni Matulick",
+            "vacant": false,
+            "acting": false,
+            "email": "ca.procedure.sen@aph.gov.au",
+            "phone": "(02) 6277 3380",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1732",
+            "title": "Parliamentary Education",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Bonnie Allan",
+                "vacant": false,
+                "acting": false,
+                "email": "bonnie.allan@aph.gov.au",
+                "phone": "(02) 6277 6508",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1731",
+            "title": "Research",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Glenn Ryall",
+                "vacant": false,
+                "acting": false,
+                "email": "research.sen@aph.gov.au",
+                "phone": "(02) 6277 3232",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1733",
+        "title": "Table Office",
+        "roles": [
+          {
+            "role": "Clerk Assistant (Table)",
+            "person": "Tim Bryant",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6277 3020",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1736",
+            "title": "Documents",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1735",
+            "title": "General inquiries",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1734",
+            "title": "Legislation",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

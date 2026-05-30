@@ -1,0 +1,62 @@
+{
+  "content_id": "150",
+  "title": "Royal Australian Air Force Veterans' Residences Trust Fund",
+  "acronym": "RAAFVRT",
+  "portfolio": "Defence",
+  "website": "https://www.airforce.gov.au/community/members-and-veterans/veterans-residences-trust",
+  "description": "RAAF Veterans' Residences Trust was established by a for the purpose of providing residences for former members of the Air Force and their families who are in necessitous circumstances.<br />\n<br />\nThe capital of the Trust was created from a prize captured by Commonwealth Air Forces during World War II. The Air Force share of the prize money amounted to $458,000. Over the years, this money has been invested and applied to obtain 76 residences throughout Australia. They are located in: Brisbane, Sydney, Melbourne, Adelaide and Hobart.<br />\n<br />\nThe residences generally comprises a one or two-bedroom unfurnished but self-contained unit.",
+  "dashboard_name": null,
+  "people_count": 5,
+  "tree": {
+    "content_id": "150",
+    "title": "Royal Australian Air Force Veterans' Residences Trust Fund",
+    "roles": [
+      {
+        "role": "Deputy Trustee",
+        "person": "Michelle McPhail",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 5
+      },
+      {
+        "role": "Chair",
+        "person": "David Tindal",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Manager",
+        "person": "Wayne Bingham",
+        "vacant": false,
+        "acting": false,
+        "email": "raaf.vrt@defence.gov.au",
+        "phone": "(03) 9256 0002",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Michelle Oakden",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "Peter L Finkelstein",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

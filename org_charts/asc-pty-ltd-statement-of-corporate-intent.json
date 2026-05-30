@@ -1,0 +1,26 @@
+{
+  "content_id": "173",
+  "title": "ASC Pty Ltd",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "http://www.asc.com.au/",
+  "description": "ASC Pty Ltd is Australia’s sovereign submarine company which, as part of the Australian Submarine Enterprise with the Royal Australian Navy and Department of Defence, ensures the sovereign sustainment, upgrade and life-of-type extension of the Collins Class submarine fleet. ASC is also the contracted shipbuilder of the Air Warfare Destroyer program and Offshore Patrol Vessel program at the Osborne Naval Shipyard, Adelaide.",
+  "dashboard_name": "ASC Pty Ltd Statement of Corporate Intent",
+  "people_count": 1,
+  "tree": {
+    "content_id": "173",
+    "title": "ASC Pty Ltd",
+    "roles": [
+      {
+        "role": "Acting CEO",
+        "person": "Alex Walsh",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

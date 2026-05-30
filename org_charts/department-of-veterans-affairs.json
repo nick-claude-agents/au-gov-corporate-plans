@@ -1,0 +1,1499 @@
+{
+  "content_id": "246",
+  "title": "Department of Veterans' Affairs",
+  "acronym": "DVA",
+  "portfolio": "Veterans' Affairs (part of the Defence Portfolio)",
+  "website": "http://www.dva.gov.au",
+  "description": "The Department of Veterans' Affairs (DVA) is a primary service delivery agency responsible for developing and implementing programs that assist the veteran and defence force communities. DVA also provides administrative support and staff for the Repatriation Commission and the Military Rehabilitation and Compensation Commission (MRCC).  The Department also administers other legislation, including the Defence Service Homes Act 1918 and the War Graves Act 1980.",
+  "dashboard_name": "Department of Veterans' Affairs (DVA)",
+  "people_count": 76,
+  "tree": {
+    "content_id": "246",
+    "title": "Department of Veterans' Affairs",
+    "roles": [
+      {
+        "role": "Secretary",
+        "person": "Alison Frame",
+        "vacant": false,
+        "acting": false,
+        "email": "secretary.dva@dva.gov.au",
+        "phone": "1800 Veteran (1800 838 372)",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2675",
+        "title": "Chief Health Officer Division",
+        "roles": [
+          {
+            "role": "Chief Health Officer",
+            "person": "Steph Davis",
+            "vacant": false,
+            "acting": false,
+            "email": "steph.davis@dva.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2367",
+            "title": "Deputy Chief Health Officer",
+            "roles": [
+              {
+                "role": "Deputy Chief Health Officer",
+                "person": "Anna Colwell",
+                "vacant": false,
+                "acting": false,
+                "email": "anna.colwell@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2368",
+            "title": "Principal Medical Advisor - Compensation",
+            "roles": [
+              {
+                "role": "Principal Medical Advisor - Compensation",
+                "person": "Fletcher Davies",
+                "vacant": false,
+                "acting": false,
+                "email": "fletcher.davies2@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40421",
+        "title": "Chief Operating Officer Group",
+        "roles": [
+          {
+            "role": "Chief Operating Officer and Deputy Secretary",
+            "person": "Brenton Philp",
+            "vacant": false,
+            "acting": false,
+            "email": "brenton.philp@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2701",
+            "title": "Chief People Officer Division",
+            "roles": [
+              {
+                "role": "Chief People Officer",
+                "person": "Katrina Jocumsen",
+                "vacant": false,
+                "acting": false,
+                "email": "katrina.jocumsen@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3489",
+                "title": "Integrity, Security & Property Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rodger McNally",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rodger.mcnally@dva.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2950",
+                "title": "People Services Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Abby Whiting",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "abby.whiting@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "51030",
+            "title": "Finance & Portfolio",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "David Pullen",
+                "vacant": false,
+                "acting": false,
+                "email": "david.pullen@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3486",
+                "title": "Finance & Procurement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nick Stanton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nick.stanton@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52296",
+                "title": "Housing Programs & Approved Accounts Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Wayne Perry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "wayne.perry@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2672",
+                "title": "Portfolio Management Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sally Dennington",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sally.dennington@dva.gov.au",
+                    "phone": "",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47630",
+            "title": "Legal & Audit Division",
+            "roles": [
+              {
+                "role": "Chief Counsel & CAE",
+                "person": "Petra Gartmann",
+                "vacant": false,
+                "acting": false,
+                "email": "petra.gartmann@dva.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47634",
+                "title": "Corporate Legal & Audit Branch",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Milli Wong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47635",
+                "title": "Dispute Resolution Branch",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Allyson Martin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "allyson.martin@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47633",
+                "title": "Information Law Branch",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Christina Raymond",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christina.raymond@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47636",
+                "title": "Legal Advice & Legislation",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Laura Winkler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "laura.wrinkler@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2780",
+            "title": "Technology, Digital & Data Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Alexander Caroly",
+                "vacant": false,
+                "acting": false,
+                "email": "alexander.caroly@dva.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47629",
+                "title": "Data and Insights Branch",
+                "roles": [
+                  {
+                    "role": "Chief Data Officer/Assistant Secretary",
+                    "person": "Alicja Mosbauer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alicja.mosbauer@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2708",
+                "title": "Digital Strategy and Planning Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Terri Dreyer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "terri.dreyer@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45048",
+                "title": "Technology Operations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kellie Sheriff",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kellie.sheriff@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "47952",
+        "title": "Chief Psychiatrist",
+        "roles": [
+          {
+            "role": "Chief Psychiatrist",
+            "person": "Jonathan Lane",
+            "vacant": false,
+            "acting": false,
+            "email": "jonathan.lane@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54125",
+            "title": "Assistant Secretary",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2669",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Alison Frame",
+            "vacant": false,
+            "acting": false,
+            "email": "secretary.dva@dva.gov.au",
+            "phone": "1800 Veteran (1800 838 372)",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "42656",
+            "title": "Chief Operating Officer & Deputy Secretary",
+            "roles": [
+              {
+                "role": "Chief Operating Officer & Deputy Secretary",
+                "person": "Brenton Philp",
+                "vacant": false,
+                "acting": false,
+                "email": "brenton.philp@dva.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2948",
+            "title": "Deputy President",
+            "roles": [
+              {
+                "role": "Deputy President",
+                "person": "Mark Brewer",
+                "vacant": false,
+                "acting": false,
+                "email": "mark.brewer@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "42628",
+            "title": "Deputy Secretary Policy & Programs",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Andrew Kefford",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.kefford@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "42657",
+            "title": "Deputy Secretary Veteran, Family & Stakeholder Experience",
+            "roles": [
+              {
+                "role": "Deputy Secretary Veteran, Family & Stakeholder Experience",
+                "person": "Alison McLaren",
+                "vacant": false,
+                "acting": false,
+                "email": "alison.mclaren@dva.gov.au",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "40423",
+        "title": "Policy & Programs Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Andrew Kefford",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.kefford@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47942",
+            "title": "Client Benefits Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tara Cavanagh",
+                "vacant": false,
+                "acting": true,
+                "email": "tara.cavanagh@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47938",
+                "title": "Initial Liability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michael Harper",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.harper@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47937",
+                "title": "Pensions & Payments",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ben Dalton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.dalton@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47940",
+                "title": "Permanent Impairment",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Samantha Patuto",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.patuto@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47941",
+                "title": "Program Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tara Hatzismalis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tara.hatzismalis@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2947",
+            "title": "Policy & Research Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Luke Brown",
+                "vacant": false,
+                "acting": false,
+                "email": "luke.brown@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2702",
+                "title": "Benefits Policy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Adam Weiderman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adam.weiderman@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2703",
+                "title": "Health & Wellbeing Policy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cath Haffner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cath.haffner@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47624",
+                "title": "Research, Evaluation & Privacy Assurance Branch Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ally Foat",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "ally.foat@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2690",
+            "title": "Program Delivery Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Peta Langeveld",
+                "vacant": false,
+                "acting": true,
+                "email": "peta.langeveld@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2679",
+                "title": "Health Programs & Services Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Simon Hill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "simon.hill@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51040",
+                "title": "Home & Community Care Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dylan Kurtz",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "dylan.kurtz@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35365",
+                "title": "Rehabilitation & Families Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kerrie Martain",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kerrie.martain@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54115",
+            "title": "Provider Integrity Division",
+            "roles": [
+              {
+                "role": "Integrity Capability",
+                "person": "Anthony Coles",
+                "vacant": false,
+                "acting": false,
+                "email": "anthony.coles@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54116",
+                "title": "Integrity Capability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sally Bradford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sally.bradford@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54117",
+                "title": "Integrity Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Marc Roberts",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marc.roberts@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2681",
+        "title": "Repatriation Commission",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2667",
+            "title": "Deputy President",
+            "roles": [
+              {
+                "role": "Deputy President",
+                "person": "Mark Brewer",
+                "vacant": false,
+                "acting": false,
+                "email": "mark.brewer@dva.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2666",
+            "title": "President",
+            "roles": [
+              {
+                "role": "President",
+                "person": "Alison Frame",
+                "vacant": false,
+                "acting": false,
+                "email": "secretary.dva@dva.gov.au",
+                "phone": "1800 Veteran (1800 838 372)",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2946",
+            "title": "Repatriation Commissioner",
+            "roles": [
+              {
+                "role": "Repatriation Commissioner",
+                "person": "Kahlil Fegan",
+                "vacant": false,
+                "acting": false,
+                "email": "repatriationcommissioner@dva.gov.au",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2709",
+            "title": "Veteran Family Advocate Commissioner",
+            "roles": [
+              {
+                "role": "Veteran Family Advocate Commissioner",
+                "person": "Annabelle Wilson",
+                "vacant": false,
+                "acting": false,
+                "email": "annabelle.wilson@repatriationcommission.gov.au",
+                "phone": "",
+                "importance": 4
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "38159",
+        "title": "Royal Commission Implementation",
+        "roles": [
+          {
+            "role": "First Assistant Secretary",
+            "person": "Debbie Arnold",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38160",
+            "title": "Royal Commission Implementation",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "51042",
+        "title": "Taskforce on Wellbeing Agency & Peak Body",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Teena Blewitt",
+            "vacant": false,
+            "acting": false,
+            "email": "teena.blewitt@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Deputy President",
+            "person": "Mark Brewer",
+            "vacant": false,
+            "acting": false,
+            "email": "mark.brewer@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Assistant Secretary",
+            "person": "Kerry Neal",
+            "vacant": false,
+            "acting": false,
+            "email": "kerry.neal@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Assistant Secretary",
+            "person": "Ally Foat",
+            "vacant": false,
+            "acting": false,
+            "email": "ally.foat@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Assistant Secretary",
+            "person": "Kirrily Magill",
+            "vacant": false,
+            "acting": false,
+            "email": "kirrily.magill@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "40579",
+        "title": "Veteran, Family & Stakeholder Experience Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Alison McLaren",
+            "vacant": false,
+            "acting": false,
+            "email": "alison.mclaren@dva.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2691",
+            "title": "Coordinated Client Support Branch",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Donna Thomas",
+                "vacant": false,
+                "acting": false,
+                "email": "donna.thomas@dva.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2677",
+            "title": "Deputy Commissioners - state locations",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "1414",
+                "title": "New South Wales/Australian Capital Territory",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner NSW/ACT",
+                    "person": "Katrina Jocumsen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katrina.jocumsen@dva.gov.au",
+                    "phone": "(02) 9213 7878",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1413",
+                "title": "Northern Territory",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner NT",
+                    "person": "Kacie Austin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kacie.austin@dva.gov.au",
+                    "phone": "(08) 8935 1430",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1412",
+                "title": "Queensland",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner QLD",
+                    "person": "Tara Hatzismalis",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "tara.hatzismalis@dva.gov.au",
+                    "phone": "(07) 3223 8462",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1411",
+                "title": "South Australia",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner SA",
+                    "person": "Jennifer Buckler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jennifer.buckler@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1409",
+                "title": "Tasmania",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner TAS",
+                    "person": "Sally Dennington",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sally.dennington@dva.gov.au",
+                    "phone": "(03) 6221 6615",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1410",
+                "title": "Victoria",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner VIC",
+                    "person": "Michael Harper",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.harper@dva.gov.au",
+                    "phone": "(03) 9284 6865",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2680",
+                "title": "Western Australia",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner WA",
+                    "person": "Samantha Patuto",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.patuto@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42631",
+            "title": "Ministerial, Engagement & Communications Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Paula Goodwin",
+                "vacant": false,
+                "acting": false,
+                "email": "paula.goodwin@dva.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42638",
+                "title": "Client & Information Access Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Joumana El Hassan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joumana.elhassan@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2676",
+                "title": "Communications Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ingrid Nagy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ingrid.nagy@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2710",
+                "title": "Ministerial, International & Stakeholder Relations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Amanda Conroy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.conroy@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2706",
+            "title": "Office of Australian War Graves",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Wade Stothart",
+                "vacant": false,
+                "acting": false,
+                "email": "wade.stothart@dva.gov.au",
+                "phone": "(02) 6120 8057",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2682",
+            "title": "Open Arms - Veterans and Families Counselling Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Leonie Nowland",
+                "vacant": false,
+                "acting": false,
+                "email": "leonie.nowland@dva.gov.aui",
+                "phone": "1800 Veteran (1800 838 372)",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42641",
+                "title": "Business Operations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Amanda Harmer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.harmer@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51052",
+                "title": "Clinical Governance & Programs",
+                "roles": [
+                  {
+                    "role": "Senior Director",
+                    "person": "Brook Shearer",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "brook.shearer@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42640",
+                "title": "Clinical Operations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michael Burvill",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "michael.burvill@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2024",
+                "title": "Open Arms - State Locations",
+                "roles": [],
+                "children": [
+                  {
+                    "content_id": "1403",
+                    "title": "Australian Capital Territory",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2087",
+                        "title": "Gungahlin",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2692",
+                        "title": "Phillip",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "1406",
+                    "title": "New South Wales",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2064",
+                        "title": "Lismore",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2694",
+                        "title": "Newcastle",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2066",
+                        "title": "Nowra",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2065",
+                        "title": "Parramatta",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "54199",
+                        "title": "Queanbeyan",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2063",
+                        "title": "Sydney",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2693",
+                        "title": "Wagga Wagga",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2068",
+                    "title": "Northern Territory",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2067",
+                        "title": "Darwin",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "1405",
+                    "title": "Queensland",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2077",
+                        "title": "Bundall",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2697",
+                        "title": "Cairns",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2080",
+                        "title": "Ipswich",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2078",
+                        "title": "Maroochydore",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2698",
+                        "title": "Maryborough",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2076",
+                        "title": "Mount Gravatt",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2081",
+                        "title": "Stafford",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2079",
+                        "title": "Townsville",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "1402",
+                    "title": "South Australia",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "54201",
+                        "title": "Daw Park",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1404",
+                        "title": "Eastwood",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1401",
+                        "title": "Elizabeth",
+                        "roles": [],
+                        "children": [
+                          {
+                            "content_id": "1407",
+                            "title": "Eastwood",
+                            "roles": [],
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "content_id": "54202",
+                        "title": "Hackham",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2082",
+                    "title": "Tasmania",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2085",
+                        "title": "Devonport",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2083",
+                        "title": "Hobart",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2084",
+                        "title": "Launceston",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2699",
+                    "title": "Victoria",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2070",
+                        "title": "Albury-Wodonga",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2071",
+                        "title": "Melbourne",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2069",
+                        "title": "Seymour",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2073",
+                    "title": "Western Australia",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "2074",
+                        "title": "Joondalup",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "54200",
+                        "title": "Mount Pleasant",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2075",
+                        "title": "Rockingham",
+                        "roles": [],
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "2704",
+            "title": "Veteran Experience & Transition Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Paula Goodwin",
+                "vacant": false,
+                "acting": false,
+                "email": "paula.goodwin@dva.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2705",
+                "title": "Commemorations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Kennedy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.kennedy@dva.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "44879",
+                "title": "Grants & Hubs Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jane Stuart",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.stuart@dva.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47933",
+                "title": "Transition Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Pullar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.pullar@dva.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

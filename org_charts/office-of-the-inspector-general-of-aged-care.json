@@ -1,0 +1,26 @@
+{
+  "content_id": "43757",
+  "title": "Office of the Inspector-General of Aged Care",
+  "acronym": "",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "https://www.igac.gov.au/",
+  "description": "The Office of the Inspector-General of Aged Care is an independent statutory agency led by the Inspector-General. Our role is to provide independent oversight of the aged care system through our core functions of reviews, monitoring and reporting. Primary functions include:<br />\n• review and report on the aged care system<br />\n• identify systemic and significant problems<br />\n• recommend changes<br />\n• increase accountability and transparency through reporting our findings to parliament, including on the implementation of Royal Commission recommendations.",
+  "dashboard_name": "Office of the Inspector-General of Aged Care",
+  "people_count": 1,
+  "tree": {
+    "content_id": "43757",
+    "title": "Office of the Inspector-General of Aged Care",
+    "roles": [
+      {
+        "role": "Inspector-General of Aged Care",
+        "person": "Natalie Siegel-Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

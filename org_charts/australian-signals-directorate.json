@@ -1,0 +1,197 @@
+{
+  "content_id": "93",
+  "title": "Australian Signals Directorate",
+  "acronym": "ASD",
+  "portfolio": "Defence",
+  "website": "https://www.asd.gov.au/",
+  "description": "Australian Signals Directorate’s purpose is to defend Australia against global threats and advance our national interests through the provision of foreign signals intelligence, cyber security and offensive cyber operations as directed by the Australian Government",
+  "dashboard_name": "Australian Signals Directorate (ASD)",
+  "people_count": 20,
+  "tree": {
+    "content_id": "93",
+    "title": "Australian Signals Directorate",
+    "roles": [
+      {
+        "role": "Director-General",
+        "person": "Abigail Bradshaw",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 1
+      },
+      {
+        "role": "Head of the Australian Cyber Security Centre",
+        "person": "Stephanie Crowe",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 2
+      },
+      {
+        "role": "Deputy Director-General Signals Intelligence and Effects Group",
+        "person": "Cameron Ashe",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 3
+      },
+      {
+        "role": "Deputy Director-General Capability and Transformation Group",
+        "person": "Sarah Collins",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 4
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Dale Furse",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 5
+      },
+      {
+        "role": "First Assistant Director-General Cyber Engagement and Strategy",
+        "person": "Jaycob McMahon",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 6
+      },
+      {
+        "role": "First Assistant Director-General Cyber Security Resilience",
+        "person": "Chris Horlyck",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 7
+      },
+      {
+        "role": "First Assistant Director-General Cyber Threat Intelligence",
+        "person": "Alan Marjan",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 8
+      },
+      {
+        "role": "First Assistant Director-General Access and Effects Operations",
+        "person": "Scott Logan",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 9
+      },
+      {
+        "role": "First Assistant Director-General Expeditionary and Transnational Intelligence",
+        "person": "Jason Begley",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 10
+      },
+      {
+        "role": "First Assistant Director-General Indo-Pacific and SIGINT Engagement",
+        "person": "Deanne Sowers",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 11
+      },
+      {
+        "role": "First Assistant Director-General Cloud",
+        "person": "Hugh Cameron",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 12
+      },
+      {
+        "role": "First Assistant Director-General Enterprise Technology",
+        "person": "Janice Law",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 13
+      },
+      {
+        "role": "First Assistant Director-General Mission Capability and Chief Technology Officer",
+        "person": "Karl Hanmore",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 14
+      },
+      {
+        "role": "First Assistant Director-General Mission Data",
+        "person": "Tauri Gregory",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 15
+      },
+      {
+        "role": "First Assistant Director-General Portfolio and Resilience",
+        "person": "Matt McKeon",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 16
+      },
+      {
+        "role": "First Assistant Director-General Legal, Compliance and Strategy",
+        "person": "Steve McGlynn",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 17
+      },
+      {
+        "role": "First Assistant Director-General Preparedness and Business Optimisation",
+        "person": "Derek Bopping",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 18
+      },
+      {
+        "role": "First Assistant Director-General People and Skills",
+        "person": "Tamara Spigelman",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 19
+      },
+      {
+        "role": "First Assistant Director-General Security, Finance and Property",
+        "person": "Mark Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "asd.assist@defence.gov.au",
+        "phone": "1300 292 371",
+        "importance": 20
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "213",
+  "title": "Anindilyakwa Land Council",
+  "acronym": "ALC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.anindilyakwa.com.au",
+  "description": "The Anindilyakwa Land Council (ALC) represents the Traditional Owners of the Groote archipelago. The ALC officially commenced in 1991; replacing the role previously carried out by the Northern Land Council (NLC). The NLC however, continues to function as the Native Title representative body for the Groote archipelago region. The ALC functions to ascertain and express the wishes and opinions of the Anindilyakwa people as to the management of the land in the Groote archipelago region, to protect interests of Traditional Owners, assist in protection of sacred sites, to consult with Traditional Owners with respect to proposals relating to use of land, to assist Traditional Owners in carrying out commercial activity and to supervise and provide administrative and other assistance for Land Trusts holding Indigenous land in the Groote archipelago region.<br />\n<br />\nThe ALC is responsible for land visitation to its area of control by non-indigenous people, monitoring illegal entry to lands, issuing of permits for visitation rights, ranger inspections and other daily management issues. The land controlled by the ALC includes Groote Eylandt, Bickerton Island and other islands of the Groote archipelago. It is mandatory for all non-Indigenous people visiting Groote Eylandt to hold a permit to visit non-leasehold Indigenous lands. The ALC administers this system on behalf of the Traditional Owners.",
+  "dashboard_name": "Anindilyakwa Land Council",
+  "people_count": 2,
+  "tree": {
+    "content_id": "213",
+    "title": "Anindilyakwa Land Council",
+    "roles": [
+      {
+        "role": "Chairman",
+        "person": "Cherelle Wurrawilya",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Kupa Teao",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

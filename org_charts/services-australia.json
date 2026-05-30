@@ -1,0 +1,3172 @@
+{
+  "content_id": "254",
+  "title": "Services Australia",
+  "acronym": "",
+  "portfolio": "Finance",
+  "website": "https://www.servicesaustralia.gov.au/",
+  "description": "Services Australia delivers social and health related services, through its Centrelink, Medicare and Child Support programmes. Through close collaboration with the community and partner agencies, Services Australia plays an active role in developing new approaches to social and health related policy and service delivery.",
+  "dashboard_name": "Services Australia",
+  "people_count": 198,
+  "tree": {
+    "content_id": "254",
+    "title": "Services Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "David Hazlehurst",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "47592",
+        "title": "Chief of Staff",
+        "roles": [
+          {
+            "role": "Chief of Staff",
+            "person": "Dale Dawson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2328",
+        "title": "Corporate Enabling",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Randall Brugeaud",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3405",
+            "title": "CFO",
+            "roles": [
+              {
+                "role": "Chief Financial Officer",
+                "person": "Angela Diamond",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1110",
+                "title": "Budget and Financial Management",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Doug Rutherford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1113",
+                "title": "Financial Systems, Policy and Reporting",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Adrian Bernroider",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3832",
+                "title": "Group Financial Management",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Michele Robinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2447",
+                "title": "Procurement",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Alison Frewin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1818",
+                "title": "Technology Sourcing",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Chris Flinders",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2534",
+            "title": "Corporate and Cross Government Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Teresa Blair",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3397",
+                "title": "Audit",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sally Bond",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3399",
+                "title": "Cross Government Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Andrea Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54213",
+                "title": "Face to Face Property Transformation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Julie Ballard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3398",
+                "title": "Payroll and Corporate Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Melinda Gabriel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 61557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3487",
+                "title": "Property and Corporate Support",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Stuart Brazendale",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3396",
+                "title": "Security",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Susan Goldsmid",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3406",
+            "title": "Legal Services Corporate",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "David Cooke",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3400",
+                "title": "Corporate Services Legal",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Lisa O'Donnell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3404",
+                "title": "FOI and Reviews",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Petrushka Mazur",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37308",
+                "title": "Privacy and Personal Information Release",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Nick Parmeter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54214",
+            "title": "Legal Services Customer",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "Cody Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54217",
+                "title": "Digital Privacy Legal",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Steph Robbie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54216",
+                "title": "Litigation",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Marian Agbinya",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54215",
+                "title": "Program Advisory Legal",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Vacant Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1835",
+            "title": "Wellbeing and HR Support",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Sally Martin",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1131",
+                "title": "HR Support",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Ben Bolt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1114",
+                "title": "Health and Safety",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Patrick Geary",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2811",
+                "title": "Workplace Relations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Stephen Cooney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3407",
+            "title": "Workforce Capability",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Danielle Regeling",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54219",
+                "title": "Continuous Improvement and Efficiency",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Julia Taylor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1132",
+                "title": "Learning and Development",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jacqui Houghton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1111",
+                "title": "Recruitment and Onboarding",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Goran Stojanovski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54218",
+                "title": "Workforce Optimisation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Michelle Kinmonth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "43285",
+                "title": "Workforce Strategy and Planning",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jade Cordell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2325",
+        "title": "Customer Service Delivery",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Bo Robertson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1090",
+            "title": "Child Support and Tailored Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jodie Robinson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1099",
+                "title": "Assessment Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Alice Chivell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1098",
+                "title": "Child Support Smart Centres QLD, TAS and VIC",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jane Steinkamp",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1097",
+                "title": "Child Support Smart Centres WA, SA, NSW and ACT",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Nerissa Doverty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54352",
+                "title": "Community Engagement Servicing Redesign",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Anthony Creek",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1096",
+                "title": "Multicultural and Tailored Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Louise Hamilton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1100",
+                "title": "Social Work Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1101",
+            "title": "Face to Face Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Robert Williams",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2202",
+                "title": "Central and Northern Queensland",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Anthony Creek",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3786",
+                "title": "North West NSW",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Simon Noble",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1094",
+                "title": "Service Zone South and Northern Australia",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jarrad Edge",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1095",
+                "title": "South East Victoria",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Kerrie Brian",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3787",
+                "title": "South West NSW",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Symone Andersen",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1103",
+                "title": "Southern Queensland",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Susan Morrison",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3785",
+                "title": "Sydney Metropolitan",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Narelle Townsend",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1104",
+                "title": "Tasmania and North West Victoria",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "James Gargan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1091",
+                "title": "Western Australia",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Steven Farrell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1997",
+            "title": "Health Service Delivery",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Ursula Carolyn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1085",
+                "title": "Health Zone NSW, ACT and TAS",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Lara Baxter",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1088",
+                "title": "Health Zone QLD and WA",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Denise Craig",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1086",
+                "title": "Health Zone SA and VIC",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jenna Barnes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2000",
+            "title": "Operations Management",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Vacant Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3516",
+                "title": "Operational Planning - Health, Integrity and Child Support",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sharna Bucher",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2446",
+                "title": "Operational Planning - Social Security",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Inga Petkovich",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2001",
+                "title": "Operational Response",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Renee Kennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1812",
+                "title": "Operational Support",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54343",
+                "title": "Telephony Operations Transition",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Mark Cousins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1998",
+            "title": "Smart Centres Operations",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Rhona MacPherson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47612",
+                "title": "Smart Centres East Coast",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1108",
+                "title": "Smart Centres NSW Metro and Central",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Penny Damianakis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47613",
+                "title": "Smart Centres QLD Metro",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jody Bell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47611",
+                "title": "Smart Centres Regional NSW and ACT",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Michael Pohl",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1109",
+                "title": "Smart Centres Regional QLD and NT",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jacelle Howell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1106",
+                "title": "Smart Centres Regional VIC and TAS",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Liam Barry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1107",
+                "title": "Smart Centres SA and WA",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Lynda Milde",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1102",
+                "title": "Smart Centres VIC Metro",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Liberty Davies",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2329",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "David Hazlehurst",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Susie Smith",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "02 6155 7788",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Jonathon Thorpe",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Kirsty Faichney",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Jarrod Howard",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 6
+          },
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Chris Birrer",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6155 7788",
+            "importance": 7
+          },
+          {
+            "role": "Chief Operating Officer",
+            "person": "Randall Brugeaud",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 8
+          },
+          {
+            "role": "Chief Information and Digital Officer",
+            "person": "Charles McHardie",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 9
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2330",
+        "title": "Payments and Integrity",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Chris Birrer",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3385",
+            "title": "Fraud Control and Investigations",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Peter Timson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3816",
+                "title": "Fraud Investigations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Barb Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3386",
+                "title": "Fraud and Identity Assurance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sharna Bartley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40164",
+                "title": "Intelligence",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Luke Morrish",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54342",
+                "title": "Internal Integrity Taskforce",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Luke Morrish",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41984",
+            "title": "Legal Compliance and Remediation",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Rachael Clarke",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "44683",
+                "title": "Legal Compliance and Remediation Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sam Holcombe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46468",
+                "title": "Legal Compliance and Remediation Projects",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Dan Blackmore",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "44682",
+                "title": "Legal Compliance and Remediation Strategy",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Dan Blackmore",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3391",
+            "title": "Payment Assurance Program and Appeals",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Lauren Callinan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41196",
+                "title": "Appeals",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sheree Harrison",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3393",
+                "title": "Debt and Compensation Program",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Shaun Thomas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3392",
+                "title": "Integrity Transformation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jason Kallus",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41197",
+                "title": "Payment Accuracy",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Matt McMahon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3389",
+            "title": "Payment Assurance and Recovery Operations",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Susan Black",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41189",
+                "title": "Debt and Compensation Recovery Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sidesh Naikar",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3390",
+                "title": "Payment Assurance Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Rosanna Arena",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "54196",
+        "title": "Product Management and Organisational Reform",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Kirsty Faichney",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54198",
+            "title": "Product Governance and Support",
+            "roles": [
+              {
+                "role": "National Manager",
+                "person": "Robert Mckellar",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "54197",
+            "title": "Product Management",
+            "roles": [
+              {
+                "role": "National Manager",
+                "person": "Jessica Gear",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2324",
+        "title": "Program Design",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Robyn Shannon",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2807",
+            "title": "Capability and Partnered Programs",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Lisa Carmody",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1808",
+                "title": "Digital Health",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Tasma Vyver",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38491",
+                "title": "Partnered Programs and Design",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Charmaine Smith",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3030",
+                "title": "Pharmaceutical Benefits",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Rachel Macaulay",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54485",
+                "title": "Transactional Payment Capability",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Ryan Thompson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "35401",
+            "title": "Care and Support",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Monita Lal",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1996",
+                "title": "Aged Care Projects",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Kathy Volkert",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41972",
+                "title": "Disability and Carers",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Javier Ribalta",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41961",
+                "title": "Seniors and Ageing",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jo Hase",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2187",
+                "title": "Social Security Cross Programs",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Peta Martyn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41973",
+            "title": "Communities",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Cathy Toze",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41977",
+                "title": "Customer Financial Capability",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "John Dunne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41976",
+                "title": "Emergency Response",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Kenneth Walker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45708",
+                "title": "Income Management Reform",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Ben Gallie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41974",
+                "title": "Indigenous and Remote Programs",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Anita-Lee Summers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41975",
+                "title": "Tailored Programs",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41978",
+            "title": "Families and Participation",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Stuart Turnbull",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41982",
+                "title": "Child Support Program",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Carol Cao",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41981",
+                "title": "Families and Childcare",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Leigh Allison",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41980",
+                "title": "Jobseeker and Participation Programs",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Tina Anderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41979",
+                "title": "Students, Parenting and Concession Programs",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Cedric Ingra",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1986",
+            "title": "Medical Benefits and Veterans",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Tony Piazza",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1120",
+                "title": "Medicare",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Melissa Haines",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1119",
+                "title": "Partnerships and Assurance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "John Kalokerinos",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38091",
+                "title": "Provider",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Moira Campbell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1987",
+                "title": "Veterans",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Katrina Gerholt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2331",
+        "title": "Service Delivery Excellence",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Jonathon Thorpe",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47599",
+            "title": "Customer and Staff Digital Programs",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jordan Hatch",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "0261557788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47600",
+                "title": "Digital Delivery",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Aaron Wilkins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47601",
+                "title": "Digital Product Design",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Lisa Jansen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47602",
+                "title": "Enterprise Innovation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Damian Tobin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47603",
+                "title": "Staff Systems and Improvements Program",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Ben Morris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41953",
+            "title": "Service Delivery Optimisation",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Brenton Halliday",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "261557788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41954",
+                "title": "Business Process and Design",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Belinda Gloyne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41955",
+                "title": "Digital Messaging, Analytics and Quality",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Kylie Finnigan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1089",
+                "title": "Service Delivery Learning",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Katrina Zander",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6255 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "38089",
+            "title": "Service Design and Face to Face Transformation",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Bianca Ruut",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1122",
+                "title": "Face to Face Service Transformation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Hannah Iacono",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41959",
+                "title": "Service Design and Innovation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jennifer McNeill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37766",
+            "title": "Telecommunications Modernisation, Automation and Architecture",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Lisa Keeling",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37767",
+                "title": "Automation and Artificial Intelligence Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Juleigh Cook",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54615",
+                "title": "Automation and Artificial Intelligence Strategy and Capability",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sidesh Naikar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41958",
+                "title": "Business and Customer Architecture",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Vanessa Roarty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41957",
+                "title": "Customer Contact Management Project",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Lisa Kearney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47598",
+                "title": "Government Service Delivery Legislation Taskforce",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2326",
+        "title": "Strategy and Performance",
+        "roles": [
+          {
+            "role": "Deputy Chief Executive Officer",
+            "person": "Susie Smith",
+            "vacant": false,
+            "acting": true,
+            "email": "",
+            "phone": "02 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2095",
+            "title": "Agency Spokesperson",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Hank Jongen",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1553",
+            "title": "Communications",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Bevan Hannan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3383",
+                "title": "Corporate Communications",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Daniel Hodgson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3242",
+                "title": "Digital Communications",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Scott Anderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3384",
+                "title": "Marketing Communications",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Vacant Vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1115",
+                "title": "Media",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Hannah Passfield",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2185",
+            "title": "Data and Analytics",
+            "roles": [
+              {
+                "role": "Chief Data Officer",
+                "person": "Tenille Collins",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2052",
+                "title": "Business Intelligence and Performance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Michelle Saunders",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1082",
+                "title": "Data Analytics Innovation",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Mark Morrison",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2186",
+                "title": "Data Engineering",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Michelle Guerin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 61557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1084",
+                "title": "Data Strategy and Governance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Heather Ralph",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1802",
+            "title": "Enterprise Portfolio Management Office",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Kylie Whiu",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1806",
+                "title": "Portfolio Management and Analysis",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Karen Ploesser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1805",
+                "title": "Portfolio Support and Assurance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Andrew Woolf",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2015",
+            "title": "Enterprise Strategy and Governance",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Jason Lucchese",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1837",
+                "title": "Enterprise Strategy",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Simon Heath",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2016",
+                "title": "Governance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Kate Wilson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2017",
+                "title": "Ministerial and Parliamentary Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Susanne Lander",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2018",
+                "title": "Performance Priorities and Reporting",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Pauline O'Neill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 4
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2327",
+        "title": "Technology and Digital Programs",
+        "roles": [
+          {
+            "role": "Chief Information and Digital Officer",
+            "person": "Charles McHardie",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6155 7788",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "44684",
+            "title": "Architecture Review Taskforce",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Derek Byrnes",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "0261557788",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1814",
+            "title": "Chief Technology Officer",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Lisiane Barao Macleod",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1815",
+                "title": "Enterprise Architecture and Cloud Engineering",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Darren Vrettas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1819",
+                "title": "Technology Business Management",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Stacey Whiting",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35403",
+                "title": "Technology Workforce Capability and Engagement",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sherree Thorne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1816",
+                "title": "Technology and Digital Assurance",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Vandana Singh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1833",
+            "title": "Core Systems",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Cristie Romero-Ferre",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2448",
+                "title": "Child Support, Families, and Debt Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Sharon McCarter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54204",
+                "title": "Health Claims and Payments",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1117",
+                "title": "Health Directories and Registries",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Nicole Rudland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1116",
+                "title": "Social Security and Payment Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Quyen Hoang",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1836",
+            "title": "Cyber Security",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Garrett McDonald",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37768",
+                "title": "Cyber Engineering, Assurance and Awareness",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Peter Foley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3221",
+                "title": "Cyber Operations",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Zaid Ahmad",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3029",
+                "title": "Cyber Strategy, Governance and Engagement",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Jagdish Mehra",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "0261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1825",
+            "title": "Data Online Systems and Shared Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Megan Bunfield",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41985",
+                "title": "DSS ICT Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Matthew Walker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1831",
+                "title": "DVA ICT Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Penny Limnios",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1828",
+                "title": "Data and Automation Engineering",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Christopher Jasson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1827",
+                "title": "Prototyping Identity and Cognitive Services",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "vacant vacant",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35402",
+                "title": "myGov and Centrelink Online Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Joanna Zhu",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1821",
+            "title": "Infrastructure and Operations",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Vacant Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1822",
+                "title": "Application Infrastructure",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Vacant Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1136",
+                "title": "Core Infrastructure",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Christopher Wright",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1824",
+                "title": "End User Computing",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Abhi Kashyap",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1823",
+                "title": "Service Operations and Management",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Praphul Palekar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54203",
+                "title": "Telecommunications and Network Engineering",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Anthony Barac",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1829",
+            "title": "Staff Processing and Enterprise Systems",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Bob Lyons",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6155 7788",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1830",
+                "title": "Care Provider Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Josh Bosschieter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3514",
+                "title": "Enterprise and Payment Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Narelle Lovett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "261557788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1832",
+                "title": "Staff Enabling Systems",
+                "roles": [
+                  {
+                    "role": "National Manager",
+                    "person": "Annette Hayes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6155 7788",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

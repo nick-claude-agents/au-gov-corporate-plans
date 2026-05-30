@@ -1,0 +1,35 @@
+{
+  "content_id": "39139",
+  "title": "Northern Territory Aboriginal Investment Corporation",
+  "acronym": "",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "",
+  "description": "The purpose of the Northern Territory Aboriginal Investment Corporation is to assist cultural maintenance and social well-being, economic self-sufficiency and self-management for the betterment of Aboriginal people living in the Northern Territory through investments, commercial enterprise, beneficial payments and other financial assistance.",
+  "dashboard_name": null,
+  "people_count": 2,
+  "tree": {
+    "content_id": "39139",
+    "title": "Northern Territory Aboriginal Investment Corporation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Nigel Browne",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "08 7906 1741",
+        "importance": 999
+      },
+      {
+        "role": "Chairperson",
+        "person": "Barbara Shaw",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "08 7906 1741",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "content_id": "161",
+  "title": "Asbestos and Silica Safety and Eradication Agency",
+  "acronym": "ASEA",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "http://www.asbestossafety.gov.au",
+  "description": "The Asbestos and Silica Safety and Eradication Agency administers the Asbestos National Strategic Plan and the Silica National Strategic Plan and oversees national actions to monitor and improve awareness of asbestos safety, asbestos related diseases, silica safety and silica related diseases.",
+  "dashboard_name": "Asbestos and Silica Safety and Eradication Agency",
+  "people_count": 1,
+  "tree": {
+    "content_id": "161",
+    "title": "Asbestos and Silica Safety and Eradication Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Jodie Deakes",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

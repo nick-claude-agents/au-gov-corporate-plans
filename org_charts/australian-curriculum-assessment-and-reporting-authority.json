@@ -1,0 +1,71 @@
+{
+  "content_id": "154",
+  "title": "Australian Curriculum, Assessment and Reporting Authority",
+  "acronym": "ACARA",
+  "portfolio": "Education",
+  "website": "http://www.acara.edu.au",
+  "description": "Australian Curriculum, Assessment and Reporting Authority (ACARA) is responsible for:<br />\n•\tproviding a world-class curriculum from Foundation to Year 12 in specified learning areas agreed to by the Education Ministers Meeting<br />\n•\tproviding a quality, comprehensive and cohesive suite of national assessments <br />\n•\tproviding and applying a comprehensive and reliable national measurement framework, facilitating the use and dissemination of data for research and policy development in accordance with agreed protocols and presenting detailed, accessible, timely and meaningful school education performance information <br />\n•\tproviding effective national leadership in curriculum development, educational assessment and national reporting and pursuing the national education agenda with jurisdictions, the non-government education sector and relevant stakeholders’ agenda and identify opportunities for reform",
+  "dashboard_name": "Australian Curriculum, Assessment and Reporting Authority",
+  "people_count": 6,
+  "tree": {
+    "content_id": "154",
+    "title": "Australian Curriculum, Assessment and Reporting Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Stephen Gniel",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Executive Director, Communications, Engagement and Executive Services",
+        "person": "Farooq Mulla",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Executive Director, Assessment and Reporting",
+        "person": "Russell Dyer",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Executive Director, Curriculum",
+        "person": "Kathryn Tully",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Financial Officer",
+        "person": "Poonam Fernandes",
+        "vacant": false,
+        "acting": false,
+        "email": "poonam.fernandes@acara.edu.au",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Executive Director, Corporate Services",
+        "person": "Anna-Marie Stella",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "content_id": "128",
+  "title": "Office of the Australian Information Commissioner",
+  "acronym": "OAIC",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.oaic.gov.au",
+  "description": "The Office of the Australian Information Commissioner (OAIC) is a separate Australian Government entity established under the Australian Information Commissioner Act 2010, responsible for protecting and promoting privacy and information access rights.<br />\n<br />\nThe functions of the OAIC are:<br />\n• ensuring the proper handling of personal information in accordance with the<br />\nPrivacy Act 1988 and other legislation;<br />\n• securing the public’s right to access information and promoting open government<br />\nunder the Freedom of Information Act 1982; and<br />\n• performing strategic functions relating to information management policy and<br />\npractice in the Australian Government.",
+  "dashboard_name": "Office of the Australian Information Commissioner",
+  "people_count": 12,
+  "tree": {
+    "content_id": "128",
+    "title": "Office of the Australian Information Commissioner",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1353",
+        "title": "Commissioners",
+        "roles": [
+          {
+            "role": "Australian Information Commissioner",
+            "person": "Elizabeth Tydd",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 1
+          },
+          {
+            "role": "Privacy Commissioner",
+            "person": "Carly Kind",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 2
+          },
+          {
+            "role": "Freedom of Information Commissioner",
+            "person": "Alice Linacre",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 3
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "53135",
+        "title": "Executive General Managers",
+        "roles": [
+          {
+            "role": "Executive General Manager – Information Rights",
+            "person": "Ashleigh McDonald",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "Executive General Manager – Regulatory Action",
+            "person": "Rowena Park",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "53136",
+        "title": "General Managers",
+        "roles": [
+          {
+            "role": "General Manager – Enabling Services",
+            "person": "Sarah Gahli",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "General Manager – Regulatory Intelligence and Strategy",
+            "person": "Marcel Savary",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "General Manager – Freedom of Information Case Management",
+            "person": "Rocelle Ago",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "General Manager – Privacy Case Management",
+            "person": "Jennifer Perrin",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "General Manager – Regulatory Action",
+            "person": "Annan Boag",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "53137",
+        "title": "Principal Directors",
+        "roles": [
+          {
+            "role": "Principal Director – Office of the Commissioner",
+            "person": "Brenton Attard",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          },
+          {
+            "role": "Principal Director – Legal Services",
+            "person": "Joanne Masters",
+            "vacant": false,
+            "acting": false,
+            "email": "executiveassistant@oaic.gov.au",
+            "phone": "(02) 9942 4099",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

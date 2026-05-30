@@ -1,0 +1,141 @@
+{
+  "content_id": "110",
+  "title": "Wine Australia",
+  "acronym": "",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "www.wineaustralia.com",
+  "description": "Wine Australia is a statutory body within the Agriculture, Fisheries and Forestry portfolio, established on 1 July 2014 under the Wine Australia Act 2013. Wine Australia is the research and development, marketing and regulatory body for the Australian wine industry and it is funded through several industry levies and some user-pays activities as well as matched government funding for research and development. Wine Australia was known as the Australian Grape and Wine Authority prior to 7 November 2017. It replaced the former Grape and Wine Research and Development Corporation and the Wine Australia Corporation on 30 June 2014.",
+  "dashboard_name": null,
+  "people_count": 9,
+  "tree": {
+    "content_id": "110",
+    "title": "Wine Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Martin Cole",
+        "vacant": false,
+        "acting": false,
+        "email": "martin.cole@wineaustralia.com",
+        "phone": "0457 505 166",
+        "importance": 1
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Liz Waters",
+        "vacant": false,
+        "acting": false,
+        "email": "liz.waters@wineaustralia.com",
+        "phone": "0411 430 749",
+        "importance": 2
+      },
+      {
+        "role": "Chief Financial Officer",
+        "person": "Bernadette Saberton",
+        "vacant": false,
+        "acting": false,
+        "email": "bernadette.saberton@wineaustralia.com",
+        "phone": "0412 973 850",
+        "importance": 3
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49480",
+        "title": "Business Development & Strategic Investment",
+        "roles": [
+          {
+            "role": "Head",
+            "person": "Jay Jayeshwaran",
+            "vacant": false,
+            "acting": false,
+            "email": "jay.jayeshwaran@wineaustralia.com",
+            "phone": "0402 965 442",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49481",
+        "title": "Customer Engagement",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Shirley Fraser",
+            "vacant": false,
+            "acting": false,
+            "email": "shirley.fraser@wineaustralia.com",
+            "phone": "0449 704 409",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49479",
+        "title": "Marketing",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Paul Turale",
+            "vacant": false,
+            "acting": false,
+            "email": "paul.turale@wineaustralia.com",
+            "phone": "0488 963 399",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49478",
+        "title": "People & Culture",
+        "roles": [
+          {
+            "role": "Head",
+            "person": "Louise Mickan",
+            "vacant": false,
+            "acting": false,
+            "email": "louise.mickan@wineaustralia.com",
+            "phone": "0403 916 874",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49483",
+        "title": "Regulation & General Counsel",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Ned Hewitson",
+            "vacant": false,
+            "acting": false,
+            "email": "ned.hewitson@wineaustralia.com",
+            "phone": "0499 742 851",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49482",
+        "title": "Research & Innovation",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Paul Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "paul.smith@wineaustralia.com",
+            "phone": "0422 476 558",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

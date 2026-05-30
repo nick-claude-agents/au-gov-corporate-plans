@@ -1,0 +1,1444 @@
+{
+  "content_id": "152",
+  "title": "Department of Education",
+  "acronym": "DE",
+  "portfolio": "Education",
+  "website": "https://www.education.gov.au/",
+  "description": "We contribute to Australia's economic prosperity and social wellbeing by creating opportunities and driving better outcomes through access to quality education and learning.",
+  "dashboard_name": "Department of Education",
+  "people_count": 91,
+  "tree": {
+    "content_id": "152",
+    "title": "Department of Education",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "52163",
+        "title": "Building Early Education Fund Taskforce",
+        "roles": [
+          {
+            "role": "Senior Responsible Officer",
+            "person": "Nathan Smyth",
+            "vacant": false,
+            "acting": false,
+            "email": "nathan.smyth@education.gov.au",
+            "phone": "(02) 6240 8464",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52164",
+            "title": "Building Early Education Fund",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Heather Cotching",
+                "vacant": false,
+                "acting": false,
+                "email": "heather.cotching@education.gov.au",
+                "phone": "(02) 6121 8213",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3107",
+        "title": "Contact the Department",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3106",
+        "title": "Corporate and Enabling Services",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Chief Operating Officer",
+            "person": "Marcus Markovic",
+            "vacant": false,
+            "acting": false,
+            "email": "marcus.markovic@education.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "41897",
+            "title": "Education Funding System and Digital Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Kerryn Kovacevic",
+                "vacant": false,
+                "acting": false,
+                "email": "kerryn.kovacevic@education.gov.au",
+                "phone": "(02) 6240 8908",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "50571",
+                "title": "Digital Services and Project Office",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Peter Ingram",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "peter.ingram@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42675",
+                "title": "Education Funding System",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lisa Van Der Plaat",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lisa.vanderplaat@education.gov.au",
+                    "phone": "(02) 6240 2700",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1984",
+            "title": "Financial Management",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Craig Boyd",
+                "vacant": false,
+                "acting": false,
+                "email": "craig.boyd@education.gov.au",
+                "phone": "(02) 6240 9384",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37328",
+                "title": "External Budgets and Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Carolyn Shrives",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "carolyn.shrives@education.gov.au",
+                    "phone": "(02)  6240 8717",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1890",
+                "title": "Financial and Resource Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ebony Turner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ebony.turner@education.gov.au",
+                    "phone": "(02) 6240 5451",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54008",
+                "title": "Funding Review",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Julija Deleva",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "julija.deleva@education.gov.au",
+                    "phone": "(02) 6196 7137",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "53736",
+            "title": "Legal",
+            "roles": [
+              {
+                "role": "General Counsel",
+                "person": "Genevieve Davin",
+                "vacant": false,
+                "acting": false,
+                "email": "genevieve.davin@education.gov.au",
+                "phone": "(02) 6121 7057",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53737",
+                "title": "Corporate and Early Childhood Legal",
+                "roles": [
+                  {
+                    "role": "Senior Executive Lawyer",
+                    "person": "Milli Wong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "milli.wong@education.gov.au",
+                    "phone": "(02) 6240 2495",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53738",
+                "title": "Schools, HERI, Legislation and Commercial Legal",
+                "roles": [
+                  {
+                    "role": "Senior Executive Lawyer",
+                    "person": "Geoff Kimber",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "geoff.kimber@education.gov.au",
+                    "phone": "(02) 6121 5373",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1884",
+            "title": "People, Parliamentary and Communications",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Jasna Blackwell",
+                "vacant": false,
+                "acting": false,
+                "email": "jasna.blackwell@education.gov.au",
+                "phone": "(02) 6121 5004",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1888",
+                "title": "Communication",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dijanna Ratajkoski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dijanna.ratajkoski@education.gov.au",
+                    "phone": "(02) 6121 3025",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38041",
+                "title": "Parliamentary, Audit and Risk",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bernadette Murphy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bernadette.murphy@education.gov.au",
+                    "phone": "(02) 6240 8148",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1886",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cate Leyland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cate.leyland@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "38042",
+            "title": "Strategy, Data and Measurement",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Mathew Johnston",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38044",
+                "title": "Analysis, Data and Measurement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susie Kluth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susie.kluth@education.gov.au",
+                    "phone": "(02) 6240 9663",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38043",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mathew Johnston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mathew.johnston@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3105",
+        "title": "Early Childhood",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Early Childhood and Youth",
+            "person": "Kylie Crane",
+            "vacant": false,
+            "acting": false,
+            "email": "kylie.crane@education.gov.au",
+            "phone": "(02) 6121 6794",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2438",
+            "title": "Child Care Integrity",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Brendan Moon",
+                "vacant": false,
+                "acting": false,
+                "email": "brendan.moon@education.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2439",
+                "title": "Fraud and Non-Compliance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jodie Chamberlain",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jodie.chamberlain@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3261",
+                "title": "Integrity Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Emma Hill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "emma.hill@education.gov.au",
+                    "phone": "(02) 6240 1924",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2440",
+                "title": "Integrity Policy and Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephen Moger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephen.moger@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "48115",
+            "title": "Early Learning Programs",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Michele Arcaro",
+                "vacant": false,
+                "acting": false,
+                "email": "michele.arcaro@education.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "48118",
+                "title": "Community Child Care Fund Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Larissa Hinds",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "larissa.hinds@education.gov.au",
+                    "phone": "(02) 6121 5790",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48119",
+                "title": "Early Learning and First Nations Priorities",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alana Winslow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alana.winslow@education.gov.au",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48116",
+                "title": "Quality and Inclusion",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rachel O'Connor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.oconnor@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "48100",
+            "title": "Evidence and Reform",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tristan Reed",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53029",
+                "title": "Child Care Subsidy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Tracey Blunck",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tracey.blunck@education.gov.au",
+                    "phone": "(02) 6121 3766",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Paris Astill-Torchia",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paris.astill-torchia@education.gov.au",
+                    "phone": "07 3223 1603",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48101",
+                "title": "ECEC Reforms and Workforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Vanessa Lapthorne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vanessa.lapthorne@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53735",
+                "title": "ECEC Stewardship",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Sam Rosevear",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.rosevear@education.gov.au",
+                    "phone": "(02) 6240 3333",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48102",
+                "title": "Early Childhood Data and Preschool",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Adi Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adi.smith@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48104",
+                "title": "Wage Implementation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Gemma Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "gemma.smith@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3104",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary of the Department of Education",
+            "person": "Tony Cook",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6121 3903",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to the Secretary",
+            "person": "Lucy Vangelatos",
+            "vacant": false,
+            "acting": false,
+            "email": "secretaryoffice@education.gov.au",
+            "phone": "(02) 6240 0817",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary, Early Childhood and Youth",
+            "person": "Kylie Crane",
+            "vacant": false,
+            "acting": false,
+            "email": "kylie.crane@education.gov.au",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Senior Responsible Officer",
+            "person": "Nathan Smyth",
+            "vacant": false,
+            "acting": false,
+            "email": "nathan.smyth@education.gov.au",
+            "phone": "(02) 6240 8464",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Secretary, Schools",
+            "person": "Meg Brighton",
+            "vacant": false,
+            "acting": false,
+            "email": "meg.brighton@education.gov.au",
+            "phone": "1300 488 064",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary, Higher Education, Research and International",
+            "person": "Jasmina Joldić",
+            "vacant": false,
+            "acting": false,
+            "email": "jasmina.joldic@education.gov.au",
+            "phone": "02 6240 5700",
+            "importance": 5
+          },
+          {
+            "role": "Acting Executive Director",
+            "person": "David Turvey",
+            "vacant": false,
+            "acting": false,
+            "email": "david.turvey@atec.gov.au",
+            "phone": "(02) 6121 3017",
+            "importance": 7
+          },
+          {
+            "role": "Deputy Secretary, Corporate and Enabling Services",
+            "person": "Marcus Markovic",
+            "vacant": false,
+            "acting": false,
+            "email": "marcus.markovic@education.gov.au",
+            "phone": "(02) 6240 8921",
+            "importance": 8
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3108",
+        "title": "Higher Education, Research and International",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Jasmina Joldić",
+            "vacant": false,
+            "acting": false,
+            "email": "jasmina.joldic@education.gov.au",
+            "phone": "02 6240 5700",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "53499",
+            "title": "Antisemitism Education Taskforce",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Mathew Johnston",
+                "vacant": false,
+                "acting": false,
+                "email": "mathew.johnston@education.gov.au",
+                "phone": "02 6240 5174",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52857",
+            "title": "Education Funding System",
+            "roles": [
+              {
+                "role": "Senior Director",
+                "person": "Nadia Thompson",
+                "vacant": false,
+                "acting": false,
+                "email": "nadia.thompson@education.gov.au",
+                "phone": "(02) 6121 3812",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2459",
+            "title": "International",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Karen Sandercock",
+                "vacant": false,
+                "acting": false,
+                "email": "karen.sandercock@education.gov.au",
+                "phone": "(02) 6240 7119",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3826",
+                "title": "International Policy and Engagement",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Fiona Morris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.morris@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42697",
+                "title": "International Students, Legislation and Integrity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alexandra Procailo",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.procailo@education.gov.au",
+                    "phone": "(02) 6240 8004",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3827",
+                "title": "Managed Growth",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Damian Oliver",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "damian.oliver@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3618",
+                "title": "Minister-Counsellor  (Education and Research)  New Delhi",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "George Thiveos",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "george.thiveos2@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2967",
+                "title": "Minister-Counsellor (Education and Research) Beijing",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alison Dell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alison.dell@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36423",
+                "title": "National Security and Resilience",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Simon Moore",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6240 9394",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "36594",
+            "title": "Policy, Payments and Data",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Jessica Mohr",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.mohr@education.gov.au",
+                "phone": "02 6240 8748",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40745",
+                "title": "Higher Education Analytics and Data System",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nick Post",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nick.post@education.gov.au",
+                    "phone": "(02) 6121 5311",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36597",
+                "title": "Higher Education Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jessica Hartmann",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jessica.hartmann@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36596",
+                "title": "Higher Education Policy and Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Felicity Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38040",
+                "title": "Market Analysis and Data",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Fleur de Crespigny",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fleur.decrespigny@education.gov.au",
+                    "phone": "(02) 6121 8904",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "36595",
+                "title": "Research Policy and Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anthony Millgate",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anthony.millgate@education.gov.au",
+                    "phone": "(02) 6121 7009",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2442",
+            "title": "Programs and Student Experience",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Madonna Morton",
+                "vacant": false,
+                "acting": false,
+                "email": "madonna.morton@education.gov.au",
+                "phone": "(02) 6240 8193",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2021",
+                "title": "HELP and Student Experience",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Annette Cannell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "annette.cannell@education.gov.au",
+                    "phone": "02 6218 3242",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2020",
+                "title": "Higher Education Gender-based Violence Regulator",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michele Clark",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michele.clark@education.gov.au",
+                    "phone": "(03) 9603 0934",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2022",
+                "title": "Higher Education Program Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Brett Nordstrom",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brett.nordstrom@education.gov.au",
+                    "phone": "(02) 6240 3733",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47320",
+                "title": "Research Program Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Simon Puckett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "simon.puckett@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "52858",
+            "title": "Tuition Protection Service",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Melinda Hatton",
+                "vacant": false,
+                "acting": false,
+                "email": "melinda.hatton@tps.gov.au",
+                "phone": "(02) 6121 7440",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "52839",
+        "title": "Interim Australian Tertiary Commission",
+        "roles": [
+          {
+            "role": "Acting Deputy Secretary",
+            "person": "David Turvey",
+            "vacant": false,
+            "acting": false,
+            "email": "david.turvey@atec.gov.au",
+            "phone": "(02) 6121 3017",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "52841",
+            "title": "Equity and Tertiary",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Claire Sainsbury",
+                "vacant": false,
+                "acting": false,
+                "email": "claire.sainsbury@atec.gov.au",
+                "phone": "02 6121 6173",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52844",
+            "title": "First Nations and Relationship Management",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Kiel Williams-Weigel",
+                "vacant": false,
+                "acting": false,
+                "email": "kiel.williams-weigel@atec.gov.au",
+                "phone": "02 6240 0433",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52865",
+            "title": "Interim Chief Commissioner",
+            "roles": [
+              {
+                "role": "Interim Chief Commissioner",
+                "person": "Barney Glover",
+                "vacant": false,
+                "acting": false,
+                "email": "barney.glover@jobsandskills.gov.au",
+                "phone": "(02) 9246 0541",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52867",
+            "title": "Interim Commissioner",
+            "roles": [
+              {
+                "role": "Interim Commissioner",
+                "person": "Fiona Nash",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52866",
+            "title": "Interim First Nations Commissioner",
+            "roles": [
+              {
+                "role": "Interim First Nations Commissioner",
+                "person": "Tom Calma",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52842",
+            "title": "Stewardship and Pricing",
+            "roles": [
+              {
+                "role": "Assistant Secretary",
+                "person": "Kee Hiaujoo",
+                "vacant": false,
+                "acting": false,
+                "email": "kee.hiaujoo@atec.gov.au",
+                "phone": "(02) 8255 6024",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "52840",
+            "title": "Student Profiles",
+            "roles": [
+              {
+                "role": "Acting Assistant Secretary",
+                "person": "Daniel Frewer",
+                "vacant": false,
+                "acting": false,
+                "email": "daniel.frewer@atec.gov.au",
+                "phone": "(02) 6121 8408",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3110",
+        "title": "Schools and Youth",
+        "roles": [
+          {
+            "role": "Deputy Secretary, Schools",
+            "person": "Meg Brighton",
+            "vacant": false,
+            "acting": false,
+            "email": "meg.brighton@education.gov.au",
+            "phone": "1300 488 064",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1853",
+            "title": "Funding and Data Collection",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Fabian Harding",
+                "vacant": false,
+                "acting": false,
+                "email": "fabian.harding@education.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1854",
+                "title": "Payments and Collections",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lalage Cherry",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lalage.cherry@education.gov.au",
+                    "phone": "(02) 6240 8209",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1855",
+                "title": "School Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jane Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.mitchell@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1856",
+                "title": "School Funding",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chris Davern",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "christopher.davern@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3614",
+            "title": "Improving Student Outcomes",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Danielle Donegan",
+                "vacant": false,
+                "acting": false,
+                "email": "danielle.donegan@education.gov.au",
+                "phone": "(02) 6240 8557",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1860",
+                "title": "First Nations and Closing the Gap",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Christopher Mudford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christopher.mudford@education.gov.au",
+                    "phone": "(02) 6121 7289",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38038",
+                "title": "Inclusion and Disability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Esmeralda Rocha",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "esmeralda.rocha@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45644",
+                "title": "Wellbeing and Equity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Pamela Banerjee",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "pamela.banerjee@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "41438",
+            "title": "National Reform",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Caitlin Delaney",
+                "vacant": false,
+                "acting": false,
+                "email": "caitlin.delaney@education.gov.au",
+                "phone": "(02) 6121 3485",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3617",
+                "title": "National Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Dominique Lowe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "dominique.lowe@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46372",
+                "title": "School Assessment Measurement and Research",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Leslie O'Donoghue",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leslie.odonoghue@education.gov.au",
+                    "phone": "02 6121 7241",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3615",
+            "title": "Teaching, Learning and Youth",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Julie Birmingham",
+                "vacant": false,
+                "acting": false,
+                "email": "julie.birmingham@education.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "46371",
+                "title": "Curriculum and Learning",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Mel Southwell-Lee",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mel.southwell-lee@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53030",
+                "title": "Office for Youth",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kate Chipperfield",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.chipperfield@education.gov.au",
+                    "phone": "02 6121 7518",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38037",
+                "title": "Teacher Preparation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Genevieve Watson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "genevieve.watson@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38447",
+                "title": "Teacher Workforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Shane Samuelson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.samuelson@education.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "content_id": "218",
+  "title": "Office of the Commonwealth Ombudsman",
+  "acronym": "CO",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.ombudsman.gov.au",
+  "description": "The Office of the Commonwealth Ombudsman safeguards the community in its dealings with the Australian Government. We also have oversight of some private sector organisations.<br />\n<br />\nIf an Australian Government agency has treated you unfairly or unreasonably, we can help you find a solution. Our service is free and we are independent.<br />\n<br />\nWe make sure the actions of agencies are fair and responsible by:<br />\n•\thandling complaints<br />\n•\tconducting investigations<br />\n•\tperforming audits and inspections<br />\n•\tencouraging good administration.<br />\n<br />\nWe have the following specialist roles:<br />\n•\tPrivate Health Insurance<br />\n•\tOverseas Students<br />\n•\tVET Student Loans<br />\n•\tthe Postal Industry<br />\n•\tthe Defence Force<br />\n•\tImmigration<br />\n•\tLaw Enforcement<br />\n•\tthe Australian Capital Territory Ombudsman<br />\n<br />\nWe are also responsible for:<br />\n•\toversight of the Commonwealth Public Interest Disclosure scheme<br />\n•\tinspection and monitoring of certain covert and intrusive powers by police and other law enforcement agencies.<br />\n<br />\nWe also have an International program to promote:<br />\n•\tbest practice in complaint handling<br />\n•\tgood government administration within our region.",
+  "dashboard_name": "Office of the Commonwealth Ombudsman",
+  "people_count": 11,
+  "tree": {
+    "content_id": "218",
+    "title": "Office of the Commonwealth Ombudsman",
+    "roles": [
+      {
+        "role": "Commonwealth Ombudsman",
+        "person": "Iain Anderson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Deputy Commonwealth Ombudsman",
+        "person": "Julie O'Brien",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Deputy Ombudsman",
+        "person": "Julie O'Brien",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "1300 362 072",
+        "importance": 999
+      },
+      {
+        "role": "Commonwealth Ombudsman",
+        "person": "Iain Anderson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Executive Assistant",
+        "person": "Samantha Casey",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3175",
+        "title": "Complaints Branch",
+        "roles": [
+          {
+            "role": "Senior Assistant Ombudsman",
+            "person": "Joanne Mulder",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3178",
+        "title": "Corporate Branch",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Lisa Collett",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 362 072",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3180",
+        "title": "Defence Investigations ACT Legal Branch",
+        "roles": [
+          {
+            "role": "Senior Assistant Ombudsman",
+            "person": "Katrina Dwyer",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3176",
+        "title": "Investigations Branch",
+        "roles": [
+          {
+            "role": "Senior Assistant Ombudsman",
+            "person": "Justine Westerbeek",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 362 072",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49397",
+        "title": "National Student Ombudsman",
+        "roles": [
+          {
+            "role": "First Assistant Ombudsman",
+            "person": "Sarah Bendall",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3177",
+        "title": "Policy & Assurance Branch",
+        "roles": [
+          {
+            "role": "Senior Assistant Ombudsman",
+            "person": "Julia Galluccio",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 362 072",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

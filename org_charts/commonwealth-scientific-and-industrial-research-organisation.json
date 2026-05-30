@@ -1,0 +1,26 @@
+{
+  "content_id": "274",
+  "title": "Commonwealth Scientific and Industrial Research Organisation",
+  "acronym": "CSIRO",
+  "portfolio": "Industry, Science and Resources",
+  "website": "http://www.csiro.au",
+  "description": "CSIRO is an Australian Government statutory authority constituted and operating under the provisions of the Science and Industry Research Act 1949. CSIRO's primary functions under the Act are to carry out scientific research to benefit Australian industry and the community, and to contribute to the achievement of national objectives.",
+  "dashboard_name": "Commonwealth Scientific and Industrial Research Organisation (CSIRO)",
+  "people_count": 1,
+  "tree": {
+    "content_id": "274",
+    "title": "Commonwealth Scientific and Industrial Research Organisation",
+    "roles": [
+      {
+        "role": "Chief Executive",
+        "person": "Doug Hilton",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 6276 6621",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

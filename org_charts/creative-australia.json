@@ -1,0 +1,106 @@
+{
+  "content_id": "133",
+  "title": "Creative Australia",
+  "acronym": "AC",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "https://creative.gov.au/",
+  "description": "Creative Australia is the Australian Government’s principal arts investment, development, funding, and advisory body with a purpose to champion and invest in arts and creativity to benefit all Australians. Creative Australia has a national leadership role in supporting and building Australia’s cultural infrastructure by fostering excellence in the arts, increasing national and international engagement with Australian art and artists, and advocating for the social, cultural and economic value of arts and creativity.",
+  "dashboard_name": "Creative Australia",
+  "people_count": 6,
+  "tree": {
+    "content_id": "133",
+    "title": "Creative Australia",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2805",
+        "title": "Arts Investment Division",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Alice Nash",
+            "vacant": false,
+            "acting": false,
+            "email": "a.nash@australiacouncil.gov.au",
+            "phone": "02 9215 9000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2803",
+        "title": "Corporate Resources Division",
+        "roles": [
+          {
+            "role": "Executive Director, Corporate Resources",
+            "person": "Timothy Blackwell",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 9215 9000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2802",
+        "title": "Development and Strategic Partnerships",
+        "roles": [
+          {
+            "role": "Executive Director Development and Strategic Partnerships",
+            "person": "Georgina McClean",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 9215 9000",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2804",
+        "title": "First Nations Arts and Culture",
+        "roles": [
+          {
+            "role": "Executive Director First Nations Arts and Culture",
+            "person": "Franchesca Cubillo",
+            "vacant": false,
+            "acting": false,
+            "email": "f.cubillo@australiacouncil.gov.au",
+            "phone": "02 9215 9199",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2806",
+        "title": "The Office of the Chief Executive Officer",
+        "roles": [
+          {
+            "role": "Chief Executive Officer",
+            "person": "Adrian Collette",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 9215 9000",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant to the CEO",
+            "person": "Anna Spivak",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 9215 9003",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

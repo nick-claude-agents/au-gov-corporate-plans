@@ -1,0 +1,1573 @@
+{
+  "downloaded": 38,
+  "total": 188,
+  "results": [
+    {
+      "slug": "aaf-company",
+      "title": "AAF Company (Trustee of Army Amenities Fund and Messes Trust Fund)",
+      "website": "http://www.armyholidays.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "aboriginal-hostels-limited",
+      "title": "Aboriginal Hostels Limited",
+      "website": "http://www.ahl.gov.au",
+      "pdf_url": "https://www.ahl.gov.au/sites/default/files/2025-09/AHL%20Organisational%20Chart_September%202025_1.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 278064
+    },
+    {
+      "slug": "aged-care-quality-and-safety-commission",
+      "title": "Aged Care Quality and Safety Commission",
+      "website": "https://www.agedcarequality.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "airservices-australia",
+      "title": "Airservices Australia",
+      "website": "https://www.airservicesaustralia.com/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "anindilyakwa-land-council",
+      "title": "Anindilyakwa Land Council",
+      "website": "http://www.anindilyakwa.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "army-and-air-force-canteen-service",
+      "title": "Army and Air Force Canteen Service",
+      "website": "http://www.aafcans.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "asbestos-and-silica-safety-and-eradication-agency",
+      "title": "Asbestos and Silica Safety and Eradication Agency",
+      "website": "http://www.asbestossafety.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "asc-pty-ltd-statement-of-corporate-intent",
+      "title": "ASC Pty Ltd",
+      "website": "http://www.asc.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "attorney-general-039-s-department",
+      "title": "Attorney-General&#039;s Department",
+      "website": "https://www.ag.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "attorney-general-s-department",
+      "title": "Attorney-General's Department",
+      "website": "https://www.ag.gov.au",
+      "pdf_url": "https://www.ag.gov.au/About/Documents/organisational-structure.PDF",
+      "source": "search",
+      "status": "downloaded",
+      "size": 397386
+    },
+    {
+      "slug": "australian-broadcasting-corporation",
+      "title": "Australian Broadcasting Corporation",
+      "website": "http://www.abc.net.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-bureau-of-statistics",
+      "title": "Australian Bureau of Statistics",
+      "website": "http://www.abs.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-centre-for-disease-control",
+      "title": "Australian Centre for Disease Control",
+      "website": "https://www.cdc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-centre-for-international-agricultural-research",
+      "title": "Australian Centre for International Agricultural Research",
+      "website": "http://www.aciar.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "australian-commission-on-safety-and-quality-in-health-care",
+      "title": "Australian Commission on Safety and Quality in Health Care",
+      "website": "http://www.safetyandquality.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-communications-and-media-authority",
+      "title": "Australian Communications and Media Authority",
+      "website": "http://www.acma.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-competition-and-consumer-commission",
+      "title": "Australian Competition and Consumer Commission",
+      "website": "http://www.accc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-criminal-intelligence-commission",
+      "title": "Australian Criminal Intelligence Commission",
+      "website": "http://www.acic.gov.au",
+      "pdf_url": "https://www.acic.gov.au/sites/default/files/2025-07/ACIC%20Org%20Chart%20-%20July%202025.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 245233
+    },
+    {
+      "slug": "australian-curriculum-assessment-and-reporting-authority",
+      "title": "Australian Curriculum, Assessment and Reporting Authority",
+      "website": "http://www.acara.edu.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-digital-health-agency",
+      "title": "Australian Digital Health Agency",
+      "website": "https://www.digitalhealth.gov.au",
+      "pdf_url": "https://www.digitalhealth.gov.au/sites/default/files/documents/australian-digital-health-agency-organisational-structure.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 135,
+      "size": 248014
+    },
+    {
+      "slug": "australian-electoral-commission",
+      "title": "Australian Electoral Commission",
+      "website": "http://aec.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-federal-police",
+      "title": "Australian Federal Police",
+      "website": "http://www.afp.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-film-television-and-radio-school",
+      "title": "Australian Film, Television and Radio School",
+      "website": "http://www.aftrs.edu.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-financial-security-authority",
+      "title": "Australian Financial Security Authority",
+      "website": "https://www.afsa.gov.au/",
+      "pdf_url": "https://www.afsa.gov.au/sites/default/files/2024-11/afsa-organisation-chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 128824
+    },
+    {
+      "slug": "australian-fisheries-management-authority",
+      "title": "Australian Fisheries Management Authority",
+      "website": "http://www.afma.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-hearing-services",
+      "title": "Australian Hearing Services (Hearing Australia)",
+      "website": "http://www.hearing.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-human-rights-commission",
+      "title": "Australian Human Rights Commission",
+      "website": "http://www.humanrights.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "australian-institute-for-teaching-and-school-leadership",
+      "title": "Australian Institute for Teaching and School Leadership Limited",
+      "website": "http://www.aitsl.edu.au/about-us",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-institute-of-aboriginal-and-torres-strait-islander-studies",
+      "title": "Australian Institute of Aboriginal and Torres Strait Islander Studies",
+      "website": "http://aiatsis.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-institute-of-criminology",
+      "title": "Australian Institute of Criminology",
+      "website": "https://www.aic.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-institute-of-family-studies",
+      "title": "Australian Institute of Family Studies",
+      "website": "https://aifs.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "australian-institute-of-health-and-welfare",
+      "title": "Australian Institute of Health and Welfare",
+      "website": "http://www.aihw.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-institute-of-marine-science",
+      "title": "Australian Institute of Marine Science",
+      "website": "http://www.aims.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-law-reform-commission",
+      "title": "Australian Law Reform Commission",
+      "website": "http://www.alrc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-maritime-safety-authority",
+      "title": "Australian Maritime Safety Authority",
+      "website": "http://www.amsa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-military-forces-relief-trust-fund",
+      "title": "Australian Military Forces Relief Trust Fund",
+      "website": "http://armyrtf.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-national-audit-office",
+      "title": "Australian National Audit Office",
+      "website": "http://www.anao.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-national-maritime-museum",
+      "title": "Australian National Maritime Museum",
+      "website": "http://www.anmm.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-national-university",
+      "title": "Australian National University",
+      "website": "http://www.anu.edu.au",
+      "pdf_url": "https://d1zkbwgd2iyy9p.cloudfront.net/files/2025-07/Uni%20Organisational%20Chart-20Jul25-v1.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 62349
+    },
+    {
+      "slug": "australian-naval-nuclear-power-safety-regulator",
+      "title": "Australian Naval Nuclear Power Safety Regulator",
+      "website": "https://www.annpsr.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-nuclear-science-and-technology-organisation",
+      "title": "Australian Nuclear Science and Technology Organisation",
+      "website": "http://www.ansto.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-office-of-financial-management",
+      "title": "Australian Office of Financial Management",
+      "website": "http://www.aofm.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-pesticides-and-veterinary-medicines-authority",
+      "title": "Australian Pesticides and Veterinary Medicines Authority",
+      "website": "https://apvma.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-postal-corporation-statement-of-corporate-intent",
+      "title": "Australian Postal Corporation",
+      "website": "http://auspost.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-prudential-regulation-authority",
+      "title": "Australian Prudential Regulation Authority",
+      "website": "http://www.apra.gov.au",
+      "pdf_url": "https://www.apra.gov.au/sites/default/files/2026-05/2026-11May-APRA-Org-Chart_1.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 112414
+    },
+    {
+      "slug": "australian-public-service-commission",
+      "title": "Australian Public Service Commission",
+      "website": "http://www.apsc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-radiation-protection-and-nuclear-safety-agency",
+      "title": "Australian Radiation Protection and Nuclear Safety Agency",
+      "website": "http://www.arpansa.gov.au",
+      "pdf_url": "https://www.arpansa.gov.au/sites/default/files/documents/2024-09/Organisational%20Chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 373943
+    },
+    {
+      "slug": "australian-rail-track-corporation-limited-statement-of-corporate-intent",
+      "title": "Australian Rail Track Corporation Limited",
+      "website": "http://www.artc.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-reinsurance-pool-corporation",
+      "title": "Australian Reinsurance Pool Corporation",
+      "website": "http://www.arpc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-renewable-energy-agency",
+      "title": "Australian Renewable Energy Agency",
+      "website": "http://arena.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-research-council",
+      "title": "Australian Research Council",
+      "website": "http://www.arc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-secret-intelligence-service",
+      "title": "Australian Secret Intelligence Service",
+      "website": "http://www.asis.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "australian-securities-and-investments-commission",
+      "title": "Australian Securities and Investments Commission",
+      "website": "https://asic.gov.au",
+      "pdf_url": "https://download.asic.gov.au/media/sxcd1lyd/asic-organisation-chart-12-may-2026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 74971
+    },
+    {
+      "slug": "australian-security-intelligence-organisation",
+      "title": "Australian Security Intelligence Organisation",
+      "website": "http://www.asio.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-signals-directorate",
+      "title": "Australian Signals Directorate",
+      "website": "https://www.asd.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-skills-quality-authority",
+      "title": "Australian Skills Quality Authority (National Vocational Education and Training Regulator)",
+      "website": "http://www.asqa.gov.au",
+      "pdf_url": "https://www.asqa.gov.au/sites/default/files/2026-05/ASQA%20Corporate%20Structure%20Website%20May%202026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 135,
+      "size": 258225
+    },
+    {
+      "slug": "australian-sports-commission",
+      "title": "Australian Sports Commission",
+      "website": "https://www.ausport.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-sports-foundation-limited",
+      "title": "Australian Sports Foundation Limited",
+      "website": "http://www.asf.org.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-strategic-policy-institute",
+      "title": "Australian Strategic Policy Institute Limited",
+      "website": "https://www.aspi.org.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-submarine-agency",
+      "title": "Australian Submarine Agency",
+      "website": "https://www.asa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-taxation-office",
+      "title": "Australian Taxation Office",
+      "website": "http://www.ato.gov.au",
+      "pdf_url": "https://www.ato.gov.au/api/public/content/e8ae81f227bc4df6b5504e089a45aed7?v=d0ae087f",
+      "source": "search",
+      "status": "downloaded",
+      "size": 123062
+    },
+    {
+      "slug": "austrade",
+      "title": "Australian Trade and Investment Commission (Austrade)",
+      "website": "http://www.austrade.gov.au",
+      "pdf_url": "https://www.austrade.gov.au/content/dam/austrade-assets/global/wip/austrade/documents-about-us/austrade-high-level-org-chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 140553
+    },
+    {
+      "slug": "australian-trade-and-investment-commission",
+      "title": "Australian Trade and Investment Commission (Austrade)",
+      "website": "http://www.austrade.gov.au",
+      "pdf_url": "https://www.austrade.gov.au/content/dam/austrade-assets/global/wip/austrade/documents-about-us/austrade-high-level-org-chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 140553
+    },
+    {
+      "slug": "australian-transaction-reports-and-analysis-centre",
+      "title": "Australian Transaction Reports and Analysis Centre",
+      "website": "http://www.austrac.gov.au",
+      "pdf_url": "https://www.austrac.gov.au/sites/default/files/2026-03/AUSTRAC%20Organisational%20Structure%20-%20February%202026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 535307
+    },
+    {
+      "slug": "australian-transport-safety-bureau",
+      "title": "Australian Transport Safety Bureau",
+      "website": "http://www.atsb.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "australian-war-memorial",
+      "title": "Australian War Memorial",
+      "website": "http://www.awm.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "bundanon-trust",
+      "title": "Bundanon Trust",
+      "website": "http://www.bundanon.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "bureau-of-meteorology",
+      "title": "Bureau of Meteorology",
+      "website": "http://www.bom.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "cancer-australia",
+      "title": "Cancer Australia",
+      "website": "http://www.canceraustralia.gov.au",
+      "pdf_url": "https://www.canceraustralia.gov.au/sites/default/files/2025-04/2025_cancer_australia_organisational_chart_march_2024.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 169354
+    },
+    {
+      "slug": "central-land-council",
+      "title": "Central Land Council",
+      "website": "http://www.clc.org.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "civil-aviation-safety-authority",
+      "title": "Civil Aviation Safety Authority",
+      "website": "http://www.casa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "clean-energy-finance-corporation",
+      "title": "Clean Energy Finance Corporation",
+      "website": "https://www.cefc.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "clean-energy-regulator",
+      "title": "Clean Energy Regulator",
+      "website": "http://www.cleanenergyregulator.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "climate-change-authority",
+      "title": "Climate Change Authority",
+      "website": "http://climatechangeauthority.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "coal-mining-industry-corporation",
+      "title": "Coal Mining Industry (Long Service Leave Funding) Corporation",
+      "website": "https://www.coallsl.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "comcare",
+      "title": "Comcare",
+      "website": "http://www.comcare.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "commonwealth-grants-commission",
+      "title": "Commonwealth Grants Commission",
+      "website": "http://www.cgc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "commonwealth-scientific-and-industrial-research-organisation",
+      "title": "Commonwealth Scientific and Industrial Research Organisation",
+      "website": "http://www.csiro.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "commonwealth-superannuation-corporation",
+      "title": "Commonwealth Superannuation Corporation",
+      "website": "https://www.csc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "cotton-research-and-development-corporation",
+      "title": "Cotton Research and Development Corporation",
+      "website": "http://crdc.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "creative-australia",
+      "title": "Creative Australia",
+      "website": "https://creative.gov.au/",
+      "pdf_url": "https://creative.gov.au/sites/creative-australia/files/documents/2025-11/Creative-Australia_Org-chart_Nov-2025_1.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 35,
+      "size": 22750
+    },
+    {
+      "slug": "defence-and-veterans-services-commission",
+      "title": "Defence and Veterans’ Services Commission",
+      "website": "https://www.dvsc.gov.au/",
+      "pdf_url": "https://www.dvsc.gov.au/sites/default/files/2025-09/DVSC%20Transitional%20Organisational%20Chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 69193
+    },
+    {
+      "slug": "defence-housing-australia",
+      "title": "Defence Housing Australia",
+      "website": "http://www.dha.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "department-of-agriculture-fisheries-and-forestry",
+      "title": "Department of Agriculture, Fisheries and Forestry",
+      "website": "https://www.agriculture.gov.au/",
+      "pdf_url": "https://www.agriculture.gov.au/sites/default/files/documents/daff-org-chart-external.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 428615
+    },
+    {
+      "slug": "department-of-climate-change-energy-the-environment-and-water",
+      "title": "Department of Climate Change, Energy, the Environment and Water",
+      "website": "https://www.dcceew.gov.au/",
+      "pdf_url": "https://www.dcceew.gov.au/sites/default/files/documents/dcceew-organisation-chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 462218
+    },
+    {
+      "slug": "department-of-defence",
+      "title": "Department of Defence",
+      "website": "http://www.defence.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "department-of-education",
+      "title": "Department of Education",
+      "website": "https://www.education.gov.au/",
+      "pdf_url": "https://www.education.gov.au/download/91/organisation-chart/40729/organisation-chart/pdf",
+      "source": "search",
+      "status": "pdf_download_failed"
+    },
+    {
+      "slug": "department-of-employment-and-workplace-relations",
+      "title": "Department of Employment and Workplace Relations",
+      "website": "https://www.dewr.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "department-of-finance",
+      "title": "Department of Finance",
+      "website": "http://www.finance.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "department-of-foreign-affairs-and-trade",
+      "title": "Department of Foreign Affairs and Trade",
+      "website": "http://www.dfat.gov.au",
+      "pdf_url": "https://www.dfat.gov.au/sites/default/files/dfat-org-chart-executive.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 181214
+    },
+    {
+      "slug": "department-of-health-disability-and-ageing",
+      "title": "Department of Health, Disability and Ageing",
+      "website": "https://www.health.gov.au/",
+      "pdf_url": "https://www.health.gov.au/sites/default/files/2026-05/department-of-health-disability-and-ageing-organisational-chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 186610
+    },
+    {
+      "slug": "department-of-home-affairs",
+      "title": "Department of Home Affairs",
+      "website": "http://www.homeaffairs.gov.au/",
+      "pdf_url": "https://www.homeaffairs.gov.au/about-us-subsite/files/home-affairs-org-structure.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 2652737
+    },
+    {
+      "slug": "department-of-industry-science-and-resources",
+      "title": "Department of Industry, Science and Resources",
+      "website": "http://www.industry.gov.au",
+      "pdf_url": "https://www.industry.gov.au/sites/default/files/2022-09/department-of-industry-science-and-resources-organisation-chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 89393
+    },
+    {
+      "slug": "department-of-infrastructure-transport-regional-development-communications-sport-and-the-arts",
+      "title": "Department of Infrastructure, Transport, Regional Development, Communications, Sport and the Arts",
+      "website": "https://www.infrastructure.gov.au",
+      "pdf_url": "https://www.infrastructure.gov.au/sites/default/files/documents/ditrdcsa-org-chart-week-commencing-monday-25-may-2026.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 342474
+    },
+    {
+      "slug": "department-of-parliamentary-services",
+      "title": "Department of Parliamentary Services",
+      "website": "http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Department_of_Parliamentary_Services",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "department-of-social-services",
+      "title": "Department of Social Services",
+      "website": "http://www.dss.gov.au",
+      "pdf_url": "https://www.dss.gov.au/system/files/documents/2026-05/ses-organisational-chart-external-11-may-2026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 283877
+    },
+    {
+      "slug": "department-of-the-house-of-representatives",
+      "title": "Department of the House of Representatives",
+      "website": "https://www.aph.gov.au/dhr",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "department-of-the-prime-minister-and-cabinet",
+      "title": "Department of the Prime Minister and Cabinet",
+      "website": "http://www.pmc.gov.au",
+      "pdf_url": "https://www.pmc.gov.au/sites/default/files/resource/download/pmc-organisation-chart-as-at-14-april-2026.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 451293
+    },
+    {
+      "slug": "department-of-the-senate",
+      "title": "Department of the Senate",
+      "website": "http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Department_of_the_Senate",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "department-of-the-treasury",
+      "title": "Department of the Treasury",
+      "website": "https://treasury.gov.au/",
+      "pdf_url": "https://treasury.gov.au/sites/default/files/2026-01/treasury-organisational-chart-20260112.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 66301
+    },
+    {
+      "slug": "department-of-veterans-affairs",
+      "title": "Department of Veterans' Affairs",
+      "website": "http://www.dva.gov.au",
+      "pdf_url": "https://www.dva.gov.au/sites/default/files/2026-05/org-chart_4may2026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 135,
+      "size": 715553
+    },
+    {
+      "slug": "digital-transformation-agency",
+      "title": "Digital Transformation Agency",
+      "website": "https://www.dta.gov.au",
+      "pdf_url": "https://www.dta.gov.au/sites/default/files/documents/2026-05/DTA_Orgchart_digital%20Ver.05.05.2026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 175,
+      "size": 192037
+    },
+    {
+      "slug": "director-of-national-parks",
+      "title": "Director of National Parks",
+      "website": "https://www.dcceew.gov.au/parks-heritage/national-parks/parks-australia/director-national-parks",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "domestic-family-and-sexual-violence-commission",
+      "title": "Domestic, Family and Sexual Violence Commission",
+      "website": "https://dfsvc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "export-finance-and-insurance-corporation",
+      "title": "Export Finance Australia (EFA)",
+      "website": "http://www.exportfinance.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "export-finance-australia",
+      "title": "Export Finance Australia (EFA)",
+      "website": "http://www.exportfinance.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "fair-work-commission",
+      "title": "Fair Work Commission",
+      "website": "https://www.fwc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "federal-court-of-australia",
+      "title": "Federal Court of Australia",
+      "website": "https://www.fedcourt.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "fisheries-research-and-development-corporation",
+      "title": "Fisheries Research and Development Corporation",
+      "website": "http://frdc.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "food-standards-australia-new-zealand",
+      "title": "Food Standards Australia New Zealand",
+      "website": "http://www.foodstandards.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "future-fund-management-agency",
+      "title": "Future Fund Management Agency",
+      "website": "http://www.futurefund.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "geoscience-australia",
+      "title": "Geoscience Australia",
+      "website": "http://www.ga.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "grains-research-and-development-corporation",
+      "title": "Grains Research and Development Corporation",
+      "website": "https://grdc.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "great-barrier-reef-marine-park-authority",
+      "title": "Great Barrier Reef Marine Park Authority",
+      "website": "http://www.gbrmpa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "high-speed-rail-authority",
+      "title": "High Speed Rail Authority",
+      "website": "http://www.hsra.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "housing-australia",
+      "title": "Housing Australia",
+      "website": "www.housingaustralia.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "independent-health-and-aged-care-pricing-authority",
+      "title": "Independent Health and Aged Care Pricing Authority",
+      "website": "https://www.ihacpa.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "indigenous-business-australia",
+      "title": "Indigenous Business Australia",
+      "website": "http://www.iba.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "indigenous-land-and-sea-corporation",
+      "title": "Indigenous Land and Sea Corporation",
+      "website": "http://ilsc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "infrastructure-australia",
+      "title": "Infrastructure Australia",
+      "website": "http://www.infrastructureaustralia.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "inspector-general-of-taxation-and-taxation-ombudsman",
+      "title": "Inspector-General of Taxation",
+      "website": "http://www.igt.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "ip-australia",
+      "title": "IP Australia",
+      "website": "https://www.ipaustralia.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "murray-darling-basin-authority",
+      "title": "Murray-Darling Basin Authority",
+      "website": "http://www.mdba.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-archives-of-australia",
+      "title": "National Archives of Australia",
+      "website": "https://www.naa.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-australia-day-council-limited",
+      "title": "National Australia Day Council Limited",
+      "website": "http://www.australiaday.org.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-blood-authority",
+      "title": "National Blood Authority",
+      "website": "http://www.blood.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-capital-authority",
+      "title": "National Capital Authority",
+      "website": "http://www.nca.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-commission-for-aboriginal-and-torres-strait-islander-children-and-young-people",
+      "title": "National Commission for Aboriginal and Torres Strait Islander Children and Young People",
+      "website": "https://www.ncatsicyp.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-competition-council",
+      "title": "National Competition Council",
+      "website": "http://ncc.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-disability-insurance-agency",
+      "title": "National Disability Insurance Agency",
+      "website": "http://www.ndis.gov.au/about-us",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-emergency-management-agency",
+      "title": "National Emergency Management Agency",
+      "website": "https://nema.gov.au/#/",
+      "pdf_url": "https://www.nema.gov.au/sites/default/files/2026-05/NEMA-Org-Structure-May2026.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 159778
+    },
+    {
+      "slug": "national-film-and-sound-archive",
+      "title": "National Film and Sound Archive of Australia",
+      "website": "http://www.nfsa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-gallery-of-australia",
+      "title": "National Gallery of Australia",
+      "website": "http://nga.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "national-health-and-medical-research-council",
+      "title": "National Health and Medical Research Council",
+      "website": "https://www.nhmrc.gov.au/about-us/corporate-plans-and-annual-reports",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-health-funding-body",
+      "title": "National Health Funding Body",
+      "website": "http://www.nhfb.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-indigenous-australians-agency",
+      "title": "National Indigenous Australians Agency",
+      "website": "https://www.niaa.gov.au",
+      "pdf_url": "https://www.niaa.gov.au/sites/default/files/documents/2025-07/niaa-org-chart_0.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 738893
+    },
+    {
+      "slug": "national-intermodal-corporation-limited-statement-of-corporate-intent",
+      "title": "National Intermodal Corporation Limited",
+      "website": "http://www.nationalintermodal.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-library-of-australia",
+      "title": "National Library of Australia",
+      "website": "http://www.nla.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-museum-of-australia",
+      "title": "National Museum of Australia",
+      "website": "http://www.nma.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "national-offshore-petroleum-safety-and-environmental-management-authority",
+      "title": "National Offshore Petroleum Safety and Environmental Management Authority",
+      "website": "http://www.nopsema.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-portrait-gallery-of-australia",
+      "title": "National Portrait Gallery of Australia",
+      "website": "http://www.portrait.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-reconstruction-fund-corporation",
+      "title": "National Reconstruction Fund Corporation",
+      "website": "https://www.nrf.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "national-transport-commission",
+      "title": "National Transport Commission",
+      "website": "http://www.ntc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "nbn-co-limited-statement-of-corporate-intent",
+      "title": "NBN Co Limited",
+      "website": "http://www.nbnco.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "ndis-quality-and-safeguards-commission",
+      "title": "NDIS Quality and Safeguards Commission",
+      "website": "https://www.ndiscommission.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "net-zero-economy-authority",
+      "title": "Net Zero Economy Authority",
+      "website": "https://www.netzero.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "northern-australia-infrastructure-facility",
+      "title": "Northern Australia Infrastructure Facility",
+      "website": "https://naif.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "northern-land-council",
+      "title": "Northern Land Council",
+      "website": "http://www.nlc.org.au",
+      "pdf_url": "https://irp.cdn-website.com/98b48721/files/uploaded/2711Revised+NLC+Org+Chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 564522
+    },
+    {
+      "slug": "office-of-national-intelligence",
+      "title": "Office of National Intelligence",
+      "website": "http://www.oni.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "office-of-parliamentary-counsel",
+      "title": "Office of Parliamentary Counsel",
+      "website": "http://www.opc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "office-of-the-auditing-and-assurance-standards-board",
+      "title": "Office of the Auditing and Assurance Standards Board",
+      "website": "http://www.auasb.gov.au",
+      "pdf_url": "https://www.auasb.gov.au/media/1tjjz5vo/aasb-auasb-orgstructure_july2024.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 120,
+      "size": 93026
+    },
+    {
+      "slug": "office-of-the-australian-accounting-standards-board",
+      "title": "Office of the Australian Accounting Standards Board",
+      "website": "http://www.aasb.gov.au",
+      "pdf_url": "https://www.aasb.gov.au/media/ewsn23u0/aasb-auasb-orgstructure_july2024.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 120,
+      "size": 93026
+    },
+    {
+      "slug": "office-of-the-australian-information-commissioner",
+      "title": "Office of the Australian Information Commissioner",
+      "website": "http://www.oaic.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "office-of-the-commonwealth-ombudsman",
+      "title": "Office of the Commonwealth Ombudsman",
+      "website": "http://www.ombudsman.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "office-of-the-director-of-public-prosecutions",
+      "title": "Office of the Director of Public Prosecutions",
+      "website": "http://www.cdpp.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "office-of-the-inspector-general-of-aged-care",
+      "title": "Office of the Inspector-General of Aged Care",
+      "website": "https://www.igac.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "inspector-general-of-intelligence-and-security",
+      "title": "Office of the Inspector-General of Intelligence and Security",
+      "website": "http://www.igis.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "office-of-the-official-secretary-to-the-governor-general",
+      "title": "Office of the Official Secretary to the Governor-General",
+      "website": "https://www.gg.gov.au/office-official-secretary-governor-general",
+      "pdf_url": "https://www.gg.gov.au/sites/default/files/2026-05/Current%20org%20structure%20%28updated%2011.05.2026%29_0.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 120,
+      "size": 171191
+    },
+    {
+      "slug": "old-parliament-house",
+      "title": "Old Parliament House",
+      "website": "http://moadoph.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "organ-and-tissue-authority",
+      "title": "Organ and Tissue Authority",
+      "website": "http://www.donatelife.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "outback-stores-pty-ltd",
+      "title": "Outback Stores Pty Ltd",
+      "website": "http://www.outbackstores.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "parliamentary-budget-office",
+      "title": "Parliamentary Budget Office",
+      "website": "http://www.pbo.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "productivity-commission",
+      "title": "Productivity Commission",
+      "website": "https://www.pc.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "professional-services-review",
+      "title": "Professional Services Review",
+      "website": "http://www.psr.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "raaf-welfare-recreational-company",
+      "title": "RAAF Welfare Recreational Company",
+      "website": "http://www.raafholidays.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "regional-investment-corporation",
+      "title": "Regional Investment Corporation",
+      "website": "https://www.ric.gov.au/",
+      "pdf_url": "https://www.ric.gov.au/sites/default/files/documents/20240305_RIC-Organisational-Chart.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 18661
+    },
+    {
+      "slug": "reserve-bank-of-australia",
+      "title": "Reserve Bank of Australia",
+      "website": "https://www.rba.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "royal-australian-air-force-veterans-039-residences-trust-fund",
+      "title": "Royal Australian Air Force Veterans&#039; Residences Trust Fund",
+      "website": "https://www.airforce.gov.au/community/members-and-veterans/veterans-residences-trust",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "royal-australian-air-force-veterans-residences-trust-fund",
+      "title": "Royal Australian Air Force Veterans' Residences Trust Fund",
+      "website": "https://www.airforce.gov.au/community/members-and-veterans/veterans-residences-trust",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "royal-australian-mint",
+      "title": "Royal Australian Mint",
+      "website": "http://www.ramint.gov.au",
+      "pdf_url": "https://www.ramint.gov.au/sites/default/files/2025-06/2025_Royal-Australian-Mint_Organisation-Chart_16%20June%202025.pdf",
+      "source": "website",
+      "status": "downloaded",
+      "score": 160,
+      "size": 155294
+    },
+    {
+      "slug": "royal-australian-navy-central-canteens-board",
+      "title": "Royal Australian Navy Central Canteens Board (Royal Australian Navy Central Canteens Fund)",
+      "website": "https://thenavysanchorage.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "royal-australian-navy-relief-trust-fund",
+      "title": "Royal Australian Navy Relief Trust Fund",
+      "website": "http://intranet.defence.gov.au/navyweb/sites/RANRTF/ComWeb.asp?page=255915",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "rural-industries-research-and-development-corporation",
+      "title": "Rural Industries Research and Development Corporation (trading as AgriFutures Australia)",
+      "website": "https://agrifutures.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "safe-work-australia",
+      "title": "Safe Work Australia",
+      "website": "https://www.safeworkaustralia.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "screen-australia",
+      "title": "Screen Australia",
+      "website": "http://www.screenaustralia.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "seafarers-safety-rehabilitation-and-compensation-authority",
+      "title": "Seafarers Safety, Rehabilitation and Compensation Authority",
+      "website": "http://www.seacare.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "services-australia",
+      "title": "Services Australia",
+      "website": "https://www.servicesaustralia.gov.au/",
+      "pdf_url": "https://www.servicesaustralia.gov.au/sites/default/files/2025-11/org-chart.pdf",
+      "source": "search",
+      "status": "downloaded",
+      "size": 242267
+    },
+    {
+      "slug": "snowy-hydro",
+      "title": "Snowy Hydro Ltd",
+      "website": "https://www.snowyhydro.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "special-broadcasting-service-corporation",
+      "title": "Special Broadcasting Service Corporation",
+      "website": "http://www.sbs.com.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "sport-integrity-australia",
+      "title": "Sport Integrity Australia",
+      "website": "https://www.sportintegrity.gov.au/",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "sydney-harbour-federation-trust",
+      "title": "Sydney Harbour Federation Trust",
+      "website": "http://www.harbourtrust.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "tertiary-education-quality-and-standards-agency",
+      "title": "Tertiary Education Quality and Standards Agency",
+      "website": "http://www.teqsa.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "tiwi-land-council",
+      "title": "Tiwi Land Council",
+      "website": "http://www.tiwilandcouncil.com",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "torres-strait-regional-authority",
+      "title": "Torres Strait Regional Authority",
+      "website": "http://www.tsra.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "tourism-australia",
+      "title": "Tourism Australia",
+      "website": "http://www.tourism.australia.com",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "wine-australia",
+      "title": "Wine Australia",
+      "website": "www.wineaustralia.com",
+      "pdf_url": null,
+      "source": null,
+      "status": "site_unreachable"
+    },
+    {
+      "slug": "workplace-gender-equality-agency",
+      "title": "Workplace Gender Equality Agency",
+      "website": "https://www.wgea.gov.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    },
+    {
+      "slug": "wsa-co-limited",
+      "title": "WSA Co Limited",
+      "website": "http://www.wsiairport.com.au",
+      "pdf_url": null,
+      "source": null,
+      "status": "not_found"
+    }
+  ]
+}

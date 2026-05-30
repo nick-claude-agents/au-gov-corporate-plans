@@ -1,0 +1,62 @@
+{
+  "content_id": "38234",
+  "title": "National Emergency Management Agency",
+  "acronym": "",
+  "portfolio": "Home Affairs",
+  "website": "https://nema.gov.au/#/",
+  "description": "The National Emergency Management Agency is leading Australia’s disaster and emergency management efforts by providing informed strategic oversight and guidance, and ensuring constant connection with local communities.",
+  "dashboard_name": "National Emergency Management Agency",
+  "people_count": 5,
+  "tree": {
+    "content_id": "38234",
+    "title": "National Emergency Management Agency",
+    "roles": [
+      {
+        "role": "Coordinator-General",
+        "person": "Brendan Moon",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "Deputy Coordinator-General, Emergency Management and Response Group",
+        "person": "Katarina Carroll",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 2
+      },
+      {
+        "role": "Deputy Coordinator-General, Disaster Resilience and Recovery Group",
+        "person": "Jill Charker",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Vidoshi Jana",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 4
+      },
+      {
+        "role": "Chief Finance Officer",
+        "person": "Sanandan Dasgupta",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 5
+      }
+    ],
+    "children": []
+  }
+}

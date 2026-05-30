@@ -1,0 +1,52 @@
+{
+  "content_id": "219",
+  "title": "Indigenous Land and Sea Corporation",
+  "acronym": "ILSC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://ilsc.gov.au/",
+  "description": "The Indigenous Land and Sea Corporation (ILSC) is an independent statutory authority of the Australian Government, established in 1995. ILSC's purpose is to assist Indigenous people to acquire and manage land to achieve economic, environmental, social and cultural benefits. New projects are developed by applications/ ideas  submitted by Indigenous organisations or landholders, or by the ILSC in collaboration with other organisations and government agencies. The ILSC also operates commercial businesses to deliver training and employment opportunities for Indigenous people in agriculture and tourism.",
+  "dashboard_name": "Indigenous Land and Sea Corporation",
+  "people_count": 3,
+  "tree": {
+    "content_id": "219",
+    "title": "Indigenous Land and Sea Corporation",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Joseph Morrison",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1589",
+        "title": "Head Office",
+        "roles": [
+          {
+            "role": "Chairperson",
+            "person": "Edward Fry",
+            "vacant": false,
+            "acting": false,
+            "email": "ilcinfo@ilc.gov.au",
+            "phone": "(08) 8100 7100",
+            "importance": 999
+          },
+          {
+            "role": "Chief Executive Officer",
+            "person": "Joseph Morrison",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,278 @@
+{
+  "content_id": "113",
+  "title": "Murray-Darling Basin Authority",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.mdba.gov.au",
+  "description": "The Murray-Darling Basin is Australia's most iconic and largest river system. It is also one of the largest river systems in the world and one of the driest. It is divided into the northern Basin (Darling system) and the southern Basin (Murray system). The Murray-Darling Basin Authority (MDBA) undertakes activities that support the sustainable and integrated management of the water resources of the Murray-Darling Basin in a way that best meets the social, economic and environmental needs of the Basin and its communities. <br />\n<br />\nMDBA leads the planning and management of Basin water resources, and coordinate and maintain collaborative long-term strategic relations with other Australian Government, Basin state government and local agencies; industry groups; scientists and research organisations. The Water Act 2007 requires MDBA to undertake a number of functions: <br />\n- advise the Commonwealth Minister for Water on the accreditation of state water resource plans <br />\n- develop a water rights information service to facilitate water trading across the Basin <br />\n- manage water sharing between the states <br />\n- manage all aspects of Basin water resources, including water, organisms and other components and ecosystems that contribute to the physical state and environmental value of the Basin's water resources <br />\n- measure and monitor water resources in the Basin <br />\n- gather information and undertake research <br />\n- engage and educate the community in the management of the Basin's resources.",
+  "dashboard_name": "Murray-Darling Basin Authority (MDBA)",
+  "people_count": 25,
+  "tree": {
+    "content_id": "113",
+    "title": "Murray-Darling Basin Authority",
+    "roles": [
+      {
+        "role": "Chief Executive",
+        "person": "Andrew McConville",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Senior Director, Communications and Engagement",
+        "person": "Ed O'Daly",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1068",
+        "title": "Basin Plan",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Tim Goodes",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "General Manager, Basin Plan Implementation",
+            "person": "Megan Winter",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "General Manager, Basin Plan Review Strategy and Integration",
+            "person": "Grace Mang",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "General Manager, Basin Plan Review Sustainable Water Management",
+            "person": "Belinda McGrath-Steer",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 4
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1070",
+        "title": "Basin Science and Knowledge",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Scott Ashby",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "General Manager, Science Acquisition",
+            "person": "Matt Coleman",
+            "vacant": false,
+            "acting": false,
+            "email": "matt.coleman@mdba.gov.au",
+            "phone": "(02) 6279 0699",
+            "importance": 2
+          },
+          {
+            "role": "General Manager, Integrated River Modelling Uplift",
+            "person": "Andrew Kremor",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "A/G Manager, Applied Science",
+            "person": "Joel Bailey",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Senior Director, Hydrological Analysis",
+            "person": "Alistair Korn",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "General Manager, First Nations",
+            "person": "Jack Knowles",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 6
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1069",
+        "title": "Business Services",
+        "roles": [
+          {
+            "role": "Executive Director and Chief Operating Officer",
+            "person": "Katrina Tonkin",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "General Counsel, Legal and Governance",
+            "person": "Kelly Casey",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "A/G Chief Financial Officer, Finance and Business Operations",
+            "person": "Jack Mills",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Chief Information Officer, ICT and Data",
+            "person": "Kieran Armstrong",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Senior Director, Strategy, Performance and Projects",
+            "person": "Felicia Gundelach",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Chief People Officer, People and Culture",
+            "person": "Grant Buckley",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 6
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1067",
+        "title": "Corporate Strategy and Services",
+        "roles": [
+          {
+            "role": "Executive Director - Corporate Division",
+            "person": "Annette Blyton",
+            "vacant": false,
+            "acting": false,
+            "email": "annette.blyton@mdba.gov.au",
+            "phone": "(02) 6279 0473",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1065",
+        "title": "River Management Division",
+        "roles": [
+          {
+            "role": "Executive Director – River Management",
+            "person": "Jacqui Hickey",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "General Director – Assets",
+            "person": "Angus Paton",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Senior Director, River Modernisation",
+            "person": "Joseph Davis",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Senior Director, Sustainable Diversion Limit Adjustment Mechanism and Hydrometrics",
+            "person": "Asitha Katupitiya",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Senior Director, Environmental Management",
+            "person": "Janet Pritchard",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Senior Director, River Operations",
+            "person": "Tom Zouch",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 6
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,2183 @@
+{
+  "content_id": "170",
+  "title": "Department of Agriculture, Fisheries and Forestry",
+  "acronym": "DAFF",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "https://www.agriculture.gov.au/",
+  "description": "The Department of Agriculture, Fisheries and Forestry works to enhance our agricultural, fisheries and forestry industries. We create new and maintain existing agricultural export opportunities, to provide gains for Australian agriculture. We manage biosecurity risks to Australia to protect our multi-billion dollar agricultural industries and our way of life.",
+  "dashboard_name": "Department of Agriculture, Fisheries and Forestry (DAFF)",
+  "people_count": 160,
+  "tree": {
+    "content_id": "170",
+    "title": "Department of Agriculture, Fisheries and Forestry",
+    "roles": [
+      {
+        "role": "Secretary",
+        "person": "Victoria Anderson",
+        "vacant": false,
+        "acting": false,
+        "email": "victoria.anderson@aff.gov.au",
+        "phone": "02 6272 4180",
+        "importance": 1
+      },
+      {
+        "role": "Chief of Staff",
+        "person": "Alison Curran",
+        "vacant": false,
+        "acting": false,
+        "email": "alison.curran@aff.gov.au",
+        "phone": "02 6272 3934",
+        "importance": 2
+      },
+      {
+        "role": "Executive Officer to the Secretary",
+        "person": "Lisa Borella",
+        "vacant": false,
+        "acting": false,
+        "email": "lisa.borella@aff.gov.au",
+        "phone": "02 6272 3876",
+        "importance": 3
+      },
+      {
+        "role": "Executive Assistant to the Secretary",
+        "person": "Ana Tomaz-Barnes",
+        "vacant": false,
+        "acting": false,
+        "email": "ana.tomaz-barnes@aff.gov.au",
+        "phone": "02 6272 4182",
+        "importance": 4
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2487",
+        "title": "Agricultural Trade & Regulation Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Tina Hutchison",
+            "vacant": false,
+            "acting": false,
+            "email": "tina.hutchison@aff.gov.au",
+            "phone": "02 6272 3501",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to Tina Hutchison",
+            "person": "Suze Rose",
+            "vacant": false,
+            "acting": false,
+            "email": "suze.rose@aff.gov.au",
+            "phone": "02 6272 3220",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Tina Hutchison",
+            "person": "Rhiana Harrison",
+            "vacant": false,
+            "acting": false,
+            "email": "rhiana.harrison@aff.gov.au",
+            "phone": "02 6272 2079",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2450",
+            "title": "Digital Business",
+            "roles": [
+              {
+                "role": "Chief Digital & Data Officer",
+                "person": "Amanda Chalmers",
+                "vacant": false,
+                "acting": false,
+                "email": "amanda.chalmers@aff.gov.au",
+                "phone": "02 6272 3266",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Peter Bignell",
+                "vacant": false,
+                "acting": false,
+                "email": "peter.bignell@agriculture.gov.au",
+                "phone": "02 6272 3266",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Serena Gamage",
+                "vacant": false,
+                "acting": false,
+                "email": "serena.gamage@aff.gov.au",
+                "phone": "02 6272 5793",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3833",
+                "title": "Digital Export",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Caroline Martin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "caroline.martin@aff.gov.au",
+                    "phone": "02 6272 4567",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "44846",
+                "title": "Digital Solutions & Enablement",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Martin Coates",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "martin.coates@aff.gov.au",
+                    "phone": "02 6272 2428",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2156",
+            "title": "Exports & Veterinary Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tom Black",
+                "vacant": false,
+                "acting": false,
+                "email": "tom.black@aff.gov.au",
+                "phone": "02 6271 6682",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Tom Townson",
+                "vacant": false,
+                "acting": false,
+                "email": "thomas.townson@aff.gov.au",
+                "phone": "02 6272 2270",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Amy Mpelasoka",
+                "vacant": false,
+                "acting": false,
+                "email": "amy.mpelasoka@aff.gov.au",
+                "phone": "02 6272 4237",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1123",
+                "title": "Export Standards",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anna Somerville",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anna.somerville@aff.gov.au",
+                    "phone": "02 6272 5954",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2158",
+                "title": "Meat Exports",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Christine Mulhearn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christine.mulhearn@aff.gov.au",
+                    "phone": "02 5156 5772",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2159",
+                "title": "Residues & Food",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Joffrid Mackett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joffrid.mackett@aff.gov.au",
+                    "phone": "02 6272 5435",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2157",
+                "title": "Veterinary & Export Meat",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jonathon Early",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jonathan.early@aff.gov.au",
+                    "phone": "02 6272 4045",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1842",
+            "title": "International Posts",
+            "roles": [
+              {
+                "role": "Brussels Minister Counsellor",
+                "person": "Peter Creaser",
+                "vacant": false,
+                "acting": false,
+                "email": "peter.creaser@aff.gov.au",
+                "phone": "+32 2 286 0513",
+                "importance": 1
+              },
+              {
+                "role": "Washington DC Minister Counsellor",
+                "person": "Craig Rosner-Moore",
+                "vacant": false,
+                "acting": false,
+                "email": "craig.rosner-moore@aff.gov.au",
+                "phone": "+1 (202) 674 5542",
+                "importance": 1
+              },
+              {
+                "role": "Beijing Minister Counsellor",
+                "person": "Nadia Bouhafs",
+                "vacant": false,
+                "acting": false,
+                "email": "nadia.bouhafs@aff.gov.au",
+                "phone": "+86 156 1107 8429",
+                "importance": 2
+              },
+              {
+                "role": "Jakarta Minister Counsellor",
+                "person": "Andrew O'Sullivan",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.o'sullivan@aff.gov.au",
+                "phone": "+62 21 2550 5324",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "54659",
+            "title": "NEXDOC Migration Lead",
+            "roles": [
+              {
+                "role": "A/g Assistant Secretary",
+                "person": "Rowan Parr",
+                "vacant": false,
+                "acting": false,
+                "email": "rowan.parr@aff.gov.au",
+                "phone": "02 6272 4380",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2154",
+            "title": "Plant & Live Animal Exports, Welfare & Regulation",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Andrew McDonald",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.mcdonald@aff.gov.au",
+                "phone": "02 6272 3450",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Peta Tuli",
+                "vacant": false,
+                "acting": false,
+                "email": "peta.tuli@aff.gov.au",
+                "phone": "02 6272 3606",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Keeley Lowder",
+                "vacant": false,
+                "acting": false,
+                "email": "keeley.locke@aff.gov.au",
+                "phone": "02 6272 4505",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1908",
+                "title": "Animal Welfare & Regulatory Stewardship",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Anna Brezzo",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anna.brezzo@aff.gov.au",
+                    "phone": "03 8708 0417",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1907",
+                "title": "Live Animal Export",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rossana Carr",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rossana.carr@aff.gov.au",
+                    "phone": "02 6272 5078",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2155",
+                "title": "Plant Exports",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jemma Martin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jemma.martin@aff.gov.au",
+                    "phone": "02 6272 5406",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1783",
+            "title": "Trade & International",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Jared Greenville",
+                "vacant": false,
+                "acting": false,
+                "email": "jared.greenville@aff.gov.au",
+                "phone": "02 6272 5098",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Cas Newsome",
+                "vacant": false,
+                "acting": false,
+                "email": "cas.newsome@aff.gov.au",
+                "phone": "TBC",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Luciana Genero",
+                "vacant": false,
+                "acting": false,
+                "email": "luciana.genero@aff.gov.au",
+                "phone": "02 6272 4679",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1788",
+                "title": "Asia, MENA & Trade Information",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Deb Langford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "deb.langford@aff.gov.au",
+                    "phone": "02 6276 5614",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2869",
+                "title": "Global Agricultural Trade",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Garner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.garner@aff.gov.au",
+                    "phone": "02 6272 4852",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51333",
+                "title": "Sustainable Trade Funding & Traceability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chris Mcdonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.mcdonald@aff.gov.au",
+                    "phone": "02 6272 4447",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2451",
+        "title": "Agriculture, Fisheries & Forestry Policy Group",
+        "roles": [
+          {
+            "role": "A/g Deputy Secretary",
+            "person": "Melissa Brown",
+            "vacant": false,
+            "acting": false,
+            "email": "melissa.brown@aff.gov.au",
+            "phone": "02 6272 4597",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to Mel Brown",
+            "person": "Claire Berry",
+            "vacant": false,
+            "acting": false,
+            "email": "claire.berry@aff.gov.au",
+            "phone": "02 6272 2318",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Mel Brown",
+            "person": "Bianca Magro",
+            "vacant": false,
+            "acting": false,
+            "email": "bianca.magro1@aff.gov.au",
+            "phone": "02 6272 2238",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1841",
+            "title": "ABARES",
+            "roles": [
+              {
+                "role": "A/g Executive Director",
+                "person": "David Galeano",
+                "vacant": false,
+                "acting": false,
+                "email": "david.galeano@aff.gov.au",
+                "phone": "02 6272 2030",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Madeleine Osborn",
+                "vacant": false,
+                "acting": false,
+                "email": "madeleine.osborn@aff.gov.au",
+                "phone": "02 6272 3384",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Renee Klooger",
+                "vacant": false,
+                "acting": false,
+                "email": "renee.klooger@aff.gov.au",
+                "phone": "02 6271 6574",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1840",
+                "title": "Agricultural Forecasting & Trade",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kurt Hockey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kurt.hockey@aff.gov.au",
+                    "phone": "02 6271 6576",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1905",
+                "title": "Farm Performance & Information",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrea Willis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrea.willis@aff.gov.au",
+                    "phone": "02 5156 3530",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1906",
+                "title": "Natural Resources",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jane Stewart",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.stewart@aff.gov.au",
+                    "phone": "02 6272 3541",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1364",
+            "title": "Agricultural Policy",
+            "roles": [
+              {
+                "role": "A/g First Assistant Secretary",
+                "person": "Paul Denny",
+                "vacant": false,
+                "acting": false,
+                "email": "paul.denny@aff.gov.au",
+                "phone": "02 6272 5747",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Emily Carroll",
+                "vacant": false,
+                "acting": false,
+                "email": "emily.carroll@aff.gov.au",
+                "phone": "02 6272 4408",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Bec Hunt",
+                "vacant": false,
+                "acting": false,
+                "email": "bec.hunt@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54658",
+                "title": "Crops, Wine & Horticulture",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Matthew Worrell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "matthew.worrell@aff.gov.au",
+                    "phone": "02 5156 5632",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1363",
+                "title": "Food Policy",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Nina Meister",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nina.meister@aff.gov.au",
+                    "phone": "02 6272 5053",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1366",
+                "title": "Levies, Innovation & Livestock",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Paul Maisey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.maisey@aff.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "46692",
+                "title": "Partnerships & Productivity",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "TBC Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2591",
+                "title": "Workforce & Engagement",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Kaz Graham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kaz.graham@aff.gov.au",
+                    "phone": "02 6272 5464",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2796",
+            "title": "Agvet Chemicals, Fisheries & Forestry",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Sarah-Jane McCormack",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah-jane.mccormack@aff.gov.au",
+                "phone": "02 6272 5195",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer to Sarah-Jane McCormack",
+                "person": "Georgina Ressler",
+                "vacant": false,
+                "acting": false,
+                "email": "georgina.ressler@aff.gov.au",
+                "phone": "02 6272 5610",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Sam Moloney",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.moloney@aff.gov.au",
+                "phone": "02 6272 3340",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2798",
+                "title": "Agvet Chemicals & Forestry",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Guy Bursle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "guy.bursle@aff.gov.au",
+                    "phone": "02 6272 5301",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2797",
+                "title": "Fisheries & Aquaculture",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "George Day",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "george.day@aff.gov.au",
+                    "phone": "02 6271 6466",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50806",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Nigel Evans",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nigel.evans1@aff.gov.au",
+                    "phone": "02 5156 5449",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "37489",
+            "title": "Farm Resilience",
+            "roles": [
+              {
+                "role": "A/g First Assistant Secretary",
+                "person": "Laura Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "laura.smith@aff.gov.au",
+                "phone": "02 6271 6542",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Lexie Williamson",
+                "vacant": false,
+                "acting": false,
+                "email": "lexie.williamson@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "37492",
+                "title": "Drought Policy",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Fiona Slater",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.slater@aff.gov.au",
+                    "phone": "02 6272 5151",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37491",
+                "title": "Financial Policy & Business Support",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jocelyn Barbic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jocelyn.barbic@aff.gov.au",
+                    "phone": "02 6272 4726",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37490",
+                "title": "Future Drought Fund Strategy & Delivery",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Chris Toyne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.toyne@aff.gov.au",
+                    "phone": "02 6271 6685",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1365",
+            "title": "Sustainability, Climate & Strategy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Nick Blong",
+                "vacant": false,
+                "acting": false,
+                "email": "nick.blong@aff.gov.au",
+                "phone": "02 6272 2460",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Ellanna Barling",
+                "vacant": false,
+                "acting": false,
+                "email": "ellanna.barling@aff.gov.au",
+                "phone": "02 5156 5628",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Amy Cheng",
+                "vacant": false,
+                "acting": false,
+                "email": "amy.cheng@aff.gov.au",
+                "phone": "02 6272 5196",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2867",
+                "title": "Climate Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Heather McGilvray",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "heather.mcgilvray@aff.gov.au",
+                    "phone": "02 6272 5126",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49799",
+                "title": "Industry Transition",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jo Grainger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.grainger@aff.gov.au",
+                    "phone": "02 6272 5813",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37498",
+                "title": "Sustainable Agriculture",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jo Grainger",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joanne.grainger@aff.gov.au",
+                    "phone": "02 6272 5813",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2268",
+        "title": "Biosecurity, Operations & Compliance Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Justine Saunders",
+            "vacant": false,
+            "acting": false,
+            "email": "justine.saunders@aff.gov.au",
+            "phone": "02 6272 4710",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to Justine Saunders",
+            "person": "Dimitra Campbell",
+            "vacant": false,
+            "acting": false,
+            "email": "dimitra.campbell@aff.gov.au",
+            "phone": "02 6272 5404",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Justine Saunders",
+            "person": "Eda Kocak",
+            "vacant": false,
+            "acting": false,
+            "email": "eda.kocak@aff.gov.au",
+            "phone": "02 6272 4875",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2817",
+            "title": "Australian Chief Veterinary Office",
+            "roles": [
+              {
+                "role": "Australian Chief Veterinary Officer",
+                "person": "Beth Cookson",
+                "vacant": false,
+                "acting": false,
+                "email": "beth.cookson@aff.gov.au",
+                "phone": "07 4241 7982",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Chief Veterinary Officer",
+                "person": "Sam Hamilton",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.hamilton@aff.gov.au",
+                "phone": "02 6272 3226",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Victoria Dennis",
+                "vacant": false,
+                "acting": false,
+                "email": "victoria.dennis@aff.gov.au",
+                "phone": "02 6272 3895",
+                "importance": 3
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Sam Davies",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.davies1@aff.gov.au",
+                "phone": "02 6272 5596",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2813",
+            "title": "Biosecurity Animal",
+            "roles": [
+              {
+                "role": "First Assistant Secretary & National Animal Disease Preparedness Coordinator",
+                "person": "Brant Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "brant.smith@aff.gov.au",
+                "phone": "02 6272 4969",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Katherine De Groot",
+                "vacant": false,
+                "acting": false,
+                "email": "katherine.degroot@aff.gov.au",
+                "phone": "02 6272 5267",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Megan Rajic",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.rajic@aff.gov.au",
+                "phone": "02 6272 3140",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2815",
+                "title": "Animal & Biological Imports",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kristin Sykes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kristin.sykes@aff.gov.au",
+                    "phone": "02 6272 3832",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2814",
+                "title": "Animal Biosecurity",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Rochelle Prattley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rochelle.prattley@aff.gov.au",
+                    "phone": "02 6272 3923",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2816",
+                "title": "Animal Health Policy",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Louis Palfreyman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "louise.palfreyman@aff.gov.au",
+                    "phone": "02 6272 3992",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37508",
+                "title": "Animal Strategy & Coordination",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke Osborne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.osborne@aff.gov.au",
+                    "phone": "02 6272 3952",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "48795",
+                "title": "HPAI Taskforce",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Louis Palfreyman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "louise.palfreyman@aff.gov.au",
+                    "phone": "02 6272 3992",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2818",
+            "title": "Biosecurity Operations",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Monica Collins",
+                "vacant": false,
+                "acting": false,
+                "email": "monica.collins@aff.gov.au",
+                "phone": "02 6272 3416",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Marivi Hill",
+                "vacant": false,
+                "acting": false,
+                "email": "marivi.hill@aff.gov.au",
+                "phone": "TBC",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Kat McLinden",
+                "vacant": false,
+                "acting": false,
+                "email": "kat.mclinden@aff.gov.au",
+                "phone": "02 6272 4519",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2982",
+                "title": "Cargo Operations North & Response",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sonya Errington",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sonya.errington@aff.gov.au",
+                    "phone": "02 8334 7357",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2983",
+                "title": "Cargo Operations South & Detector Dogs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Holly Buckle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "holly.buckle@aff.gov.au",
+                    "phone": "03 8308 5105",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3438",
+                "title": "Cargo Operations West & Maritime",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jim Simpson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jim.simpson@aff.gov.au",
+                    "phone": "08 6232 7003",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3019",
+                "title": "Goods & Conveyance Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Josephine Laduzko",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "josephine.laduzko@agriculture.gov.au",
+                    "phone": "02 6272 3564",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2981",
+                "title": "Operational Strategy & Reform",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Julie Lowe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "julie.lowe@aff.gov.au",
+                    "phone": "07 3246 8618",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3020",
+                "title": "Traveller Operations & Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Vikki Fischer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vikki.fischer@aff.gov.au",
+                    "phone": "02 6272 3686",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3439",
+            "title": "Biosecurity Plant & Science Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Peter Finnin",
+                "vacant": false,
+                "acting": false,
+                "email": "peter.finnin@aff.gov.au",
+                "phone": "02 6272 5444",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Sharon Sazegar",
+                "vacant": false,
+                "acting": false,
+                "email": "sharon.sazegar@aff.gov.au",
+                "phone": "02 6272 4714",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Laura Fitzgerald",
+                "vacant": false,
+                "acting": false,
+                "email": "laura.fitzgerald@aff.gov.au",
+                "phone": "02 6272 2240",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2820",
+                "title": "Plant Import Operations",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Ben Wilson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.wilson@aff.gov.au",
+                    "phone": "03 8318 8201",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2819",
+                "title": "Plant Sciences & Risk Assessment",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Allison Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "allison.jones@aff.gov.au",
+                    "phone": "02 6272 3220",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2821",
+                "title": "Plant Systems & Strategies",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sarah Bruce",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.bruce@aff.gov.au",
+                    "phone": "02 6272 3321",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3014",
+                "title": "Science & Surveillance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Wayne See Kee",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "wayne.seekee@aff.gov.au",
+                    "phone": "07 4241 7944",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3018",
+            "title": "Biosecurity Strategy & Reform",
+            "roles": [
+              {
+                "role": "A/g First Assistant Secretary",
+                "person": "Jason Preece",
+                "vacant": false,
+                "acting": false,
+                "email": "jason.preece@aff.gov.au",
+                "phone": "02 5156 4032",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Amy Cuddihy",
+                "vacant": false,
+                "acting": false,
+                "email": "amy.cuddihy@aff.gov.au",
+                "phone": "TBC",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Eloise Vines",
+                "vacant": false,
+                "acting": false,
+                "email": "eloise.vines@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3017",
+                "title": "Biosecurity Response & Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Gavin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.gavin@aff.gov.au",
+                    "phone": "02 6272 4295",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42703",
+                "title": "Biosecurity Sustainable Funding",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Julia Wells",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "julia.wells@aff.gov.au",
+                    "phone": "02 6272 4513",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40125",
+                "title": "Risk, Intelligence & Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rachel Granton-Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rachel.granton-smith@aff.gov.au",
+                    "phone": "02 6271 6338",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3012",
+            "title": "Compliance & Enforcement",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Graeme Grosse",
+                "vacant": false,
+                "acting": false,
+                "email": "graeme.grosse@aff.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Jessica Buckley",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.buckley@aff.gov.au",
+                "phone": "02 6272 5197",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Lucy Rogerson",
+                "vacant": false,
+                "acting": false,
+                "email": "lucy.rogerson@aff.gov.au",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3004",
+                "title": "Audit & Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Martin Moseley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "martin.moseley@aff.gov.au",
+                    "phone": "08 8201 6118",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3016",
+                "title": "Investigations",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Nick Medway",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicholas.medway@aff.gov.au",
+                    "phone": "03 8318 6765",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40114",
+                "title": "Operational Intelligence & Coordination",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Brett Liebich",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "brett.liebich@aff.gov.au",
+                    "phone": "08 8201 6001",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2822",
+            "title": "Plant Protection & Environmental Biosecurity",
+            "roles": [
+              {
+                "role": "Australian Chief Plant Protection Officer",
+                "person": "Gabrielle Vivian-Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "gabrielle.vivian-smith@aff.gov.au",
+                "phone": "02 6272 4671",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Morag Donaldson",
+                "vacant": false,
+                "acting": false,
+                "email": "morag.donaldson@aff.gov.au",
+                "phone": "02 6272 3782",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Sam Collins",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.collins@aff.gov.au",
+                "phone": "02 6272 5030",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2830",
+                "title": "Office of the Chief Environmental Biosecurity Officer",
+                "roles": [
+                  {
+                    "role": "Australian Chief Environmental Biosecurity Officer",
+                    "person": "Bertie Hennecke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bertie.hennecke@aff.gov.au",
+                    "phone": "02 6272 4277",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Assistant to Bertie Hennecke",
+                    "person": "Penny Toole-Gallagher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "penny.toole-gallagher@aff.gov.au",
+                    "phone": "02 5156 5413",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3440",
+                "title": "Plant Health Policy",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Claire Hollis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "claire.hollis@aff.gov.au",
+                    "phone": "02 6271 6568",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "54649",
+        "title": "Middle East Regional Conflict Taskforce",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Matt Lowe",
+            "vacant": false,
+            "acting": false,
+            "email": "matt.lowe@aff.gov.au",
+            "phone": "02 6272 5880",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer to Matt Lowe",
+            "person": "Fiona Hill-Stein",
+            "vacant": false,
+            "acting": false,
+            "email": "fiona.hill-stein@aff.gov.au",
+            "phone": "02 6272 2220",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Matt Lowe",
+            "person": "Courtney Klooger",
+            "vacant": false,
+            "acting": false,
+            "email": "courtney.klooger@aff.gov.au",
+            "phone": "02 6272 2101",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54651",
+            "title": "Middle East Regional Conflict Taskforce Governance",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Christie Sawczuk",
+                "vacant": false,
+                "acting": false,
+                "email": "christie.sawczuk@aff.gov.au",
+                "phone": "TBC",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "54650",
+            "title": "Middle East Regional Conflict Taskforce Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Joanna Stanion",
+                "vacant": false,
+                "acting": false,
+                "email": "joanna.stanion@aff.gov.au",
+                "phone": "02 6272 5684",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Secretary",
+                "person": "Sarah Burr",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.burr@aff.gov.au",
+                "phone": "02 5156 5224",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2277",
+        "title": "Strategy, Enterprise & Engagement Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary & Chief Operating Officer",
+            "person": "Kerren Crosthwaite",
+            "vacant": false,
+            "acting": false,
+            "email": "kerren.crosthwaite@aff.gov.au",
+            "phone": "TBC",
+            "importance": 1
+          },
+          {
+            "role": "A/g Executive Officer to Kerren Crosthwaite",
+            "person": "Kayla Allison",
+            "vacant": false,
+            "acting": false,
+            "email": "kayla.allison1@aff.gov.au",
+            "phone": "TBC",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to Kerren Crosthwaite",
+            "person": "Pru Turner",
+            "vacant": false,
+            "acting": false,
+            "email": "pru.turner@aff.gov.au",
+            "phone": "TBC",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2174",
+            "title": "Finance & Investment",
+            "roles": [
+              {
+                "role": "Chief Finance Officer",
+                "person": "Matthew Geysen",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.geysen@aff.gov.au",
+                "phone": "02 6272 3094",
+                "importance": 1
+              },
+              {
+                "role": "A/g Executive Officer",
+                "person": "Kali Shaw",
+                "vacant": false,
+                "acting": false,
+                "email": "kali.shaw@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2176",
+                "title": "Financial Management & Investment",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Paul Howe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "paul.howe@aff.gov.au",
+                    "phone": "02 6272 4036",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2175",
+                "title": "Financial Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sophia Farmakis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sophia.farmakis@aff.gov.au",
+                    "phone": "02 6272 4435",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2177",
+                "title": "Funding & Revenue",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Maria Loyman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "maria.loyman@aff.gov.au",
+                    "phone": "02 6271 6679",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49802",
+                "title": "Ministerial & Budget Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sam Wells",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sam.wells@aff.gov.au",
+                    "phone": "02 6272 4036",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2173",
+            "title": "ICT Services",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Grant Rebikoff",
+                "vacant": false,
+                "acting": false,
+                "email": "grant.rebikoff@aff.gov.au",
+                "phone": "02 6272 5564",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Tania Baker",
+                "vacant": false,
+                "acting": false,
+                "email": "tania.baker@aff.gov.au",
+                "phone": "02 6272 3757",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Joshua Lorenz",
+                "vacant": false,
+                "acting": false,
+                "email": "joshua.lorenz@aff.gov.au",
+                "phone": "02 6272 4930",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2089",
+                "title": "Client Services & Cyber",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chui Yong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chui.yong@aff.gov.au",
+                    "phone": "02 5156 5935",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1789",
+                "title": "Cloud & Infrastructure Services",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "David Newton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.newton@aff.gov.au",
+                    "phone": "02 5256 5606",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1791",
+                "title": "Enterprise Platforms",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bronwyn Sedaitis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bronwyn.sedaitis@aff.gov.au",
+                    "phone": "TBC",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1790",
+                "title": "ICT Enabling Services",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jo Gray",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jo.gray@aff.gov.au",
+                    "phone": "TBC",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2836",
+            "title": "Legal",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "Cassandra Ireland",
+                "vacant": false,
+                "acting": false,
+                "email": "cassandra.ireland@aff.gov.au",
+                "phone": "02 6272 5140",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Lauren Collett",
+                "vacant": false,
+                "acting": false,
+                "email": "lauren.collett@aff.gov.au",
+                "phone": "02 6272 2121",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Megan Burrowes",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.burrowes@aff.gov.au",
+                "phone": "02 6272 2073",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2838",
+                "title": "Advising, Regulatory & Compliance Legal",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Jadd Sanson-Fisher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jadd.sanson-fisher@aff.gov.au",
+                    "phone": "02 6272 3829",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38247",
+                "title": "Information, Litigation, Employment & Commercial Legal",
+                "roles": [
+                  {
+                    "role": "General Counsel",
+                    "person": "Annabelle Alexander",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "annabelle.alexander@aff.gov.au",
+                    "phone": "02 6272 4076",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2840",
+                "title": "Legislation & Training Legal",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Adelle Trommestad",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adelle.trommestad@agriculture.gov.au",
+                    "phone": "02 6272 4767",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2841",
+            "title": "People, Property & Security",
+            "roles": [
+              {
+                "role": "Chief People Officer",
+                "person": "Tim Simpson",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.simpson@aff.gov.au",
+                "phone": "02 6276 4640",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Ian Cool",
+                "vacant": false,
+                "acting": false,
+                "email": "ian.cool@aff.gov.au",
+                "phone": "TBC",
+                "importance": 2
+              },
+              {
+                "role": "A/g Executive Assistant",
+                "person": "Morgan Dakers",
+                "vacant": false,
+                "acting": false,
+                "email": "morgan.dakers@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2843",
+                "title": "People Operations & Safey",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bryce McNicol",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bryce.mcnicol@agriculture.gov.au",
+                    "phone": "02 6272 5305",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2844",
+                "title": "People Strategy & Capability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Sophie Nelson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sophie.nelson@aff.gov.au",
+                    "phone": "TBC",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37527",
+                "title": "Property Services",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Secretary",
+                    "person": "Jane King",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.king@aff.gov.au",
+                    "phone": "02 6272 5577",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2845",
+                "title": "Security, Integrity & Assurance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Shane Lysons-Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.lysons-smith@aff.gov.au",
+                    "phone": "02 6272 4715",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40310",
+            "title": "Strategy, Performance & Engagement",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Michelle Wellington",
+                "vacant": false,
+                "acting": false,
+                "email": "michelle.wellington@aff.gov.au",
+                "phone": "0434 479 205",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Rebecca Hunter",
+                "vacant": false,
+                "acting": false,
+                "email": "rebecca.hunter@aff.gov.au",
+                "phone": "02 6272 4769",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Machaela Naidoo",
+                "vacant": false,
+                "acting": false,
+                "email": "machaela.naidoo1@aff.gov.au",
+                "phone": "TBC",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2839",
+                "title": "Communications & Media",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Carmel Curran",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "carmel.curran1@aff.gov.au",
+                    "phone": "02 6272 4094",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42702",
+                "title": "Crisis & Emergency Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Chris Ipkendanz",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "chris.ipkendanz@aff.gov.au",
+                    "phone": "02 6272 3860",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38246",
+                "title": "Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lucy Vincent",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lucy.vincent@aff.gov.au",
+                    "phone": "02 6222 4093",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

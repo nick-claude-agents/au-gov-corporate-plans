@@ -1,0 +1,57 @@
+{
+  "content_id": "236",
+  "title": "Australian Securities and Investments Commission",
+  "acronym": "ASIC",
+  "portfolio": "Treasury",
+  "website": "https://asic.gov.au",
+  "description": "The Australian Securities and Investments Commission (ASIC) is Australia's corporate, markets and financial services regulator. The Australian Securities and Investments Commission Act 2001 requires ASIC to:<br />\n<br />\n- maintain, facilitate and improve the performance of the financial system and entities in it;<br />\n- promote confident and informed participation by investors and consumers in the financial system;<br />\n- administer the law effectively and with minimal procedural requirements;<br />\n- enforce and give effect to the law; receive, process and store, efficiently and quickly, information that is given to us;   and<br />\n- make information about companies and other bodies available to the public as soon as practicable.",
+  "dashboard_name": "Australian Securities and Investments Commission (ASIC)",
+  "people_count": 3,
+  "tree": {
+    "content_id": "236",
+    "title": "Australian Securities and Investments Commission",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Scott Gregson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "1300 935 075",
+        "importance": 4
+      },
+      {
+        "role": "Chairman",
+        "person": "Joseph Longo",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 9911 2000",
+        "importance": 999
+      },
+      {
+        "role": "Deputy Chair",
+        "person": "Sarah Court",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 9911 2000",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1471",
+        "title": "ASIC senior leadership",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1505",
+        "title": "State and Territory offices",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

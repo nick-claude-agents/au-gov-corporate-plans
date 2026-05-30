@@ -1,0 +1,146 @@
+{
+  "content_id": "272",
+  "title": "Grains Research and Development Corporation",
+  "acronym": "GRDC",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "https://grdc.com.au/",
+  "description": "The Grains Research and Development Corporation (GRDC) is one of the world's leading grains research organisations, responsible for planning, investing in and overseeing research development and extension to deliver improvements in production, sustainability and profitability across the Australian grains industry. GRDC is a statutory corporation, established in 1990 under the Primary Industries Research and Development Act 1989. GRDC is the declared grains industry body under the Primary Industries Levies and Charges Disbursement Act 2024. GRDC is mainly funded through statutory levies, disbursed under the Primary Industries Levies and Charges Disbursement Act 2024, and Australian Government funds for eligible R&D. GRDC's primary objective is to drive the discovery, development and delivery of world-class innovation to enhance the productivity, profitability and sustainability of Australian grain growers and benefit the industry and the wider community. GRDC coordinates and funds research and development (R&D) activities, and monitors, evaluates and reports on the impact of R&D activities on the grains industry and the wider community. GRDC also facilitates the dissemination, adoption and commercialisation of the results of R&D.",
+  "dashboard_name": null,
+  "people_count": 8,
+  "tree": {
+    "content_id": "272",
+    "title": "Grains Research and Development Corporation",
+    "roles": [
+      {
+        "role": "Managing Director",
+        "person": "Nigel Hart",
+        "vacant": false,
+        "acting": false,
+        "email": "nigel.hart@grdc.com.au",
+        "phone": "02 6166 4557",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3444",
+        "title": "Applied RD&E Group",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Craig Baillie",
+            "vacant": false,
+            "acting": false,
+            "email": "craig.baillie@grdc.com.au",
+            "phone": "07 4571 4830",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3445",
+        "title": "Genetic Technologies, Biosecurity and Regulations Group",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Juan Juttner",
+            "vacant": false,
+            "acting": false,
+            "email": "juan.juttner@grdc.com.au",
+            "phone": "02 6166 4558",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49611",
+        "title": "Managing Directors Office",
+        "roles": [
+          {
+            "role": "Managing Director",
+            "person": "Nigel Hart",
+            "vacant": false,
+            "acting": false,
+            "email": "nigel.hart@grdc.com.au",
+            "phone": "02 6166 4557",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "49613",
+            "title": "Communications",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Toni Somes",
+                "vacant": false,
+                "acting": false,
+                "email": "toni.somes@grdc.com.au",
+                "phone": "07 4571 4822",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49612",
+            "title": "Human Resources",
+            "roles": [
+              {
+                "role": "Head",
+                "person": "Shelley Kowalski",
+                "vacant": false,
+                "acting": false,
+                "email": "shelley.kowalski@grdc.com.au",
+                "phone": "02 6166 4507",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49614",
+            "title": "Legal",
+            "roles": [
+              {
+                "role": "General Counsel / Company Secretary",
+                "person": "Merryn Cossey",
+                "vacant": false,
+                "acting": false,
+                "email": "merryn.cossey@grdc.com.au",
+                "phone": "08 8198 8419",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3447",
+        "title": "Operations Group",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "3446",
+        "title": "Strategy & Business Development Group",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Ron Osmond",
+            "vacant": false,
+            "acting": false,
+            "email": "ron.osmond@grdc.com.au",
+            "phone": "08 8198 8420",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

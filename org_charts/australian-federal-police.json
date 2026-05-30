@@ -1,0 +1,1169 @@
+{
+  "content_id": "118",
+  "title": "Australian Federal Police",
+  "acronym": "AFP",
+  "portfolio": "Home Affairs",
+  "website": "http://www.afp.gov.au/",
+  "description": "The AFP is the Australian Government's primary law enforcement agency. The role of the AFP is to enforce Commonwealth criminal law, to contribute to combating organised crime and to protect Commonwealth interests from criminal activity in Australia and overseas as a key member of the national security community. <br />\n<br />\nThe AFP leads and contributes to many whole-of-government national security initiatives. Section 8 of the Australian Federal Police Act 1979 outlines the functions of the AFP, which are:<br />\n<br />\n- the provision of police services in relation to the laws of the Commonwealth and the property of the Commonwealth (including Commonwealth places) and the safeguarding of Commonwealth interests<br />\n- the provision of police services in relation to the Australian Capital Territory, the Jervis Bay Territory and Australia's external territories (Christmas Island, Cocos (Keeling) Islands and Norfolk Island)<br />\n- the provision of protective and custodial functions as directed by the minister<br />\n- the provision of police services and police support services to assist or cooperate with an Australian or foreign law enforcement agency, intelligence or security agency, or government regulatory agency<br />\n- the provision of police services and police support services to establishing, developing and monitoring peace, stability and security in foreign countries.",
+  "dashboard_name": "Australian Federal Police (AFP)",
+  "people_count": 104,
+  "tree": {
+    "content_id": "118",
+    "title": "Australian Federal Police",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3202",
+        "title": "AFP Headquarters",
+        "roles": [
+          {
+            "role": "Commissioner",
+            "person": "Krissy Barrett",
+            "vacant": false,
+            "acting": false,
+            "email": "commissioner@afp.gov.au",
+            "phone": "(02) 5126 0000",
+            "importance": 1
+          },
+          {
+            "role": "Chief Operating Officer",
+            "person": "Katherine Van Gurp",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Commissioner Capability",
+            "person": "Ian Mccartney",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 5126 0000",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Commissioner National Security",
+            "person": "Hilda Sirec",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Commissioner Global Operations & Regional Security",
+            "person": "Lesa Gale",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 5126 0000",
+            "importance": 4
+          },
+          {
+            "role": "Community Policing & Protection",
+            "person": "Scott Lee",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 5126 0000",
+            "importance": 7
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3078",
+            "title": "Asia/Pacific Group on Money Laundering (APG)",
+            "roles": [
+              {
+                "role": "Executive Secretary, Asia Pacific Group",
+                "person": "Christopher Black",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 9277 0600",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Secretary Asia Pacific Group",
+                "person": "David Shannon",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Assistant Secretary Asia Pacific Group",
+                "person": "Suzanne White",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3073",
+            "title": "Australian Institute of Police Management",
+            "roles": [
+              {
+                "role": "Executive Director Australian Institute of Police Management",
+                "person": "Grant Nicholls",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Director Australian Institute of Police Management",
+                "person": "Neil Sweeney",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 9934 4800",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53979",
+            "title": "Canberra, Specialist & Dignitary Protection Command",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Canberra, Specialist & Dignitary Protection Command",
+                "person": "Nigel Ryan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Specialist Operations",
+                "person": "Heath Davies",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Dignitary Protection",
+                "person": "Mark McIntyre",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Acting Commander Operations Canberra",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Acting Commander AFP Operating Model",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3205",
+            "title": "Chief Counsel",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "Samantha Nichol",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6131 5853",
+                "importance": 1
+              },
+              {
+                "role": "General Counsel Corporate",
+                "person": "Anna MacFarlane",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "General Counsel Operations",
+                "person": "Alison Macdonald",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "General Counsel Criminal Assets Litigation South",
+                "person": "Andrew Hanger",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "General Counsel Criminal Assets Litigation North",
+                "person": "Harley Pope",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3077",
+            "title": "Chief Financial Officer",
+            "roles": [
+              {
+                "role": "Chief Financial Officer",
+                "person": "Paul Wood",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Manager Business Services",
+                "person": "Miles Humphrey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Manager Finance and Budget Management",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Manager Property",
+                "person": "Neil Skill",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Manager Procurement, Logistics and Records",
+                "person": "George Stevens",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3076",
+            "title": "Chief of Staff",
+            "roles": [
+              {
+                "role": "Chief of Staff",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3075",
+            "title": "Counter Terrorism",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Counter Terrorism",
+                "person": "Stephen Nutt",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Counter Terrorism Headquarters",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Manager Counter Terrorism Strategy, Capability & Enabling",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Commander Counter Terrorism North",
+                "person": "Thomas Hester",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Commander Counter Terrorism South",
+                "person": "Paula Hudson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3074",
+            "title": "Crime Command",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Crime Command",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Crime",
+                "person": "Melinda Phelan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Criminal Assets, Fraud & Corruption",
+                "person": "Andrea Quinn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "50138",
+            "title": "Cyber & Special Investigations",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Cyber & Special Investigations",
+                "person": "Sandra Booth",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Cyber",
+                "person": "Graeme Marshall",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Special Investigations",
+                "person": "Matthew Gale",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48732",
+            "title": "Defence & Aviation Command",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Defence & Aviation",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander AUKUS Operations",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Defence",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Commander Aviation",
+                "person": "Victoria Pescott",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48725",
+            "title": "Global Operations",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Global Operations",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Pacific",
+                "person": "Phillippa Connell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Americas",
+                "person": "Andrew Donoghoe",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Commander Southeast Asia",
+                "person": "Craig Palmer",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Commander Papua New Guinea",
+                "person": "Jamie Strauss",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 5126 4523",
+                "importance": 5
+              },
+              {
+                "role": "Commander Europe, Africa, and Middle-East",
+                "person": "Christopher Woods",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 6
+              },
+              {
+                "role": "Commander Solomon Islands",
+                "person": "Hall O'Meagher",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 5126 3959",
+                "importance": 7
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3072",
+            "title": "Global Strategy",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Global Strategy",
+                "person": "David McLean",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander ACCCE & Human Exploitation",
+                "person": "Joanne Cameron",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Manager Global Readiness",
+                "person": "Joanne Chidgey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Manager Global Strategy",
+                "person": "Marina Simoncini",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Commander Pinkenba",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Commander Strategic Global Operations",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48763",
+            "title": "Intelligence & Forensics",
+            "roles": [
+              {
+                "role": "National Manager Intelligence & Forensics",
+                "person": "Jorge Robinson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Intelligence Operations",
+                "person": "Donna Parsons",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Principal Forensic Scientist",
+                "person": "Kylie Jones",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Commander Human Intel Operations",
+                "person": "Andrew Bailey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Commander Forensics",
+                "person": "Erica Merrin",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Commander National Security Assessments",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3066",
+            "title": "Learning & Development",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Learning & Development",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander College & Learning",
+                "person": "Chris Goldsmid",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53980",
+            "title": "Ministerial & Media",
+            "roles": [
+              {
+                "role": "National Manager Ministerial & Media",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Manager Ministerial & Media",
+                "person": "Ellen Lihos",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3071",
+            "title": "National Manager People",
+            "roles": [
+              {
+                "role": "National Manager People",
+                "person": "Brooke Everett",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Manager Recruitment & Diversity",
+                "person": "Jodie McEwan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Manager People Services",
+                "person": "Patricia Mardiyants",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Manager SHIELD",
+                "person": "Christie Stonham",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Chief Medical Officer",
+                "person": "Currently Vacant",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53962",
+            "title": "Professional Standards",
+            "roles": [
+              {
+                "role": "Commander Professional Standards",
+                "person": "Benjamin Case",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48757",
+            "title": "Security, Capability & Resilience",
+            "roles": [
+              {
+                "role": "National Manager Security, Capability & Resilience",
+                "person": "Stefan Jerga",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Manager Security",
+                "person": "Skye Meehan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Manager Enterprise Capability",
+                "person": "Anthony Alderman",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3204",
+            "title": "Strategy & Performance",
+            "roles": [
+              {
+                "role": "National Manager Strategy and Performance",
+                "person": "Simon Walsh",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Manager Policy & Performance",
+                "person": "Annalissa Alexander",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Manager Governance, Audit, Legislative Reform and Risk",
+                "person": "Michelle Rak",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Manager Organisational Strategy, Capability and Improvement",
+                "person": "Megan Duffy",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Manager Communications & Customs",
+                "person": "Peter Whowell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "50184",
+            "title": "Technology Operations & Chief Information Officer",
+            "roles": [
+              {
+                "role": "National Manager Technology Operations & Chief Information Officer",
+                "person": "Nathan Heeney",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Manager Technology Strategy and Data",
+                "person": "Benjamin Lamont",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Chief Technology Officer",
+                "person": "Kristin Auld",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Manager Enterprise and Policing Systems",
+                "person": "Graeme Robertson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "Commander Covert & Technical Operations",
+                "person": "Robert Nelson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Manager Cyber Security & Risk",
+                "person": "Jamie King",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3059",
+        "title": "Geographic Operational Areas",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "3081",
+            "title": "Australian Capital Territory",
+            "roles": [
+              {
+                "role": "Chief Police Officer ACT",
+                "person": "Scott Lee",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 5127 4013",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Chief Police Officer",
+                "person": "Richard Chin",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Investigations ACTP",
+                "person": "Sue Evans",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              },
+              {
+                "role": "Commander Operations ACT Policing",
+                "person": "Jason Kennedy",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 5126 1877",
+                "importance": 4
+              },
+              {
+                "role": "Executive General Manager Corporate (ACT Policing)",
+                "person": "Lachlan Funnell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              },
+              {
+                "role": "Executive General Manager - Strategic Accommodation (ACT Policing)",
+                "person": "Nicole Levay",
+                "vacant": false,
+                "acting": false,
+                "email": "nicole.levay@afp.gov.au",
+                "phone": "",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3082",
+            "title": "New South Wales",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Eastern Command",
+                "person": "Kirsty Schofield",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commander Investigations & Office of Special Investigations Eastern Command",
+                "person": "Brett James",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Commander Operations and Support Eastern Command",
+                "person": "Craig Bellis",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3065",
+            "title": "Queensland",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Northern Command",
+                "person": "Justine Gough",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(07) 3222 1283",
+                "importance": 1
+              },
+              {
+                "role": "Commander Operations Northern Command",
+                "person": "Naomi Binstead",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Investigations Northern Command",
+                "person": "Stephen Jay",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "48762",
+            "title": "South Australia and Northern Territory",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Central Command",
+                "person": "Peter Harvey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Central Command",
+                "person": "Adam Rice",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(08) 8416 2857",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3079",
+            "title": "Victoria and Tasmania",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Southern Command",
+                "person": "Hans Koenderink",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Investigations Southern Command",
+                "person": "Nicholas Read",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Commander Operations Southern Command",
+                "person": "Gail McClure",
+                "vacant": false,
+                "acting": true,
+                "email": "",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3067",
+            "title": "Western Australia",
+            "roles": [
+              {
+                "role": "Assistant Commissioner Western Command",
+                "person": "Pryce Scanlan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Commander Western Command",
+                "person": "Renee Colley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3058",
+        "title": "Inquiries - AFP",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "3068",
+            "title": "AFP National Media",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "3069",
+            "title": "Freedom of Information",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

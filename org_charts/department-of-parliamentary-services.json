@@ -1,0 +1,401 @@
+{
+  "content_id": "206",
+  "title": "Department of Parliamentary Services",
+  "acronym": "",
+  "portfolio": "Parliamentary Departments (not a portfolio)",
+  "website": "http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Department_of_Parliamentary_Services",
+  "description": "The Department of Parliamentary Services (DPS) supports the functioning of Parliament and parliamentarians through the provision of professional services, advice and facilities and by maintaining Australian Parliament House as a working and iconic building. DPS services include ICT, the Parliamentary Library, Hansard, parliamentary broadcasting and security. The Department also provides catering and recreation facilities, manages the Parliament House Art Collection, maintains the building and cares for its heritage, and provides services to almost one million people who visit the building each year.",
+  "dashboard_name": "Department of Parliamentary Services",
+  "people_count": 24,
+  "tree": {
+    "content_id": "206",
+    "title": "Department of Parliamentary Services",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3812",
+        "title": "Secretary",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Jaala Hinchcliffe",
+            "vacant": false,
+            "acting": false,
+            "email": "jaala.hinchcliffe@aph.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Amanda Kingston",
+            "vacant": false,
+            "acting": false,
+            "email": "amanda.kingston@aph.gov.au",
+            "phone": "",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3164",
+            "title": "Deputy Secretary",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Nicola Hinder",
+                "vacant": false,
+                "acting": false,
+                "email": "nicola.hinder@aph.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1938",
+                "title": "Corporate Services",
+                "roles": [
+                  {
+                    "role": "Deputy Chief Operating Officer",
+                    "person": "Jason Lucas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jason.lucas@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "50740",
+                    "title": "Commercial Operations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Nicole Short",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "nicole.short@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1946",
+                    "title": "Parliamentary Engagement",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Lisa Thomas",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lisa.thomas@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1944",
+                    "title": "Parliamentary, Media and Governance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Alex Philp",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "alex.philp@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1943",
+                    "title": "People, Performance and Strategy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Kate Cook",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "kate.cook@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "1937",
+                "title": "Finance and Property Services",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Yvette Sims",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "yvette.sims@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1942",
+                    "title": "Finance",
+                    "roles": [
+                      {
+                        "role": "Chief Financial Officer",
+                        "person": "Janelle Duke",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "janelle.duke@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "40061",
+                    "title": "Planning and Quality",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Lauren MacInnes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lauren.macinnes@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "51532",
+                    "title": "Procurement and Contract Management",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Chris Lim",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "chris.lim@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1932",
+                    "title": "Property Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Paul Pak Poy",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "paul.pak-poy@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "3166",
+                "title": "Information Services Division",
+                "roles": [
+                  {
+                    "role": "Chief Information Officer",
+                    "person": "Mike Webb",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mike.webb@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1726",
+                    "title": "Cyber Security",
+                    "roles": [
+                      {
+                        "role": "Chief Information Security Officer",
+                        "person": "Monique Morgan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "monique.morgan@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46064",
+                    "title": "Digital Capability and Operations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Wendie Boyd",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "wendie.boyd@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1930",
+                    "title": "Digital Customer Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Simon O'Toole",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "simon.otoole@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1931",
+                    "title": "Digital Recording Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Emily Grant",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "emily.grant@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "1940",
+                "title": "Security Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Vance Khan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vance.khan@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "45885",
+                    "title": "Security Enabling Services Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Jeremy Fields",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jeremy.fields@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "45886",
+                    "title": "Security Operations Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "James O'Brien",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "james.o'brien@aph.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "3165",
+            "title": "Parliamentary Library",
+            "roles": [
+              {
+                "role": "Parliamentary Librarian",
+                "person": "Steven Fox",
+                "vacant": false,
+                "acting": false,
+                "email": "steven.fox@aph.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1947",
+                "title": "Library Collections and Systems Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Heather Walsh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "heather.walsh@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "906",
+                "title": "Research Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrew Banfield",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.banfield@aph.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

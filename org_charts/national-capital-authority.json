@@ -1,0 +1,73 @@
+{
+  "content_id": "207",
+  "title": "National Capital Authority",
+  "acronym": "NCA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.nca.gov.au",
+  "description": "The National Capital Authority (NCA) operates under the ACT Planning and Land Management Act 1988 (the PALM Act) and performs a range of functions in respect of protecting the Commonwealth's interest in the planning and management of the national capital.  It prepares and administers a National Capital Plan.<br />\n<br />\nThe functions of the NCA provide an enduring framework to secure the planning and development of Canberra as the capital; to accommodate the Seat of Government and associated national and cultural requirements; to provide national public places for all Australians to visit and enjoy; to enhance the unique character and symbolic meaning of the capital, and to develop appreciation of the capital as a reflection of our democracy and national life.",
+  "dashboard_name": "National Capital Authority",
+  "people_count": 4,
+  "tree": {
+    "content_id": "207",
+    "title": "National Capital Authority",
+    "roles": [
+      {
+        "role": "Chief Executive",
+        "person": "Karen Doran",
+        "vacant": false,
+        "acting": false,
+        "email": "karen.doran@nca.gov.au",
+        "phone": "(02) 6271 2878",
+        "importance": 1
+      },
+      {
+        "role": "Chief Planner",
+        "person": "Andrew Smith",
+        "vacant": false,
+        "acting": false,
+        "email": "andrew.smith@nca.gov.au",
+        "phone": "(02) 6271 2806",
+        "importance": 2
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Hamid Heydarian",
+        "vacant": false,
+        "acting": false,
+        "email": "hamid.heydarian@nca.gov.au",
+        "phone": "(02) 6271 2813",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1592",
+        "title": "Blundells Cottage",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1593",
+        "title": "Carillon",
+        "roles": [
+          {
+            "role": "National Carillon Project Officer",
+            "person": "Peter Bray",
+            "vacant": false,
+            "acting": false,
+            "email": "peter.bray@nca.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1594",
+        "title": "National Capital Exhibition",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

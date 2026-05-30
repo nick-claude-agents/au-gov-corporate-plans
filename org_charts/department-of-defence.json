@@ -1,0 +1,4724 @@
+{
+  "content_id": "263",
+  "title": "Department of Defence",
+  "acronym": "DEFENCE",
+  "portfolio": "Defence",
+  "website": "http://www.defence.gov.au/",
+  "description": "The Department of Defence is constituted under the Defence Act 1903, its mission is to defend Australia and its national interests. In fulfilling this mission, Defence serves the Government of the day and is accountable to the Commonwealth Parliament which represents the Australian people to efficiently and effectively carry out the Government's Defence policy. Defence's mission is to defend Australia and its national interests. To achieve this, Defence prepares for and conducts military operations and other tasks as directed by the Government. The Defence White Paper was released on 25 February 2016 together with an Integrated Investment Program and Defence Industry Policy Statement. Defence White Papers are the Government's most important guidance about Australia's long-term Defence capability. They provide an opportunity for the Government and community to understand the opportunities and challenges for Australia's future Defence and security needs. The White Paper provides a strategy aligned with capability and resources to deliver a future force that is more capable, agile and potent and ready to respond to future challenges.",
+  "dashboard_name": "Department of Defence",
+  "people_count": 289,
+  "tree": {
+    "content_id": "263",
+    "title": "Department of Defence",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "3100",
+        "title": "Air Force",
+        "roles": [
+          {
+            "role": "Chief of Air Force",
+            "person": "Stephen Chappell",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "37910",
+            "title": "Air Force Headquarters",
+            "roles": [
+              {
+                "role": "Deputy Chief of Air Force",
+                "person": "Harvey Reynolds",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Head of Air Force Capability",
+                "person": "Nicholas Hogan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "37911",
+            "title": "Headquarters Air Command",
+            "roles": [
+              {
+                "role": "Air Commander Australia",
+                "person": "Darren Goldie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3101",
+        "title": "Army",
+        "roles": [
+          {
+            "role": "Chief of Army",
+            "person": "Simon Stuart",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Chief of Army",
+            "person": "Chris Smith",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Head Land Capability",
+            "person": "Richard Vagg",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1139",
+            "title": "Aviation Command",
+            "roles": [
+              {
+                "role": "Commander Aviation Command",
+                "person": "David Hafner",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1140",
+            "title": "Forces Command",
+            "roles": [
+              {
+                "role": "Commander Forces Command",
+                "person": "Ana Duncan",
+                "vacant": false,
+                "acting": false,
+                "email": "ocomd.forcomd@defence.gov.au",
+                "phone": "",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1142",
+            "title": "Headquarters 1st Division / Deployable Joint Force Headquarters",
+            "roles": [
+              {
+                "role": "Commander 1st Division",
+                "person": "Ashley Collingburn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1143",
+            "title": "Headquarters 2nd Division",
+            "roles": [
+              {
+                "role": "Commander 2nd Division",
+                "person": "Matthew Burr",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 9349 0538",
+                "importance": 6
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1144",
+            "title": "Special Operations Command",
+            "roles": [
+              {
+                "role": "Special Operations Commander Australia",
+                "person": "Paul Kenny",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3102",
+        "title": "Associate Secretary Group",
+        "roles": [
+          {
+            "role": "DG Defence Royal Comimission PMO",
+            "person": "Mel Cochbain",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Associate Secretary",
+            "person": "Cath Patterson",
+            "vacant": false,
+            "acting": false,
+            "email": "assocsec.office@defence.gov.au",
+            "phone": "02 6206 0831",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "47695",
+            "title": "Business Transformation",
+            "roles": [
+              {
+                "role": "Head Business Transformation",
+                "person": "Sue Graham",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47724",
+                "title": "Business Operations Centre",
+                "roles": [
+                  {
+                    "role": "Deputy General - Business Operations Centre",
+                    "person": "Bridget Mitzevich",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47691",
+            "title": "Chief Counsel",
+            "roles": [
+              {
+                "role": "Chief Counsel",
+                "person": "Francesca Rush",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47699",
+                "title": "Commercial",
+                "roles": [
+                  {
+                    "role": "General Counsel - Commercial",
+                    "person": "James Nilsson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47698",
+                "title": "Dispute Resolution and Litigation",
+                "roles": [
+                  {
+                    "role": "General Counsel - Dispute Resolution and Litigation",
+                    "person": "Michael Lysewycz",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47700",
+                "title": "General Counsel - Defence",
+                "roles": [
+                  {
+                    "role": "General Counsel - Defence",
+                    "person": "Anna Rudziejewski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47692",
+            "title": "Chief Data Integration Officer",
+            "roles": [
+              {
+                "role": "Chief Data Integration Officer",
+                "person": "Paul Robards",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47706",
+                "title": "Data Governance & Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Data Governance and Services",
+                    "person": "Simon Joyce",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47705",
+                "title": "Enterprise Business & Data Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Enterprise Business and Data Programs",
+                    "person": "Candice Meszes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47694",
+            "title": "Defence Act Reform Program",
+            "roles": [
+              {
+                "role": "Head Defence Act Reform",
+                "person": "Gav Duncan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47723",
+                "title": "Military Prosecutions",
+                "roles": [
+                  {
+                    "role": "Director Military Prosecutions",
+                    "person": "Ian Henderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47693",
+            "title": "Judge Advocate General",
+            "roles": [
+              {
+                "role": "Judge Advocate General",
+                "person": "John Rush",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47707",
+                "title": "Chief Judge Advocate",
+                "roles": [
+                  {
+                    "role": "Chief Judge Advocate",
+                    "person": "Michael Cowen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3103",
+        "title": "Capability Acquisition and Sustainment Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary - Capability Acquisition and Sustainment Group",
+            "person": "Chris Deeble",
+            "vacant": false,
+            "acting": false,
+            "email": "casgdepsec.office@defence.gov.au",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3193",
+            "title": "Air Domain",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "37999",
+                "title": "Aerospace Systems",
+                "roles": [
+                  {
+                    "role": "Head Aerospace Systems",
+                    "person": "Graham Edwards",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47205",
+                    "title": "Aerospace Combat Systems",
+                    "roles": [
+                      {
+                        "role": "Director General - Aerospace Combat Systems",
+                        "person": "David Houghton",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "asd.acsbranchexec@resources.defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47206",
+                    "title": "Aerospace Surveillance and Response",
+                    "roles": [
+                      {
+                        "role": "Director General - Aerospace Surveillance and Response",
+                        "person": "Scott Parry",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "asdasr.executive@defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47207",
+                    "title": "Airlift and Tanker Systems",
+                    "roles": [
+                      {
+                        "role": "Director General - Airlift and Tanker Systems",
+                        "person": "Jackie Churchill",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "asdats.branchexec@defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "47183",
+                "title": "Air Defence and Space Systems",
+                "roles": [
+                  {
+                    "role": "Head Air Defence and Space Systems",
+                    "person": "David Scheul",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "officeof.headadssd@defence.gov.au",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47185",
+                    "title": "Air & Surface Surveillance & Control",
+                    "roles": [
+                      {
+                        "role": "Director General - Air & Surface Surveillance and Control",
+                        "person": "Regina Gorton",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "casg-adssd.assc-coor@defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47184",
+                    "title": "Air Defence Systems",
+                    "roles": [
+                      {
+                        "role": "Director General Air Defence Systems",
+                        "person": "Martin Nussio",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "casg-adssd-ads-coord@resources.defence.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47204",
+                    "title": "Space  Systems",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Space Systems",
+                        "person": "Mick Hunt",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "casg.commsbranchco-ord@defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "38000",
+                "title": "Joint Aviation Systems",
+                "roles": [
+                  {
+                    "role": "Head Joint Aviation Systems",
+                    "person": "Jeremy King",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "officeof.headjasd@defence.gov.au",
+                    "phone": "1300333362",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46853",
+                    "title": "Army Aviation Systems",
+                    "roles": [
+                      {
+                        "role": "Director General - Army Aviation",
+                        "person": "Andrew Thomas",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "casgdgaasoffice@dpe.protected.mil.au",
+                        "phone": "1300333362",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47225",
+                    "title": "Navy Aviation, Aircrew Training and Commons",
+                    "roles": [
+                      {
+                        "role": "Director General - Navy Aviation, Aircrew Training and Commons",
+                        "person": "Anthony Savage",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "natc.corro@defence.gov.au",
+                        "phone": "1300333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "3195",
+            "title": "Business Domain",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "2888",
+                "title": "Commercial",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary - Defence Commercial",
+                    "person": "Racheal Kuczma",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "casgcoe.commercial@defence.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2889",
+                    "title": "Commercial Delivery - Air, Land, Joint & Enabling",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Commercial Delivery - Air, Land, Joint & Enabling",
+                        "person": "John Cassat",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2887",
+                    "title": "Commercial Delivery - Maritime, GWEO & Special",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Commercial Delivery - Maritime, GWEO & Special",
+                        "person": "Nicholas Plowman",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "54848",
+                    "title": "Commercial Policy, Systems & Practice",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Commercial Policy, Systems & Practice",
+                        "person": "Simon Atyeo",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "49860",
+                "title": "Engineering, Technology and Material Logistics",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary Engineering, Technology and Material Logistics",
+                    "person": "Terrence Saunder",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "54850",
+                    "title": "Advanced Strategic Capabilities Transition",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Advanced Strategic Capabilities Transition",
+                        "person": "Simon Firth",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "51503",
+                    "title": "Technology and Security",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary Technology and Security",
+                        "person": "Craig Hamilton",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "47208",
+                "title": "Group Business Management",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary - Group Business Management",
+                    "person": "Suzanne Kerrigan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47224",
+                    "title": "Business Operations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Business Operations",
+                        "person": "Catherine Bell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "3185",
+                "title": "Industry Engagement",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary Industry Engagement",
+                    "person": "Michael Howell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "54849",
+                    "title": "International Defence Materiel (Washington)",
+                    "roles": [
+                      {
+                        "role": "International Defence Materiel (Washington)",
+                        "person": "Belinda Templeman",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "40141",
+                    "title": "Office of Defence Industry Support",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary Office of Defence Industry Support",
+                        "person": "Hayley Trevitt",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3186",
+                    "title": "Policy, Events and International Programs",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Policy, Events and International Programs",
+                        "person": "Liane Pettitt",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "47209",
+                "title": "Strategy, Planning and Independent Assurance",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary - Strategy, Planning and Independent Assurance",
+                    "person": "Alison Petchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47221",
+                    "title": "Capability Delivery Planning",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Capability Delivery Planning",
+                        "person": "Currently Vacant",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47222",
+                    "title": "Strategy and Project Management",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Strategy and Project Management",
+                        "person": "Maddie Collins",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "3194",
+            "title": "Joint Systems Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Joint Systems Division",
+                "person": "Gavin Rawlins",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54840",
+                "title": "Electromagnetic Warfare and Intelligence Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Electromagnetic Warfare and Intelligence Systems",
+                    "person": "Alex Rothwell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54839",
+                "title": "Joint Command Control Communications and Computer Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Joint Command Control Communications and Computer Systems",
+                    "person": "Darren Moore",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54838",
+                "title": "Land Command Control Communications and Computer Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Land Command Control Communications and Computer Systems",
+                    "person": "Erin Stonestreet",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3192",
+            "title": "Land Domain",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "38005",
+                "title": "Land Systems",
+                "roles": [
+                  {
+                    "role": "Head Land Systems",
+                    "person": "Jason Blain",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "casg.hlsoffice@defence.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "38006",
+                    "title": "Armoured Fighting Vehicles",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47179",
+                    "title": "Integrated Soldier Systems",
+                    "roles": [
+                      {
+                        "role": "Director General Integrated Soldier Systems",
+                        "person": "Simeon Ward",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47162",
+                    "title": "Land Engineering",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary Land Engineering Agency",
+                        "person": "Paul Grant",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47180",
+                    "title": "Land Manoeuvre Systems",
+                    "roles": [
+                      {
+                        "role": "Director General Land Manoeuvre Systems",
+                        "person": "Shaun Hoffmann",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47177",
+                    "title": "Land Vehicle Systems",
+                    "roles": [
+                      {
+                        "role": "Director General Land Vehicle Systems",
+                        "person": "John-Paul Ouvrier",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3092",
+        "title": "Chief of the Defence Force",
+        "roles": [
+          {
+            "role": "Chief of the Defence Force",
+            "person": "David Johnston",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1800 333 362",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2914",
+        "title": "Defence Digital Group",
+        "roles": [
+          {
+            "role": "Chief Information Officer",
+            "person": "Chris Crozier",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2918",
+            "title": "Architecture and Strategy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Architecture and Strategy",
+                "person": "Nasa Walton",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2200",
+                "title": "Architecture and Strategy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Architecture and Strategy",
+                    "person": "Neena Kolanu",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2199",
+                "title": "Incubator",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Incubator",
+                    "person": "Ana Avila",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2917",
+            "title": "Digital Capability",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Digital Capability",
+                "person": "Emily Hilder",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2196",
+                "title": "Digital Capability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Digital Capability",
+                    "person": "Blaydon Morris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2195",
+                "title": "Enterprise Digital Capability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Enterprise Digital Capability",
+                    "person": "Juliet Spratt",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47679",
+            "title": "Enterprise Resource Planning",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Enterprise Resource Planning",
+                "person": "Steven Hamilton",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47678",
+                "title": "Defence ERP",
+                "roles": [
+                  {
+                    "role": "Deputy Program Directory - Defence ERP",
+                    "person": "Marcus Buttler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47674",
+            "title": "Enterprise Systems",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary - Enterprise Systems",
+                "person": "Yvette Larter",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47675",
+                "title": "Corporate and Logistics Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Corporate and Logistics Delivery",
+                    "person": "Steven Fievez",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47676",
+                "title": "Infrastructure and Cloud Solutions",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary - Infrastructure and Cloud Solutions",
+                    "person": "Jeremy Campbell-Hand",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2915",
+            "title": "Group Operations",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary - Group Operations",
+                "person": "Maureen Greet",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2700",
+                "title": "DDG Commercial",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary- DDG Commercial",
+                    "person": "John Best",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2178",
+                "title": "Portfolio Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Portfolio Management",
+                    "person": "Jacinta Carroll",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47680",
+            "title": "Military Systems",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Military Systems",
+                "person": "Edward Louis",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54808",
+                "title": "Engineering",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Engineering",
+                    "person": "Lisa Yourmann",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54809",
+                "title": "Secret Env & Warfighting Apps Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Secret Env & Warfighting Apps Delivery",
+                    "person": "Gordon Grace",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54807",
+                "title": "Security & Interoperability",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Security & Interoperability",
+                    "person": "Andrew Petteit",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2893",
+        "title": "Defence Finance Group",
+        "roles": [
+          {
+            "role": "Chief Finance Officer",
+            "person": "Steven Groves",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3606",
+            "title": "Budgets and Financial Services",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Budget and Financial Services",
+                "person": "Samuel Volker",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3607",
+                "title": "Budgeting and Reporting",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Budgeting and Reporting",
+                    "person": "Andrew Crosthwaite",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47583",
+                "title": "External Workforce Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - External Workforce Reform",
+                    "person": "Rob Coffey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3605",
+                "title": "Financial Compliance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Financial Compliance",
+                    "person": "Nikhil Iyengar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3609",
+                "title": "Financial Systems and Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Financial Systems and Operations",
+                    "person": "Sam Hatherly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "54810",
+            "title": "Financial Performance & Management",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Financial Performance & Management",
+                "person": "Ariana Kornek A/g",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54814",
+                "title": "Capability Advice and Analytics",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary -Capability Advice and Analytics",
+                    "person": "Damien Adler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54817",
+                "title": "Capability Costing",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Capability Costing",
+                    "person": "Sankha Senanayake",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54816",
+                "title": "Finance - Air Force",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary -Finance - Air Force",
+                    "person": "Douglas Moir",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54815",
+                "title": "Finance - Army",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Finance - Army",
+                    "person": "Emma McCarthy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54811",
+                "title": "Finance - Enabling Grps",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Finance Enabling Grps",
+                    "person": "Jennifer Makunde",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54813",
+                "title": "Finance - Navy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Finance - Navy",
+                    "person": "Leonie Neiberding",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54812",
+                "title": "Finance - Specialist Groups",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Finance - Specialist Groups",
+                    "person": "Nevil Gamal",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3098",
+        "title": "Defence Intelligence Group",
+        "roles": [
+          {
+            "role": "Chief Defence Intelligence",
+            "person": "Tom Hamilton",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2898",
+        "title": "Defence People Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "42155",
+            "title": "Defence People Group - Military Personnel Organisation",
+            "roles": [
+              {
+                "role": "Chief of Personnel",
+                "person": "Natasha Fox",
+                "vacant": false,
+                "acting": false,
+                "email": "cpers.office@defence.gov.au",
+                "phone": "1300333262",
+                "importance": 1
+              },
+              {
+                "role": "Chief of Staff to Chief of Personnel",
+                "person": "Andrew Deacon",
+                "vacant": false,
+                "acting": false,
+                "email": "cpers.office@defence.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3338",
+                "title": "Australian Defence College",
+                "roles": [
+                  {
+                    "role": "Commander - Australian Defence College",
+                    "person": "James Lybrand",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "adc.w.acc.admin@defence.gov.au",
+                    "phone": "1300333262",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3336",
+                    "title": "Australian Civil-Military Centre",
+                    "roles": [
+                      {
+                        "role": "Executive Director Australian Civil-Military Centre",
+                        "person": "Nicola Rosenblum",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "communications@acmc.gov.au",
+                        "phone": "1800 333362",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3340",
+                    "title": "Australian Defence Force Academy",
+                    "roles": [
+                      {
+                        "role": "Commandant Australian Defence Force Academy",
+                        "person": "Julie Adams",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3341",
+                    "title": "Australian War College",
+                    "roles": [
+                      {
+                        "role": "Commandant Australian War College",
+                        "person": "Ruth Elsley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "51472",
+                "title": "Deputy Chief of Personnel for RCVDS Implementation",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3505",
+                "title": "Head of Military Personnel",
+                "roles": [
+                  {
+                    "role": "Head of Military Personnel",
+                    "person": "Letitia Van Stralen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47178",
+                    "title": "Army People Capability",
+                    "roles": [
+                      {
+                        "role": "Director General - Army People Capability",
+                        "person": "James Matchett",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47181",
+                    "title": "Career Management - Army",
+                    "roles": [
+                      {
+                        "role": "Director General - Career Management - Army",
+                        "person": "Jason Groat",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "careermanagement.army@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2957",
+                    "title": "Defence Force Recruiting",
+                    "roles": [
+                      {
+                        "role": "Director General Defence Force Recruiting",
+                        "person": "Jan Wiltshire",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47182",
+                    "title": "Director General - Personnel - Air Force",
+                    "roles": [
+                      {
+                        "role": "Director General - Personnel - Air Force",
+                        "person": "Davin Augustine",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "afhq-persbr-af-regis@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2152",
+                    "title": "Joint Transition Authority",
+                    "roles": [
+                      {
+                        "role": "Director General - Joint Transition Authority (JTA)",
+                        "person": "Kaarin Kooij",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jta.engagement@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46812",
+                    "title": "Navy People",
+                    "roles": [
+                      {
+                        "role": "Director General Navy People",
+                        "person": "Ryan Gaskin",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "3342",
+                "title": "Joint Health Command",
+                "roles": [
+                  {
+                    "role": "Commander Joint Health/Surgeon General Australian Defence Force",
+                    "person": "Sonya Bennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "47238",
+                    "title": "ADF Malaria and Infectious Diseases Institute",
+                    "roles": [
+                      {
+                        "role": "Director - ADF Malaria and Infectious Diseases Institute",
+                        "person": "Dennis Shanks",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "adfmidi.admin@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47203",
+                    "title": "Deputy Surgeon General - ADF",
+                    "roles": [
+                      {
+                        "role": "Deputy Surgeon General - ADF",
+                        "person": "Isaac Seidl",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3343",
+                    "title": "Garrison Health Operations",
+                    "roles": [
+                      {
+                        "role": "Director General Garrison Health Operations",
+                        "person": "Katherine Tindall",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3344",
+                    "title": "Health Business and Plans",
+                    "roles": [
+                      {
+                        "role": "Director General - Health Business and Plans",
+                        "person": "Toni Bushby",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "dghbp.coord@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3346",
+                    "title": "Health Protection and Policy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Health Protection and Policy",
+                        "person": "Michael Drew",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "hpp.branchcoord@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3345",
+                    "title": "Operational Health",
+                    "roles": [
+                      {
+                        "role": "Director - General Operational Health",
+                        "person": "Nicole dos Santos",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "40999",
+                "title": "Joint Support Services",
+                "roles": [
+                  {
+                    "role": "Head Joint Support Services",
+                    "person": "Lara Gunn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jssd.coord@defence.gov.au",
+                    "phone": "1300333262",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2956",
+                    "title": "Defence Member and Family Support",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary -  Defence Member and Family Support",
+                        "person": "Libby Cremen",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "dmfs.canberra@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47245",
+                    "title": "Joint Support Services Division",
+                    "roles": [
+                      {
+                        "role": "Deputy Head - Joint Support Services Division",
+                        "person": "Grant Pinder",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2877",
+                    "title": "Military Legal Services",
+                    "roles": [
+                      {
+                        "role": "Director General - Military Legal Service",
+                        "person": "Patrick Keane",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "dl.dgmls@defence.gov.au",
+                        "phone": "1300333262",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "46811",
+                "title": "Reserve and Cadet Support",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42156",
+            "title": "Defence People Group - People Strategy Organisation",
+            "roles": [
+              {
+                "role": "Deputy Secretary Defence People",
+                "person": "Justine Greig",
+                "vacant": false,
+                "acting": false,
+                "email": "dpg.correspondence@defence.gov.au",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Chief of Staff to DEPSEC DP",
+                "person": "Brendan Mobberley",
+                "vacant": false,
+                "acting": false,
+                "email": "dpg.correspondence@defence.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2960",
+                "title": "People Policy & Development",
+                "roles": [
+                  {
+                    "role": "FAS People Policy & Development",
+                    "person": "Ky Blackman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2959",
+                    "title": "APS Capability",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - APS Capability",
+                        "person": "Dayna Gauntlett",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3797",
+                    "title": "Learning",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Defence Learning",
+                        "person": "Jake Gumley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2966",
+                    "title": "People Policy and Employment Conditions",
+                    "roles": [
+                      {
+                        "role": "A/Assistant Secretary - People Policy and Employment Conditions",
+                        "person": "Kirk Lloyd",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2962",
+                "title": "People Services and Wellbeing",
+                "roles": [
+                  {
+                    "role": "First Assistance Secretary - People Services and Wellbeing",
+                    "person": "Cassie Haynes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 262",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2965",
+                    "title": "HR Transformation",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - HR Transformation",
+                        "person": "Michelle Black",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2961",
+                    "title": "Human Resource Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Human Resource Services",
+                        "person": "Adam dell'Aquila",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "40074",
+                    "title": "Mental Health & Wellbeing",
+                    "roles": [
+                      {
+                        "role": "Director General - Mental Health & Resilience",
+                        "person": "Mark Page",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2964",
+                    "title": "People Systems & Payroll Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - People Systems & Payroll Services",
+                        "person": "Jillian Flinders",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "391",
+                    "title": "Work Health and Safety",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Work Health and Safety",
+                        "person": "Petrina Cole",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2958",
+                "title": "Workforce and People Strategy",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary - Workforce and People Strategy",
+                    "person": "Leisa Craig",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2963",
+                    "title": "HR Business Partners",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - HR Business Partners",
+                        "person": "Jeff Wyeth",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47261",
+                    "title": "People and Culture",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - People and Culture",
+                        "person": "Rebecca Wootten",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "47260",
+                    "title": "Workforce Strategy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary - Workforce Strategy",
+                        "person": "Matthew Cooper",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3093",
+        "title": "Defence Science and Technology Group",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "3034",
+            "title": "Air and Maritime Division",
+            "roles": [
+              {
+                "role": "Chief Air and Maritime",
+                "person": "Ninh Duong",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3035",
+            "title": "Human and Decision Sciences Division",
+            "roles": [
+              {
+                "role": "Chief Human and Decision Sciences",
+                "person": "Nigel McGinty",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Chief Human and Decision Sciences",
+                "person": "Sam Davey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3291",
+            "title": "Information Sciences Division",
+            "roles": [
+              {
+                "role": "Chief Information Sciences",
+                "person": "Suneel Randhawa",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Chief Information Sciences",
+                "person": "Michelle Gee",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54743",
+                "title": "Research Computing",
+                "roles": [
+                  {
+                    "role": "Branch Chief Research Computing",
+                    "person": "Ian Johnston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3290",
+            "title": "Land and Integrated Force Division",
+            "roles": [
+              {
+                "role": "Chief Land and Integrated Force",
+                "person": "Sylvie Perreau",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54744",
+                "title": "Joint Operations Science and Technology",
+                "roles": [
+                  {
+                    "role": "Branch Chief Joint Operations S&T",
+                    "person": "Duncan Tailby",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3033",
+            "title": "Office of the Chief Defence Scientist",
+            "roles": [
+              {
+                "role": "Chief Defence Scientist",
+                "person": "Tanya Monro",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300 333 362",
+                "importance": 1
+              },
+              {
+                "role": "Chief of Staff to CDS",
+                "person": "Natasha George",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3284",
+            "title": "Office of the Deputy Chief Defence Scientist / DSTG Headquarters Division",
+            "roles": [
+              {
+                "role": "Deputy Chief Defence Scientist",
+                "person": "Carolyn Patterson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3036",
+                "title": "Partnerships",
+                "roles": [
+                  {
+                    "role": "Branch Chief Partnerships",
+                    "person": "Darron Kavanagh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3037",
+                "title": "Planning and Assurance",
+                "roles": [
+                  {
+                    "role": "Branch Chief Planning and Assurance",
+                    "person": "Richard Bartholomeusz",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3038",
+                "title": "Strategy and People",
+                "roles": [
+                  {
+                    "role": "Branch Chief Strategy and People",
+                    "person": "Richard Samuels",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3289",
+            "title": "Platforms Division",
+            "roles": [
+              {
+                "role": "Chief Platforms",
+                "person": "Scott Tyo",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Chief Platforms",
+                "person": "Anthony Szabo",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54745",
+                "title": "Research Engineering",
+                "roles": [
+                  {
+                    "role": "Branch Chief Research Engineering",
+                    "person": "Benjamin Barona",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3288",
+            "title": "Sensors and Effectors Division",
+            "roles": [
+              {
+                "role": "Chief Sensors and Effectors",
+                "person": "Shane Canney",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Assistant Chief Sensors and Effectors",
+                "person": "Priscilla Thwaites",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3287",
+            "title": "Space, Intelligence, National Security and Cyber Division",
+            "roles": [
+              {
+                "role": "Chief Space, Intelligence, National Security and Cyber",
+                "person": "Andrew Seedhouse",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "46308",
+        "title": "Governance Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary Governance",
+            "person": "John Reid",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54771",
+            "title": "APS Capability Review",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - APS Capability Review",
+                "person": "Rowena Bain",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "47697",
+            "title": "Governance, Planning and Performance",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Enterprise, Transformation and  Governance",
+                "person": "Rowena Bain",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47720",
+                "title": "Enterprise Business",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Enterprise Business",
+                    "person": "Tanya Meli",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47722",
+                "title": "Performance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Performance",
+                    "person": "Jane Heseltine",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47721",
+                "title": "Strategic Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Strategic Governance",
+                    "person": "Bree James",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2899",
+            "title": "Integrity",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Integrity",
+                "person": "Ben Wright",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2891",
+                "title": "Audit and Fraud Control",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Audit and Fraud control",
+                    "person": "Jason Woods",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "369",
+                "title": "Investigations and Public Interest Disclosure",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Investigations and Public Interest Disclosure",
+                    "person": "Melissa King",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2894",
+            "title": "Ministerial and Executive Coordination and Communication",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Ministerial Executive Coordination and Communication",
+                "person": "Mark Bazzacco",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1137",
+                "title": "Media and Information Disclosure",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Media and Communication",
+                    "person": "Chris Owens",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2936",
+                "title": "Ministerial, Parliamentary and Cabinet",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Ministerial, Parliamentary and Cabinet",
+                    "person": "Belinda Gill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35932",
+                "title": "Strategic Communication",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Strategic Communications",
+                    "person": "Sally Stokes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "42134",
+        "title": "Guided Weapons & Explosive Ordnance",
+        "roles": [
+          {
+            "role": "Chief of Guided Weapons and Explosive Ordnance",
+            "person": "Leon Phillips",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "42136",
+            "title": "GWEO Manufacturing",
+            "roles": [
+              {
+                "role": "First Assistant Secretary GWEO Manufacturing",
+                "person": "Dan Fankhauser",
+                "vacant": false,
+                "acting": false,
+                "email": "officeof.fasgweo@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "49729",
+                "title": "Domestic Manufacturing",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Domestic Manufacturing",
+                    "person": "Katherine Thatcher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49731",
+                "title": "Guided Weapons Production Capability",
+                "roles": [
+                  {
+                    "role": "Director General Production Capability",
+                    "person": "James Hunter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49730",
+                "title": "Strategy and Plans",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Strategy and Plans",
+                    "person": "Coan Harvey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42135",
+            "title": "GWEO Systems",
+            "roles": [
+              {
+                "role": "Head GWEO Systems",
+                "person": "Gerry Van Leeuwen",
+                "vacant": false,
+                "acting": false,
+                "email": "officeof.headgweo@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42137",
+                "title": "Explosive Materiel",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "3350",
+                "title": "Explosive Ordnance",
+                "roles": [
+                  {
+                    "role": "Director General Explosive Ordnance",
+                    "person": "James Nash",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "49742",
+                "title": "GWEO Air",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "49741",
+                "title": "GWEO Land",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "49740",
+                "title": "GWEO Maritime",
+                "roles": [
+                  {
+                    "role": "Director General GWEO Maritime",
+                    "person": "Nigel Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3099",
+        "title": "Joint Capabilities Group",
+        "roles": [
+          {
+            "role": "Chief of Joint Capabilities",
+            "person": "Susan Coyle",
+            "vacant": false,
+            "acting": false,
+            "email": "cjc.corro@defence.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Chief of Joint Capabilities",
+            "person": "Benjamin Sleeman",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2916",
+            "title": "Cyber Operations",
+            "roles": [
+              {
+                "role": "Head Information Communications Technology Operations",
+                "person": "Murray Thompson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2920",
+                "title": "Enterprise Technology Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Enterprise Technology Operations",
+                    "person": "Christie Boyd",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2923",
+                "title": "ICT Security / Chief Information Security Officer",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary ICT Security",
+                    "person": "Jonathan Dean",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 5130 1032",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2922",
+                "title": "Service Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Service Management",
+                    "person": "Steven Fievez",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "steven.fievez@defence.gov.au",
+                    "phone": "(02) 5130 1548",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2921",
+                "title": "Strategic Communications",
+                "roles": [
+                  {
+                    "role": "Commander Defence Strategic Communications",
+                    "person": "Michael Reidy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3330",
+            "title": "Joint Capabilities Division",
+            "roles": [
+              {
+                "role": "Head of Joint Capabilities",
+                "person": "Andrew Quinn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3351",
+            "title": "Joint Logistics Command",
+            "roles": [
+              {
+                "role": "Commander Joint Logistics",
+                "person": "Carla Watts",
+                "vacant": false,
+                "acting": false,
+                "email": "jlc.ocjlog@defence.gov.au",
+                "phone": "1300 333 362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3348",
+                "title": "Fuel Services Branch",
+                "roles": [
+                  {
+                    "role": "Director General Fuel Services Branch",
+                    "person": "Gabrielle Follett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3347",
+                "title": "Strategic Logistics Branch",
+                "roles": [
+                  {
+                    "role": "Deputy Commander Joint Logistics and Director General Strategic Logistics",
+                    "person": "Veronica Tyler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "+11300333262",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3349",
+                "title": "Supply Chain Branch",
+                "roles": [
+                  {
+                    "role": "Director General Supply Chain",
+                    "person": "Shane Glassock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40995",
+            "title": "Space and Cyber Capabilities",
+            "roles": [
+              {
+                "role": "Head Cyber Warfare",
+                "person": "Ana Duncan",
+                "vacant": false,
+                "acting": false,
+                "email": "hcw.corro@defence.gov.au",
+                "phone": "1800 333362",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3333",
+                "title": "Integrated Capabilities",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Integrated Capabilities",
+                    "person": "Nelson Bates",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800 333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3332",
+                "title": "Joint Command and Control (C2)",
+                "roles": [
+                  {
+                    "role": "Director General Joint Command and Control (C2)",
+                    "person": "Leslie Juckel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3331",
+                "title": "Joint Information Warfare",
+                "roles": [
+                  {
+                    "role": "Director General Joint Information Warfare",
+                    "person": "Alison Westwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3301",
+        "title": "Joint Operations Command",
+        "roles": [
+          {
+            "role": "Chief Joint Operations",
+            "person": "Justin Jones",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3303",
+            "title": "Deputy Chief Joint Operations",
+            "roles": [
+              {
+                "role": "Commander",
+                "person": "Michael Kitcher",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3302",
+            "title": "Maritime Border Command",
+            "roles": [
+              {
+                "role": "Commander Maritime Border Command",
+                "person": "Justin Jones",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3094",
+        "title": "Key Contacts",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "2883",
+        "title": "Naval Shipbuilding and Sustainment Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary Naval Shipbuilding and Sustainment",
+            "person": "David Hanley",
+            "vacant": false,
+            "acting": false,
+            "email": "natnavalshipbuilding.office@defence.gov.au",
+            "phone": "1800333362",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2884",
+            "title": "Enterprise Headquarters",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Naval Shipbuilding and Sustainment Enterprise Headquarters",
+                "person": "Stacie Hall",
+                "vacant": false,
+                "acting": false,
+                "email": "nssg.hqcoordination@defence.gov.au",
+                "phone": "1800333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40133",
+                "title": "Enterprise Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Enterprise Security",
+                    "person": "Rob Krauss",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nssg.hqcoordination@defence.gov.au",
+                    "phone": "1800 333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40115",
+                "title": "Enterprise Workforce",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Naval Shipbuilding Workforce",
+                    "person": "AS Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40132",
+                "title": "Functional Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Functional Services",
+                    "person": "Ray Forster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nssg-hq.functionalservices@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3200",
+                "title": "Industry and Infrastructure",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Industry",
+                    "person": "Karan McKee",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nssg.hqcoordination@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2885",
+                "title": "Management and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Management and Governance",
+                    "person": "Laura Arnott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nssg.hqcoordination@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3196",
+            "title": "Major Surface Combatants and Combat Systems",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Major Surface Combatants and Combat Systems",
+                "person": "Sheryl Lutz",
+                "vacant": false,
+                "acting": false,
+                "email": "nssg-fasmsccs.correspondence@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40098",
+                "title": "Hunter Class Frigate",
+                "roles": [
+                  {
+                    "role": "Director General Hunter Class Frigates",
+                    "person": "Scott Lockey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sea5000.coordination@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40099",
+                "title": "Maritime Integrated Warfare Systems",
+                "roles": [
+                  {
+                    "role": "Director General Maritime Integrated Warfare Systems",
+                    "person": "Rob Elliott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fasships.miws@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40095",
+            "title": "Maritime Sustainment",
+            "roles": [
+              {
+                "role": "Head Maritime Sustainment",
+                "person": "Steven Tiffen",
+                "vacant": false,
+                "acting": false,
+                "email": "nssg-msd-hms.correspondence@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40113",
+                "title": "Maintenance",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "40111",
+                "title": "Major Surface Ships",
+                "roles": [
+                  {
+                    "role": "Director General Major Surface Ships",
+                    "person": "Smith Bradley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40110",
+                "title": "Maritime Support",
+                "roles": [
+                  {
+                    "role": "Director General Maritime Support",
+                    "person": "Jason Sears",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40112",
+                "title": "Specialist Systems",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Specialist Systems",
+                    "person": "Helen Loundes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40094",
+            "title": "Patrol Boats and Specialist Ships",
+            "roles": [
+              {
+                "role": "Head Patrol Boats and Specialist Ships",
+                "person": "Wendy Malcolm",
+                "vacant": false,
+                "acting": false,
+                "email": "natnavalshipbuilding.office@defence.gov.au",
+                "phone": "01800333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "40101",
+                "title": "Offshore Patrol Vessels",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rob Bryson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40100",
+                "title": "Ship Acquisition - Specialist Ships",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Specialist Ships",
+                    "person": "David Kingston",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ss.coordination@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2886",
+            "title": "Submarines",
+            "roles": [
+              {
+                "role": "First Assistant  Secretary Submarines",
+                "person": "John Chandler",
+                "vacant": false,
+                "acting": false,
+                "email": "nssg.fassubsoffice@defence.gov.au",
+                "phone": "1800333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3197",
+                "title": "Collins Submarine Program",
+                "roles": [
+                  {
+                    "role": "Director General Collins Submarine Program",
+                    "person": "Henri Nord-Thomson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3199",
+                "title": "Submarines",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Submarines",
+                    "person": "Michael Frith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nssg.fassubsoffice@defence.gov.au",
+                    "phone": "1800333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3095",
+        "title": "Navy",
+        "roles": [
+          {
+            "role": "Chief of Navy",
+            "person": "Mark Hammond",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          },
+          {
+            "role": "Chief of Staff to Chief of Navy",
+            "person": "James Hawley",
+            "vacant": false,
+            "acting": false,
+            "email": "chiefofnavy.australia@defence.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "363",
+            "title": "Fleet Command",
+            "roles": [
+              {
+                "role": "Commander Australian Fleet",
+                "person": "Christopher Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "37897",
+            "title": "Navy Headquarters",
+            "roles": [
+              {
+                "role": "Deputy Chief of Navy",
+                "person": "Matthew Buckley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "364",
+                "title": "Navy Capability",
+                "roles": [
+                  {
+                    "role": "Head Navy Capability",
+                    "person": "Stephen Hughes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "397",
+                "title": "Navy Engineering",
+                "roles": [
+                  {
+                    "role": "Head Navy Engineering",
+                    "person": "Rachel Durbin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "37901",
+                "title": "Warrant Officer of the Navy",
+                "roles": [
+                  {
+                    "role": "Warrant Officer of the Navy",
+                    "person": "Andrew Bertoncin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3604",
+        "title": "Secretary of Defence",
+        "roles": [
+          {
+            "role": "Secretary Of Defence",
+            "person": "Greg Moriarty",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1800333362",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff to the Secretary of Defence",
+            "person": "Karma Abraham",
+            "vacant": false,
+            "acting": false,
+            "email": "karma.abraham@defence.gov.au",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Senior Executive Assistant to the Secretary of Defence",
+            "person": "Michelle Bolton",
+            "vacant": false,
+            "acting": false,
+            "email": "michelle.bolton@defence.gov.au",
+            "phone": "1800333362",
+            "importance": 3
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2901",
+        "title": "Security and Estate Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary Security and Estate",
+            "person": "Celia Perkins",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 333 362",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff to DEPSEC SE",
+            "person": "Garbis Avakian",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2895",
+            "title": "Defence Security",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Defence Security",
+                "person": "Monique Hamilton",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "35935",
+                "title": "Defence Industry Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Defence Industry Security",
+                    "person": "Kate Dann",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2934",
+                "title": "Security Policy & Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Security Policy & Services",
+                    "person": "Simon Buckley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47554",
+                "title": "Security Threats and Assessments",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Security Threats and Assessments",
+                    "person": "Ryan Buchanan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2935",
+                "title": "Vetting",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Vetting",
+                    "person": "Mel Flett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "47573",
+            "title": "Estate Transformation",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Estate Transformation",
+                "person": "Peter West",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47574",
+                "title": "Engagement and Transition Planning",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary - Engagement and Transition Planning",
+                    "person": "Natalie Sawczak",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47576",
+                "title": "Estate Commercial Planning",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Estate Commercial Planning",
+                    "person": "Brodie Wootten",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47575",
+                "title": "Estate Strategy and Engagement",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Estate Strategy and Engagement",
+                    "person": "Sarah Russell-Farnham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2912",
+            "title": "Infrastructure",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Infrastructure Division",
+                "person": "Pat Sowry",
+                "vacant": false,
+                "acting": false,
+                "email": "dsrgid.support@defence.gov.au",
+                "phone": "1300333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2909",
+                "title": "Capital Facilities and Infrastructure",
+                "roles": [
+                  {
+                    "role": "Director General - Capital Facilities and Infrastructure",
+                    "person": "Matthew Quinn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2908",
+                "title": "Environment and Engineering",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Environment and Engineering",
+                    "person": "Felix Bowman-Derrick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2913",
+                "title": "Estate Planning",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Estate Planning",
+                    "person": "Amelia Charlton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 3
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54763",
+                "title": "Maritime Infrastructure and Integration",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Maritime Infrastructure and Integration",
+                    "person": "Helen Loundes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2910",
+                "title": "PFAS Investigation and Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - PFAS Investigation and Management",
+                    "person": "Kathleen Leane",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 4
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2902",
+            "title": "Service Delivery",
+            "roles": [
+              {
+                "role": "First Assistant Secretary - Service Delivery",
+                "person": "Lee-Anne Monterosso",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2904",
+                "title": "Base Service Transformation and Estate Data",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Base Service Transformation and Estate Data",
+                    "person": "Luke McLeod",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "392",
+                "title": "Estate Service Delivery",
+                "roles": [
+                  {
+                    "role": "Director General - Estate Service Delivery",
+                    "person": "Gabrielle Follett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2905",
+                "title": "Regional Services - East and West Zone",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - East and West Zone",
+                    "person": "Justin Ling",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2906",
+                "title": "Regional Services - North and Central Zone",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - North and Central Zone",
+                    "person": "Adrian Kovacs",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2907",
+                "title": "Regional Services - South East Zone",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - South East Zone",
+                    "person": "Greg Tickle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2903",
+                "title": "Service Delivery Program Management and Governance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary - Service Delivery Program Management & Governance",
+                    "person": "Elise Wattam",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3096",
+        "title": "Strategy, Policy and Industry Group",
+        "roles": [
+          {
+            "role": "Deputy Secretary Strategy, Policy & Industry",
+            "person": "Hugh Jeffrey",
+            "vacant": false,
+            "acting": false,
+            "email": "depsec.spioffice@defence.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff to DEPSEC Strategy, Policy & Industry Group",
+            "person": "Currently Vacant",
+            "vacant": false,
+            "acting": false,
+            "email": "depsec.sp&ioffice@defence.gov.au",
+            "phone": "",
+            "importance": 2
+          }
+        ],
+        "children": [
+          {
+            "content_id": "49717",
+            "title": "AUKUS Advanced Capabilities",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "40042",
+                "title": "AUKUS Advanced Capabilities Implementation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary AUKUS Initiatives",
+                    "person": "Kate Cameron",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "356",
+            "title": "Contestability",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Contestability",
+                "person": "Teresa Blair",
+                "vacant": false,
+                "acting": false,
+                "email": "contestability.coordination@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3885",
+                "title": "Air and Land Combat Analysis",
+                "roles": [
+                  {
+                    "role": "Director General Air & Land Combat Analysis",
+                    "person": "Joanne Whittaker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2924",
+                "title": "Joint and Enabler Analysis",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Joint and Enabler Analysis",
+                    "person": "Mel Flett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2925",
+                "title": "Maritime Analysis",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Maritime Analysis",
+                    "person": "Jacinda Stewart",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800000362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2881",
+            "title": "Defence Industry Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Defence Industry Policy",
+                "person": "Stephen Moore",
+                "vacant": false,
+                "acting": false,
+                "email": "fasdip@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "373",
+                "title": "Defence Capability and Innovation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Defence Capability and Innovation",
+                    "person": "AS Vacant",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3835",
+                "title": "Defence Export Control",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Defence Export Control",
+                    "person": "Emily Hall",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "exportcontrols@defence.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "374",
+                "title": "Defence Industry",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Defence Industry",
+                    "person": "Kylie Wright",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "357",
+            "title": "International Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary International Policy",
+                "person": "Bernard Philip",
+                "vacant": false,
+                "acting": false,
+                "email": "ip.fasip@defence.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2911",
+                "title": "Force Posture Initiatives",
+                "roles": [
+                  {
+                    "role": "Director General Force Posture Initiatives",
+                    "person": "Michael Say",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "366",
+                "title": "Global Partners",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Global Partners",
+                    "person": "David Lewis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "47235",
+                "title": "International Engagement Strategy",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "47236",
+                "title": "North and South Asia",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "2945",
+                "title": "South-East Asia",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary South-East Asia",
+                    "person": "David Lewis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.lewis17@defence.gov.au",
+                    "phone": "02 5108 5337",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "367",
+                "title": "US Alliance and International Force Posture Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary US Alliance and International Force Posture Policy",
+                    "person": "Sally Timbs",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "42342",
+            "title": "Pacific Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Pacific Division",
+                "person": "Sue Bodell",
+                "vacant": false,
+                "acting": false,
+                "email": "fas.pacific@defence.gov.au",
+                "phone": "1800 333 362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47228",
+                "title": "Indo-Pacific Infrastructure",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "47226",
+                "title": "International Engagement Strategy",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "47229",
+                "title": "Pacific Maritime",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "47227",
+                "title": "Pacific Regional and Governance",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "2943",
+                "title": "Pacific and Timor-Leste",
+                "roles": [
+                  {
+                    "role": "Director General Pacific & Timor-Leste",
+                    "person": "Jo Brick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "358",
+            "title": "Strategic Policy",
+            "roles": [
+              {
+                "role": "First Assistant Secretary Strategic Policy",
+                "person": "Sheridan Kearnan",
+                "vacant": false,
+                "acting": false,
+                "email": "fassp.office@defence.gov.au",
+                "phone": "1300333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2926",
+                "title": "Military Strategy",
+                "roles": [
+                  {
+                    "role": "Director General Futures, Risk and Outreach",
+                    "person": "Jarrod Pendlebury",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mil.strat@defence.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2929",
+                "title": "National and Defence Resilience",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary National Security and Resilience",
+                    "person": "Ashley Townshend",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "strategic.resilience@defence.gov.au",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2928",
+                "title": "Strategic Capabilities and Technologies",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Strategic Capabilities and Technology",
+                    "person": "Alison West",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1800000362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2927",
+                "title": "Strategic Engagement and Corporate",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Strategic Engagement and Corporate",
+                    "person": "Emma Cooney",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3834",
+                "title": "Strategic Policy and Guidance",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Strategic Policy and Guidance",
+                    "person": "Alanna Mackay",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300333362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3097",
+        "title": "Vice Chief of the Defence Force",
+        "roles": [
+          {
+            "role": "Vice Chief of the Defence Force",
+            "person": "Robert Chipman",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1800 333 362",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "46854",
+            "title": "Advanced Strategic Capabilities Accelerator",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Hugh Meggitt",
+                "vacant": false,
+                "acting": false,
+                "email": "asca.headoffice@defence.gov.au",
+                "phone": "1300333362",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3304",
+            "title": "Force Design",
+            "roles": [
+              {
+                "role": "Head Force Design",
+                "person": "Wendy Blyth",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300333362",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3311",
+                "title": "Force Exploration Branch",
+                "roles": [
+                  {
+                    "role": "Director General Force Exploration",
+                    "person": "Michael Turner",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "+11300333262",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3312",
+                "title": "Force Options and Plans Branch",
+                "roles": [
+                  {
+                    "role": "Director General Force Options and Plans",
+                    "person": "Nicholas Hogan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3310",
+                "title": "Investment Portfolio Management Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary Investment Portfolio Branch",
+                    "person": "Edward Louis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "vcdf.asip@defence.gov.au",
+                    "phone": "1800 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3306",
+            "title": "Force Integration",
+            "roles": [
+              {
+                "role": "Head Force Integration",
+                "person": "Matthew Pearse",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300 333 362",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3305",
+            "title": "Military Strategic Commitments",
+            "roles": [
+              {
+                "role": "Head Military Strategic Commitments Division",
+                "person": "Jonathan Earley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300 333 262",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3308",
+                "title": "Military Strategic Commitments Branch",
+                "roles": [
+                  {
+                    "role": "Director General Military Strategic Commitments Branch",
+                    "person": "Don Dezentje",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3309",
+                "title": "Military Strategic Effects Branch",
+                "roles": [
+                  {
+                    "role": "Director General Military Strategic Effects",
+                    "person": "Marty White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "1300 333 362",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3307",
+            "title": "Military Strategic Planning",
+            "roles": [
+              {
+                "role": "Head Military Strategic Planning",
+                "person": "John Haly",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "1300 333 362",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "49781",
+            "title": "Military Workforce Design",
+            "roles": [
+              {
+                "role": "Head Military Workforce Design",
+                "person": "Craig Dobson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

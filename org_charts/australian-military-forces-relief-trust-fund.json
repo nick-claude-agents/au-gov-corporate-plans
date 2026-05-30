@@ -1,0 +1,44 @@
+{
+  "content_id": "149",
+  "title": "Australian Military Forces Relief Trust Fund",
+  "acronym": "",
+  "portfolio": "Defence",
+  "website": "http://armyrtf.com.au",
+  "description": "The legislative name Australian Military Forces Relief Trust Fund, trades as the Army Relief Trust Fund, provides benefits for soldiers who are serving or who have served in the Australian Army and their dependants.",
+  "dashboard_name": "Australian Military Forces Relief Trust Fund",
+  "people_count": 3,
+  "tree": {
+    "content_id": "149",
+    "title": "Australian Military Forces Relief Trust Fund",
+    "roles": [
+      {
+        "role": "Chairman",
+        "person": "M Clifford",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Secretary",
+        "person": "Peter Elliott",
+        "vacant": false,
+        "acting": false,
+        "email": "peter.elliott4@defence.gov.au",
+        "phone": "(02) 6265 6197",
+        "importance": 999
+      },
+      {
+        "role": "Trustee",
+        "person": "A.G Neilson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,236 @@
+{
+  "content_id": "273",
+  "title": "National Archives of Australia",
+  "acronym": "NAA",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "https://www.naa.gov.au/",
+  "description": "The functions of the National Archives of Australia are defined in the Archives Act 1983. These are broadly grouped into the following areas:<br />\n- leading Australian Government agencies in creating and managing authentic, reliable and usable Commonwealth records by providing guidance and setting standards for the management of Australian Government information and records<br />\n- authorising retention and disposal of Commonwealth records, including the identification of those records of national archival value<br />\n- transferring records of national archival value from agencies and securing, describing and preserving them<br />\n- making publicly available the archival resources of the Commonwealth in accordance with the Archives Act.",
+  "dashboard_name": "National Archives of Australia (NAA)",
+  "people_count": 9,
+  "tree": {
+    "content_id": "273",
+    "title": "National Archives of Australia",
+    "roles": [
+      {
+        "role": "Director-General",
+        "person": "Simon Froude",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1335",
+        "title": "Leadership Team",
+        "roles": [
+          {
+            "role": "Director-General",
+            "person": "Simon Froude",
+            "vacant": false,
+            "acting": false,
+            "email": "simon.froude@naa.gov.au",
+            "phone": "(02) 6212 3600",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Director-General and Chief Operating Officer",
+            "person": "Gill Savage",
+            "vacant": false,
+            "acting": false,
+            "email": "gill.savage@naa.gov.au",
+            "phone": "(02) 6212 3645",
+            "importance": 2
+          },
+          {
+            "role": "Assistant Director-General Access & Public Engagement",
+            "person": "Danniella McGowen",
+            "vacant": false,
+            "acting": false,
+            "email": "danni.mcgowen@naa.gov.au",
+            "phone": "(02) 6212 6249",
+            "importance": 3
+          },
+          {
+            "role": "Assistant Director-General Collection Management",
+            "person": "Josephine Secis",
+            "vacant": false,
+            "acting": false,
+            "email": "josephine.secis@naa.gov.au",
+            "phone": "(07) 3249 4202",
+            "importance": 4
+          },
+          {
+            "role": "Acting Assistant Director-General Office of the Director-General",
+            "person": "Phoebe Morrison",
+            "vacant": false,
+            "acting": false,
+            "email": "phoebe.morrison@naa.gov.au",
+            "phone": "(02) 6212 3975",
+            "importance": 5
+          },
+          {
+            "role": "Assistant Director-General Technology",
+            "person": "Brooke Anderson",
+            "vacant": false,
+            "acting": false,
+            "email": "brooke.anderson@naa.gov.au",
+            "phone": "(02) 6212 3672",
+            "importance": 6
+          },
+          {
+            "role": "Executive Director Collection Management",
+            "person": "Celia Blake",
+            "vacant": false,
+            "acting": false,
+            "email": "celia.blake@naa.gov.au",
+            "phone": "(03) 9881 6851",
+            "importance": 7
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1336",
+        "title": "Lending Services",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2116",
+            "title": "National Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2121",
+            "title": "New South Wales Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2117",
+            "title": "Northern Territory Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2115",
+            "title": "Queensland Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2114",
+            "title": "South Australia Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2118",
+            "title": "Tasmania Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2119",
+            "title": "Victorian Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2120",
+            "title": "Western Australia Office",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1337",
+        "title": "Media and Marketing Inquiries",
+        "roles": [
+          {
+            "role": "Director, Communications, Marketing, Partnerships and Events",
+            "person": "Rebecca McHarg",
+            "vacant": false,
+            "acting": false,
+            "email": "rebecca.mcharg@naa.gov.au",
+            "phone": "(02) 6212 3438",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2150",
+        "title": "National Reference Service",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1348",
+        "title": "State and Territory Offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "54101",
+            "title": "National Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1352",
+            "title": "New South Wales Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1349",
+            "title": "Northern Territory Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1350",
+            "title": "Queensland Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1347",
+            "title": "South Australia Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1346",
+            "title": "Tasmania Office",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1345",
+            "title": "Victoria Office",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "1351",
+                "title": "Reading Room",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1344",
+            "title": "Western Australia Office",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

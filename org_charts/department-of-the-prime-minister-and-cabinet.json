@@ -1,0 +1,1466 @@
+{
+  "content_id": "211",
+  "title": "Department of the Prime Minister and Cabinet",
+  "acronym": "DPMC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.pmc.gov.au",
+  "description": "The Department of the Prime Minister and Cabinet (PM&C) provides high quality advice and support to the Prime Minister, the Cabinet, Portfolio Ministers and Assistant Ministers to achieve a coordinated and innovative approach to the development and implementation of Government policies. PM&C coordinates and develops policy across the Government in economic, domestic and international issues, Aboriginal and Torres Strait Islander affairs and public service stewardship.<br />\nPM&C does this by:<br />\n•\tproviding well-founded advice to the Prime Minister, the Cabinet, Portfolio Ministers and Assistant Ministers on national and global challenges and matters at the forefront of Government<br />\n•\tcoordinating policy across Government with a focus on practical changes to improve the lives of all Australians and effective implementation<br />\n•\tfostering a high performing public sector, working with the Australian Public Service Commission<br />\n•\tconsulting across Government, the private sector, the not-for-profit sector and the community.<br />\n<br />\nPM&C provides clear and persuasive advice to the Government on how it might best tackle the significant issues facing Australia. PM&C’s priorities include:<br />\n•\tsupporting the Prime Minister in his role as head of the Australian Government and the Cabinet and supporting PM&C’s Portfolio Ministers<br />\n•\tproviding advice on how to make Australia more prosperous, successful and improving its security on a global scale<br />\n•\tenhancing the ability of Aboriginal and Torres Strait Islander people to improve their lives<br />\n•\tworking with the Australian Public Service Commission, and all Australian Government agencies, to build a more inclusive and diverse public service. To drive this important work, the Secretary of the Department of Prime Minister and Cabinet chairs the Secretaries’ Equality and Diversity Council.",
+  "dashboard_name": "Department of the Prime Minister and Cabinet (PM&C)",
+  "people_count": 98,
+  "tree": {
+    "content_id": "211",
+    "title": "Department of the Prime Minister and Cabinet",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "53284",
+        "title": "AUKUS",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Kendra Morony",
+            "vacant": false,
+            "acting": false,
+            "email": "kendra.morony@pmc.gov.au",
+            "phone": "(02) 6228 6889",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Emily Scott",
+            "vacant": false,
+            "acting": false,
+            "email": "emily.scott@pmc.gov.au",
+            "phone": "(02) 6228 6822",
+            "importance": 2
+          },
+          {
+            "role": "Acting Executive Officer",
+            "person": "Liam O'Riordan-Smyth",
+            "vacant": false,
+            "acting": false,
+            "email": "liam.o'riordan-smyth@pmc.gov.au",
+            "phone": "02 6228 6698",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "53285",
+            "title": "AUKUS",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Steve Moore",
+                "vacant": false,
+                "acting": false,
+                "email": "steve.moore@pmc.gov.au",
+                "phone": "(02) 6271 5559",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53286",
+                "title": "AUKUS Submarines and Naval Shipbuilding",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Luke McGowan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "luke.mcgowan@pmc.gov.au",
+                    "phone": "(02) 6271 5488",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53287",
+                "title": "Policy, Enablers and Partnerships",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Amelia Henty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amelia.henty@pmc.gov.au",
+                    "phone": "(02) 6228 6696",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2604",
+        "title": "Economy, Industry and Resources",
+        "roles": [
+          {
+            "role": "Acting Deputy Secretary",
+            "person": "Narelle Luchetti",
+            "vacant": false,
+            "acting": false,
+            "email": "narelle.luchetti@pmc.gov.au",
+            "phone": "(02) 6228 6380",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Ashley Izzard",
+            "vacant": false,
+            "acting": false,
+            "email": "depseceiroffice@pmc.gov.au",
+            "phone": "(02) 6228 6621",
+            "importance": 2
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Yasmin Harris",
+            "vacant": false,
+            "acting": false,
+            "email": "depseceiroffice@pmc.gov.au",
+            "phone": "(02) 6271 5232",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2644",
+            "title": "Economic Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary and Chief Economist",
+                "person": "Louise Rawlings",
+                "vacant": false,
+                "acting": false,
+                "email": "louise.rawlings@pmc.gov.au",
+                "phone": "(02) 6271 5946",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54898",
+                "title": "Behavioural Economics Team of the Australian Government",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Susan Calvert",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "susan.calvert@pmc.gov.au",
+                    "phone": "(02) 6271 5187",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2545",
+                "title": "Economic Policy and Analytics Branch",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Rob Quinn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rob.quinn@pmc.gov.au",
+                    "phone": "(02) 6271 5773",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2544",
+                "title": "Fiscal Policy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "John Neil",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "john.neil@pmc.gov.au",
+                    "phone": "(02) 6228 6589",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2542",
+                "title": "Office of Impact Analysis",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Joanna Abhayaratna",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joanna.abhayaratna@pmc.gov.au",
+                    "phone": "(02) 6271 5964",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2543",
+                "title": "Tax, Markets and Workplace Relations Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Shibani Iyer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shibani.iyer@pmc.gov.au",
+                    "phone": "(02) 6228 6658",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3495",
+            "title": "Industry, Infrastructure and Environment Division",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Matthew Strapp",
+                "vacant": false,
+                "acting": false,
+                "email": "matthew.strapp@pmc.gov.au",
+                "phone": "(02) 6271 5789",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3254",
+                "title": "Climate Change and Energy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Roland Trease",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "roland.trease@pmc.gov.au",
+                    "phone": "(02) 6271 6104",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "35902",
+                "title": "Environment, Resources and Agriculture Branch",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Christie Renton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christie.renton@pmc.gov.au",
+                    "phone": "(02) 6228 6751",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2540",
+                "title": "Industry, Science and Digital Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Peter Good",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "peter.good@pmc.gov.au",
+                    "phone": "(02) 6228 6879",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2539",
+                "title": "Infrastructure and Communications Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nina Pregellio",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nina.pregellio@pmc.gov.au",
+                    "phone": "(02) 6271 6107",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3170",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Padma Raman",
+            "vacant": false,
+            "acting": false,
+            "email": "padma.raman@pmc.gov.au",
+            "phone": "(02) 6271 6187",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Secretary: Social Policy and Cabinet",
+            "person": "Blair Exell",
+            "vacant": false,
+            "acting": false,
+            "email": "blair.exell@pmc.gov.au",
+            "phone": "(02) 6271 6163",
+            "importance": 2
+          },
+          {
+            "role": "Acting Deputy Secretary: Economy, Industry and Resources",
+            "person": "Narelle Luchetti",
+            "vacant": false,
+            "acting": false,
+            "email": "narelle.luchetti@pmc.gov.au",
+            "phone": "(02) 6228 6380",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary: International and Security",
+            "person": "Justin Hayhurst",
+            "vacant": false,
+            "acting": false,
+            "email": "justin.hayhurst@pmc.gov.au",
+            "phone": "",
+            "importance": 4
+          },
+          {
+            "role": "Deputy Secretary: AUKUS",
+            "person": "Kendra Morony",
+            "vacant": false,
+            "acting": false,
+            "email": "kendra.morony@pmc.gov.au",
+            "phone": "(02) 6228 6889",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary: Governance and Corporate",
+            "person": "Cameron Gifford",
+            "vacant": false,
+            "acting": false,
+            "email": "cameron.gifford@pmc.gov.au",
+            "phone": "02 6228 6692",
+            "importance": 6
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "54680",
+        "title": "Fuel Supply Taskforce",
+        "roles": [
+          {
+            "role": "Taskforce Coordinator",
+            "person": "Anthea Harris",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54681",
+            "title": "Fuel Supply Taskforce",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Janet Quigley",
+                "vacant": false,
+                "acting": false,
+                "email": "janet.quigley@pmc.gov.au",
+                "phone": "(02) 6271 5321",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54684",
+                "title": "Data and Reporting Team",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alistair Campbell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alistair.campbell@pmc.gov.au",
+                    "phone": "(02) 6271 5132",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54683",
+                "title": "Energy Policy Team",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Joe Ritchie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "joe.ritchie@pmc.gov.au",
+                    "phone": "(02) 6271 5747",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54682",
+                "title": "Implementation Team",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Nadia Rosenman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nadia.rosenman@pmc.gov.au",
+                    "phone": "(02) 6228 6635",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54686",
+                "title": "Legal Support",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Bridie McAsey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bridie.mcasey@pmc.gov.au",
+                    "phone": "(02) 6228 6842",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54685",
+                "title": "Stakeholder Management Team",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alex Stevenson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "alex.stevenson@pmc.gov.au",
+                    "phone": "(02) 6271 5028",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2553",
+        "title": "Governance and Corporate",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Cameron Gifford",
+            "vacant": false,
+            "acting": false,
+            "email": "cameron.gifford@pmc.gov.au",
+            "phone": "(02) 6228 6692",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Adrianna Musitano",
+            "vacant": false,
+            "acting": false,
+            "email": "depsecgc@pmc.gov.au",
+            "phone": "(02) 6228 6584",
+            "importance": 2
+          },
+          {
+            "role": "Executive Officer",
+            "person": "Shannon Edwards",
+            "vacant": false,
+            "acting": false,
+            "email": "depsecgc@pmc.gov.au",
+            "phone": "(02) 6271 5516",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54900",
+            "title": "Australian Government Consulting",
+            "roles": [
+              {
+                "role": "Chief Consulting Officer",
+                "person": "Andrew Nipe",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.nipe@pmc.gov.au",
+                "phone": "(02) 6228 6766",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Chief Consulting Officer",
+                "person": "Joanne Rossiter",
+                "vacant": false,
+                "acting": false,
+                "email": "joanne.rossiter@pmc.gov.au",
+                "phone": "(02) 6228 6758",
+                "importance": 2
+              },
+              {
+                "role": "Deputy Chief Consulting Officer",
+                "person": "Victoria Benz",
+                "vacant": false,
+                "acting": false,
+                "email": "victoria.benz@pmc.gov.au",
+                "phone": "(02) 6271 5432",
+                "importance": 3
+              },
+              {
+                "role": "Deputy Chief Consulting Officer",
+                "person": "Anthony McGinness",
+                "vacant": false,
+                "acting": false,
+                "email": "anthony.mcginness@pmc.gov.au",
+                "phone": "(02) 6228 6866",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2649",
+            "title": "Corporate Division",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary and Chief Operating Officer",
+                "person": "Cristy England",
+                "vacant": false,
+                "acting": false,
+                "email": "cristy.england@pmc.gov.au",
+                "phone": "(02) 6271 5430",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53922",
+                "title": "Communications",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Leonie Kolmar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "leonie.kolmar@pmc.gov.au",
+                    "phone": "(02) 6271 5864",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2583",
+                "title": "Finance Branch",
+                "roles": [
+                  {
+                    "role": "Acting Chief Financial Officer",
+                    "person": "Amanda Cross",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "amanda.cross@pmc.gov.au",
+                    "phone": "(02) 6228 6976",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "38778",
+                "title": "Governance, Performance and Audit",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Belinda Small",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "belinda.small@pmc.gov.au",
+                    "phone": "(02) 6228 6462",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "52266",
+                "title": "Ministerial and Parliamentary Support",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Ilona Fegan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ilona.fegan@pmc.gov.au",
+                    "phone": "(02) 6228 6579",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2584",
+                "title": "People Branch",
+                "roles": [
+                  {
+                    "role": "Chief People Officer",
+                    "person": "Tanja Watson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tanja.watson@pmc.gov.au",
+                    "phone": "(02) 6271 6148",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "48193",
+            "title": "Digital, Security and Workplace Operations",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Justin Keefe",
+                "vacant": false,
+                "acting": false,
+                "email": "justin.keefe@pmc.gov.au",
+                "phone": "(02) 6228 6926",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53683",
+                "title": "Digital Delivery",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Mick Unwin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mick.unwin@pmc.gov.au",
+                    "phone": "(02) 6228 6997",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50616",
+                "title": "Digital Design",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jane Hill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.hill@pmc.gov.au",
+                    "phone": "(02) 6271 5462",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53075",
+                "title": "Digital and Security Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Ben Keily",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ben.keily@pmc.gov.au",
+                    "phone": "(02) 6228 6860",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "41293",
+                "title": "Digital and Workplace Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Samantha Portelli",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "samantha.portelli@pmc.gov.au",
+                    "phone": "(02) 6271 5788",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "50615",
+                "title": "Enterprise Technology and Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Marnie Fraser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marnie.fraser@pmc.gov.au",
+                    "phone": "(02) 6271 5665",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53921",
+                "title": "Protective Security Reform",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jane Gillis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jane.gillis@pmc.gov.au",
+                    "phone": "(02) 6228 6681",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2647",
+            "title": "Government Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Andrew Walter",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.walter@pmc.gov.au",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2576",
+                "title": "House of Representatives Parliamentary Liaison Officer",
+                "roles": [
+                  {
+                    "role": "PLO",
+                    "person": "Des Ko",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "desmond.ko@pmc.gov.au",
+                    "phone": "(02) 6228 6438",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2573",
+                "title": "Legal Policy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Katy Lin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "katy.lin@pmc.gov.au",
+                    "phone": "(02) 6271 6293",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2574",
+                "title": "Parliament, Government and Honours Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "David Belgrove",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.belgrove@pmc.gov.au",
+                    "phone": "(02) 6271 5535",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2575",
+                "title": "Senate Parliamentary Liaison Officer",
+                "roles": [
+                  {
+                    "role": "PLO",
+                    "person": "Mark McCormack",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "mark.mccormack@pmc.gov.au",
+                    "phone": "(02) 6271 5523",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3167",
+        "title": "Inquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "918",
+            "title": "Freedom of information",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "2602",
+        "title": "International and Security",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Justin Hayhurst",
+            "vacant": false,
+            "acting": false,
+            "email": "justin.hayhurst@pmc.gov.au",
+            "phone": "(02) 6228 6378",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Jodie Pearson",
+            "vacant": false,
+            "acting": false,
+            "email": "depsecisgoffice@pmc.gov.au",
+            "phone": "(02) 6271 5560",
+            "importance": 2
+          },
+          {
+            "role": "Acting Executive Officer",
+            "person": "Liam O'Riordan-Smyth",
+            "vacant": false,
+            "acting": false,
+            "email": "depsecisgoffice@pmc.gov.au",
+            "phone": "(02) 6271 5483",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2646",
+            "title": "International Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Lauren Bain",
+                "vacant": false,
+                "acting": false,
+                "email": "lauren.bain@pmc.gov.au",
+                "phone": "(02) 6271 5585",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2568",
+                "title": "Asia Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Michael Kachel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.kachel@pmc.gov.au",
+                    "phone": "(02) 6271 5628",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2567",
+                "title": "Global Interests Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Eric Young",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "eric.young@pmc.gov.au",
+                    "phone": "(02) 6228 6913",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2569",
+                "title": "Pacific Branch",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Frederic Jeanjean",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "frederic.jeanjean@pmc.gov.au",
+                    "phone": "(02) 6271 5415",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "40255",
+            "title": "Multilateral Economic Engagement",
+            "roles": [
+              {
+                "role": "First Assistant Secretary (G20 Sherpa)",
+                "person": "Lisa Elliston",
+                "vacant": false,
+                "acting": false,
+                "email": "lisa.elliston@pmc.gov.au",
+                "phone": "(02) 6271 5322",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "50614",
+                "title": "G20 Sous Sherpa",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary (G20 Sous Sherpa)",
+                    "person": "Suzanne Akila",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "suzanne.akila@pmc.gov.au",
+                    "phone": "(02) 6271 5845",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2552",
+            "title": "National Security and Resilience Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Peter Anstee",
+                "vacant": false,
+                "acting": false,
+                "email": "peter.anstee@pmc.gov.au",
+                "phone": "(02) 6271 6268",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2570",
+                "title": "Defence Policy and Capability Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Cameron Heath",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "cameron.heath@pmc.gov.au",
+                    "phone": "(02) 6271 5230",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "916",
+                "title": "Domestic Security Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Andrew Rose",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "andrew.rose@pmc.gov.au",
+                    "phone": "(02) 6228 6895",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54899",
+                "title": "Resilience, Recovery and Response Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jason Dymowski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jason.dymowski@pmc.gov.au",
+                    "phone": "(02) 6228 6651",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "53919",
+            "title": "Protocol and International Visits",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Arthur Spyrou",
+                "vacant": false,
+                "acting": false,
+                "email": "arthur.spyrou@pmc.gov.au",
+                "phone": "(02) 6228 6595",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53920",
+                "title": "Protocol and International Visits",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Laura Thompson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "laura.thompson@pmc.gov.au",
+                    "phone": "(02) 6271 5354",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "2549",
+        "title": "Office for Women",
+        "roles": [
+          {
+            "role": "Executive Director",
+            "person": "Padma Raman",
+            "vacant": false,
+            "acting": false,
+            "email": "padma.raman@pmc.gov.au",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Executive Officer and Executive Assistant",
+            "person": "Stephanie Gatt",
+            "vacant": false,
+            "acting": false,
+            "email": "stephanie.gatt@pmc.gov.au",
+            "phone": "(02) 6271 5548",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "50521",
+            "title": "Office for Women",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Megan Leahy",
+                "vacant": false,
+                "acting": false,
+                "email": "megan.leahy@pmc.gov.au",
+                "phone": "(02) 6228 6468",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3887",
+                "title": "Gender Based Violence and Social Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Rochelle White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "rochelle.white@pmc.gov.au",
+                    "phone": "(02) 6228 6770",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3888",
+                "title": "Gender Equality Systems and Partnerships",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Clancie Hall",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "clancie.hall@pmc.gov.au",
+                    "phone": "(02) 6271 5683",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3886",
+                "title": "Women's Economic Policy",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Angela Hope",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "angela.hope@pmc.gov.au",
+                    "phone": "(02) 6271 6228",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "3168",
+        "title": "Secretary's Office",
+        "roles": [
+          {
+            "role": "Secretary",
+            "person": "Steven Kennedy",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6271 5111",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Karla Rayner",
+            "vacant": false,
+            "acting": false,
+            "email": "karla.rayner@pmc.gov.au",
+            "phone": "(02) 6271 5111",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to the Secretary",
+            "person": "Amanda Paolo",
+            "vacant": false,
+            "acting": false,
+            "email": "officeofthesecretary@pmc.gov.au",
+            "phone": "(02) 6271 5111",
+            "importance": 3
+          },
+          {
+            "role": "Executive Officer to the Secretary",
+            "person": "Madeleine Sharp",
+            "vacant": false,
+            "acting": false,
+            "email": "officeofthesecretary@pmc.gov.au",
+            "phone": "(02) 6271 5111",
+            "importance": 4
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "2548",
+        "title": "Social Policy and Cabinet",
+        "roles": [
+          {
+            "role": "Deputy Secretary",
+            "person": "Blair Exell",
+            "vacant": false,
+            "acting": false,
+            "email": "blair.exell@pmc.gov.au",
+            "phone": "(02) 6271 6163",
+            "importance": 1
+          },
+          {
+            "role": "Executive Assistant",
+            "person": "Jacqueline Bodel",
+            "vacant": false,
+            "acting": false,
+            "email": "depsecspg@pmc.gov.au",
+            "phone": "(02) 6271 6249",
+            "importance": 2
+          },
+          {
+            "role": "Acting Executive Officer",
+            "person": "Alex Vuong",
+            "vacant": false,
+            "acting": false,
+            "email": "alex.vuong@pmc.gov.au",
+            "phone": "(02) 6271 5917",
+            "importance": 3
+          }
+        ],
+        "children": [
+          {
+            "content_id": "54885",
+            "title": "Cabinet Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Pauline Sullivan",
+                "vacant": false,
+                "acting": false,
+                "email": "pauline.sullivan@pmc.gov.au",
+                "phone": "(02) 6228 6665",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "54887",
+                "title": "Cabinet Governance and National Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Branko Ananijevski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "branko.ananijevski@pmc.gov.au",
+                    "phone": "(02) 6271 5630",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54886",
+                "title": "Cabinet Secretariat",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Bridie Costigan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "bridie.costigan@pmc.gov.au",
+                    "phone": "(02) 6271 5475",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54888",
+                "title": "Strategy and Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kai Everist",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kai.everist@pmc.gov.au",
+                    "phone": "(02) 6271 5760",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2550",
+            "title": "Intergovernmental Relations and Reform Division",
+            "roles": [
+              {
+                "role": "Acting First Assistant Secretary",
+                "person": "Tim Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "tim.johnson@pmc.gov.au",
+                "phone": "(02) 6228 6673",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47476",
+                "title": "Care and Support and Aged Care",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Stephanie Rake",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephanie.rake@pmc.gov.au",
+                    "phone": "(02) 6271 6158",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2554",
+                "title": "Commonwealth State Relations Branch",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "James McLean Dreyfus",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "james.mcleandreyfus@pmc.gov.au",
+                    "phone": "(02) 6228 6405",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2555",
+                "title": "Health Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Russell De Burgh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "russell.deburgh@pmc.gov.au",
+                    "phone": "(02) 6228 6824",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "2645",
+            "title": "Social Policy Division",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Eliza Strapp",
+                "vacant": false,
+                "acting": false,
+                "email": "eliza.strapp@pmc.gov.au",
+                "phone": "(02) 6228 6355",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2561",
+                "title": "First Nations Policy Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kate Thomann",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "kate.thomann@pmc.gov.au",
+                    "phone": "(02) 6271 5417",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2558",
+                "title": "Human Services Branch",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Philippa Henty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "philippa.henty@pmc.gov.au",
+                    "phone": "(02) 6271 5594",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2559",
+                "title": "Immigration and Education Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Julia Chandra",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "julia.chandra@pmc.gov.au",
+                    "phone": "(02) 6271 5215",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

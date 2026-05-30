@@ -1,0 +1,89 @@
+{
+  "content_id": "249",
+  "title": "Great Barrier Reef Marine Park Authority",
+  "acronym": "GBRMPA",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.gbrmpa.gov.au",
+  "description": "Under the Great Barrier Reef Marine Park Act 1975, the Great Barrier Reef Marine Park Authority (the Authority) is responsible for managing one of the world's premier natural resources: <br />\n- the Great Barrier Reef Marine Park. <br />\n<br />\nThe Authority is governed by the Great Barrier Reef Marine Park Authority Board, which comprises a part-time Chairperson, the CEO, and five other part-time members. <br />\n<br />\nThe Board has responsibility for carrying out the Authority’s functions consistent with the main object of the Great Barrier Reef Marine Park Act 1975 - to ‘provide for the long term protection and conservation of the environment, biodiversity and heritage values of the Great Barrier Reef Region’.  The Authority's primary outcome is to ensure the long-term protection, ecologically sustainable use, understanding and enjoyment of the Great Barrier Reef for all Australians and the international community through the care and development of the Marine Park. <br />\n<br />\nThis outcome is supported by four main program areas:<br />\n•\tEnhancing Reef resilience by providing expert knowledge to advise key decision makers on managing, reducing or avoiding significant threats to the Reef<br />\n•\tEnhancing Reef resilience through innovation, management and regulation of the Marine Park and our in-field presence <br />\n•\tEnhancing Reef resilience through partnerships, collaboration and education <br />\n•\tSupporting a high-performing organisation.",
+  "dashboard_name": "Great Barrier Reef Marine Park Authority",
+  "people_count": 4,
+  "tree": {
+    "content_id": "249",
+    "title": "Great Barrier Reef Marine Park Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Joshua Thomas",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(07) 4750 0700",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1360",
+        "title": "Canberra Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2594",
+            "title": "Strategic Policy and Partnerships Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Margaret Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6191 6815",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1361",
+        "title": "Townsville Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2592",
+            "title": "Corporate Operations Branch",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Natalie Conner",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(07) 4750 0820",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "2593",
+            "title": "Reef Protection Branch",
+            "roles": [
+              {
+                "role": "A/g General Manager",
+                "person": "Richard Quincey",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(07) 4750 0804",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

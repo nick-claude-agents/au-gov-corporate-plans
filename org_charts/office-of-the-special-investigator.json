@@ -1,0 +1,26 @@
+{
+  "content_id": "108",
+  "title": "Office of the Special Investigator",
+  "acronym": "",
+  "portfolio": "Attorney-General's",
+  "website": "",
+  "description": "On 12 November 2020, the Prime Minister announced that a new investigative body - Office of the Special Investigator (OSI) - will be established to assess and examine the findings of the Inspector General of the Australian Defence Force (IGADF) Afghanistan Inquiry.",
+  "dashboard_name": "Office of the Special Investigator",
+  "people_count": 1,
+  "tree": {
+    "content_id": "108",
+    "title": "Office of the Special Investigator",
+    "roles": [
+      {
+        "role": "Director-General",
+        "person": "Chris Moraitis",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "38666",
+  "title": "Domestic, Family and Sexual Violence Commission",
+  "acronym": "",
+  "portfolio": "Social Services",
+  "website": "https://dfsvc.gov.au/",
+  "description": "The Domestic, Family and Sexual Violence Commission is a national body that aims to improve the coordination of policy and services so people experiencing domestic, family and sexual violence can access the support they need no matter where they live.",
+  "dashboard_name": "Domestic, Family and Sexual Violence Commission",
+  "people_count": 2,
+  "tree": {
+    "content_id": "38666",
+    "title": "Domestic, Family and Sexual Violence Commission",
+    "roles": [
+      {
+        "role": "Commissioner",
+        "person": "Micaela Cronin",
+        "vacant": false,
+        "acting": false,
+        "email": "corporate@dfsvc.gov.au",
+        "phone": "1300 152 963",
+        "importance": 1
+      },
+      {
+        "role": "Assistant Commissioner",
+        "person": "Jenna Roberts",
+        "vacant": false,
+        "acting": false,
+        "email": "corporate@dfsvc.gov.au",
+        "phone": "1300 152 963",
+        "importance": 2
+      }
+    ],
+    "children": []
+  }
+}

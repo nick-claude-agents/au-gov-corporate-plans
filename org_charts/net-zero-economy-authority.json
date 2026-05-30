@@ -1,0 +1,26 @@
+{
+  "content_id": "49565",
+  "title": "Net Zero Economy Authority",
+  "acronym": "",
+  "portfolio": "Industry, Science and Resources",
+  "website": "https://www.netzero.gov.au",
+  "description": "The Net Zero Economy Authority supports workers and communities impacted by Australia's transition to a net zero economy, promotes regional economic development, and advises government to ensure the transition is fair and effective.",
+  "dashboard_name": "Net Zero Economy Authority",
+  "people_count": 1,
+  "tree": {
+    "content_id": "49565",
+    "title": "Net Zero Economy Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "David Shankey",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": []
+  }
+}

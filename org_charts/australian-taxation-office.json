@@ -1,0 +1,2603 @@
+{
+  "content_id": "233",
+  "title": "Australian Taxation Office",
+  "acronym": "ATO",
+  "portfolio": "Treasury",
+  "website": "http://www.ato.gov.au",
+  "description": "The ATO is the government's principal revenue collection agency. The ATO's role is to effectively manage and shape the tax, excise and superannuation systems that support and fund services for Australians.  <br />\n<br />\nIts main responsibilities are:<br />\n<br />\n- main revenue collection agency of the Australian Government<br />\n- administrator of the goods and services tax (GST) on behalf of the Australian states and territories<br />\n- administrator of a range of programs which result in transfers and benefits back to the community<br />\n- administrator of major aspects of Australia's superannuation system<br />\n- custodian of the Australian Business Register (ABR).",
+  "dashboard_name": "Australian Taxation Office (ATO)",
+  "people_count": 258,
+  "tree": {
+    "content_id": "233",
+    "title": "Australian Taxation Office",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1507",
+        "title": "Australian Taxation Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1512",
+            "title": "ATO Executive",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Mark Sawade",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Second Commissioner Compliance & Engagement",
+                "person": "Jeremy Hirschhorn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Second Commissioner - Law Design and Practice",
+                "person": "Kirsten Fish",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Chief Operating Officer",
+                "person": "Jacqui Curtis",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Commissioner of Taxation",
+                "person": "Rob Heferen",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Assistant Commissioner",
+                "person": "Amy Fowlie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Second Commissioner - Frontline Operations",
+                "person": "David Allen",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1508",
+            "title": "Compliance & Engagement",
+            "roles": [
+              {
+                "role": "Second Commissioner Client Engagement",
+                "person": "Jeremy Hirschhorn",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1527",
+                "title": "Fraud and Criminal Behaviours",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "George Montanez",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kathryn Anderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "John Ford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jade Hawkins",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Simon Hellmers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Pennie Snowden",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Helen Wilson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1525",
+                "title": "Individuals and Intermediaries",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Grant Brodie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Emma Chamberlain",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Farisha Ali",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anita Challen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "David Mendoza",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sarah Vawser",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Robert Thomson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Julia Webb",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1526",
+                "title": "International, Support & Programs",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Keir Cornish",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Hector Thompson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jennifer Farley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Cathrine Purcell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anthony Siouclis",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "13 26 89",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Emma Tobias",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Melanie Casey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jonathan Todd",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Michelle Allen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Hayley Busuttil",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Tanya O'Callaghan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 26 89",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1524",
+                "title": "Private Wealth",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jeya Somasekaran",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jenny Lin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Amy James-Velagic",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Scott Walker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Karen Price",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kasey Macfarlane",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Louise Clarke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Adrian Zuccarini",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Glenn Cooper",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Deputy Commissioner",
+                    "person": "Justine Williams",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sarah Taylor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Jarred Needham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Adam O'Grady",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Deanna Sari",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Rebecca Fealy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Justine Williams",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Carolynne McQuay",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "David Hall",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kathryn Davy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1528",
+                "title": "Public Groups",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Jonathan Tang",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Stan Spasojevic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Rebecca Richards",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Deputy Commissioner",
+                    "person": "Michelle Sams",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jonathan Hill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Nadia Alfonsi",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Aaron Bennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "David Stevenson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Fiona Knight",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Bill Neskovski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Michael Ingersoll",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tim McCarthy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Ben Middleton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Megan Croaker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sarah Hassan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Suzanne Emery",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Stephen Dodshon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Adrian Preston-Loh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Stephanie Long",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Vy Tran",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Adam Pritchard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Aaron Bennett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 26 89",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1514",
+                "title": "Small Business",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anthony Siouclis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Eloise Moore",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Angela Allen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Ash Khera",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anthony Marvello",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tony Goding",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Rowan Fox",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Dan Ralph",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commission",
+                    "person": "Tony Poulakis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Daniel Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tom Wheeler",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1529",
+                "title": "Smarter Data Program",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "David Holtkamp",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Chris Kellahan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Andrew Watson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Ben Taylor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Mitzi McCarthy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Rowena Bew",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Peter Phillips",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1530",
+                "title": "Superannuation and Employer Obligations and Payday Super Program",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Karen Rooke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Phillip Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Justin Micale",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Ben Kelly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Trevor Schloss",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Peta Lonergan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tracie Crowden",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Alister Boyes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner Payday Super Program",
+                    "person": "Emma Rosenzweig",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Usha Narain",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Naomi Westwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1510",
+            "title": "Enterprise Solutions Technology",
+            "roles": [
+              {
+                "role": "Chief Information Officer & Chief Security Officer",
+                "person": "Mark Sawade",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1515",
+                "title": "Cyber Security & Service Management",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Joda Walter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Sebastian Hood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Alistair Kemp",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Dan Barron",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1517",
+                "title": "Digital Delivery",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Rachael Byrnes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Elissa Walker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Darren Lynch",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Claire Miller",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Fawaduddin Abro",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g ssistant Commissioner",
+                    "person": "Anu Duggirala",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2900",
+                "title": "Strategy and Architecture",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Katische Vinning",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Adam Condipodero",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Peter Walker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jimmy Tzimopoulos",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3795",
+                "title": "Super, Tax and Registry Services",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Narda Phillips",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anita Chaganti",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Christopher Rock",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Karen Blok",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Daniel Bamford",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3796",
+                "title": "User and Technology Services",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner & Chief Technology Officer",
+                    "person": "Michael Rowell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Paul Baker",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Elly Stinchcombe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Hosh Elavia",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1509",
+            "title": "Enterprise Strategy and Corporate Operations",
+            "roles": [
+              {
+                "role": "Chief Operating Officer",
+                "person": "Jacqui Curtis",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1531",
+                "title": "ATO Corporate",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Katherine Philp",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Bianca Armytage",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sean Beven",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Hayden Breen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Karen Foat",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jane Temby",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1532",
+                "title": "ATO Finance",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Adrian Jeczewski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Lorena Arpke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jamie Whitcombe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Payal Pandya",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Bronwyn Andrews",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Leanne Tunningley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Georgina Wade",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Janine Bristow",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Marcela Fontanarossa",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1533",
+                "title": "ATO People",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tim Silvers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Susan Moriarty",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Alison Stott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Scott Keane",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kristen Owen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Carol Rowe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Nardine McLoughlin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Melinda Bopping",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Damien Booth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53170",
+                "title": "Enterprise Risk, Change, Integration and Evaluation",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Marek Rucinski",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Karmin van Groesen",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Darryl McCarthy",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1516",
+                "title": "Enterprise Strategy and Design",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Brad Chapman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sheridan Harvey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Liam Page",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jennifer Moltisanti",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 26 89",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Mark Simpson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sylvia Gallagher",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "51344",
+                "title": "Integrity, Assurance & Law",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner & Chief General Counsel",
+                    "person": "Nicholas Shizas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Luke O'Connor",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Chief Internal Auditor",
+                    "person": "Damien Browne",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Joseph Fabbro",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1513",
+            "title": "Frontline Operations",
+            "roles": [
+              {
+                "role": "Second Commissioner",
+                "person": "David Allen",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "47651",
+                "title": "Frontline Business Improvement",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Nicole Dykstra",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Sally Bird",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jane Sansom",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sonia Corsini",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Bec Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1523",
+                "title": "Frontline Compliance",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Julian Roberts",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Christina Wong",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Paul Southwell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Marcus Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Marc Field",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1522",
+                "title": "Frontline Resource Management",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jacqui Marchment",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Belinda Darling",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Amy Horton",
+                    "vacant": false,
+                    "acting": true,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Catherine Losik",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3282",
+                "title": "Frontline Risk and Strategy",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Anna Longley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Martin Jacobs",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kelly Norwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Hayley Evans",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Natasha Sekulic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1521",
+                "title": "Frontline Services",
+                "roles": [
+                  {
+                    "role": "A/g Deputy Commissioner",
+                    "person": "Michael Morton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Gail Hopley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kylie White",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tara Pamula",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Steve Dardo",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1511",
+            "title": "Law Design and Practice",
+            "roles": [
+              {
+                "role": "Second Commissioner - Law Design and Practice",
+                "person": "Kirsten Fish",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              },
+              {
+                "role": "Assistant Commissioner",
+                "person": "Chris Gyetvay",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "13 28 69",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38628",
+                "title": "Litigation and Legal Services",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Rebecca Saint",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Ram Pandey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Faith Harako",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Cassandra Franklin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1519",
+                "title": "Objections and Review",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tim Rowe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tim Loh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Renae Ali",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Deputy Commissioner",
+                    "person": "Andrew Orme",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Richard Mold",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Daniel Nesci",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1518",
+                "title": "Policy, Analysis and Legislation (PAL)",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Matthew Bambrick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Ilana Millar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Paul Beohm",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Will Day",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Rhys Manley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Khanh Hoang",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Larissa Evans",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sandra Roussel",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jill Kitto",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "54153",
+                "title": "Regulatory Reform",
+                "roles": [
+                  {
+                    "role": "Deputy Commissioner",
+                    "person": "Hoa Wood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Nadia Alfonsi",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 26 89",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1520",
+                "title": "Tax Counsel Network",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Brett Zimmermann",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Trevor Jones",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Chief Tax Counsel",
+                    "person": "Peter Walmsley",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jason Heng",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anthony Bach",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Steve Koufomanolis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Deborah Boyd",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Jeya Somasekaran",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Anna-Maria Stephens",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Deborah Vegar",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Ben Doxonakis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Gordon Brysland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Robert Puckridge",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Simon Haines",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Chief Tax Counsel",
+                    "person": "Fiona Dillon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Lisa Clifton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Angela Jankovic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Nitin Gulati",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Danielle Ellershaw",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Faith Hughes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Menike Bandara",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Harjit Singh",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Chief Tax Counsel",
+                    "person": "Alex Affleck",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Laurren Pamenter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Justin Dearness",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Steele Broderick",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Angus Brackenreg",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Andrew McCrossin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Alex Vourgoutzis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Andrea Wood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Ivica Bolonja",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Andrew Werbik",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Louise Andolfatto",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Emily Webster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sarah Welch",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Marcus Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Melissa Spurge",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Gavin O'Shea",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Deputy Chief Tax Counsel",
+                    "person": "Rajitha Srikhanta",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Grahame Tanna",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "13 28 69",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1534",
+        "title": "Tax Practitioners Board",
+        "roles": [
+          {
+            "role": "Chair of the Tax Practitioners Board",
+            "person": "Peter de Cure",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "1300 362 829",
+            "importance": 999
+          },
+          {
+            "role": "Assistant Commissioner",
+            "person": "Janette Luu",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 28 69",
+            "importance": 999
+          },
+          {
+            "role": "Assistant Commissioner",
+            "person": "Peter Koit",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 28 69",
+            "importance": 999
+          },
+          {
+            "role": "Secretary",
+            "person": "Andrew Orme",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

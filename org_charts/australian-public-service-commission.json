@@ -1,0 +1,354 @@
+{
+  "content_id": "216",
+  "title": "Australian Public Service Commission",
+  "acronym": "APSC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.apsc.gov.au",
+  "description": "The Australian Public Service Commission (APSC) is a non-corporate Commonwealth entity within the Prime Minister and Cabinet portfolio.<br />\n<br />\nThe APSC's statutory responsibilities are detailed in the Public Service Act 1999 and include to:<br />\n-develop, promote, review and evaluate APS employment policies and practices<br />\n-facilitate continuous improvement in people management throughout the APS<br />\n-contribute to learning and development and career management<br />\n-contribute to and foster leadership in the APS<br />\n-provide advice and assistance on public service matters to entities<br />\n-promote high standards of integrity and conduct in the APS.<br />\n<br />\nThe APSC also provides resources to support the Merit Protection Commissioner.",
+  "dashboard_name": "Australian Public Service Commission (APSC)",
+  "people_count": 20,
+  "tree": {
+    "content_id": "216",
+    "title": "Australian Public Service Commission",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1574",
+        "title": "National Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "3799",
+            "title": "APS Craft & Learning",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Michelle Williamson",
+                "vacant": false,
+                "acting": false,
+                "email": "michelle.williamson@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "45067",
+            "title": "APS Reform",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Anna Ryan",
+                "vacant": false,
+                "acting": false,
+                "email": "anna.ryan@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "45052",
+            "title": "APS Strategy",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Louise Frezza",
+                "vacant": false,
+                "acting": false,
+                "email": "louise.frezza@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3273",
+            "title": "Diversity and Inclusion",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Steven Munns",
+                "vacant": false,
+                "acting": false,
+                "email": "steven.munns@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3272",
+            "title": "Enabling Services",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Tom Georgilas",
+                "vacant": false,
+                "acting": false,
+                "email": "tom.georgilas@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1578",
+            "title": "Executive",
+            "roles": [
+              {
+                "role": "Australian Public Service Commissioner",
+                "person": "Gordon de Brouwer",
+                "vacant": false,
+                "acting": false,
+                "email": "gordon.debrouwer@apsc.gov.au",
+                "phone": "(02) 6202 3501",
+                "importance": 1
+              },
+              {
+                "role": "Deputy Commissioner, Integrity, Performance and Reform",
+                "person": "Rachel Bacon",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Deputy Commissioner, Head of APS Academy and Capability",
+                "person": "Subho Banerjee",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6202 3540",
+                "importance": 3
+              },
+              {
+                "role": "First Assistant Commissioner  Workplace Reform and Diversity",
+                "person": "Jo Talbot",
+                "vacant": false,
+                "acting": false,
+                "email": "jo.talbot@apsc.gov.au",
+                "phone": "",
+                "importance": 4
+              },
+              {
+                "role": "First Assistant Commissioner  First Nations Systems Lead",
+                "person": "Sam Jeffries",
+                "vacant": false,
+                "acting": false,
+                "email": "sam.jeffries@apsc.gov.au",
+                "phone": "",
+                "importance": 5
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "45051",
+            "title": "General Counsel",
+            "roles": [
+              {
+                "role": "General  Counsel",
+                "person": "Melanie McIntyre",
+                "vacant": false,
+                "acting": false,
+                "email": "melanie.mcintyre@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1577",
+            "title": "Inquiries",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "1571",
+                "title": "Freedom of Information",
+                "roles": [],
+                "children": []
+              },
+              {
+                "content_id": "1572",
+                "title": "Media",
+                "roles": [],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "45050",
+            "title": "Integrity & ANAO",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Shyam Raghupathi",
+                "vacant": false,
+                "acting": false,
+                "email": "shyam.raghupathi@apsc.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1575",
+            "title": "Integrity, Performance and Employment Policy",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Kylie Barber",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3277",
+            "title": "International",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "35822",
+            "title": "Leadership & Talent Development",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Kate Boxsell",
+                "vacant": false,
+                "acting": false,
+                "email": "kate.boxsell@apsc.gov.au",
+                "phone": "02 6202 3757",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3485",
+            "title": "Office of the Merit Protection Commissioner",
+            "roles": [
+              {
+                "role": "Merit Protection Commissioner a/g",
+                "person": "Kirsteen Banwell",
+                "vacant": false,
+                "acting": false,
+                "email": "kirsteen.banwell@mpc.gov.au",
+                "phone": "02 8239 5356",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1573",
+            "title": "People Insights",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Nicole Steele",
+                "vacant": false,
+                "acting": false,
+                "email": "nicole.steele@apsc.gov.au",
+                "phone": "(02) 6202 3828",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3800",
+            "title": "Professions & Pathways",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Daniela Schlesier",
+                "vacant": false,
+                "acting": false,
+                "email": "daniela.schlesier@apsc.gov.au",
+                "phone": "6202 3544",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3275",
+            "title": "Workforce  Strategies",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Ashley Sedgwick",
+                "vacant": false,
+                "acting": false,
+                "email": "ashley.sedgwick@apsc.gov.au",
+                "phone": "02 6202 3795",
+                "importance": 1
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1576",
+            "title": "Workplace Relations",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "James O’Reilly",
+                "vacant": false,
+                "acting": false,
+                "email": "james.o'reilly@apsc.gov.au",
+                "phone": "(02) 6202 3703",
+                "importance": 1
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1580",
+        "title": "Regional offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1581",
+            "title": "New South Wales",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1579",
+        "title": "Remuneration Tribunal Secretariat",
+        "roles": [
+          {
+            "role": "Secretary to the Tribunal",
+            "person": "Matthew Bowd",
+            "vacant": false,
+            "acting": false,
+            "email": "matthew.bowd@apsc.gov.au",
+            "phone": "(02) 6202 3930",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

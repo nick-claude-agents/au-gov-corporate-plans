@@ -1,0 +1,26 @@
+{
+  "content_id": "138",
+  "title": "National Portrait Gallery of Australia",
+  "acronym": "NPG",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.portrait.gov.au",
+  "description": "The purpose of the National Portrait Gallery of Australia is to develop, preserve, maintain, promote and provide access to a national collection consisting of portraits that reflect the identity, history, diversity and culture of Australia.  The Gallery develops and engages a national audience and uses every endeavour to make the most advantageous use of the national collection in the national interest.",
+  "dashboard_name": "National Portrait Gallery of Australia",
+  "people_count": 1,
+  "tree": {
+    "content_id": "138",
+    "title": "National Portrait Gallery of Australia",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Bree Pickering",
+        "vacant": false,
+        "acting": false,
+        "email": "bree.pickering@npg.gov.au",
+        "phone": "(02) 6102 7000",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

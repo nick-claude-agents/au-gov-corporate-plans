@@ -1,0 +1,26 @@
+{
+  "content_id": "232",
+  "title": "Australian Reinsurance Pool Corporation",
+  "acronym": "ARPC",
+  "portfolio": "Treasury",
+  "website": "http://www.arpc.gov.au",
+  "description": "The Australian Reinsurance Pool Corporation administers 2 reinsurance schemes for the Australian Government.<br />\n<br />\nThe terrorism reinsurance scheme reinsures commercial property and includes associated business interruption and public liability losses arising from a declared terrorist incident.<br />\n<br />\nThe cyclone and related flood damage reinsurance scheme reinsures household, strata and small business property and includes associated business interruption losses arising from a declared cyclone event.",
+  "dashboard_name": "Australian Reinsurance Pool Corporation",
+  "people_count": 1,
+  "tree": {
+    "content_id": "232",
+    "title": "Australian Reinsurance Pool Corporation",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Chris Wallace",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

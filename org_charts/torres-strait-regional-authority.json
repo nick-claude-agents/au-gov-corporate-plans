@@ -1,0 +1,35 @@
+{
+  "content_id": "226",
+  "title": "Torres Strait Regional Authority",
+  "acronym": "TSRA",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.tsra.gov.au",
+  "description": "The Torres Strait Regional Authority (TSRA) has the responsibility to:<br />\n<br />\n- Formulate, coordinate and implement programs for Torres Strait Islander and Aboriginal people living within the region; <br />\n- Monitor the effectiveness of these programs, including programs conducted by other bodies; <br />\n- Advise the Minister for Indigenous Affairs on matters relating to Torres Strait Islander and Aboriginal Affairs in the Torres Strait; <br />\n- Recognise and maintain the special and unique Ailan Kastom of the Torres Strait Islander people living in the Torres Strait Region; and <br />\n- Undertake activities necessary to perform its function as defined by the ATSI Act 2005.",
+  "dashboard_name": "Torres Strait Regional Authority",
+  "people_count": 2,
+  "tree": {
+    "content_id": "226",
+    "title": "Torres Strait Regional Authority",
+    "roles": [
+      {
+        "role": "Chairperson",
+        "person": "George Nona",
+        "vacant": false,
+        "acting": false,
+        "email": "gnona.portkennedy@board.tsra.gov.au",
+        "phone": "(07) 4069 0700",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Charlie Kaddy",
+        "vacant": false,
+        "acting": false,
+        "email": "charlie.kaddy@tsra.gov.au",
+        "phone": "07 4069 0700",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

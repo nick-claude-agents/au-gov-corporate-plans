@@ -1,0 +1,211 @@
+{
+  "content_id": "275",
+  "title": "Australian Renewable Energy Agency",
+  "acronym": "",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://arena.gov.au/",
+  "description": "The Australian Renewable Energy Agency (ARENA) was established by the Australian Government on 1 July 2012.<br />\n<br />\nARENA supports the global transition to net zero emissions by accelerating the pace of pre-commercial innovation, to the benefit of Australian consumers, businesses, and workers. ARENA's purpose is to support improvements in the competitiveness and supply of renewable energy and the uptake of energy efficiency and electrification by providing financial assistance and sharing knowledge, to accelerate innovation that benefits all Australians, and facilitates the achievement of Australia’s greenhouse gas emissions targets.",
+  "dashboard_name": "Australian Renewable Energy Agency",
+  "people_count": 16,
+  "tree": {
+    "content_id": "275",
+    "title": "Australian Renewable Energy Agency",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Darren Miller",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "Chief Financial Officer",
+        "person": "Paul Jenkin",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 2
+      },
+      {
+        "role": "Chief Investment Officer",
+        "person": "Zoe von Batenburg",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Chris Faris",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 4
+      },
+      {
+        "role": "General Manager, Corporate Affairs",
+        "person": "Amanda Sheat",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 5
+      },
+      {
+        "role": "General Manager, People and Culture",
+        "person": "Giorgina Strangio",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 6
+      },
+      {
+        "role": "A/g General Manager, Project Delivery",
+        "person": "Lyndon Collyer",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 7
+      },
+      {
+        "role": "General Manager, Strategy",
+        "person": "Dhruv Vishrani",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 8
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Darren Miller",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3136",
+        "title": "Chief Financial Officer",
+        "roles": [
+          {
+            "role": "Chief Financial Officer",
+            "person": "Paul Jenkin",
+            "vacant": false,
+            "acting": false,
+            "email": "paul.jenkin@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "48483",
+        "title": "Chief Investment Officer",
+        "roles": [
+          {
+            "role": "Chief Investment Officer",
+            "person": "Zoe von Batenburg",
+            "vacant": false,
+            "acting": false,
+            "email": "zoe.vonbatenburg@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3132",
+        "title": "Chief Operating Officer",
+        "roles": [
+          {
+            "role": "Chief Operating Officer",
+            "person": "Chris Faris",
+            "vacant": false,
+            "acting": false,
+            "email": "chris.faris@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "48486",
+        "title": "Corporate Affairs",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Amanda Sheat",
+            "vacant": false,
+            "acting": false,
+            "email": "amanda.sheat@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "48488",
+        "title": "People and Culture",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Giorgina Strangio",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3137",
+        "title": "Project Delivery",
+        "roles": [
+          {
+            "role": "A/g General Manager",
+            "person": "Lyndon Collyer",
+            "vacant": false,
+            "acting": false,
+            "email": "lyndon.collyer@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "48487",
+        "title": "Strategy",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Dhruv Vishrani",
+            "vacant": false,
+            "acting": false,
+            "email": "dhruv.vishrani@arena.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

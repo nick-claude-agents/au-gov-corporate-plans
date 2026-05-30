@@ -1,0 +1,26 @@
+{
+  "content_id": "164",
+  "title": "Coal Mining Industry (Long Service Leave Funding) Corporation",
+  "acronym": "CMILSLFC",
+  "portfolio": "Employment and Workplace Relations",
+  "website": "https://www.coallsl.com.au/",
+  "description": "Established by the Coal Mining Industry (Long Service Leave) Administration Act 1992, the Coal Mining Industry (Long Service Leave Funding) Corporation known as Coal LSL is responsible for the Coal Mining Industry Long Service Leave Fund.  Coal LSL facilitate payment of long service leave entitlements to persons employed in the Australian black coal mining industry.",
+  "dashboard_name": "Coal Mining Industry (Long Service Leave Funding) Corporation",
+  "people_count": 1,
+  "tree": {
+    "content_id": "164",
+    "title": "Coal Mining Industry (Long Service Leave Funding) Corporation",
+    "roles": [
+      {
+        "role": "CEO",
+        "person": "Darlene Perks",
+        "vacant": false,
+        "acting": false,
+        "email": "darlene.perks@coallsl.com.au",
+        "phone": "(02) 4040 0099",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

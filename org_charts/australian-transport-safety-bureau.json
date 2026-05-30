@@ -1,0 +1,61 @@
+{
+  "content_id": "202",
+  "title": "Australian Transport Safety Bureau",
+  "acronym": "ATSB",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.atsb.gov.au",
+  "description": "The Australian Transport Safety Bureau (ATSB) is Australia's national transport safety investigator. The ATSB's function is to improve transport safety by investigating and reporting on aviation, maritime and rail safety matters.",
+  "dashboard_name": "Australian Transport Safety Bureau",
+  "people_count": 2,
+  "tree": {
+    "content_id": "202",
+    "title": "Australian Transport Safety Bureau",
+    "roles": [
+      {
+        "role": "Chief Operating Officer",
+        "person": "Colin McNamara",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "CEO/Chief Commissioner, Australian Transport Safety Bureau",
+        "person": "Angus Mitchell",
+        "vacant": false,
+        "acting": false,
+        "email": "angus.mitchell@atsb.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2306",
+        "title": "State offices - ATSB",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "2310",
+            "title": "Adelaide",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2307",
+            "title": "Brisbane",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "2308",
+            "title": "Perth",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

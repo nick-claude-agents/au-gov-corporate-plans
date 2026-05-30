@@ -1,0 +1,656 @@
+{
+  "content_id": "174",
+  "title": "Australian Electoral Commission",
+  "acronym": "AEC",
+  "portfolio": "Finance",
+  "website": "http://aec.gov.au",
+  "description": "The role of the Australian Electoral Commission is to deliver the franchise: that is, an Australian citizen's right to vote, as established by the Commonwealth Electoral Act 1918.",
+  "dashboard_name": "Australian Electoral Commission (AEC)",
+  "people_count": 46,
+  "tree": {
+    "content_id": "174",
+    "title": "Australian Electoral Commission",
+    "roles": [
+      {
+        "role": "Electoral Commissioner",
+        "person": "Jeff Pope",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6271 4411",
+        "importance": 1
+      },
+      {
+        "role": "Acting Deputy Electoral Commissioner (National Election Manager)",
+        "person": "Kath Gleeson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6271 4411",
+        "importance": 2
+      },
+      {
+        "role": "Chairperson",
+        "person": "Susan Kenny",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Non-judicial member Australian Electoral Commission",
+        "person": "David Gruen",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 4
+      }
+    ],
+    "children": [
+      {
+        "content_id": "50324",
+        "title": "Deputy Electoral Commissioner Group",
+        "roles": [
+          {
+            "role": "Acting Deputy Electoral Commissioner (National Election Manager)",
+            "person": "Kath Gleeson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "42498",
+            "title": "Communication, Education and Engagement Branch",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Cathie Kennedy",
+                "vacant": false,
+                "acting": false,
+                "email": "cathie.kennedy@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50326",
+        "title": "Electoral Integrity and Operations Group",
+        "roles": [
+          {
+            "role": "First Assistant Commissioner and National Incident Manager, Electoral Integrity and Operational Group",
+            "person": "Michael Lynch",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.lynch@aec.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "35568",
+            "title": "Electoral Integrity and Media Branch",
+            "roles": [
+              {
+                "role": "A/g Assistant Commissioner",
+                "person": "Stuart Oreo",
+                "vacant": false,
+                "acting": false,
+                "email": "stuart.oreo@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1600",
+            "title": "State Operations",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "2201",
+                "title": "Australian Capital Territory and New South Wales (ACT/NSW)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager Australian Capital Territory and New South Wales (ACT/NSW)",
+                    "person": "Rebecca Main",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.nsw@aec.gov.au",
+                    "phone": "(02) 9375 6333",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1601",
+                "title": "Northern Territory (NT)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager Queensland and Northern Territory (QLD/NT)",
+                    "person": "Stephanie Attard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stephanie.attard@aec.gov.au",
+                    "phone": "(07) 3159 3654",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1602",
+                "title": "Queensland (QLD)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager Queensland (QLD)",
+                    "person": "Stephanie Attard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.qld@aec.gov.au",
+                    "phone": "(07) 3159 3669",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1596",
+                "title": "South Australia (SA)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager South Australia (SA)",
+                    "person": "Cameron Stokes",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.sa@aec.gov.au",
+                    "phone": "(08) 8237 6540",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1597",
+                "title": "Tasmania (TAS)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager Tasmania (TAS)",
+                    "person": "Hannah Brown",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.vic@aec.gov.au",
+                    "phone": "(03) 6235 0502",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1598",
+                "title": "Victoria (VIC)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer and State Manager Victoria (VIC)",
+                    "person": "Nye Coffey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.vic@aec.gov.au",
+                    "phone": "(03) 9285 7171",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1599",
+                "title": "Western Australia (WA)",
+                "roles": [
+                  {
+                    "role": "Australian Electoral Officer, Western Australia and State Manager, Northern Territory and Western Australia (NT/WA)",
+                    "person": "Anita Ratcliffe",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "aeo.wa@aec.gov.au",
+                    "phone": "(08) 6185 3301",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "50328",
+        "title": "Enabling and Regulation Group",
+        "roles": [
+          {
+            "role": "First Assistant Commissioner, Enabling and Regulation Group",
+            "person": "Rachael Spalding",
+            "vacant": false,
+            "acting": false,
+            "email": "rachael.spalding@aec.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3240",
+            "title": "Disclosure, Party Registration and Redistribution Branch",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Joanne Reid",
+                "vacant": false,
+                "acting": false,
+                "email": "joanne.reid2@aec.gov.au",
+                "phone": "(02) 5133 9937",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3234",
+            "title": "Finance and Corporate Performance Branch",
+            "roles": [
+              {
+                "role": "Chief Finance Officer",
+                "person": "Sally So",
+                "vacant": false,
+                "acting": false,
+                "email": "sally.so@aec.gov.au",
+                "phone": "(02) 6271 4643",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3239",
+            "title": "Legal Services Branch",
+            "roles": [
+              {
+                "role": "Chief Legal Officer",
+                "person": "Andrew Johnson",
+                "vacant": false,
+                "acting": false,
+                "email": "andrew.johnson@aec.gov.au",
+                "phone": "(02) 6271 4759",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3237",
+            "title": "People Branch",
+            "roles": [
+              {
+                "role": "Chief People Officer",
+                "person": "Vidya Vasudevan",
+                "vacant": false,
+                "acting": false,
+                "email": "vidya.vasudevan@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "50327",
+        "title": "Enterprise Transformation Group",
+        "roles": [
+          {
+            "role": "First Assistant Commissioner and Senior Responsible Officer, Indigo Program, Organisational Transformation Group",
+            "person": "Thomas Ryan",
+            "vacant": false,
+            "acting": false,
+            "email": "thomas.ryan@aec.gov.au",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "50329",
+            "title": "Chief Information Officer Division",
+            "roles": [
+              {
+                "role": "First Assistant Commissioner, Chief Information Officer Division",
+                "person": "Tania Wilson",
+                "vacant": false,
+                "acting": false,
+                "email": "tania.wilson@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42502",
+                "title": "Chief Technology Officer Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Toby Randell-Sly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "toby.randell-sly@aec.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42503",
+                "title": "Enterprise Digital Delivery Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Kylie Boland",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42504",
+                "title": "Indigo Delivery Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Stewart Kerr",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "stewart.kerr@aec.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "50330",
+            "title": "Enterprise Strategy and Transformation Division",
+            "roles": [
+              {
+                "role": "A/g First Assistant Commissioner, Enterprise Strategy and Transformation Division",
+                "person": "Karen Redhead",
+                "vacant": false,
+                "acting": false,
+                "email": "karen.redhead@aec.gov.au",
+                "phone": "02 5137 2861",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42507",
+                "title": "Enterprise Transformation Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Michael Van Belkom",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.vanbelkom@aec.gov.au",
+                    "phone": "02 5137 2541",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42506",
+                "title": "Indigo Product and Design Branch",
+                "roles": [
+                  {
+                    "role": "A/g Assistant Commissioner",
+                    "person": "Doug Wickham",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "42505",
+                "title": "Indigo Program Management Office Branch",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Con Sfyris",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "con.sfyris@aec.gov.au",
+                    "phone": "02 5137 2920",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1595",
+        "title": "Executive Leadership Team",
+        "roles": [
+          {
+            "role": "Electoral Commissioner",
+            "person": "Jeff Pope",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 1
+          },
+          {
+            "role": "Acting Deputy Electoral Commissioner (National Election Manager)",
+            "person": "Kath Gleeson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 2
+          },
+          {
+            "role": "Chief Operating Officer",
+            "person": "Rachel Houghton",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 3
+          },
+          {
+            "role": "Acting First Assistant Commissioner, Service Delivery Division",
+            "person": "Melanie Hinde",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 6
+          },
+          {
+            "role": "First Assistant Commissioner and National Incident Manager, Electoral Integrity and Operational Group",
+            "person": "Michael Lynch",
+            "vacant": false,
+            "acting": false,
+            "email": "michael.lynch@aec.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "First Assistant Commissioner and Senior Responsible Officer, Indigo Program, Organisational Transformation Group",
+            "person": "Thomas Ryan",
+            "vacant": false,
+            "acting": false,
+            "email": "thomas.ryan@aec.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "First Assistant Commissioner, Enabling and Regulation Group",
+            "person": "Rachael Spalding",
+            "vacant": false,
+            "acting": false,
+            "email": "rachael.spalding@aec.gov.au",
+            "phone": "",
+            "importance": 11
+          },
+          {
+            "role": "Personal Assistant to the Electoral Commissioner",
+            "person": "Kristen Wild",
+            "vacant": false,
+            "acting": false,
+            "email": "kristen.wild@aec.gov.au",
+            "phone": "",
+            "importance": 12
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Amanda Axiak",
+            "vacant": false,
+            "acting": false,
+            "email": "amanda.axiak@aec.gov.au",
+            "phone": "",
+            "importance": 13
+          },
+          {
+            "role": "Acting Executive Assistant to the Deputy Electoral Commissioner",
+            "person": "Rhianon Doecke",
+            "vacant": false,
+            "acting": false,
+            "email": "rhianon.doecke@aec.gov.au",
+            "phone": "",
+            "importance": 14
+          },
+          {
+            "role": "A/g Executive Officer to the Deputy Electoral Commissioner",
+            "person": "Anastasia Batten",
+            "vacant": false,
+            "acting": false,
+            "email": "anastasia.batten@aec.gov.au",
+            "phone": "",
+            "importance": 15
+          },
+          {
+            "role": "Executive Assistant to Chief Operating Officer",
+            "person": "Bec Silva",
+            "vacant": false,
+            "acting": false,
+            "email": "bec.silva@aec.gov.au",
+            "phone": "",
+            "importance": 17
+          },
+          {
+            "role": "A/g Executive Officer to the Chief Operating Officer",
+            "person": "Alex Famelis",
+            "vacant": false,
+            "acting": false,
+            "email": "alex.famelis@aec.gov.au",
+            "phone": "",
+            "importance": 18
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "50325",
+        "title": "Service Delivery Group",
+        "roles": [
+          {
+            "role": "First Assistant Commissioner, Service Delivery Division",
+            "person": "Angus Kirkwood",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3236",
+            "title": "Delivery and Support Branch",
+            "roles": [
+              {
+                "role": "Assistant Commissioner, Delivery and Support Branch",
+                "person": "Natasha Scandrett",
+                "vacant": false,
+                "acting": false,
+                "email": "natasha.scandrett@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "35570",
+            "title": "Event Workforce, Workplace and Supply Chain Branch",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Melanie Hinde",
+                "vacant": false,
+                "acting": false,
+                "email": "melanie.hinde@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3235",
+            "title": "Roll, Service and Foundations Branch",
+            "roles": [
+              {
+                "role": "Assistant Commissioner",
+                "person": "Jessica Fraser",
+                "vacant": false,
+                "acting": false,
+                "email": "jessica.fraser@aec.gov.au",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

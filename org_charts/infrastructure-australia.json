@@ -1,0 +1,26 @@
+{
+  "content_id": "277",
+  "title": "Infrastructure Australia",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.infrastructureaustralia.gov.au",
+  "description": "Infrastructure Australia (IA) is the Australian Government’s independent adviser on nationally significant infrastructure investment planning and project prioritisation. IA’s main functions are to:<br />\n•\tconduct audits to determine the adequacy, capacity and condition of nationally significant infrastructure<br />\n•\tconduct or endorse evaluations of infrastructure proposals<br />\n•\tdevelop Infrastructure Priority Lists and Infrastructure Plans<br />\n•\tprovide advice on infrastructure matters<br />\n<br />\nIn accordance with amendments to the Infrastructure Australia Act 2008 that came into effect on 1 September 2014 and on 15 April 2024, IA is a statutory agency administered by 3 commissioners who are responsible for deciding the objectives, strategies and policies to be followed by IA, and for ensuring the proper, efficient and effective performance of IA’s functions.",
+  "dashboard_name": "Infrastructure Australia",
+  "people_count": 1,
+  "tree": {
+    "content_id": "277",
+    "title": "Infrastructure Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Adam Copp",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

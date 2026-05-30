@@ -1,0 +1,62 @@
+{
+  "content_id": "127",
+  "title": "Office of Parliamentary Counsel",
+  "acronym": "OPC",
+  "portfolio": "Attorney-General's",
+  "website": "http://www.opc.gov.au",
+  "description": "Office of Parliamentary Counsel (OPC) is the Commonwealth's principal provider of professional legislative drafting and publishing services. OPC delivers timely, high quality drafting and advisory services for Bills, legislative instruments and other instruments, prepares compilations of laws as amended and publishes legislation and government notices on behalf of more than 70 agencies. OPC also provides comprehensive, free access to Commonwealth legislation and related material through the ComLaw website.",
+  "dashboard_name": "Office of Parliamentary Counsel",
+  "people_count": 5,
+  "tree": {
+    "content_id": "127",
+    "title": "Office of Parliamentary Counsel",
+    "roles": [
+      {
+        "role": "First Parliamentary Counsel",
+        "person": "Meredith Leigh",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6120 1421",
+        "importance": 1
+      },
+      {
+        "role": "Second Parliamentary Counsel",
+        "person": "Bronwyn Livermore",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6120 1422",
+        "importance": 2
+      },
+      {
+        "role": "General Manager Corporate Services",
+        "person": "Stephen Campbell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6120 1409",
+        "importance": 4
+      },
+      {
+        "role": "General Manager Publications",
+        "person": "Aasha Swift",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6120 1340",
+        "importance": 5
+      },
+      {
+        "role": "Second Parliamentary Counsel",
+        "person": "Rebecca Considine",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 6120 1428",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

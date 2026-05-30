@@ -1,0 +1,65 @@
+{
+  "content_id": "234",
+  "title": "Commonwealth Grants Commission",
+  "acronym": "CGC",
+  "portfolio": "Treasury",
+  "website": "http://www.cgc.gov.au",
+  "description": "The Commonwealth Grants Commission recommends how the revenues raised from the Goods and Services Tax (GST) should be distributed to the States and Territories to achieve horizontal fiscal equalisation (HFE).<br />\n<br />\nIt is an independent statutory body which responds to terms of reference sent to it by the Commonwealth Treasurer. It makes its recommendations in consultation with the States and Territories and based on data provided by them and independent statistical sources.",
+  "dashboard_name": "Commonwealth Grants Commission",
+  "people_count": 3,
+  "tree": {
+    "content_id": "234",
+    "title": "Commonwealth Grants Commission",
+    "roles": [
+      {
+        "role": "Secretary",
+        "person": "Nathan Williamson",
+        "vacant": false,
+        "acting": false,
+        "email": "nathan.williamson@cgc.gov.au",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "1535",
+        "title": "Branch A",
+        "roles": [
+          {
+            "role": "Assistant Secretary",
+            "person": "Therese Maher",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1536",
+        "title": "Branch B",
+        "roles": [
+          {
+            "role": "Assistant Secretary",
+            "person": "Rose Verspaandonk",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "02 6218 5700",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1537",
+        "title": "General Enquiries",
+        "roles": [],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,3744 @@
+{
+  "content_id": "252",
+  "title": "Department of Home Affairs",
+  "acronym": "HA",
+  "portfolio": "Home Affairs",
+  "website": "http://www.homeaffairs.gov.au/",
+  "description": "The Department of Home Affairs, led by Secretary Stephanie Foster PSM, remains responsible for immigration and customs border policy, and the following functions: <br />\n<br />\n•National security and law enforcement policy<br />\n•Emergency management, including crisis management and disaster recovery<br />\n•Countering terrorism policy and coordination <br />\n•Cyber security policy and coordination<br />\n•Countering foreign interference <br />\n•Critical infrastructure protection<br />\n•Multicultural affairs<br />\n•Countering violent extremism programs<br />\n•Transport Security",
+  "dashboard_name": "Department of Home Affairs",
+  "people_count": 231,
+  "tree": {
+    "content_id": "252",
+    "title": "Department of Home Affairs",
+    "roles": [
+      {
+        "role": "Secretary",
+        "person": "Stephanie Foster",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6264 1111",
+        "importance": 2
+      },
+      {
+        "role": "Commissioner, Australian Border Force",
+        "person": "Gavan Reynolds",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6264 1111",
+        "importance": 3
+      }
+    ],
+    "children": [
+      {
+        "content_id": "2980",
+        "title": "Australian Border Force",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "46249",
+            "title": "Illicit Tobacco & E-Cigarette Commissioner",
+            "roles": [
+              {
+                "role": "Commissioner",
+                "person": "Amber Shuhyta",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "46905",
+                "title": "Governance, Strategy and Reporting",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Alex O'Rourke",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "39944",
+            "title": "National Operations Group",
+            "roles": [
+              {
+                "role": "Deputy Commissioner",
+                "person": "Tim Fitzgerald",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39979",
+                "title": "Customs Compliance & Enforcement",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Tony Smith",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46901",
+                    "title": "ABOC",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Nerida Byrne",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39981",
+                    "title": "Customs & Trade Compliance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sarah Marshall",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46899",
+                    "title": "Customs Enforcement",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Graeme Campbell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46934",
+                    "title": "Illicit Tobacco & Vape Enforcement",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Greg Dowse",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "39989",
+                "title": "Maritime Border Command & Operation Sovereign Borders",
+                "roles": [
+                  {
+                    "role": "Commander",
+                    "person": "Brett Sonter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "39990",
+                    "title": "Chief of Operations",
+                    "roles": [
+                      {
+                        "role": "Commodore",
+                        "person": "Troy Van Tienhoven",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39991",
+                    "title": "JATF OSB",
+                    "roles": [
+                      {
+                        "role": "Deputy Commander",
+                        "person": "Natasha O'Farrell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39992",
+                    "title": "MBC",
+                    "roles": [
+                      {
+                        "role": "Deputy Commander",
+                        "person": "Linda Cappello",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "46898",
+                "title": "Targeting & Intelligence Operations",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Kylie Rendina",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "52731",
+                    "title": "ABF Intelligence",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Claudine Cross",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46900",
+                    "title": "International Operations",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Claire Rees",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39983",
+                    "title": "Targeting",
+                    "roles": [
+                      {
+                        "role": "Acting Commander",
+                        "person": "Laura Uttley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "42281",
+            "title": "Office of the Commissioner",
+            "roles": [
+              {
+                "role": "Commissioner",
+                "person": "Gavan Reynolds",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 1
+              },
+              {
+                "role": "Chief of Staff",
+                "person": "Lidia Ellenberg",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Venesa Jovanova",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "39943",
+            "title": "Regional Operations Group",
+            "roles": [
+              {
+                "role": "Deputy Commissioner",
+                "person": "Vanessa Holben",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "39970",
+                "title": "East",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "James Copeman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "39971",
+                    "title": "Operations QLD",
+                    "roles": [
+                      {
+                        "role": "Acting Commander",
+                        "person": "Troy Sokolof",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39975",
+                    "title": "Trade NSW",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Kari Ellis",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39974",
+                    "title": "Travel NSW",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Rosemaree Cracknell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "46894",
+                "title": "Immigration Detention",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Sarah Nicolson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46897",
+                    "title": "Detention Contracts, Policy & Assurance",
+                    "roles": [
+                      {
+                        "role": "Acting Commander",
+                        "person": "Fernando Bahamondes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46895",
+                    "title": "Detention Operations",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Budhy Tanddo",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "39967",
+                "title": "South & West",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Chris Waters",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "50361",
+                    "title": "Operations SA/NT",
+                    "roles": [
+                      {
+                        "role": "Acting Commander",
+                        "person": "Alex Kelsall",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39977",
+                    "title": "Operations VIC/TAS",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Clint Sims",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39972",
+                    "title": "Operations WA",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Ranjeev Maharaj",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "39942",
+            "title": "Strategy & Capability Group",
+            "roles": [
+              {
+                "role": "Deputy Commissioner",
+                "person": "Jarrod Howard",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "44930",
+                "title": "Civil Maritime Capability",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Nicole Spencer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "52488",
+                    "title": "Civil Marine Deployments & Support",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Chris Holzheimer",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46885",
+                    "title": "Civil Maritime Capability, Acquisitions & Transition",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Kimberlee Clydesdale",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46884",
+                    "title": "Civil Maritime Strategy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Alicia Dennis",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46248",
+                    "title": "Civil Maritime Sustainment",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Jeffie Kaine",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "46893",
+                "title": "Operational Capability",
+                "roles": [
+                  {
+                    "role": "Assistant Commissioner",
+                    "person": "Penelope Spies",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46890",
+                    "title": "ABF College",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Claire Halim",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46887",
+                    "title": "Border Capability Delivery",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Belinda Conn",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46888",
+                    "title": "Operational Practices",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Jason Regan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46891",
+                    "title": "Support Capability",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Mitch Surawski",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46889",
+                    "title": "Tactical Support to Operations",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Ken McKern",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "46878",
+                "title": "Strategy & Border Modernisation",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Tharanie Vithanage",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46881",
+                    "title": "Customs & Trade Frameworks",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Mel Catania",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46883",
+                    "title": "Customs & Trade Modernisation",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Aaron O'Neill",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46879",
+                    "title": "Governance, Risk & Strategic Partnerships",
+                    "roles": [
+                      {
+                        "role": "Commander",
+                        "person": "Ben Evans",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46880",
+                    "title": "Strategy, Capability & Investment",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Andrew Tankey",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "46882",
+                    "title": "Traveller Frameworks & Modernisation",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Don Jordan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "42409",
+        "title": "Australian Border Force Executive",
+        "roles": [
+          {
+            "role": "Deputy Commissioner Strategy and Capability",
+            "person": "Jarrod Howard",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Commissioner Regional Operations",
+            "person": "Vanessa Holben",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Commissioner National Operations",
+            "person": "Tim Fitzgerald",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 4
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3759",
+        "title": "Department of Home Affairs Executive",
+        "roles": [
+          {
+            "role": "National Cyber Security Coordinator",
+            "person": "Michelle McGuinness",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 1
+          },
+          {
+            "role": "Deputy Secretary Legal / General Counsel",
+            "person": "Brooke Hartigan",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 2
+          },
+          {
+            "role": "Deputy Secretary Technology, Data and AI",
+            "person": "TBA .",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary Chief Operating Officer / Chief Security Officer",
+            "person": "Charlotte Tressler",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 4
+          },
+          {
+            "role": "Head of National Security",
+            "person": "Hamish Hansford",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary Law Enforcement & Domestic Security",
+            "person": "Ciara Spencer",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 6
+          },
+          {
+            "role": "Deputy Secretary Critical Infrastructure & Protective Security",
+            "person": "Brendan Dowling",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "Head of Immigration",
+            "person": "Clare Sharp",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 8
+          },
+          {
+            "role": "Deputy Secretary Immigration Programs",
+            "person": "Michael Willard",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 9
+          },
+          {
+            "role": "Group Manager Immigration Compliance",
+            "person": "Michael Thomas",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6264 1111",
+            "importance": 10
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1163",
+        "title": "National Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1776",
+            "title": "Chief Operating Officer Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary / Chief Operating Officer",
+                "person": "Charlotte Tressler",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "3692",
+                "title": "Business Enabling Services",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary / Chief Procurement Officer",
+                    "person": "Stephanie Cargill",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "50370",
+                    "title": "Client Engagement and Support",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sandro Diaz",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3698",
+                    "title": "Procurement and Contract Support",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Caroline Hatswell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3699",
+                    "title": "Property",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Peter Neil",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1178",
+                    "title": "Security",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Rheannon Nicholson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3697",
+                    "title": "Specialist Procurement",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Maree O'Neale",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2721",
+                "title": "Chief Medical Officer",
+                "roles": [
+                  {
+                    "role": "Chief Medical Officer",
+                    "person": "Grant Pegg",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "50375",
+                    "title": "Deputy Chief Medical Officer",
+                    "roles": [
+                      {
+                        "role": "Deputy Chief Medical Officer",
+                        "person": "Claire Behm",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1191",
+                    "title": "Health Policy and Assurance",
+                    "roles": [
+                      {
+                        "role": "Senior Director",
+                        "person": "Lila Caplice",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "39343",
+                "title": "Executive Coordination",
+                "roles": [
+                  {
+                    "role": "Acting First Assistant Secretary / Chief Risk Officer / Chief Sustainability Officer",
+                    "person": "Pete Berlis",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1194",
+                    "title": "Audit and Assurance",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Alison Sommerville",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41458",
+                    "title": "Media and Communication",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Heike Phillips",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3702",
+                    "title": "Ministerial and Parliamentary",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Alice Ling",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3703",
+                    "title": "Performance, Governance and Inquiries",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Naomi Leask",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "3690",
+                "title": "Finance",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary / Chief Finance Officer",
+                    "person": "Andrew Harvey",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1169",
+                    "title": "External Budgets & Revenue",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Romesh Guneratne",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1168",
+                    "title": "Financial Operations",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Tracy Hobden",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1188",
+                    "title": "Management Accounting",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Greg Mitchell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "1167",
+                "title": "People",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Tiffany Blight",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "43736",
+                    "title": "Health, Safety and Wellbeing",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Amanda Johnston",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1195",
+                    "title": "Integrity and Professional Standards",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Patrick Hallinan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1170",
+                    "title": "Payroll and Conditions",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Allan Hollink",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1193",
+                    "title": "People Engagement, Planning and Innovation",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Rebecca Buchanan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1192",
+                    "title": "Recruitment, Diversity and Learning",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Anna Pearce",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "3562",
+            "title": "Immigration",
+            "roles": [
+              {
+                "role": "Head of Immigration",
+                "person": "Clare Sharp",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2734",
+                "title": "Immigration Compliance",
+                "roles": [
+                  {
+                    "role": "Deputy Secretary",
+                    "person": "Michael Thomas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "46322",
+                    "title": "Character, Cancellation and Case Resolution",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Chloe Bird",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "2735",
+                        "title": "Character and Cancellations",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Jodi Stubbs",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1775",
+                        "title": "Complex Case Management and Support Programs",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Nerys Jones",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2738",
+                        "title": "General Cancellation and Compliance Governance",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Michelle Graham",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2737",
+                        "title": "Status Resolution Network",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Nigel Muir",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2736",
+                        "title": "Status Resolution Programs and Capability",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "David Arnold",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "43749",
+                    "title": "Immigration Compliance Operations",
+                    "roles": [
+                      {
+                        "role": "Assistant Commissioner",
+                        "person": "Sandra Jeffrey",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "46340",
+                        "title": "Community Protection",
+                        "roles": [
+                          {
+                            "role": "Commander",
+                            "person": "Jake Sharman",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "46343",
+                        "title": "Field Operations and Sponsor Monitoring",
+                        "roles": [
+                          {
+                            "role": "Commander",
+                            "person": "John Taylor",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "39342",
+                        "title": "OMARA",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Emily Winch",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "46342",
+                        "title": "Operation AEGIS",
+                        "roles": [
+                          {
+                            "role": "Commander",
+                            "person": "Sally McAuliffe",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "46344",
+                        "title": "Removal Operations",
+                        "roles": [
+                          {
+                            "role": "Chief Superintendent",
+                            "person": "Vaughan Baxter",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2731",
+                    "title": "Immigration Compliance Policy and Intelligence",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Michael Burke",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "42614",
+                        "title": "Compliance and Migration Assistance Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Karen Elsom",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "50387",
+                        "title": "Immigration Compliance Intelligence",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Jeff Carige",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1172",
+                        "title": "Status Resolution and Community Protection Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Zoe Moses",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "52121",
+                    "title": "Offshore Programs and International Cooperation",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Ben Biddington",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "41937",
+                        "title": "Immigration International Cooperation",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Brendan Tegg",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2955",
+                        "title": "Offshore Program Enabling",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Peter Manwaring",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "43748",
+                        "title": "Offshore Program Operations and Strategy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Shan Strugnell",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": "41921",
+                "title": "Immigration Programs",
+                "roles": [
+                  {
+                    "role": "Deputy Secretary",
+                    "person": "Michael Willard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "52112",
+                    "title": "Citizenship, Humanitarian, Family Visa Programs and Support",
+                    "roles": [
+                      {
+                        "role": "Acting First Assistant Secretary",
+                        "person": "Damien Kilner",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "2724",
+                        "title": "Citizenship Program Delivery",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Drew Layton",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2729",
+                        "title": "Family and Offshore Humanitarian Delivery",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Alison Garrod",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2954",
+                        "title": "Immigration Operations and Performance",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Steph McManus",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1176",
+                        "title": "Onshore Protection",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Jill Ogden",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "3721",
+                        "title": "Service Delivery Operations",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Matthew Wardell",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "49415",
+                        "title": "Specialist Identity Services",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Heath McMahon",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "2739",
+                    "title": "Migration, Citizenship & Humanitarian Policy",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Andrew Kiley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "2741",
+                        "title": "Citizenship and Humanitarian Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Michael Peterer",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "52745",
+                        "title": "Immigration Analysis Centre",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Christian Vallence",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2732",
+                        "title": "Immigration Planning and Family Visa Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Paul Denman",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "52122",
+                        "title": "Skilled and Temporary Visas Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Karin Maier",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "1762",
+                    "title": "Office for Multicultural Affairs",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Sneha Chatterjee",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "2740",
+                        "title": "Migrant English and Language Services",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Ali Mond",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "39316",
+                        "title": "Multicultural Policy and Engagement",
+                        "roles": [
+                          {
+                            "role": "Acting Assistant Secretary",
+                            "person": "Georgina Castle",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1769",
+                        "title": "Regional Director NSW / ACT",
+                        "roles": [
+                          {
+                            "role": "Acting Regional Director",
+                            "person": "Hasan Sowaid",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1770",
+                        "title": "Regional Director QLD / NT",
+                        "roles": [
+                          {
+                            "role": "Regional Director",
+                            "person": "Charlie Shandil",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2727",
+                        "title": "Regional Director SA / WA",
+                        "roles": [
+                          {
+                            "role": "Acting Regional Director",
+                            "person": "Jennelle Horsford",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2725",
+                        "title": "Regional Director VIC / TAS",
+                        "roles": [
+                          {
+                            "role": "Regional Director",
+                            "person": "Mel Kay",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1177",
+                        "title": "Settlement",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Zoe Williams",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "49417",
+                        "title": "Special Envoy Support and Multicultural Grants",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Malcolm McAllister",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "52113",
+                    "title": "Skilled and Temporary Visa and Capability",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Tiali Goodchild",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "2723",
+                        "title": "Immigration Engagement, Pacific and Major Events",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Brett White",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2733",
+                        "title": "Immigration Risk, Integrity and Assurance",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Michael Odgers",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "(02) 6264 1111",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "3723",
+                        "title": "Immigration Systems and Business Capabilities",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Joe Feld",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2728",
+                        "title": "Skilled Visas",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Anne Leo",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "2953",
+                        "title": "Temporary Visas",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Matthew Noble",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "36182",
+                        "title": "Visa Support Centre",
+                        "roles": [
+                          {
+                            "role": "Senior Director",
+                            "person": "Alice Maclean",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": "46948",
+                "title": "Office for Social Cohesion",
+                "roles": [
+                  {
+                    "role": "Head",
+                    "person": "Mark Groote",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 5
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3708",
+                "title": "Regional Director Americas",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Chris Gower",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3709",
+                "title": "Regional Director Europe and Sub Saharan Africa",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Mary Balzary",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3711",
+                "title": "Regional Director Mekong",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Jodie Bjerregaard",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3714",
+                "title": "Regional Director Middle East and North Africa",
+                "roles": [
+                  {
+                    "role": "Acting Regional Director",
+                    "person": "Michelle Pearce",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3712",
+                "title": "Regional Director North Asia",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Robert O'Farrell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "immigration.beijing@dfat.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3713",
+                "title": "Regional Director Pacific",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Jim Anderson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3716",
+                "title": "Regional Director South Asia",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Steve Biddle",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "immigration.india@dfat.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "3715",
+                "title": "Regional Director South East Asia",
+                "roles": [
+                  {
+                    "role": "Regional Director",
+                    "person": "Lauren Richardson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "immigration.jakarta@dfat.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "3558",
+            "title": "Legal Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary / General Counsel",
+                "person": "Brooke Hartigan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53167",
+                "title": "Civil, Employment & Community Safety",
+                "roles": [
+                  {
+                    "role": "Acting Assistant Secretary",
+                    "person": "Josefina Wellings Booth",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2475",
+                "title": "Legal Strategy & Services",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary / Deputy General Counsel",
+                    "person": "Alicia Wright",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2469",
+                "title": "Legislation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Kevin Cunnington",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2472",
+                "title": "Migration and Citizenship Litigation",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Peter Frank",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "2470",
+                "title": "Migration, Citizenship & International Law",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Julia Paton",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 1
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1175",
+                "title": "Privacy, FOI and Records Management",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Carmen Saunders",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "39328",
+                "title": "Security, Operations & Commercial Law",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Steve Webber",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2468",
+                    "title": "Commercial and Information Law",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Bronwyn Fagan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39329",
+                    "title": "Security, Customs & Operations Law",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Ali Schaefer",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2474",
+                "title": "Special Counsel",
+                "roles": [
+                  {
+                    "role": "Special Counsel",
+                    "person": "Genevieve Ebbeck",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "43731",
+            "title": "National Cyber Security Coordinator",
+            "roles": [
+              {
+                "role": "National Cyber Security Coordinator",
+                "person": "Michelle McGuinness",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "41164",
+                "title": "National Office of Cyber Security",
+                "roles": [
+                  {
+                    "role": "Deputy Coordinator/First Assistant Secretary",
+                    "person": "Angus Kirkwood",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41166",
+                    "title": "Cyber Security Preparedness & Response",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Matt Wong",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "52110",
+            "title": "National Security",
+            "roles": [
+              {
+                "role": "Head of National Security",
+                "person": "Hamish Hansford",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1777",
+                "title": "Critical Infrastructure and Protective Security",
+                "roles": [
+                  {
+                    "role": "Deputy Secretary Critical Infrastructure and Protective Security",
+                    "person": "Brendan Dowling",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 2
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3570",
+                    "title": "Critical Infrastructure Security Centre",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "3592",
+                        "title": "Critical Infrastructure Partnerships and Policy",
+                        "roles": [
+                          {
+                            "role": "First Assistant Secretary",
+                            "person": "Sally Pfeiffer",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": [
+                          {
+                            "content_id": "3596",
+                            "title": "Aviation Security Policy",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Matthew Pedler",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3593",
+                            "title": "Critical Infrastructure Security Policy",
+                            "roles": [
+                              {
+                                "role": "Acting Assistant Secretary",
+                                "person": "Sophie Bazzana",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3595",
+                            "title": "Screening and Maritime Security Policy",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Rebecca Carpenter",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "41165",
+                            "title": "Systems of National Significance",
+                            "roles": [
+                              {
+                                "role": "Senior Director",
+                                "person": "Whitney Harris",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "content_id": "52139",
+                        "title": "Critical Infrastructure, Risk and Regulation",
+                        "roles": [
+                          {
+                            "role": "Acting First Assistant Secretary",
+                            "person": "Tim Neal",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": [
+                          {
+                            "content_id": "3591",
+                            "title": "AusCheck",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Joe Smith",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3571",
+                            "title": "Critical Infrastructure Regulatory Operations and Analysis",
+                            "roles": [
+                              {
+                                "role": "Acting Assistant Secretary",
+                                "person": "Eloise Clare",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3590",
+                            "title": "Regulatory Compliance",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Richard Farmer",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3589",
+                            "title": "Risk Assessment",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Sophie Pearce",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "content_id": "52740",
+                        "title": "Resilience and Protective Security",
+                        "roles": [
+                          {
+                            "role": "First Assistant Secretary",
+                            "person": "Philip Kimpton",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": [
+                          {
+                            "content_id": "52744",
+                            "title": "National Resilience",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Charlotte Krass",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "52741",
+                            "title": "Protective Security Coordination Centre",
+                            "roles": [],
+                            "children": [
+                              {
+                                "content_id": "52742",
+                                "title": "Commonwealth Security Policy",
+                                "roles": [
+                                  {
+                                    "role": "Acting Assistant Secretary",
+                                    "person": "Nishant Rao",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              },
+                              {
+                                "content_id": "53169",
+                                "title": "National Protection Model Development",
+                                "roles": [
+                                  {
+                                    "role": "Assistant Secretary",
+                                    "person": "Victoria Pescott",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              },
+                              {
+                                "content_id": "52743",
+                                "title": "Protective Security",
+                                "roles": [
+                                  {
+                                    "role": "Assistant Secretary",
+                                    "person": "Mark Whitechurch",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "52148",
+                    "title": "Resilience and Protective Security",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Philip Kimpton",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 1
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "39320",
+                        "title": "National Resilience",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Charlotte Krass",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "52150",
+                        "title": "Protection Security Coordination Centre",
+                        "roles": [],
+                        "children": [
+                          {
+                            "content_id": "41177",
+                            "title": "Commonwealth Security Policy",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Tim Neal",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "52151",
+                            "title": "Protective Security",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Mark Whitechurch",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": "3563",
+                "title": "Law Enforcement and Domestic Security",
+                "roles": [
+                  {
+                    "role": "Deputy Secretary Law Enforcement & Domestic Security",
+                    "person": "Ciara Spencer",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3555",
+                    "title": "Counter Foreign Interference, Cyber and Technology",
+                    "roles": [
+                      {
+                        "role": "Acting First Assistant Secretary",
+                        "person": "Ashley Bell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "52132",
+                        "title": "Counter Foreign Interference Coordination Centre",
+                        "roles": [],
+                        "children": [
+                          {
+                            "content_id": "3557",
+                            "title": "CFI Partnerships",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Tim Roy",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3556",
+                            "title": "CFI Policy",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "David Chick",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          }
+                        ]
+                      },
+                      {
+                        "content_id": "3581",
+                        "title": "Cyber Policy and Programs",
+                        "roles": [
+                          {
+                            "role": "Acting Assistant Secretary",
+                            "person": "Michelle Rueckert",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "3584",
+                        "title": "Technology Security Policy",
+                        "roles": [
+                          {
+                            "role": "Acting Assistant Secretary",
+                            "person": "Joshua Lickiss",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "52133",
+                    "title": "Counter Terrorism Policy and Violent Extremism",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Sara Vrh",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "1166",
+                        "title": "Counter-Terrorism Coordination Centre",
+                        "roles": [],
+                        "children": [
+                          {
+                            "content_id": "1174",
+                            "title": "Capability",
+                            "roles": [
+                              {
+                                "role": "Acting Assistant Secretary",
+                                "person": "Jennifer McIntyre",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1768",
+                            "title": "Counter Terrorism",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Colette Hull",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "(02) 6264 1111",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "3554",
+                            "title": "Counter Violent Extremism",
+                            "roles": [
+                              {
+                                "role": "Assistant Secretary",
+                                "person": "Alexander Goldie",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "(02) 6264 1111",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "content_id": "52736",
+                    "title": "Criminal Justice",
+                    "roles": [
+                      {
+                        "role": "First Assistant Secretary",
+                        "person": "Andrew Warnes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": [
+                      {
+                        "content_id": "52739",
+                        "title": "Intelligence and Surveillance Policy",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Parker Reeve",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "52737",
+                        "title": "Law Enforcement Policy",
+                        "roles": [
+                          {
+                            "role": "Acting Assistant Secretary",
+                            "person": "Amy Dyde",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      },
+                      {
+                        "content_id": "52738",
+                        "title": "Transnational Crime",
+                        "roles": [
+                          {
+                            "role": "Assistant Secretary",
+                            "person": "Alex Engel",
+                            "vacant": false,
+                            "acting": false,
+                            "email": "",
+                            "phone": "",
+                            "importance": 999
+                          }
+                        ],
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": "3704",
+                "title": "Strategic Policy",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "James Robinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1189",
+                    "title": "Asia",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Elizabeth White",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "53939",
+                    "title": "Economics & Analysis",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Justin Douglas",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3706",
+                    "title": "Global and Multilateral",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Jade Donney",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3707",
+                    "title": "Intelligence Policy and Coordination",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Craig Bickell",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "48703",
+                    "title": "Strategy",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Jason Flanagan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "42222",
+            "title": "Secretary's Office",
+            "roles": [
+              {
+                "role": "Secretary",
+                "person": "Stephanie Foster",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant to Secretary",
+                "person": "Emma Fooks",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6264 1111",
+                "importance": 2
+              },
+              {
+                "role": "Chief of Staff",
+                "person": "Tim Neal",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "02 6264 1111",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53898",
+            "title": "Taskforce to support Royal Commission on  Antisemitism and Social Cohesion",
+            "roles": [
+              {
+                "role": "First Assistant Secretary",
+                "person": "Tony Chapman",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "53901",
+                "title": "Australian Border Force",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Jeffie Kaine",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53902",
+                "title": "COO",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Stephen Heskett",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53899",
+                "title": "Immigration",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Lavinia Mitchell",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53903",
+                "title": "Legal",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Zoe Scanlon",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "53900",
+                "title": "National Security",
+                "roles": [
+                  {
+                    "role": "Assistant Secretary",
+                    "person": "Britt Ryan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "53897",
+            "title": "Technology, Data and AI",
+            "roles": [],
+            "children": [
+              {
+                "content_id": "3567",
+                "title": "Data and Economic Analysis Centre",
+                "roles": [
+                  {
+                    "role": "Acting First Assistant Secretary / Chief Data Officer",
+                    "person": "Justin Douglas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "52732",
+                    "title": "Data Science and Applied Artificial Intelligence",
+                    "roles": [
+                      {
+                        "role": "Senior Director",
+                        "person": "Rohan Samaraweera",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1187",
+                    "title": "Data Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Yvonne Solecka",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2354",
+                    "title": "Economic, Policy and Insights Centre",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Andrew Birch",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "52277",
+                "title": "Digital Delivery Services",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary / Chief Information Officer",
+                    "person": "Matt Hay",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1181",
+                    "title": "Corporate and Case Systems",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Jennifer Bardsley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3739",
+                    "title": "Digital Delivery",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Stephen Dryden",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1183",
+                    "title": "Traveller, Cargo and Trade Systems",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Matthew Jones",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1184",
+                    "title": "Visa, Citizenship and Digital Systems",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Jennifer Thwaites",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2465",
+                "title": "Enterprise Technology Services",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary / Chief Technology Officer and Chief Information Security Officer",
+                    "person": "Jakub Bartkowiak",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6264 1111",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1165",
+                    "title": "Cyber Risk Services",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sean Hugo",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "39326",
+                    "title": "IT Service Management",
+                    "roles": [
+                      {
+                        "role": "Senior Director",
+                        "person": "Kerry McKinnon",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3742",
+                    "title": "Operational Capability",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Duane Stokes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1180",
+                    "title": "Technology Operations and Support",
+                    "roles": [
+                      {
+                        "role": "Acting Assistant Secretary",
+                        "person": "Sean Fenotti",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "52276",
+                "title": "Strategy, Digital and Data",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary / Chief Digital Officer",
+                    "person": "Radi Kovacevic",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "1179",
+                    "title": "Architecture, Design and Security",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Simon Cooper",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "1171",
+                    "title": "Risk, Data and Insight Systems",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Tom Bryan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3741",
+                    "title": "Sourcing and Vendor Management",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Rebecca Giumelli",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "(02) 6264 1111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1197",
+        "title": "Overseas Representation",
+        "roles": [],
+        "children": []
+      },
+      {
+        "content_id": "1196",
+        "title": "State and Territory Offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1779",
+            "title": "NEW SOUTH WALES / AUSTRALIAN CAPITAL TERRITORY",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1780",
+            "title": "NORTH",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1781",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1782",
+            "title": "VICTORIA/TASMANIA",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1778",
+            "title": "WEST",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

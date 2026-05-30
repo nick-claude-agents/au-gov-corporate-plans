@@ -1,0 +1,26 @@
+{
+  "content_id": "264",
+  "title": "Bundanon Trust",
+  "acronym": "BT",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.bundanon.com.au/",
+  "description": "Gifted to the Australian people in 1993 by Arthur and Yvonne Boyd the Bundanon property is located on 1,100 hectares of land overlooking the Shoalhaven River, near Nowra in New South Wales, two and a half hours south of Sydney. The site includes the heritage-listed Boyd family homestead, and Arthur Boyd’s art studio. The Art Museum hosts a changing program of art exhibitions, and provides collection storage. The Bridge for Creative Learning has teaching spaces for arts and environment programs, and offers accommodation. The Australian Government established Bundanon Trust as a wholly owned Australian Government company limited by guarantee, with the Company holding the gift as a charitable trust. Bundanon Trust has been supported by the Australian Government since 1993. The Trust is also supported by a range of other public and private sources.",
+  "dashboard_name": "Bundanon Trust",
+  "people_count": 1,
+  "tree": {
+    "content_id": "264",
+    "title": "Bundanon Trust",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Rachel Kent",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 4422 2100",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

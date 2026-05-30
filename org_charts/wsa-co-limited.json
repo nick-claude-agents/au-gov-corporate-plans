@@ -1,0 +1,26 @@
+{
+  "content_id": "248",
+  "title": "WSA Co Limited",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.wsiairport.com.au",
+  "description": "WSA Co Limited (WSA) was established by the Australian Government to develop and operate Western Sydney International (Nancy-Bird Walton) Airport (the Airport). The Airport is expected to commence operations in 2026.<br />\n<br />\nIn delivering the Airport, WSA's objectives are to:<br />\n- improve access to aviation services in Western Sydney<br />\n- resolve the long-term aviation capacity issue in the Sydney basin<br />\n- maximise the value of the Airport as a national asset<br />\n- optimise the benefits of the Airport for employment and investment in Western Sydney<br />\n- effectively integrate with new and existing initiatives in the Western Sydney area<br />\n- operate on commercially sound principles",
+  "dashboard_name": "WSA Co Limited",
+  "people_count": 1,
+  "tree": {
+    "content_id": "248",
+    "title": "WSA Co Limited",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Simon Hickey",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

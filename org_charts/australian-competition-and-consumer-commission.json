@@ -1,0 +1,527 @@
+{
+  "content_id": "230",
+  "title": "Australian Competition and Consumer Commission",
+  "acronym": "ACCC",
+  "portfolio": "Treasury",
+  "website": "http://www.accc.gov.au",
+  "description": "The Australian Competition and Consumer Commission (ACCC) is an independent Commonwealth statutory authority whose role is to enforce the Competition and Consumer Act 2010 and a range of additional legislation, promoting competition, fair trading and regulating national infrastructure for the benefit of all Australians.",
+  "dashboard_name": "Australian Competition and Consumer Commission (ACCC)",
+  "people_count": 37,
+  "tree": {
+    "content_id": "230",
+    "title": "Australian Competition and Consumer Commission",
+    "roles": [
+      {
+        "role": "Chair and Agency Head",
+        "person": "Gina Cass-Gottlieb",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6243 1111",
+        "importance": 1
+      },
+      {
+        "role": "Executive Assistant to the Chair",
+        "person": "Kim Beauchamp",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "0262431131",
+        "importance": 999
+      },
+      {
+        "role": "Executive Assistant to the Chief Executive Officer",
+        "person": "Janene Grant",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Sarah Proudfoot",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3266",
+        "title": "Competition Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Melinda Mcdonald",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6243 1111",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3267",
+        "title": "Consumer & Fair Trading Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Rami Greiss",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6243 1111",
+            "importance": 6
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1451",
+        "title": "Consumer Data Right",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Lauren White",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3268",
+        "title": "Consumer Product Safety Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Madeline Richardson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3270",
+        "title": "Corporate Division",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1717",
+            "title": "Executive & Governance Office",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Lisa Anne Ayres",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1453",
+            "title": "Finance",
+            "roles": [
+              {
+                "role": "Chief Finance Officer",
+                "person": "Sharon Alley",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6243 1111",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1454",
+            "title": "Information Management & Technology Services",
+            "roles": [
+              {
+                "role": "Chief Information Officer",
+                "person": "Sarah Polhill",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6243 1111",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1452",
+            "title": "People",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Gina Dolan",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 6243 1111",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1455",
+            "title": "Strategic Communications",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Ruth Williams",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "3271",
+        "title": "Digital Identity Program",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Richard Home",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6243 1111",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3264",
+        "title": "Infrastructure Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Nicole Ross",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6243 1111",
+            "importance": 7
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3265",
+        "title": "Mergers, Exemptions & Assessment Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Tom Leuner",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "51864",
+        "title": "Scams Prevention & Digital Markets Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Kathie Standen",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "3269",
+        "title": "Specialist Advice & Services Division",
+        "roles": [
+          {
+            "role": "Executive General Manager",
+            "person": "Clare O'Reilly",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "(02) 6243 1111",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "1456",
+        "title": "State offices",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1459",
+            "title": "NEW SOUTH WALES",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Leah Won",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(02) 9230 9133",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1716",
+            "title": "NORTHERN TERRITORY",
+            "roles": [
+              {
+                "role": "Assistant Director",
+                "person": "Chris Martin",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1458",
+            "title": "QUEENSLAND",
+            "roles": [
+              {
+                "role": "Executive General Manager",
+                "person": "Melinda Mcdonald",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "(07) 3835 4666",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "1461",
+                "title": "BRISBANE",
+                "roles": [
+                  {
+                    "role": "Executive General Manager",
+                    "person": "Melinda Mcdonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "General Manager",
+                    "person": "Daniel Ramos",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "General Manager",
+                    "person": "Stephanie Jolly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "1460",
+                "title": "TOWNSVILLE",
+                "roles": [
+                  {
+                    "role": "Regional Director Townsville",
+                    "person": "Michael Dowers",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(07) 4729 2600",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Assistant Director",
+                    "person": "Brooke Hogan",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1457",
+            "title": "SOUTH AUSTRALIA",
+            "roles": [
+              {
+                "role": "General Manager South Australia Enforcement",
+                "person": "Adam Jarvis",
+                "vacant": false,
+                "acting": false,
+                "email": "adam.jarvis@accc.gov.au",
+                "phone": "(08) 93250610",
+                "importance": 999
+              },
+              {
+                "role": "Assistant Director",
+                "person": "Simone Tyson",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Senior Lawyer",
+                "person": "Timothy Cross",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1462",
+            "title": "TASMANIA",
+            "roles": [
+              {
+                "role": "Assistant Director",
+                "person": "Andrew Hunt",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Senior Investigator",
+                "person": "Samuel Karpinskyi",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1715",
+            "title": "VICTORIA",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Heidi Snell",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Executive General Manager",
+                "person": "Tom Leuner",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "General Manager",
+                "person": "Lyn Camilleri",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "General Manager",
+                "person": "Mark Feather",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              },
+              {
+                "role": "Director",
+                "person": "Stewart McKenchie",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3215",
+            "title": "WESTERN AUSTRALIA",
+            "roles": [
+              {
+                "role": "General Manager Western Australia Enforcement",
+                "person": "Adam Jarvis",
+                "vacant": false,
+                "acting": false,
+                "email": "adam.jarvis@accc.gov.au",
+                "phone": "(08) 93250610",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

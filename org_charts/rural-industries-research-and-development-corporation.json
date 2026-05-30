@@ -1,0 +1,116 @@
+{
+  "content_id": "114",
+  "title": "Rural Industries Research and Development Corporation (trading as AgriFutures Australia)",
+  "acronym": "RIRDC",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "website": "https://agrifutures.com.au/",
+  "description": "Unique role among the RDCs - as well as representing our 13 levied industries, responsible for:<br />\n<br />\n• Investing in RD&E which drives the growth and development of emerging, high-potential industries such as sesame, industrial hemp and seaweed.<br />\n<br />\n• Delivering programs that respond to the workforce and leadership needs of the Australian agricultural sector.<br />\n<br />\n• Delivering programs that future-proof Australian rural industries by identifying and responding to national challenges and opportunities impacting the Australian agricultural sector.<br />\n<br />\n• Engaging with the global agrifood innovation system to ensure Australia is a leader in accessing, adopting, developing and exporting agrifood technologies and innovation.",
+  "dashboard_name": null,
+  "people_count": 7,
+  "tree": {
+    "content_id": "114",
+    "title": "Rural Industries Research and Development Corporation (trading as AgriFutures Australia)",
+    "roles": [
+      {
+        "role": "Managing Director",
+        "person": "John Harvey",
+        "vacant": false,
+        "acting": false,
+        "email": "john.harvey@agrifutures.com.au",
+        "phone": "0419 274 917",
+        "importance": 1
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Belinda Allitt",
+        "vacant": false,
+        "acting": false,
+        "email": "belinda.allitt@agrifutures.com.au",
+        "phone": "0418 558 982",
+        "importance": 2
+      }
+    ],
+    "children": [
+      {
+        "content_id": "49818",
+        "title": "Corporate",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Louise Heaslip",
+            "vacant": false,
+            "acting": false,
+            "email": "louise.heaslip@agrifutures.com.au",
+            "phone": "0497 154 300",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49820",
+        "title": "Global Innovation Networks",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Harriet Mellish",
+            "vacant": false,
+            "acting": false,
+            "email": "harriet.mellish@agrifutures.com.au",
+            "phone": "0417 389 106",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49819",
+        "title": "Levied & Emerging Industries",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Samantha Beresford",
+            "vacant": false,
+            "acting": false,
+            "email": "samantha.beresford@agrifutures.com.au",
+            "phone": "02 6923 6900",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49821",
+        "title": "Rural Futures",
+        "roles": [
+          {
+            "role": "General Manager",
+            "person": "Simon Vincent",
+            "vacant": false,
+            "acting": false,
+            "email": "simon.vincent@agrifutures.com.au",
+            "phone": "0417 247 186",
+            "importance": 999
+          }
+        ],
+        "children": []
+      },
+      {
+        "content_id": "49822",
+        "title": "Workforce, Communications and Adoption",
+        "roles": [
+          {
+            "role": "A/g General Manager",
+            "person": "Jennifer Galloway",
+            "vacant": false,
+            "acting": false,
+            "email": "jennifer.galloway@agrifutures.com.au",
+            "phone": "0436 326 386",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

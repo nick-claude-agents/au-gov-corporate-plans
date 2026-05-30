@@ -1,0 +1,44 @@
+{
+  "content_id": "122",
+  "title": "Australian Institute of Criminology",
+  "acronym": "AIC",
+  "portfolio": "Home Affairs",
+  "website": "https://www.aic.gov.au/",
+  "description": "The Australian Institute of Criminology (AIC) is Australia’s national research and knowledge centre on crime and justice. The AIC informs crime and justice policy and practice in Australia by undertaking, funding and disseminating policy-relevant research of national significance<br />\n<br />\nThe AIC is part of the Home Affairs Portfolio. <br />\n<br />\nA Criminology Research Advisory Council comprised of representatives from each jurisdiction, advises the AIC on strategic research priorities and on projects supported through the Criminology Research Fund. <br />\n<br />\nThe AIC works with stakeholders both nationally and internationally to bring together a research knowledge base that is both qualitative and quantitative in nature. The AIC relies on data provided by the Commonwealth and state and territory governments in order to undertake a large range of its research activities. Stakeholders include: <br />\n<br />\n• the Australian Government - national law enforcement agencies, regulatory agencies, and justice agencies <br />\n• States and Territories - state and territory law enforcement agencies, regulatory agencies, and justice and corrections agencies <br />\n• International Agencies - the AIC is a member of the United Nations Crime Prevention and Criminal Justice Programme Network of Institutes <br />\n• Others - academia, non-government organisations, general public. <br />\n<br />\nThe AIC works closely with the Australian Criminal Intelligence Commission (ACIC). The Chief Executive Officer of the ACIC is also the Director of the AIC, and although an independent entity, AIC staff are employed by the ACIC and seconded to the ACIC.",
+  "dashboard_name": "Australian Institute of Criminology (AIC)",
+  "people_count": 3,
+  "tree": {
+    "content_id": "122",
+    "title": "Australian Institute of Criminology",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Heather Cook",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 1
+      },
+      {
+        "role": "Executive Assistant to the Director",
+        "person": "Alisha Abbot",
+        "vacant": false,
+        "acting": false,
+        "email": "officeoftheceo@acic.gov.au",
+        "phone": "(02) 6260 9200",
+        "importance": 2
+      },
+      {
+        "role": "Deputy Director",
+        "person": "Rick Brown",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 6260 9200",
+        "importance": 3
+      }
+    ],
+    "children": []
+  }
+}

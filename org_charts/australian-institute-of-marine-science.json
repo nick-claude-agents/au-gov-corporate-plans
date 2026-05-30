@@ -1,0 +1,143 @@
+{
+  "content_id": "196",
+  "title": "Australian Institute of Marine Science",
+  "acronym": "AIMS",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "website": "http://www.aims.gov.au/",
+  "description": "The Australian Institute of Marine Science (AIMS), Australia's tropical marine research agency, is recognised internationally for its leadership in research into tropical marine environments and their living aquatic resources. Its mission is to provide the research and knowledge of Australia's tropical marine estate required to support growth in its sustainable use, effective environmental management and protection of its unique ecosystems.",
+  "dashboard_name": "Australian Institute of Marine Science (AIMS)",
+  "people_count": 14,
+  "tree": {
+    "content_id": "196",
+    "title": "Australian Institute of Marine Science",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Selina Stead",
+        "vacant": false,
+        "acting": false,
+        "email": "s.stead@aims.gov.au",
+        "phone": "(07) 4753 4490",
+        "importance": 1
+      },
+      {
+        "role": "Executive Director, Strategic Development",
+        "person": "David Mead",
+        "vacant": false,
+        "acting": false,
+        "email": "d.mead@aims.gov.au",
+        "phone": "(07) 4753 4212",
+        "importance": 2
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Richard Brinkman",
+        "vacant": false,
+        "acting": false,
+        "email": "r.brinkman@aims.gov.au",
+        "phone": "07 4753 4374",
+        "importance": 2
+      },
+      {
+        "role": "Chief Finance Officer and Corporate Services Manager",
+        "person": "Basil Ahyick",
+        "vacant": false,
+        "acting": false,
+        "email": "b.ahylick@aims.gov.au",
+        "phone": "(07) 4753 4261",
+        "importance": 3
+      },
+      {
+        "role": "Director, Data Science and Research Services",
+        "person": "Kameron Christopher",
+        "vacant": false,
+        "acting": false,
+        "email": "k.christopher@aims.gov.au",
+        "phone": "",
+        "importance": 3
+      },
+      {
+        "role": "Research Program Director, Reef Ecology and Monitoring",
+        "person": "David Wachenfeld",
+        "vacant": false,
+        "acting": false,
+        "email": "d.wachenfeld@aims.gov.au",
+        "phone": "07 4753 4444",
+        "importance": 4
+      },
+      {
+        "role": "Research Program Director, Reef Recovery, Adaptation and Restoration",
+        "person": "Line Bay",
+        "vacant": false,
+        "acting": false,
+        "email": "l.bay@aims.gov.au",
+        "phone": "(07) 4753 4179",
+        "importance": 5
+      },
+      {
+        "role": "Research Program Director, Sustainable Coastal Ecosystems and Industries",
+        "person": "Claire Streten",
+        "vacant": false,
+        "acting": false,
+        "email": "c.streten@aims.gov.au",
+        "phone": "08 8920 9216",
+        "importance": 6
+      },
+      {
+        "role": "Research Program Director, Sustainable Use of North West Marine Ecosystems",
+        "person": "Karen Miller",
+        "vacant": false,
+        "acting": false,
+        "email": "k.miller@aims.gov.au",
+        "phone": "08 6369 4007",
+        "importance": 7
+      },
+      {
+        "role": "Manager, Key International Projects and Initiatives",
+        "person": "Britta Schaffelke",
+        "vacant": false,
+        "acting": false,
+        "email": "b.schaffelke@aims.gov.au",
+        "phone": "(07) 4753 4382",
+        "importance": 8
+      },
+      {
+        "role": "Corporate Communication and Public Affairs Manager",
+        "person": "John Liston",
+        "vacant": false,
+        "acting": false,
+        "email": "j.liston@aims.gov.au",
+        "phone": "(08) 6369 4051",
+        "importance": 10
+      },
+      {
+        "role": "General Counsel",
+        "person": "Frances Hoskins",
+        "vacant": false,
+        "acting": false,
+        "email": "f.hoskins@aims.gov.au",
+        "phone": "08 6369 4061",
+        "importance": 12
+      },
+      {
+        "role": "Manager, Government Relations",
+        "person": "Chris Payne",
+        "vacant": false,
+        "acting": false,
+        "email": "c.payne@aims.gov.au",
+        "phone": "",
+        "importance": 13
+      },
+      {
+        "role": "Manager, People and Culture",
+        "person": "Paul O'Regan",
+        "vacant": false,
+        "acting": false,
+        "email": "p.o'regan@aims.gov.au",
+        "phone": "07 4753 4319",
+        "importance": 14
+      }
+    ],
+    "children": []
+  }
+}

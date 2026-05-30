@@ -1,0 +1,61 @@
+{
+  "content_id": "134",
+  "title": "Old Parliament House",
+  "acronym": "MOAD",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://moadoph.gov.au/",
+  "description": "The Museum of Australian Democracy at Old Parliament House's strategic vision is to be bold, relevant, dynamic and authentic by:<br />\n<br />\n- Being a catalyst for uncensored conversations<br />\n- Empowering and engaging communities<br />\n- Being a welcoming and vibrant meeting place<br />\n- A sustainable and thriving future<br />\n<br />\nThrough its exhibitions and education programs, the Museum enables audiences to enjoy, appreciate and understand the role of democracy in the history and future of Australia. In addition, the Museum conserves, interprets and provides access to the significant heritage-listed Old Parliament House building for future generations.<br />\n<br />\nOld Parliament House was the home of Australia's Federal Parliament from 1927 to 1988 and is an icon of outstanding national significance, symbolising a key period in the democratic history of Australia.",
+  "dashboard_name": "Old Parliament House",
+  "people_count": 4,
+  "tree": {
+    "content_id": "134",
+    "title": "Old Parliament House",
+    "roles": [
+      {
+        "role": "Director",
+        "person": "Stephanie Bull",
+        "vacant": false,
+        "acting": false,
+        "email": "stephanie.bull@moadoph.gov.au",
+        "phone": "(02) 6270 8245",
+        "importance": 999
+      },
+      {
+        "role": "Executive Assistant to the Director",
+        "person": "Karen Laing",
+        "vacant": false,
+        "acting": false,
+        "email": "director@moadoph.gov.au",
+        "phone": "(02) 6270 8245",
+        "importance": 999
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3091",
+        "title": "Operations and Audience Engagement",
+        "roles": [
+          {
+            "role": "Deputy Director",
+            "person": "Andrew Harper",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.harper@moadoph.gov.au",
+            "phone": "(02) 6270 8170",
+            "importance": 999
+          },
+          {
+            "role": "Executive Officer to the Director",
+            "person": "Saskia Scott",
+            "vacant": false,
+            "acting": false,
+            "email": "director@moadoph.gov.au",
+            "phone": "(02) 6270 8245",
+            "importance": 999
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,1944 @@
+{
+  "content_id": "258",
+  "title": "Department of the Treasury",
+  "acronym": "Treasury",
+  "portfolio": "Treasury",
+  "website": "https://treasury.gov.au/",
+  "description": "The Treasury's mission is to improve the wellbeing of the Australian people by providing sound and timely advice to the Government, based on objective and thorough analysis of options, and by assisting Treasury ministers in the administration of their responsibilities and the implementation of government decisions. The Treasury is expected to anticipate and analyse policy issues with a whole-of-economy perspective, understand government and stakeholder circumstances, and respond rapidly to changing events and directions. <br />\n<br />\nTreasury makes informed decisions on the development and implementation of policies to improve the wellbeing of the Australian people, including by achieving strong, sustainable economic growth, through the provision of advice to government and the efficient administration of federal financial relations.",
+  "dashboard_name": "Department of the Treasury",
+  "people_count": 124,
+  "tree": {
+    "content_id": "258",
+    "title": "Department of the Treasury",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "1421",
+        "title": "Central Office",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1418",
+            "title": "Fiscal Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary, Fiscal Group",
+                "person": "Damien White",
+                "vacant": false,
+                "acting": false,
+                "email": "damien.white@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 1
+              },
+              {
+                "role": "Senior Executive Assistant",
+                "person": "Steph Mitchell",
+                "vacant": false,
+                "acting": false,
+                "email": "steph.mitchell@treasury.gov.au",
+                "phone": "02 6263 4582",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2378",
+                "title": "Budget Policy Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Philippa Brown",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6263 4050",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2373",
+                    "title": "Budget Policy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Luke Spear",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "luke.spear@treasury.gov.au",
+                        "phone": "02 6263 2959",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2418",
+                    "title": "Budget Strategy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Adam Hawkins",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "adam.hawkins@treasury.gov.au",
+                        "phone": "02 6263 3785",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "3550",
+                "title": "First Nations and Commonwealth-State Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Marg Thomas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "marg.thomas@treasury.gov.au",
+                    "phone": "02 6263 4574",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2374",
+                    "title": "Commonwealth-State Relations Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Jaclin Craig",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jaclin.craig@treasury.gov.au",
+                        "phone": "02 6263 4795",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3552",
+                    "title": "First Nations and Strong Communities Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Heather Cochrane",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "heather.cochrane@treasury.gov.au",
+                        "phone": "02 6263 1564",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2380",
+                "title": "Labour Market, Environment, Industry and Infrastructure Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Trevor Power",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "trevor.power@treasury.gov.au",
+                    "phone": "02 6263 3158",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2371",
+                    "title": "Industry and Infrastructure Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Amelia Henty",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "amelia.henty@treasury.gov.au",
+                        "phone": "02 6263 2721",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "35682",
+                    "title": "Labour Market Policy and Stakeholder Liaison Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Nick Loan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "nick.loan@treasury.gov.au",
+                        "phone": "02 6263 2899",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2379",
+                "title": "Social Policy Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Anthea Long",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anthea.long@treasury.gov.au",
+                    "phone": "(02) 6263 4217",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2376",
+                    "title": "Health, Aged Care and Disability Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Felix Donovan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "felix.donovan@treasury.gov.au",
+                        "phone": "02 6263 2255",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2375",
+                    "title": "Social Security, Early Education and Schools Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Jordan George",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jordan.george@treasury.gov.au",
+                        "phone": "(02) 6263 4216",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "51753",
+            "title": "Housing Group",
+            "roles": [
+              {
+                "role": "Executive Officer",
+                "person": "Rebecca Mason",
+                "vacant": false,
+                "acting": false,
+                "email": "rebecca.mason@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 2
+              },
+              {
+                "role": "Senior Executive Assistant",
+                "person": "Lauren Joly",
+                "vacant": false,
+                "acting": false,
+                "email": "lauren.joly@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 3
+              },
+              {
+                "role": "Director General",
+                "person": "Ben Rimmer",
+                "vacant": false,
+                "acting": false,
+                "email": "ben.rimmer@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 999
+              }
+            ],
+            "children": [
+              {
+                "content_id": "49386",
+                "title": "Australian Building Codes Board",
+                "roles": [
+                  {
+                    "role": "A/g Chief Executive Officer",
+                    "person": "Judith Blake",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "judith.blake@industry.gov.au",
+                    "phone": "02 6213 6872",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "40261",
+                "title": "Homelessness and Housing Policy Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Nerida Hunter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nerida.hunter@treasury.gov.au",
+                    "phone": "02 6263 2255",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41310",
+                    "title": "Homelessness, Crisis Accommodation and Renters Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Sarah Peascod",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "sarah.peascod@treasury.gov.au",
+                        "phone": "02 6263 3769",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41309",
+                    "title": "Housing Finance and Delivery Branch",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Brendan Cook",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "brendan.cook@treasury.gov.au",
+                        "phone": "02 6263 3538",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "52134",
+                "title": "Housing Supply and Cities Division",
+                "roles": [
+                  {
+                    "role": "A/First Assistant Secretary",
+                    "person": "Nicholas Dowie",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "nicholas.dowie@treasury.gov.au",
+                    "phone": "",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "52135",
+                    "title": "Cities, Planning, Infrastructure and Analysis Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Christian Vallence",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "christian.vallence@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52136",
+                    "title": "Housing Industry Capacity Branch",
+                    "roles": [
+                      {
+                        "role": "A/Assistant Secretary",
+                        "person": "Rebecca Wilson",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "rebecca.wilson@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52137",
+                    "title": "Strategy, National Engagement and First Nations Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Emma Lenthall",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "emma.lenthall@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "1417",
+            "title": "International, Corporate and Investment Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Katrina Di Marco",
+                "vacant": false,
+                "acting": false,
+                "email": "",
+                "phone": "",
+                "importance": 1
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Michele Mullavey",
+                "vacant": false,
+                "acting": false,
+                "email": "michele.mullavey@treasury.gov.au",
+                "phone": "",
+                "importance": 2
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Anita Radic",
+                "vacant": false,
+                "acting": false,
+                "email": "anita.radic@treasury.gov.au",
+                "phone": "",
+                "importance": 2
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2425",
+                "title": "Corporate Division",
+                "roles": [
+                  {
+                    "role": "Chief Operating Officer",
+                    "person": "Fiona McSpeerin",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "fiona.mcspeerin@treasury.gov.au",
+                    "phone": "02 6263 4575",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2533",
+                    "title": "Chief Finance Officer Branch",
+                    "roles": [
+                      {
+                        "role": "Chief Finance Officer",
+                        "person": "Felicity McGinnes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "felicity.mcginnes@treasury.gov.au",
+                        "phone": "(02) 6263 4029",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2420",
+                    "title": "Communications Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Angela Mason",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "angela.mason@treasury.gov.au",
+                        "phone": "(02) 6263 2621",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2419",
+                    "title": "Governance Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Amara Foster",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "amara.foster@treasury.gov.au",
+                        "phone": "02 6263 2853",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2435",
+                    "title": "Information Services Branch",
+                    "roles": [
+                      {
+                        "role": "Chief Information Officer",
+                        "person": "Andrea Cross",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "andrea.cross@treasury.gov.au",
+                        "phone": "",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2433",
+                    "title": "People and Organisational Strategy Branch",
+                    "roles": [
+                      {
+                        "role": "Chief People Officer",
+                        "person": "Jody Riley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "jody.riley@treasury.gov.au",
+                        "phone": "02 6263 1545",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2426",
+                "title": "Foreign Investment Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Chris Tinning",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "christopher.tinning@treasury.gov.au",
+                    "phone": "02 6263 1689",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2424",
+                    "title": "Compliance Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Gabrielle Ford",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "gabrielle.ford@treasury.gov.au",
+                        "phone": "02 6263 2111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2421",
+                    "title": "Investment Review Branch",
+                    "roles": [
+                      {
+                        "role": "A/Assistant Secretary",
+                        "person": "Stephen Vereyken",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "stephen.vereyken@treasury.gov.au",
+                        "phone": "02 6263 4256",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2423",
+                    "title": "Policy, Governance and Market Intelligence Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Isobel Sloan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "isobel.sloan@treasury.gov.au",
+                        "phone": "02 6263  3682",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2389",
+                "title": "International Economic and Security Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Ineke Redmond",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "ineke.redmond@treasury.gov.au",
+                    "phone": "(02) 6263 2111",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2391",
+                    "title": "Geoeconomics Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Steph Gorecki Natik",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "steph.goreckinatik@treasury.gov.au",
+                        "phone": "(02) 6263 1394",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "42216",
+                    "title": "Indo-Pacific Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Justin Baguley",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "justin.baguley@treasury.gov.au",
+                        "phone": "02 6263 2111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2390",
+                    "title": "International Engagement Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Paul Cotterill",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "paul.cotterill@treasury.gov.au",
+                        "phone": "02 6263 3581",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2392",
+                    "title": "Overseas Posts",
+                    "roles": [],
+                    "children": [
+                      {
+                        "content_id": "1750",
+                        "title": "Overseas Operations - Indonesia",
+                        "roles": [],
+                        "children": []
+                      },
+                      {
+                        "content_id": "1751",
+                        "title": "Overseas representation",
+                        "roles": [],
+                        "children": [
+                          {
+                            "content_id": "1742",
+                            "title": "Beijing, China - Australian Embassy",
+                            "roles": [
+                              {
+                                "role": "Minister-Counsellor (Treasury)",
+                                "person": "David Osborne",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1741",
+                            "title": "Jakarta, Indonesia - Australian Embassy",
+                            "roles": [
+                              {
+                                "role": "Minister-Counsellor",
+                                "person": "Cosimo Thawley",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1740",
+                            "title": "London, England - Australian High Commission and European Bank for Reconstruction and Development",
+                            "roles": [],
+                            "children": [
+                              {
+                                "content_id": "1749",
+                                "title": "Australian High Commission",
+                                "roles": [
+                                  {
+                                    "role": "Minister-Counsellor (Economic), Australian Treasury Representative, Europe",
+                                    "person": "John Swieringa",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              },
+                              {
+                                "content_id": "1738",
+                                "title": "European Bank for Reconstruction and Development",
+                                "roles": [
+                                  {
+                                    "role": "Alternate Director",
+                                    "person": "Natalie Horvat",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              }
+                            ]
+                          },
+                          {
+                            "content_id": "1739",
+                            "title": "Manila, Philippines - Asia Development Bank",
+                            "roles": [
+                              {
+                                "role": "Executive Director, Asian Development Bank",
+                                "person": "vacant vacant",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1737",
+                            "title": "New Delhi, India",
+                            "roles": [
+                              {
+                                "role": "Minister-Counsellor (Economic)",
+                                "person": "Alistair Campbell",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1746",
+                            "title": "Paris, France - Organisation for Economic Cooperation and Development",
+                            "roles": [
+                              {
+                                "role": "Minister Counsellor (Economic)",
+                                "person": "Peter Johnson",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1747",
+                            "title": "Tokyo, Japan - Australian Embassy",
+                            "roles": [
+                              {
+                                "role": "Minister - Counsellor, Economic",
+                                "person": "Andrew Deitz",
+                                "vacant": false,
+                                "acting": false,
+                                "email": "",
+                                "phone": "",
+                                "importance": 999
+                              }
+                            ],
+                            "children": []
+                          },
+                          {
+                            "content_id": "1748",
+                            "title": "Washington DC, USA - Australian Embassy, International Monetary Fund, World Bank",
+                            "roles": [],
+                            "children": [
+                              {
+                                "content_id": "1743",
+                                "title": "Australian Embassy",
+                                "roles": [
+                                  {
+                                    "role": "Minister-Counsellor, Economic",
+                                    "person": "Vera Holenstein",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              },
+                              {
+                                "content_id": "1744",
+                                "title": "International Monetary Fund",
+                                "roles": [],
+                                "children": []
+                              },
+                              {
+                                "content_id": "1745",
+                                "title": "World Bank",
+                                "roles": [
+                                  {
+                                    "role": "Executive Director",
+                                    "person": "Robert Nicholl",
+                                    "vacant": false,
+                                    "acting": false,
+                                    "email": "",
+                                    "phone": "",
+                                    "importance": 999
+                                  }
+                                ],
+                                "children": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "content_id": "2427",
+                "title": "State Offices",
+                "roles": [
+                  {
+                    "role": "Head of Melbourne Office",
+                    "person": "David Webster",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "david.webster@treasury.gov.au",
+                    "phone": "02 6263 3925",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "1420",
+            "title": "Macroeconomic Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary, Macroeconomic Group",
+                "person": "Angelia Grant",
+                "vacant": false,
+                "acting": false,
+                "email": "angelia.grant@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 1
+              },
+              {
+                "role": "Executive Officer",
+                "person": "Joanne Croft",
+                "vacant": false,
+                "acting": false,
+                "email": "joanne.croft@treasury.gov.au",
+                "phone": "02 6263 2079",
+                "importance": 2
+              },
+              {
+                "role": "Executive Assistant",
+                "person": "Breanna Stefanac",
+                "vacant": false,
+                "acting": false,
+                "email": "sarah.brown2@treasury.gov.au",
+                "phone": "02 6263 1194",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "42696",
+                "title": "Climate, Energy and Trade Insights Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Alex Heath",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6263 2907",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2372",
+                    "title": "Climate and Energy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Matthew Maloney",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "matthew.maloney@treasury.gov.au",
+                        "phone": "02 6263 2556",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52180",
+                    "title": "Climate and Energy Policy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Matthew Maloney",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "matthew.maloney@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52181",
+                    "title": "Climate and Industry Modelling Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Rebecca Cassels",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "rebecca.cassels@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52182",
+                    "title": "Sustainable Finance Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Penny Sirault",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "penny.sirault@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2383",
+                "title": "Macroeconomic Analysis and Policy Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Shane Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.johnson@treasury.gov.au",
+                    "phone": "",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Principal Adviser",
+                    "person": "Michael Kouparitsas",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "michael.kouparitsis@treasury.gov.au",
+                    "phone": "02 6263 3217",
+                    "importance": 2
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "42221",
+                    "title": "Climate and Industry Modelling Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Rebecca Cassells",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "rebecca.cassells@treasury.gov.au",
+                        "phone": "02 6263 4768",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2384",
+                    "title": "Fiscal and Monetary Policy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Riki Polygenis",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "riki.polygenis@treasury.gov.au",
+                        "phone": "(02) 6263 4086",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2385",
+                    "title": "Structural Analysis Branch and Chief Data Officer",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary / TSY Chief Data Officer",
+                        "person": "Nathan Deutscher",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "nathan.deutscher@treasury.gov.au",
+                        "phone": "02 6263 3783",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2386",
+                "title": "Macroeconomic Conditions Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Sarah Hunter",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "sarah.hunter@treasury.gov.au",
+                    "phone": "(02) 6263 1477",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2388",
+                    "title": "Domestic Demand, International and Trade Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Patrick D'Arcy",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "patrick.darcy@treasury.gov.au",
+                        "phone": "(02) 6263 3540",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2387",
+                    "title": "Macroeconomy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Ineke Redmond",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "ineke.redmond@treasury.gov.au",
+                        "phone": "02 6263 2275",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "content_id": "1419",
+            "title": "Markets Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary, Markets Group",
+                "person": "James Kelly",
+                "vacant": false,
+                "acting": false,
+                "email": "james.kelly@treasury.gov.au",
+                "phone": "(02) 6263 2111",
+                "importance": 1
+              },
+              {
+                "role": "Senior Executive Assistant",
+                "person": "Claire Savle",
+                "vacant": false,
+                "acting": false,
+                "email": "claire.savle@treasury.gov.au",
+                "phone": "02 6263 2143",
+                "importance": 2
+              },
+              {
+                "role": "Senior Executive Officer",
+                "person": "Emily Bernardi",
+                "vacant": false,
+                "acting": false,
+                "email": "emily.bernardi@treasury.gov.au",
+                "phone": "",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "2601",
+                "title": "Australian Government Actuary",
+                "roles": [
+                  {
+                    "role": "Australian Government Actuary",
+                    "person": "Guy Thorburn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "(02) 6263 4127",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Senior Actuary",
+                    "person": "Stuart Mules",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Senior Actuary",
+                    "person": "Aaron Bruhn",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "",
+                    "importance": 999
+                  },
+                  {
+                    "role": "Senior Actuary",
+                    "person": "Jane Miao",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "02 6263 4158",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              },
+              {
+                "content_id": "45203",
+                "title": "Competition and Consumer Policy Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Jason Mcdonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "jason.mcdonald@treasury.gov.au",
+                    "phone": "02 6263 4700",
+                    "importance": 1
+                  },
+                  {
+                    "role": "Executive Officer",
+                    "person": "Helen Marriott",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "helen.marriott@treasury.gov.au",
+                    "phone": "+61 2 6263 4442",
+                    "importance": 2
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "45205",
+                    "title": "Competition Law reform and Evaluation Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Owen Freestone",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "",
+                        "phone": "0262632111",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "45204",
+                    "title": "Competition and Consumer Law Branch",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Lauren Johnston",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lauren.johnston@treasury.gov.au",
+                        "phone": "+61 2 6263 2506",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "52149",
+                    "title": "National Competition Policy Branch",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Anna Barker",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "anna.barker@treasury.gov.au",
+                        "phone": "",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "51474",
+                "title": "Digital Policy and Corporations Division",
+                "roles": [
+                  {
+                    "role": "A/g First Assistant Secretary",
+                    "person": "Tony McDonald",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tony.mcdonald@treasury.gov.au",
+                    "phone": "(02) 6263 4387",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "2396",
+                    "title": "Corporations Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Michael Quinlivan",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "michael.quinlivan@treasury.gov.au",
+                        "phone": "+61 2 6263 1343",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "44952",
+                    "title": "Data Standards Body",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Naomi Gilbert",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "naomi.gilbert@treasury.gov.au",
+                        "phone": "02 6263 2124",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "44951",
+                    "title": "Data and Digital Policy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Nu Nu Win",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "nunu.win@treasury.gov.au",
+                        "phone": "02 6263 2124",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "2394",
+                    "title": "Payment, Scams and Innovation Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Claire McKay",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "claire.mckay@treasury.gov.au",
+                        "phone": "+61 2 6263 2124",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2393",
+                "title": "Financial System Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Lynn Kelly",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "lynn.kelly@treasury.gov.au",
+                    "phone": "02 6263 3279",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "3813",
+                    "title": "Advice, Insurance and Capital Markets Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Andre Moore",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "andre.moore@treasury.gov.au",
+                        "phone": "0262632876",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "37865",
+                    "title": "Banking, Currency and Credit Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Tim Baird",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "tim.baird@treasury.gov.au",
+                        "phone": "+61 2 6263 4493",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "3788",
+                    "title": "Cross-Sector Regulation, Redress and Resilience Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Robb Preston",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "robb.preston@treasury.gov.au",
+                        "phone": "+61 2 6263 2876",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "2401",
+                "title": "Takeovers Panel",
+                "roles": [
+                  {
+                    "role": "Chief Executive, Takeovers Panel",
+                    "person": "Allan Bulman",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "allan.bulman@takeovers.gov.au",
+                    "phone": "03 9655 3597",
+                    "importance": 999
+                  },
+                  {
+                    "role": "General Counsel, Takeovers Panel",
+                    "person": "Tania Mattei",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "tania.mattei@takeovers.gov.au",
+                    "phone": "03 9655 3562",
+                    "importance": 999
+                  }
+                ],
+                "children": []
+              }
+            ]
+          },
+          {
+            "content_id": "38099",
+            "title": "Revenue, Small Business and Law Group",
+            "roles": [
+              {
+                "role": "Deputy Secretary",
+                "person": "Diane Brown",
+                "vacant": false,
+                "acting": false,
+                "email": "diane.brown@treasury.gov.au",
+                "phone": "02 6263 2111",
+                "importance": 1
+              },
+              {
+                "role": "Senior Executive Assistant",
+                "person": "Jess Voutilainen",
+                "vacant": false,
+                "acting": false,
+                "email": "jess.voutilainen@treasury.gov.au",
+                "phone": "02 6263 2111",
+                "importance": 3
+              }
+            ],
+            "children": [
+              {
+                "content_id": "38100",
+                "title": "Corporate and International Tax Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Marty Robinson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "",
+                    "phone": "6263 2740",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "38104",
+                    "title": "Board of Taxation Secretariat",
+                    "roles": [
+                      {
+                        "role": "Secretary and Tax Counsel of the Board of Taxation",
+                        "person": "Paul Korganow",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "paul.korganow@treasury.gov.au",
+                        "phone": "02 6263 3962",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41848",
+                    "title": "Corporate Tax Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Susan Bultitude",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "susan.bultitude@treasury.gov.au",
+                        "phone": "02 6263 4413",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41849",
+                    "title": "International Tax Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Ian South",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "ian.south@treasury.gov.au",
+                        "phone": "02 6263 4832",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "41298",
+                "title": "Law Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Erin Wells",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "erin.wells@treasury.gov.au",
+                    "phone": "02 6263 4809",
+                    "importance": 1
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41318",
+                    "title": "AGS Client Counsel",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41299",
+                    "title": "General Counsel",
+                    "roles": [
+                      {
+                        "role": "General Counsel",
+                        "person": "David Hertzberg",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "david.hertzberg@treasury.gov.au",
+                        "phone": "02 6263 2611",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41315",
+                    "title": "Law Design & Drafting Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Chris Leggett",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "chris.leggett@treasury.gov.au",
+                        "phone": "02 6263 3357",
+                        "importance": 1
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41316",
+                    "title": "Law Design & Policy Branch",
+                    "roles": [],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41317",
+                    "title": "Legal Advisory & Operations Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Helen Sykes",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "helen.sykes@treasury.gov.au",
+                        "phone": "02 6263 3506",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "38102",
+                "title": "Personal and Indirect Tax and Charities Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Laura Berger-Thomson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "laura.berger-thomson@treasury.gov.au",
+                    "phone": "02 6263 2788",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41314",
+                    "title": "Personal and Small Business Tax and Tax Administration Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Richard Maher",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "richard.maher@treasury.gov.au",
+                        "phone": "02 6263 3555",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41313",
+                    "title": "State, Indirect, Industry Taxes and Not-For-Profits Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Emma Baudinette",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "emma.baudinette@treasury.gov.au",
+                        "phone": "02 6263 4087",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "48799",
+                "title": "Retirement Income and Superannuation Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Neena Pai",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "neena.pai@treasury.gov.au",
+                    "phone": "02 6263 2774",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "48800",
+                    "title": "Member Outcomes and Governance Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Ruth Moore",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "ruth.moore@treasury.gov.au",
+                        "phone": "02 6263 3626",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "48801",
+                    "title": "Tax and Transfer Branch",
+                    "roles": [
+                      {
+                        "role": "A/g Assistant Secretary",
+                        "person": "Lachlan Alvey",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "lachlan.alvey@treasury.gov.au",
+                        "phone": "02 6263 3663",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "38103",
+                "title": "Small and Family Business Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Anthony Seebach",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "anthony.seebach@treasury.gov.au",
+                    "phone": "02 6263 2400",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41295",
+                    "title": "Regulation and Payment Performance Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Robyn Beutel",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "robyn.beutel@treasury.gov.au",
+                        "phone": "02 6263 4677",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41296",
+                    "title": "Small Business Policy Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Kylie Bourke",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "kylie.bourke@treasury.gov.au",
+                        "phone": "02 6263 4332",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "content_id": "38101",
+                "title": "Tax Analysis Division",
+                "roles": [
+                  {
+                    "role": "First Assistant Secretary",
+                    "person": "Shane Johnson",
+                    "vacant": false,
+                    "acting": false,
+                    "email": "shane.johnson@treasury.gov.au",
+                    "phone": "02 6263 1317",
+                    "importance": 999
+                  }
+                ],
+                "children": [
+                  {
+                    "content_id": "41841",
+                    "title": "Migration, Business Tax, and Forecasting Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Oliver Richards",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "oliver.richards@treasury.gov.au",
+                        "phone": "02 6263 3785",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41842",
+                    "title": "Personal Tax and Social Policy Analysis Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Emma Gabrielsen",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "emma.gabrielsen@treasury.gov.au",
+                        "phone": "02 6263 4258",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  },
+                  {
+                    "content_id": "41847",
+                    "title": "Tax Systems, Indirect Tax, and  Superannuation Branch",
+                    "roles": [
+                      {
+                        "role": "Assistant Secretary",
+                        "person": "Darren Kennedy",
+                        "vacant": false,
+                        "acting": false,
+                        "email": "darren.kennedy@treasury.gov.au",
+                        "phone": "02 6263 3737",
+                        "importance": 999
+                      }
+                    ],
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "content_id": "1425",
+        "title": "Enquiries",
+        "roles": [],
+        "children": [
+          {
+            "content_id": "1424",
+            "title": "After hours contact (security guards)",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1423",
+            "title": "Freedom of information",
+            "roles": [],
+            "children": []
+          },
+          {
+            "content_id": "1422",
+            "title": "Media",
+            "roles": [],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1426",
+        "title": "Executive",
+        "roles": [
+          {
+            "role": "Secretary to the Treasury",
+            "person": "Jenny Wilkinson",
+            "vacant": false,
+            "acting": false,
+            "email": "jenny.wilkinson@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 1
+          },
+          {
+            "role": "Chief of Staff",
+            "person": "Mehak Vohra",
+            "vacant": false,
+            "acting": false,
+            "email": "mehak.vohra@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 2
+          },
+          {
+            "role": "Executive Assistant to the Secretary",
+            "person": "Natalie Ayres",
+            "vacant": false,
+            "acting": false,
+            "email": "natalie.ayres@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 3
+          },
+          {
+            "role": "Deputy Secretary, Fiscal Group",
+            "person": "Damien White",
+            "vacant": false,
+            "acting": false,
+            "email": "damien.white@treasury.gov.au",
+            "phone": "",
+            "importance": 5
+          },
+          {
+            "role": "Deputy Secretary, International, Corporate and Investment Group",
+            "person": "Katrina Di Marco",
+            "vacant": false,
+            "acting": false,
+            "email": "katrina.dimarco@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 6
+          },
+          {
+            "role": "Deputy Secretary Maroeconomic Group",
+            "person": "Angelia Grant",
+            "vacant": false,
+            "acting": false,
+            "email": "angelia.grant@treasury.gov.au",
+            "phone": "",
+            "importance": 7
+          },
+          {
+            "role": "Deputy Secretary Markets Group",
+            "person": "James Kelly",
+            "vacant": false,
+            "acting": false,
+            "email": "james.kelly@treasury.gov.au",
+            "phone": "",
+            "importance": 8
+          },
+          {
+            "role": "Deputy Secretary, Revenue, Small Business and Law Group",
+            "person": "Diane Brown",
+            "vacant": false,
+            "acting": false,
+            "email": "diane.brown@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 9
+          },
+          {
+            "role": "Director General Housing",
+            "person": "Ben Rimmer",
+            "vacant": false,
+            "acting": false,
+            "email": "ben.rimmer@treasury.gov.au",
+            "phone": "(02) 6263 2111",
+            "importance": 10
+          }
+        ],
+        "children": []
+      }
+    ]
+  }
+}

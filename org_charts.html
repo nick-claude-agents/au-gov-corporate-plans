@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AU Government Org Charts</title>
+<style>
+  :root { --bg:#0f1419; --panel:#1a2230; --line:#2b3647; --txt:#e6ebf2;
+          --muted:#8b97a8; --accent:#4f9cf9; --vacant:#c47b2b; --acting:#b06fd0; }
+  * { box-sizing:border-box; }
+  body { margin:0; font:14px/1.5 -apple-system,Segoe UI,Roboto,sans-serif;
+         background:var(--bg); color:var(--txt); display:flex; height:100vh; }
+  #sidebar { width:340px; flex:0 0 340px; border-right:1px solid var(--line);
+             display:flex; flex-direction:column; background:var(--panel); }
+  #sidebar header { padding:14px 16px; border-bottom:1px solid var(--line); }
+  #sidebar h1 { font-size:15px; margin:0 0 8px; }
+  #search { width:100%; padding:8px 10px; border:1px solid var(--line);
+            border-radius:6px; background:var(--bg); color:var(--txt); }
+  #meta { font-size:12px; color:var(--muted); margin-top:8px; }
+  #list { overflow:auto; flex:1; }
+  .agency { padding:8px 16px; cursor:pointer; border-bottom:1px solid #222b3a; }
+  .agency:hover { background:#222c3d; }
+  .agency.active { background:#243650; border-left:3px solid var(--accent); }
+  .agency .nm { font-weight:600; }
+  .agency .sub { font-size:11px; color:var(--muted); }
+  .badge { font-size:10px; background:#2b3647; color:var(--muted);
+           border-radius:10px; padding:1px 7px; margin-left:6px; }
+  .badge.dash { background:#1d3a2a; color:#7fd8a0; }
+  .badge.pdf { background:#3a1d1d; color:#f08a8a; }
+  .pdfbox { border:1px solid var(--line); border-radius:8px; margin:6px 0 22px;
+            overflow:hidden; }
+  .pdfhead { padding:8px 12px; background:#16202e; font-weight:600;
+             display:flex; align-items:center; gap:12px; }
+  .pdfhead .src { font-weight:400; font-size:12px; color:var(--muted);
+                  margin-left:auto; }
+  .pdfframe { width:100%; height:560px; border:0; background:#fff; display:block; }
+  h3.treehead { font-size:14px; color:var(--muted); border-top:1px solid var(--line);
+                padding-top:14px; margin:18px 0 8px; font-weight:600; }
+  h3.treehead .src { font-weight:400; font-size:12px; }
+  #main { flex:1; overflow:auto; padding:24px 32px; }
+  #main h2 { margin:0 0 4px; }
+  #main .desc { color:var(--muted); max-width:760px; margin:6px 0 18px; }
+  #main a { color:var(--accent); text-decoration:none; }
+  ul.tree { list-style:none; margin:0; padding-left:18px;
+            border-left:1px solid var(--line); }
+  ul.tree.root { border-left:none; padding-left:0; }
+  li.node { margin:4px 0; }
+  .struct { font-weight:600; cursor:pointer; user-select:none; padding:2px 0; }
+  .struct .arrow { display:inline-block; width:14px; color:var(--muted); }
+  .roles { list-style:none; margin:2px 0 8px; padding-left:22px; }
+  .role { padding:2px 0; }
+  .role .title { color:var(--muted); }
+  .role .person { font-weight:600; }
+  .role .email { color:var(--accent); font-size:12px; margin-left:6px; }
+  .tag { font-size:10px; border-radius:8px; padding:0 6px; margin-left:6px; }
+  .tag.vacant { background:#3a2c18; color:var(--vacant); }
+  .tag.acting { background:#32243a; color:var(--acting); }
+  .collapsed > ul, .collapsed > .roles { display:none; }
+  #hint { color:var(--muted); margin-top:40px; }
+</style>
+</head>
+<body>
+<aside id="sidebar">
+  <header>
+    <h1>AU Government Org Charts</h1>
+    <input id="search" placeholder="Filter agencies…" autocomplete="off">
+    <div id="meta">Loading…</div>
+  </header>
+  <div id="list"></div>
+</aside>
+<main id="main">
+  <div id="hint">Source: directory.gov.au (Organisation &amp; Appointments Register).
+    Select an agency to view its structure, divisions, branches and people.</div>
+</main>
+<script>
+const listEl = document.getElementById('list');
+const mainEl = document.getElementById('main');
+const metaEl = document.getElementById('meta');
+let agencies = [];
+let pdfBySlug = {};   // slug -> {pdf_url, source}
+
+Promise.all([
+  fetch('org_charts/index.json').then(r => r.json()),
+  fetch('org_charts/pdf_index.json').then(r => r.json()).catch(() => ({results: []})),
+]).then(([data, pdfData]) => {
+  agencies = data.agencies;
+  (pdfData.results || []).forEach(r => {
+    if (r.status === 'downloaded') pdfBySlug[r.slug] = r;
+  });
+  const pdfCount = Object.keys(pdfBySlug).length;
+  metaEl.textContent = `${data.count} agencies · ${pdfCount} with published PDF · ` +
+    `${agencies.filter(a => a.in_dashboard).length} on dashboard`;
+  render(agencies);
+  selectFromHash();
+}).catch(e => { metaEl.textContent = 'Failed to load index.json — serve this page over http (not file://).'; });
+
+document.getElementById('search').addEventListener('input', e => {
+  const q = e.target.value.toLowerCase();
+  render(agencies.filter(a =>
+    a.title.toLowerCase().includes(q) ||
+    (a.acronym || '').toLowerCase().includes(q) ||
+    (a.portfolio || '').toLowerCase().includes(q)));
+});
+
+function render(items) {
+  listEl.innerHTML = '';
+  items.forEach(a => {
+    const d = document.createElement('div');
+    d.className = 'agency';
+    d.innerHTML = `<div class="nm">${esc(a.title)}` +
+      (pdfBySlug[a.slug] ? '<span class="badge pdf">PDF</span>' : '') +
+      (a.in_dashboard ? '<span class="badge dash">dashboard</span>' : '') +
+      `</div><div class="sub">${esc(a.portfolio || '—')} · ` +
+      `<span class="badge">${a.people_count} people</span></div>`;
+    d.dataset.slug = a.slug;
+    d.onclick = () => { selectAgency(a, d); };
+    listEl.appendChild(d);
+  });
+}
+
+// Deep link: org_charts.html#<slug> auto-selects that agency (used by the
+// "Org Chart" button on the main dashboard).
+function selectFromHash() {
+  const slug = decodeURIComponent((location.hash || '').replace(/^#/, ''));
+  if (!slug) return;
+  const a = agencies.find(x => x.slug === slug);
+  if (!a) return;
+  if (!listEl.querySelector(`[data-slug="${CSS.escape(slug)}"]`)) render(agencies);
+  const el = listEl.querySelector(`[data-slug="${CSS.escape(slug)}"]`);
+  if (el) { selectAgency(a, el); el.scrollIntoView({block: 'center'}); }
+}
+window.addEventListener('hashchange', selectFromHash);
+
+function selectAgency(a, el) {
+  document.querySelectorAll('.agency.active').forEach(x => x.classList.remove('active'));
+  el.classList.add('active');
+  fetch(`org_charts/${a.slug}.json`).then(r => r.json()).then(chart => {
+    const pdf = pdfBySlug[a.slug];
+    const pdfPath = `org_charts/pdf/${a.slug}.pdf`;
+    const pdfBlock = pdf ? `
+      <div class="pdfbox">
+        <div class="pdfhead">📄 Published org chart (PDF)
+          <a href="${esc(pdfPath)}" target="_blank">open ↗</a>
+          <span class="src">source: <a href="${esc(pdf.pdf_url)}" target="_blank">agency website</a></span>
+        </div>
+        <object data="${esc(pdfPath)}" type="application/pdf" class="pdfframe">
+          <a href="${esc(pdfPath)}" target="_blank">Download the PDF org chart</a>
+        </object>
+      </div>` : '';
+    const treeHead = pdf
+      ? '<h3 class="treehead">Detailed structure <span class="src">directory.gov.au register</span></h3>'
+      : '';
+    mainEl.innerHTML =
+      `<h2>${esc(chart.title)}${chart.acronym ? ' (' + esc(chart.acronym) + ')' : ''}</h2>` +
+      `<div class="sub">${esc(chart.portfolio || '')} · ${chart.people_count} people listed` +
+      (chart.website ? ` · <a href="${esc(chart.website)}" target="_blank">website</a>` : '') + `</div>` +
+      (chart.description ? `<p class="desc">${esc(chart.description)}</p>` : '') +
+      pdfBlock + treeHead +
+      renderNode(chart.tree, true);
+    mainEl.querySelectorAll('.struct').forEach(s =>
+      s.onclick = () => s.parentElement.classList.toggle('collapsed'));
+  });
+}
+
+function renderNode(node, isRoot) {
+  const roles = (node.roles || []).map(r => `
+    <li class="role">
+      <span class="title">${esc(r.role)}:</span>
+      <span class="person">${r.vacant ? '—' : esc(r.person || '—')}</span>
+      ${r.vacant ? '<span class="tag vacant">vacant</span>' : ''}
+      ${r.acting ? '<span class="tag acting">acting</span>' : ''}
+      ${r.email ? `<a class="email" href="mailto:${esc(r.email)}">${esc(r.email)}</a>` : ''}
+    </li>`).join('');
+  const kids = (node.children || []).map(c => renderNode(c, false)).join('');
+  const inner =
+    (roles ? `<ul class="roles">${roles}</ul>` : '') +
+    (kids ? `<ul class="tree">${kids}</ul>` : '');
+  if (isRoot)
+    return `<ul class="tree root"><li class="node">${inner}</li></ul>`;
+  return `<li class="node">
+      <div class="struct"><span class="arrow">▸</span>${esc(node.title)}</div>
+      ${inner}</li>`;
+}
+
+function esc(s) { return (s || '').replace(/[&<>"]/g,
+  c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
+</script>
+</body>
+</html>

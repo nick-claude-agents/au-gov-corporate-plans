@@ -1,0 +1,80 @@
+{
+  "content_id": "158",
+  "title": "Australian Research Council",
+  "acronym": "ARC",
+  "portfolio": "Education",
+  "website": "http://www.arc.gov.au",
+  "description": "The Australian Research Council (ARC) is a non-corporate Commonwealth entity established under Section 5 of the Australian Research Council Act 2001 (ARC Act).  The ARC has been an integral part of the Australian research landscape since its establishment in 2001. The ARC administers funding of excellent pure basic research, strategic basic research and applied research, as well as research training and research collaboration and infrastructure. The ARC also provides research policy advice to the Australian Government, oversees the Australian research ethics and integrity framework, and evaluates the excellence, impact and depth of Australian research. <br />\n<br />\nThe Australian Research Council (ARC) Board is the accountable authority of the ARC, and its functions include:<br />\n•\tDetermining priorities, strategies and policies for the ARC and advising the Minister of those priorities, strategies and policies<br />\n•\tAssisting the Minister in the performance of the Minister’s functions under the Australian Research Council Act 2001<br />\n•\tProviding advice to the Minister on research matters.<br />\n<br />\nThe Board is responsible for the approval of most grants within the National Competitive Grants Program (NCGP). The ARC Board is also supported by two key advisory bodies:<br />\n•\tARC Advisory Committee<br />\n•\tARC Indigenous Forum",
+  "dashboard_name": "Australian Research Council (ARC)",
+  "people_count": 7,
+  "tree": {
+    "content_id": "158",
+    "title": "Australian Research Council",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Ute Roessner",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Chief Operating Officer",
+        "person": "Craig Maconachie",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6287 6600",
+        "importance": 999
+      },
+      {
+        "role": "Chief Research Officer",
+        "person": "Christina Twomey",
+        "vacant": false,
+        "acting": false,
+        "email": "cro@arc.gov.au",
+        "phone": "(02) 6287 6600",
+        "importance": 999
+      },
+      {
+        "role": "Branch Manager, Research Evaluation and Policy",
+        "person": "Alison Beasley",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6287 6600",
+        "importance": 999
+      },
+      {
+        "role": "Branch Manager, Research Programs and Services",
+        "person": "Geraldine Dennis",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6287 6600",
+        "importance": 999
+      },
+      {
+        "role": "Acting Branch Manager, Executive and Communications",
+        "person": "Bonnie Johnson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "(02) 6287 6600",
+        "importance": 999
+      },
+      {
+        "role": "Branch Manager, Data and Evaluation",
+        "person": "Claire Forsyth",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

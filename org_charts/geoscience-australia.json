@@ -1,0 +1,345 @@
+{
+  "content_id": "269",
+  "title": "Geoscience Australia",
+  "acronym": "",
+  "portfolio": "Industry, Science and Resources",
+  "website": "http://www.ga.gov.au",
+  "description": "Geoscience Australia is the national public sector geoscience organisation. Its mission is to be the trusted source of information on Australia's geology and geography to inform government, industry and community decision-making. The work of Geoscience Australia covers the Australian landmass, marine jurisdiction and territories in Antarctica.",
+  "dashboard_name": "Geoscience Australia",
+  "people_count": 21,
+  "tree": {
+    "content_id": "269",
+    "title": "Geoscience Australia",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Melissa Harris",
+        "vacant": false,
+        "acting": false,
+        "email": "melissa.harris@ga.gov.au",
+        "phone": "02 6249 9222",
+        "importance": 1
+      }
+    ],
+    "children": [
+      {
+        "content_id": "3362",
+        "title": "Corporate Division",
+        "roles": [
+          {
+            "role": "Chief of Corporate Division",
+            "person": "Trent Rawlings",
+            "vacant": false,
+            "acting": false,
+            "email": "trent.rawlings@ga.gov.au",
+            "phone": "02 6249 9411",
+            "importance": 999
+          },
+          {
+            "role": "Chief Transformation Officer",
+            "person": "Clive Rossiter",
+            "vacant": false,
+            "acting": false,
+            "email": "clive.rossiter@ga.gov.au",
+            "phone": "02 62498734",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "3363",
+            "title": "Enabling Services",
+            "roles": [
+              {
+                "role": "General Manager",
+                "person": "Charlie Middleton",
+                "vacant": false,
+                "acting": false,
+                "email": "charlie.middleton@ga.gov.au",
+                "phone": "02 6249 9006",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "3364",
+            "title": "Enterprise Data & Digital",
+            "roles": [
+              {
+                "role": "A/g Chief Information Officer",
+                "person": "Simon Edmondson",
+                "vacant": false,
+                "acting": false,
+                "email": "simon.edmondson@ga.gov.au",
+                "phone": "02 6249 5882",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1797",
+        "title": "Minerals, Energy and Groundwater Division",
+        "roles": [
+          {
+            "role": "Chief of Division",
+            "person": "Andrew Heap",
+            "vacant": false,
+            "acting": false,
+            "email": "andrew.heap@ga.gov.au",
+            "phone": "(02) 6249 9790",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1795",
+            "title": "Advice, Investment Attractions and Analysis",
+            "roles": [
+              {
+                "role": "A/g Branch Head",
+                "person": "Mitchell Bouma",
+                "vacant": false,
+                "acting": false,
+                "email": "mitchell.bouma@ga.gov.au",
+                "phone": "02 6126 8742",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1794",
+            "title": "Basin Systems",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "David Robinson",
+                "vacant": false,
+                "acting": false,
+                "email": "david.robinson@ga.gov.au",
+                "phone": "02 6249 9345",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1607",
+            "title": "Mineral Systems",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Marina Costelloe",
+                "vacant": false,
+                "acting": false,
+                "email": "marina.costelloe@ga.gov.au",
+                "phone": "02 6249 9347",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53252",
+            "title": "Resourcing Australia’s Prosperity Initiative",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Kristina Anastasi",
+                "vacant": false,
+                "acting": false,
+                "email": "kristina.anastasi@ga.gov.au",
+                "phone": "02 6249 9436",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1796",
+        "title": "Office of the Chief Scientist",
+        "roles": [
+          {
+            "role": "Chief Scientist",
+            "person": "Steve Hill",
+            "vacant": false,
+            "acting": false,
+            "email": "steve.hill@ga.gov.au",
+            "phone": "02 6249 9807",
+            "importance": 1
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1882",
+            "title": "Discovery and Engagement",
+            "roles": [
+              {
+                "role": "Director",
+                "person": "Verity Normington",
+                "vacant": false,
+                "acting": false,
+                "email": "verity.normington@ga.gov.au",
+                "phone": "02 62498714",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "38268",
+        "title": "Place and Communities Division",
+        "roles": [
+          {
+            "role": "Chief of Division",
+            "person": "Maree Wilson",
+            "vacant": false,
+            "acting": false,
+            "email": "maree.wilson@ga.gov.au",
+            "phone": "02 62499807",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "38269",
+            "title": "Community Safety",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "John Dawson",
+                "vacant": false,
+                "acting": false,
+                "email": "john.dawson@ga.gov.au",
+                "phone": "62499028",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38270",
+            "title": "National Location Information",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Lisa Bush",
+                "vacant": false,
+                "acting": false,
+                "email": "lisa.bush@ga.gov.au",
+                "phone": "62495874",
+                "importance": 999
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "38271",
+            "title": "Oceans, Reefs, Coasts and the Antarctic",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Jodie Smith",
+                "vacant": false,
+                "acting": false,
+                "email": "jodie.smith@ga.gov.au",
+                "phone": "62499487",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      },
+      {
+        "content_id": "1800",
+        "title": "Space Division",
+        "roles": [
+          {
+            "role": "Chief of Division",
+            "person": "Alison Rose",
+            "vacant": false,
+            "acting": false,
+            "email": "alison.rose@ga.gov.au",
+            "phone": "02 6249 9397",
+            "importance": 999
+          }
+        ],
+        "children": [
+          {
+            "content_id": "1798",
+            "title": "Digital Earth",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Leyla Alpaslan",
+                "vacant": false,
+                "acting": false,
+                "email": "leyla.alpaslan@ga.gov.au",
+                "phone": "02 6249 5961",
+                "importance": 3
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1605",
+            "title": "Positioning Australia",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Martine Woolf",
+                "vacant": false,
+                "acting": false,
+                "email": "martine.woolf@ga.gov.au",
+                "phone": "(02) 6249 9075",
+                "importance": 2
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "1799",
+            "title": "Satellite Land Imaging Collection",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "David Hudson",
+                "vacant": false,
+                "acting": false,
+                "email": "david.hudson@ga.gov.au",
+                "phone": "02 6249 9853",
+                "importance": 4
+              }
+            ],
+            "children": []
+          },
+          {
+            "content_id": "53253",
+            "title": "SouthPAN",
+            "roles": [
+              {
+                "role": "Branch Head",
+                "person": "Myra Sefton",
+                "vacant": false,
+                "acting": false,
+                "email": "myra.sefton@ga.gov.au",
+                "phone": "02 6249 5925",
+                "importance": 999
+              }
+            ],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

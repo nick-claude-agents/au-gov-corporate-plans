@@ -1,0 +1,103 @@
+{
+  "content_id": "135",
+  "title": "Australian Postal Corporation",
+  "acronym": "APC Australia Post",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://auspost.com.au",
+  "description": "Australia Post provides postal services within Australia and between Australia and places outside Australia.<br />\n<br />\nAustralia Post is prescribed as a Government Business Enterprise under the Public Governance, Performance and Accountability Act 2013.",
+  "dashboard_name": "Australian Postal Corporation Statement of Corporate Intent",
+  "people_count": 8,
+  "tree": {
+    "content_id": "135",
+    "title": "Australian Postal Corporation",
+    "roles": [],
+    "children": [
+      {
+        "content_id": "2251",
+        "title": "Head office",
+        "roles": [
+          {
+            "role": "Group Chief Executive Officer & Managing Director",
+            "person": "Paul Graham",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 76 78",
+            "importance": 1
+          },
+          {
+            "role": "Executive General Manager, Network Operations",
+            "person": "Rod Barnes",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 2
+          },
+          {
+            "role": "Executive General Manager, People & Culture",
+            "person": "Susan Davies",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 3
+          },
+          {
+            "role": "Executive General Manager, Community, Sustainability and Stakeholder Engagement",
+            "person": "Jane Anderson",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 4
+          },
+          {
+            "role": "Executive General Manager, Retail, Brand and Marketing",
+            "person": "Josh Bannister",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 5
+          },
+          {
+            "role": "Executive General Manager, Parcel, Post and eCommerce",
+            "person": "Gary Starr",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 6
+          },
+          {
+            "role": "Executive General Manager, Enterprise Services",
+            "person": "Michael McNamara",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 7
+          },
+          {
+            "role": "Group Chief Financial Officer",
+            "person": "Michael Bradburn",
+            "vacant": false,
+            "acting": false,
+            "email": "",
+            "phone": "13 7678",
+            "importance": 8
+          }
+        ],
+        "children": [
+          {
+            "content_id": "2250",
+            "title": "Corporate Communications",
+            "roles": [],
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+}

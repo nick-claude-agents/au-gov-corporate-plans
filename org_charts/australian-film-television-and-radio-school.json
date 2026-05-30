@@ -1,0 +1,26 @@
+{
+  "content_id": "131",
+  "title": "Australian Film, Television and Radio School",
+  "acronym": "AFTRS",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.aftrs.edu.au",
+  "description": "The role of Australian Film, Television and Radio School (AFTRS) is to provide advanced education and training to develop the skills and knowledge of talented individuals to meet the evolving needs of Australia's screen and broadcast industries.",
+  "dashboard_name": "Australian Film, Television and Radio School",
+  "people_count": 1,
+  "tree": {
+    "content_id": "131",
+    "title": "Australian Film, Television and Radio School",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Nell Greenwood",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "02 9805 6410",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

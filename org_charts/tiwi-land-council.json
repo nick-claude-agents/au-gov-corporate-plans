@@ -1,0 +1,35 @@
+{
+  "content_id": "225",
+  "title": "Tiwi Land Council",
+  "acronym": "TLC",
+  "portfolio": "Prime Minister and Cabinet",
+  "website": "http://www.tiwilandcouncil.com",
+  "description": "The Tiwi Land Council operates to ensure and support the good management, protection and development of land pursuant to the express wishes of those who own the land, having regard to the opinions of others who also live on that land. Timeliness, resource allocation and priority protection mandates are stipulated by enabling legislation. <br />\n<br />\nThe TLC provides a number of services for the benefit of traditional owners and other Aboriginal residents of the Tiwi region, including:<br />\n<br />\n- Providing a strong voice for the Tiwi people.<br />\n- Helping the Tiwi people manage their land and sea resources.<br />\n- Consulting with landowners on mining activity, employment, development and other land use proposals.<br />\n- Provide advocacy services in support of cultural and heritage, community development and other representations as appropriate to the Traditional Owners and other clients of the Land Council.<br />\n- Running the permit system for access/closures to or through Aboriginal land and sea.<br />\n- Administer the Land Trust and assist in the resolution of disputes with respect to land as appropriate.<br />\n- Administer and distribute statutory, negotiated and other payments as appropriate to the Traditional Owners and other clients of the Land Council.",
+  "dashboard_name": "Tiwi Land Council",
+  "people_count": 2,
+  "tree": {
+    "content_id": "225",
+    "title": "Tiwi Land Council",
+    "roles": [
+      {
+        "role": "Chairperson",
+        "person": "Gibson Illortaminni",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      },
+      {
+        "role": "Chief Executive Officer",
+        "person": "Brendan Ferguson",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "content_id": "96",
+  "title": "Australian Hearing Services (Hearing Australia)",
+  "acronym": "HA",
+  "portfolio": "Health, Disability and Ageing",
+  "website": "http://www.hearing.com.au",
+  "description": "Australian Hearing Services (Hearing Australia) is a corporate Commonwealth entity which provides government funded and commercial hearing services for children and adults across Australia.  Each week we help thousands of babies, children, young adults, adults, Aboriginal and Torres Strait Islander peoples, pensioners and veterans.  Hearing Australia also raises community awareness of the importance of good hearing health and its research arm, the National Acoustic Laboratories, produces world-leading research to improve the lives of people with hearing loss.",
+  "dashboard_name": "Australian Hearing Services (Hearing Australia)",
+  "people_count": 2,
+  "tree": {
+    "content_id": "96",
+    "title": "Australian Hearing Services (Hearing Australia)",
+    "roles": [
+      {
+        "role": "Managing Director",
+        "person": "Kim Terrell",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 90
+      },
+      {
+        "role": "Managing Director",
+        "person": "Kim Terrell",
+        "vacant": false,
+        "acting": false,
+        "email": "info@hearing.com.au",
+        "phone": "(02) 9412 6800",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}

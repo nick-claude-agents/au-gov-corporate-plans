@@ -1,0 +1,26 @@
+{
+  "content_id": "41661",
+  "title": "High Speed Rail Authority",
+  "acronym": "",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "website": "http://www.hsra.gov.au",
+  "description": "High Speed Rail Authority",
+  "dashboard_name": "High Speed Rail Authority",
+  "people_count": 1,
+  "tree": {
+    "content_id": "41661",
+    "title": "High Speed Rail Authority",
+    "roles": [
+      {
+        "role": "Chief Executive Officer",
+        "person": "Timothy Parker",
+        "vacant": false,
+        "acting": false,
+        "email": "",
+        "phone": "",
+        "importance": 999
+      }
+    ],
+    "children": []
+  }
+}
