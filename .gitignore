@@ -45,3 +45,10 @@ sample_analysis.html
 .dropbox.cache
 desktop.ini
 .claude/
+
+# Org charts now live in the au-gov-org-charts repo
+org_charts/
+org_charts.html
+scrape_org_charts.py
+find_org_chart_pdfs.py
+directory_export.xml

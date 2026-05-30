@@ -994,6 +994,10 @@ let BRIEFS = {};
 // Org charts: dashboard agency name -> { slug, hasPdf }. Populated by an async
 // fetch of org_charts/index.json (+ pdf_index.json). Links to org_charts.html.
 let ORGCHARTS = {};
+// Org charts live in their own repo/site (au-gov-org-charts). The dashboard
+// links to that viewer and fetches its catalogue cross-origin (GitHub Pages
+// serves Access-Control-Allow-Origin: *).
+const ORGCHARTS_SITE = 'https://nick-claude-agents.github.io/au-gov-org-charts';
 const orgIcon = `<svg viewBox="0 0 20 20"><rect x="7" y="2" width="6" height="4" rx="1"/><rect x="2" y="14" width="5" height="4" rx="1"/><rect x="13" y="14" width="5" height="4" rx="1"/><path d="M10 6v4.5M4.5 14v-2.5h11V14" stroke="currentColor" stroke-width="1.3" fill="none"/></svg>`;
 // On-demand generation runs on your local server (run_brief_server.bat). The
 // public page links to it; the links only work on a machine running that server.
@@ -1057,7 +1061,7 @@ function renderCards(list) {
             : '');
       const oc = ORGCHARTS[a.name];
       const orgBtn = oc
-        ? `<a href="org_charts.html#${encodeURIComponent(oc.slug)}" target="_blank" rel="noopener" class="btn btn-org">
+        ? `<a href="${ORGCHARTS_SITE}/#${encodeURIComponent(oc.slug)}" target="_blank" rel="noopener" class="btn btn-org">
              ${orgIcon} Org Chart${oc.hasPdf ? '<span class="org-pdf-tag">PDF</span>' : ''}
            </a>`
         : '';
@@ -1139,11 +1143,11 @@ fetch('briefs/briefs-index.json')
 // Load org charts (directory.gov.au structure + published PDFs) and re-render
 // so matched cards gain an "Org Chart" button. Keyed by the dashboard name so
 // it survives the slug differences between this page and the chart files.
-fetch('org_charts/index.json')
+fetch(`${ORGCHARTS_SITE}/org_charts/index.json`)
   .then(r => r.ok ? r.json() : null)
   .then(data => {
     if (!data || !data.agencies) return;
-    return fetch('org_charts/pdf_index.json')
+    return fetch(`${ORGCHARTS_SITE}/org_charts/pdf_index.json`)
       .then(r => r.ok ? r.json() : { results: [] })
       .catch(() => ({ results: [] }))
       .then(pdf => {
