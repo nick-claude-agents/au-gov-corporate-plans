@@ -343,14 +343,15 @@
     justify-content: center;
   }
   .btn-brief:hover { background: #ffadb5; color: #8b0030; border-color: #ffadb5; }
-  .btn-brief-gen {
-    background: #fff;
-    color: #8b0030;
-    border: 1px dashed #e3a9b0;
+  .btn-brief-soon {
+    background: #f3f4f5;
+    color: #8a8f98;
+    border: 1px solid #e2e5e8;
     flex: 1;
     justify-content: center;
+    cursor: default;
   }
-  .btn-brief-gen:hover { background: #fff3f4; border-color: #ffadb5; }
+  .btn-brief-soon:disabled { opacity: 1; }
   .conf-badge {
     font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px;
     margin-left: 5px; color: #fff;
@@ -1036,8 +1037,7 @@ function renderCards(list) {
                : ''}
            </a>`
         : (isCurated(a)
-            ? `<a class="btn btn-brief-gen" target="_blank" rel="noopener" title="Generates on your local server (run_brief_server.bat must be running)"
-                 href="${LOCAL_SERVER}/generate?name=${encodeURIComponent(a.name)}&portfolio=${encodeURIComponent(a.portfolio)}&url=${encodeURIComponent(a.url)}">Generate BD Brief</a>`
+            ? `<button type="button" class="btn btn-brief-soon" disabled>Brief Coming Soon</button>`
             : '');
       html += `<div class="card">
         <div class="card-header">
