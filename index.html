@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Australian Government Corporate Plans</title>
+<title>Agency Analysis Dashboard</title>
 <style>
   :root {
     --au-blue: #1F735E;
@@ -196,6 +196,15 @@
     flex-shrink: 0;
   }
 
+  .portfolio-name {
+    background: var(--au-blue);
+    color: white;
+    padding: 6px 14px;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    font-weight: 700;
+  }
+
   .alpha-count {
     font-size: 0.78rem;
     color: var(--muted);
@@ -325,6 +334,26 @@
   }
 
   .btn-download:hover { background: var(--au-blue); color: white; border-color: var(--au-blue); }
+
+  .btn-brief {
+    background: #fff3f4;
+    color: #8b0030;
+    border: 1px solid #ffced3;
+    flex: 1;
+    justify-content: center;
+  }
+  .btn-brief:hover { background: #ffadb5; color: #8b0030; border-color: #ffadb5; }
+  .btn-brief-gen {
+    background: #fff; color: #8b0030; border: 1px dashed #e3a9b0;
+    flex: 1; justify-content: center;
+  }
+  .btn-brief-gen:hover { background: #fff3f4; border-color: #ffadb5; }
+  .btn-brief-loading { opacity: 0.75; cursor: progress; font-style: italic; }
+  .conf-badge {
+    font-size: 10px; font-weight: 700; padding: 1px 6px; border-radius: 3px;
+    margin-left: 5px; color: #fff;
+  }
+  .card-actions.has-brief { flex-wrap: wrap; }
 
   .btn svg { width: 14px; height: 14px; fill: currentColor; }
 
@@ -618,8 +647,8 @@
       <text x="50" y="22" text-anchor="middle" fill="#C8A84B" font-size="10">★★★★★★★</text>
     </svg>
     <div class="header-title">
-      <h1>Australian Government Corporate Plans</h1>
-      <p>Commonwealth Agencies, Departments &amp; Statutory Bodies — 2024–25</p>
+      <h1>Agency Analysis Dashboard</h1>
+      <p>Commonwealth Agencies, Departments &amp; Statutory Bodies — corporate plans &amp; BD briefs</p>
     </div>
   </div>
   <div class="header-controls">
@@ -944,6 +973,62 @@ function typeLabel(type) {
 const openIcon = `<svg viewBox="0 0 20 20"><path d="M11 3a1 1 0 100 2h2.586l-6.293 6.293a1 1 0 101.414 1.414L15 6.414V9a1 1 0 102 0V4a1 1 0 00-1-1h-5z"/><path d="M5 5a2 2 0 00-2 2v8a2 2 0 002 2h8a2 2 0 002-2v-3a1 1 0 10-2 0v3H5V7h3a1 1 0 000-2H5z"/></svg>`;
 const dlIcon   = `<svg viewBox="0 0 20 20"><path fill-rule="evenodd" d="M3 17a1 1 0 011-1h12a1 1 0 110 2H4a1 1 0 01-1-1zm3.293-7.707a1 1 0 011.414 0L9 10.586V3a1 1 0 112 0v7.586l1.293-1.293a1 1 0 111.414 1.414l-3 3a1 1 0 01-1.414 0l-3-3a1 1 0 010-1.414z" clip-rule="evenodd"/></svg>`;
 
+// BD briefs: slug -> { name, portfolio, plan_url, generated_at, plan_period,
+// overall_confidence }. Populated by an async fetch of briefs/briefs-index.json.
+let BRIEFS = {};
+function slugify(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+}
+function confColour(level) {
+  return { High: '#1B6B3A', Medium: '#BF360C', Low: '#999' }[level] || '#999';
+}
+function attr(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/"/g, '&quot;')
+                  .replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+// Generate a BD brief on demand via the local server (brief_server.py).
+async function generateBrief(btn) {
+  const { name, portfolio, url, slug } = btn.dataset;
+
+  const proceed = window.confirm(
+    'Generate BD Brief — ' + name + '\n\n' +
+    'This reads the corporate plan, searches the news, ANAO and Parliament, ' +
+    'and writes a full brief. It can take up to 10 minutes.\n\n' +
+    'You can leave this page and come back later — the brief keeps generating ' +
+    'and is saved when done. Reopen the dashboard and the button will show the ' +
+    'finished brief.\n\n' +
+    'Start now?'
+  );
+  if (!proceed) return;
+
+  const original = btn.innerHTML;
+  btn.disabled = true;
+  btn.classList.add('btn-brief-loading');
+  btn.innerHTML = 'Generating… up to 10 min — you can come back later';
+  try {
+    const res = await fetch('/api/brief', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ name, portfolio, url })
+    });
+    const data = await res.json();
+    if ((data.status === 'generated' || data.status === 'exists') && data.url) {
+      BRIEFS[slug] = { overall_confidence: data.confidence || '', name, portfolio };
+      window.open(data.url, '_blank', 'noopener');
+      filterCards();   // re-render so this card now shows an "open" button
+    } else {
+      alert('Could not generate brief: ' + (data.message || 'unknown error'));
+      btn.disabled = false; btn.classList.remove('btn-brief-loading'); btn.innerHTML = original;
+    }
+  } catch (e) {
+    alert('Brief generation needs the local server running.\n' +
+          'Start it with run_brief_server.bat (python brief_server.py), then ' +
+          'open http://127.0.0.1:8770.\n\n' + e);
+    btn.disabled = false; btn.classList.remove('btn-brief-loading'); btn.innerHTML = original;
+  }
+}
+
 function renderCards(list) {
   const container = document.getElementById('resultsContainer');
   const noResults = document.getElementById('noResults');
@@ -957,26 +1042,37 @@ function renderCards(list) {
 
   noResults.style.display = 'none';
 
-  // Group by first letter
+  // Group by portfolio
   const groups = {};
   list.forEach(a => {
-    const letter = a.name[0].toUpperCase();
-    if (!groups[letter]) groups[letter] = [];
-    groups[letter].push(a);
+    const key = a.portfolio || 'Other';
+    if (!groups[key]) groups[key] = [];
+    groups[key].push(a);
   });
 
   let html = '';
-  Object.keys(groups).sort().forEach(letter => {
-    const items = groups[letter];
+  Object.keys(groups).sort().forEach(portfolio => {
+    const items = groups[portfolio].slice().sort((x, y) => x.name.localeCompare(y.name));
     html += `<div class="alpha-group">
       <div class="alpha-heading">
-        <div class="alpha-letter">${letter}</div>
+        <div class="portfolio-name">${portfolio}</div>
         <span class="alpha-count">${items.length} entit${items.length === 1 ? 'y' : 'ies'}</span>
       </div>
       <div class="cards-grid">`;
 
     items.forEach(a => {
       const isPdf = a.urlType === 'pdf';
+      const slug = slugify(a.name);
+      const brief = BRIEFS[slug];
+      const briefBtn = brief
+        ? `<a href="briefs/${slug}.html" target="_blank" rel="noopener" class="btn btn-brief">
+             BD Brief${brief.overall_confidence
+               ? `<span class="conf-badge" style="background:${confColour(brief.overall_confidence)}">${brief.overall_confidence}</span>`
+               : ''}
+           </a>`
+        : `<button type="button" class="btn btn-brief-gen"
+             data-name="${attr(a.name)}" data-portfolio="${attr(a.portfolio)}"
+             data-url="${attr(a.url)}" data-slug="${slug}">Generate BD Brief</button>`;
       html += `<div class="card">
         <div class="card-header">
           <div class="card-name">${a.name}</div>
@@ -984,7 +1080,7 @@ function renderCards(list) {
         </div>
         <div class="card-portfolio">${a.portfolio}</div>
         <div class="card-desc">${a.description}</div>
-        <div class="card-actions">
+        <div class="card-actions has-brief">
           <a href="${a.url}" target="_blank" rel="noopener" class="btn btn-open">
             ${openIcon} ${isPdf ? 'Open PDF' : 'Open Web'}
           </a>
@@ -992,6 +1088,7 @@ function renderCards(list) {
             ? `<a href="${a.url}" download class="btn btn-download">${dlIcon} Download</a>`
             : `<a href="${a.url}" target="_blank" rel="noopener" class="btn btn-download">${dlIcon} View</a>`
           }
+          ${briefBtn}
         </div>
       </div>`;
     });
@@ -1033,6 +1130,28 @@ function clearFilters() {
 
 // Initial render
 renderCards(AGENCIES);
+
+// Delegated handler for the on-demand "Generate BD Brief" buttons.
+document.getElementById('resultsContainer').addEventListener('click', (e) => {
+  const btn = e.target.closest('.btn-brief-gen');
+  if (btn && !btn.disabled) generateBrief(btn);
+});
+
+// Load BD briefs (if any) and re-render so cards gain a "BD Brief" button.
+// Served from the same origin on GitHub Pages; ignored silently if absent
+// (e.g. opened from file:// where fetch is blocked).
+fetch('briefs/briefs-index.json')
+  .then(r => r.ok ? r.json() : null)
+  .then(data => {
+    if (data && data.briefs) {
+      BRIEFS = data.briefs;
+      filterCards();
+      const n = Object.keys(BRIEFS).length;
+      const el = document.getElementById('briefCount');
+      if (el) el.textContent = n;
+    }
+  })
+  .catch(() => { /* no briefs index yet — leave cards as-is */ });
 
 // ── Update Plans Modal ──────────────────────────────────────────────
 

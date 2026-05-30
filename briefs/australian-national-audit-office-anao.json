@@ -1,0 +1,112 @@
+{
+  "agency_name": "Australian National Audit Office (ANAO)",
+  "portfolio": "Parliament",
+  "plan_period": "2025-26 (four-year outlook to 2028-29)",
+  "executive_summary": "The ANAO is a small, specialist integrity agency that audits the Commonwealth on behalf of the Parliament. Its 2025-26 plan is dominated by enabling and corporate themes rather than program delivery: a flagged budget shortfall (performance audit targets cut from a JCPAA-recommended 48 to 38-42), a new digital strategy and AI policy, persistent workforce attrition and talent competition, and a drive to integrate and streamline its audit products. Because ANAO is itself the supreme audit institution and prizes independence, it is a cautious and conflict-sensitive buyer of external advice, and any work touching core audit functions is unlikely. Credible, proportionate opportunities sit in its corporate enablers — workforce/capability, digital and AI investment governance, and financial sustainability/costing — where independent advice does not compromise its mandate. Expect modest engagement sizes (short advisory or framework pieces), not multi-year delivery.",
+  "strategic_priorities": [
+    {
+      "title": "Impact where it matters",
+      "description": "Maximise the value and use of audit work by the Parliament, support the establishment of the 48th Parliament and the JCPAA, deepen public sector engagement, and trial integrated financial/performance statements audits and a 'rapid review' performance audit approach to reduce duplication and improve timeliness.",
+      "source_quote": "we will trial audit approaches for financial statements and performance statements audits that can be integrated to reduce duplication ... develop a 'rapid review' approach to performance auditing"
+    },
+    {
+      "title": "Performance through innovation",
+      "description": "Embed innovation in audit products and processes, adopt approved AI tools and an automation program to lift productivity and quality, apply a sharper risk focus to audit procedures, and develop a digital strategy to become a data-enabled organisation.",
+      "source_quote": "we will use approved artificial intelligence (AI) tools and other technology within audit work to improve productivity while maintaining quality"
+    },
+    {
+      "title": "Inspire and develop our people",
+      "description": "Build a skilled, adaptable, diverse workforce able to work flexibly across audit products; grow specialist capability (including climate-change disclosure auditing and AI use) via the ANAO Academy; and manage high attrition through workforce planning, development and retention.",
+      "source_quote": "Attrition is typically high in the profession. To best manage attrition, we focus on investing in high-quality training and creating a great place to work."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Budget constraint: current funding does not support the JCPAA-recommended 48 performance audits, with targets reduced to 38-42 reports to protect mandatory functions",
+    "Establishment of the 48th Parliament and re-establishment of the JCPAA, which reviews ANAO reports and budget",
+    "New audit product: ramping up performance statements audits and developing in-house capability for climate-change disclosure auditing",
+    "Adoption of AI and automation in audit work, requiring a new AI policy, safeguards and staff training",
+    "Development of a new ANAO digital strategy to become a 'data-enabled organisation'",
+    "Refresh of enterprise risks and a new Risk Management Framework 2025-27",
+    "APS Strategic Commissioning Framework intent to rebuild APS capability and limit reliance on contractors for core work"
+  ],
+  "challenges_and_risks": [
+    "Budget position constraining delivery of the audit work program (a named enterprise risk)",
+    "Workforce attraction and retention in a globally competitive audit talent market, with high sector attrition",
+    "Security of the sensitive information the ANAO holds, and cyber resilience",
+    "Capacity to deliver new/emerging audit areas (climate disclosures, AI-enabled auditing)",
+    "Investing sufficiently in tools and technology to audit contemporarily while maintaining quality",
+    "Maintaining institutional independence and reputation (risk appetite stated as 'low')"
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Workforce planning and retention strategy",
+      "agency_need": "High attrition, strong external competition for audit talent, and a need to grow capability across audit products and new fields (climate disclosures, AI).",
+      "mapped_service": "Workforce & Capability",
+      "suggested_offering": "A short workforce planning and retention strategy review: model attrition and skills supply/demand across audit products, assess the ANAO Academy's 'grow our own' pipeline, and recommend retention levers and a resourcing strategy for emerging capability needs.",
+      "rationale": "The plan repeatedly names attrition, competition for talent and workforce/capability risk as a focus, and elevates workforce planning as a 2025-26 activity — a clean, non-independence-sensitive fit.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital strategy and AI investment governance",
+      "agency_need": "Developing a digital strategy and a new AI policy, running an automation program, and needing assurance that technology investment delivers value while managing risk.",
+      "mapped_service": "Data, Digital & ICT Advisory",
+      "suggested_offering": "Independent advice on the digital strategy and a business case / investment governance framework for the AI and automation program — including data governance and benefits tracking — explicitly advisory, not systems build.",
+      "rationale": "The plan commits to a new digital strategy, AI policy and automation program in 2025-26 and flags tooling investment as an enterprise risk; independent investment governance advice is credible and proportionate.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and audit costing",
+      "agency_need": "Funding does not cover the recommended audit volume, and the agency must demonstrate cost-per-audit efficiency (CPI-capped) across three programs while making the case for adequate resourcing.",
+      "mapped_service": "Financial Management & Costing",
+      "suggested_offering": "A financial sustainability / costing review of the audit programs: an activity-based view of cost per audit product to support resource allocation, efficiency decisions and evidence for the JCPAA budget submission.",
+      "rationale": "The plan explicitly states current funding cannot deliver 48 audits and uses CPI-capped cost-per-audit efficiency measures; an independent costing lens supports budget advocacy. Tempered because ANAO has strong in-house financial expertise.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Audit product integration / operating model",
+      "agency_need": "Trialling integration of financial and performance statements audits and a 'rapid review' performance audit approach to cut duplication and improve timeliness.",
+      "mapped_service": "Strategy, Transformation & Organisational Design",
+      "suggested_offering": "A short operating-model / process design piece supporting the integration trial — mapping current vs future product workflows, hand-offs and resourcing implications — with change management support.",
+      "rationale": "The plan names a concrete intent to integrate audit products and develop rapid review approaches; however ANAO owns deep methodology expertise, so external help is at best a supporting role.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the ANAO Chief Operating Officer / corporate enabling group with a tailored workforce planning and retention proposition, referencing the plan's attrition and capability-risk language.",
+      "priority": "High",
+      "rationale": "Workforce is the most credible, independence-safe opportunity and is named as a 2025-26 enterprise risk and activity; a short, well-targeted advisory is proportionate to ANAO's size."
+    },
+    {
+      "action": "Prepare a one-page capability statement on independent digital/AI investment governance and data governance advice (explicitly not systems integration), timed to the development of the new digital strategy and AI policy.",
+      "priority": "Medium",
+      "rationale": "The digital strategy and AI policy are being built this year; positioning early as an independent adviser on governance and benefits (not delivery) fits both the need and the Consulting Firm's edge."
+    },
+    {
+      "action": "Carefully assess and pre-empt independence/conflict perception before any approach, and frame all offerings as corporate/enabling support that does not touch audit methodology or opinions.",
+      "priority": "High",
+      "rationale": "ANAO is the sector's assurance body with a 'low' reputation risk appetite; mishandling the independence optics would foreclose any relationship. the Consulting Firm must lead with conflict-management discipline."
+    },
+    {
+      "action": "Watch the JCPAA budget process and any tabled ANAO budget/resourcing recommendations for signals of funded uplift (digital, workforce) that could create procurement.",
+      "priority": "Medium",
+      "rationale": "The plan ties delivery capacity directly to the budget position determined via the JCPAA; funded outcomes there are where any external spend would originate."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / head of corporate and enabling services",
+    "People and capability branch / ANAO Academy lead (workforce planning, training)",
+    "Chief Information / Digital Officer or technology lead (digital strategy, AI, automation)",
+    "Chief Finance Officer (financial sustainability, audit costing)",
+    "Executive Board of Management (enterprise risk and strategic priorities owner)"
+  ],
+  "talking_points": [
+    "The plan names workforce attrition and talent competition as a standing risk — an independent, PGPA-fluent workforce and retention review can strengthen the 'grow our own' model without touching audit independence.",
+    "ANAO is building a digital strategy and AI policy this year; the Consulting Firm can provide independent investment-governance and data-governance advice (advisory, not systems build) to ensure the spend delivers measurable productivity and quality gains.",
+    "With funding unable to cover the JCPAA-recommended audit volume, an activity-based costing view of audit products could sharpen efficiency decisions and support the budget case to the Parliament.",
+    "We understand ANAO's independence and reputation sensitivities and would scope any engagement strictly to corporate/enabling functions, with explicit conflict-of-interest management.",
+    "The integration of financial and performance statements audits and the 'rapid review' approach are operating-model changes where independent process and change support can de-risk the transition."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "This is a deliberately enabling-focused plan from the Commonwealth's own audit and assurance body. Several the Consulting Firm service lines (Assurance, Governance/Risk, Evaluation/Performance) are precisely ANAO's own core expertise, so pitching them would be non-credible and is avoided here. ANAO's strong independence stance, 'low' reputation risk appetite, alignment with the APS Strategic Commissioning Framework (favouring in-house work), and small budget all constrain external advisory demand. The genuine, proportionate opportunities are modest, corporate in nature (workforce, digital/AI investment governance, costing), and would require careful conflict-of-interest management given ANAO audits the sector the Consulting Firm serves. Confidences are set accordingly low/medium; no named procurement is evident in the plan."
+}

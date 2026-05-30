@@ -4,3 +4,4 @@ anthropic
 pdfplumber
 beautifulsoup4
 requests
+flask

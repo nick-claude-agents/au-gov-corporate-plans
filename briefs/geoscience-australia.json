@@ -1,0 +1,204 @@
+{
+  "agency_name": "Geoscience Australia",
+  "portfolio": "Industry, Science and Resources",
+  "plan_period": "2024-25 (covers 2024-25 to 2027-28)",
+  "executive_summary": "Geoscience Australia is a mission-driven, data- and capital-intensive scientific agency (non-corporate Commonwealth entity) that has just secured significant long-term Budget funding for major new programs — most notably the 35-year Resourcing Australia's Prosperity (RAP) initiative, the Australia-US Landsat Next partnership, the design of the Critical Minerals Production Tax Incentive, and a new independent mineral testing function. These are foundational-year initiatives central to the Government's critical-minerals, net-zero and Future Made in Australia agendas, creating clear program-establishment, assurance and performance-framework demand. At the same time, the plan signals two important BD headwinds: a deliberate reduction in outsourcing of core work under the APS Strategic Commissioning Framework, and an admitted struggle to attract and retain scarce Earth-science, data-science and engineering talent. The best-fit opportunities are therefore specialist, independent advisory and assurance pieces (performance measures, probity, delivery assurance, governance/WHS implementation) rather than embedded core-science or core-corporate delivery.",
+  "strategic_priorities": [
+    {
+      "title": "Stand up Resourcing Australia's Prosperity (RAP)",
+      "description": "Establish and begin delivery of the new 35-year RAP initiative that replaces and builds on Exploring for the Future, mapping critical and strategic minerals, groundwater and other resources to support the net-zero transition. The plan describes the next 12 months as laying the foundations.",
+      "source_quote": "Our key new programs are Resourcing Australia's Prosperity... This expanded program, funded for 35 years targeting critical minerals and strategic minerals, is built on the success of, and replaces, the Exploring for the Future Program."
+    },
+    {
+      "title": "Deliver the Landsat Next / Earth-observation partnership",
+      "description": "Expand the multi-decadal partnership with the US Geological Survey and significantly enhance the Alice Springs ground station to be compatible with future Earth-observation satellites ahead of the 2031 launch.",
+      "source_quote": "the Alice Springs Ground Station capability will be significantly enhanced to ensure it is compatible with future Earth observation satellite technology."
+    },
+    {
+      "title": "Establish new critical-minerals functions",
+      "description": "Support the design and development of the Critical Minerals Production Tax Incentive and establish a new independent mineral testing function.",
+      "source_quote": "Geoscience Australia has been funded to support the design and development of the Critical Minerals Production Tax Incentive and establish an independent mineral testing function."
+    },
+    {
+      "title": "Strengthen the performance and reporting framework",
+      "description": "Continue a substantial overhaul of performance information — removing 16 measures, modifying 8, and adding new ones — and develop measures for new Budget initiatives (RAP, major assets under construction) for future reporting periods.",
+      "source_quote": "Some of our new initiatives and programs are in their early development... These performance measures will be incorporated into the next reporting period."
+    },
+    {
+      "title": "Reduce outsourcing of core work",
+      "description": "Bring core capabilities in-house in line with the APS Strategic Commissioning Framework, targeting reductions in Accounting and Finance, Data and Research, ICT and Digital Solutions, Information and Knowledge Management, and Science.",
+      "source_quote": "In 2024-25, Geoscience Australia will reduce outsourcing of core work in line with the APS Strategic Commissioning Framework... expected reduction of $899,896 excluding GST."
+    },
+    {
+      "title": "Mature data, digital and ICT capability",
+      "description": "Deliver the Data and Digital Strategy 2028 to make data and digital capability fit-for-purpose, secure and sustainable while managing rapidly growing data volumes and adopting AI, cloud and big-data tools.",
+      "source_quote": "Geoscience Australia's Digital and Data Strategy 2028 supports our ICT enterprise capability by enhancing our data maturity and consistency."
+    },
+    {
+      "title": "Implement WHS review recommendations",
+      "description": "Implement all recommendations from a commissioned review of the WHS management system covering physical and psychological risks, including sexual harassment and sexism.",
+      "source_quote": "Geoscience Australia commissioned a review of our WHS management system... We have committed to implementing all recommendations from the review."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Major new long-term Budget funding for RAP (35 years), Landsat Next and critical-minerals functions, shifting the agency into a foundational establishment year for several large programs",
+    "Government critical-minerals, net-zero and Future Made in Australia agendas placing the agency at the centre of national resource policy",
+    "APS Reform agenda and Strategic Commissioning Framework requiring core capabilities to be brought in-house and outsourcing reduced",
+    "Refreshed National Science and Research Priorities and National Science Statement requiring re-alignment of science investment",
+    "Government Data and Digital Strategy and Public Data Policy driving data-management and digital uplift; emerging AI, cloud and quantum technologies",
+    "Commissioned WHS management-system review with a commitment to implement all recommendations, including psychosocial and sexual-harassment risks",
+    "Refresh of the risk management framework in 2024 to align with the Commonwealth Risk Management Policy and ISO 31000:2018",
+    "Large capital and infrastructure investment (Alice Springs ground station enhancement, Symonston building refresh, repository and monitoring networks)"
+  ],
+  "challenges_and_risks": [
+    "Funding and resourcing may not support delivery of mandated functions (named strategic risk)",
+    "Inability to attract, develop and retain a skilled, diverse workforce in a highly competitive market for Earth-science, data-science and engineering skills (named strategic risk, reinforced by sector-wide 'geoscience crisis' reporting)",
+    "Risk of failing to appropriately acquire, preserve, protect, store and disseminate digital and physical information assets",
+    "Assets damaged or service delivery limited by natural disasters or extreme weather",
+    "Failure to maintain trust in programs, data, products and services",
+    "Avoidable WHS, environmental, community or cultural-heritage harm from field and other activities",
+    "Many new Budget programs (RAP, large assets under construction) lack mature performance measures, with 16 prior measures removed for lacking clear methodology — a performance-reporting gap",
+    "Reduced outsourcing appetite under the Strategic Commissioning Framework constrains the addressable market for delivery and core-function consulting"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Sector commentary (Times Higher Education, Science/AAAS, Eos) warns of a geoscience skills and funding 'crisis' that could undermine Australia's critical-minerals agenda and the US-Australia critical-minerals arrangement.",
+      "implication": "Reinforces the agency's own stated workforce risk and creates demand for workforce planning and capability uplift, though budget fragility can constrain procurement.",
+      "source": "Times Higher Education — https://www.timeshighereducation.com/opinion/our-geoscience-crisis-will-undermine-australias-critical-minerals-promise ; Science/AAAS — https://www.science.org/content/article/geoscientist-shortage-could-undermine-u-s-australian-deal-critical-minerals ; Eos — https://eos.org/opinions/australias-unfolding-geoscience-malady"
+    },
+    {
+      "summary": "Older trade reporting (2019) characterised Geoscience Australia as highly vulnerable to cyber attack, linked to an ANAO cyber-resilience audit; outside the 3-year window and dated.",
+      "implication": "ICT/cyber resilience is a recurring weakness theme that lends credibility to ICT-governance and assurance positioning, but the current posture must be verified before use.",
+      "source": "hackercombat.com — https://hackercombat.com/geoscience-australia-highly-vulnerable-to-cyber-attack/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit on the Procurement of the Southern Positioning Augmentation Network (SBAS), associated with Geoscience Australia's Positioning Australia work.",
+      "implication": "Procurement probity and value-for-money are an established audit focus; supports a procurement-assurance/probity offering for the agency's major upcoming procurements.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/procurement-the-southern-positioning-augmentation-network"
+    },
+    {
+      "summary": "ANAO Cyber Resilience performance audit (2017-18, No. 53) covered Treasury, National Archives and Geoscience Australia (outside the 3-year window; specific recommendation text not retrieved).",
+      "implication": "Prior ANAO scrutiny of cyber resilience makes demonstrable ICT-security and assurance capability relevant; confirm current status via the ANAO entity page.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/geoscience-australia"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Parliamentary Standing Committee on Public Works considered the Main Building Refresh Project for the Geoscience Australia building at Symonston, ACT.",
+      "implication": "An active capital works program signals project-delivery and delivery-assurance opportunities and parliamentary scrutiny of cost and scope.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/National_Capital_and_External_Territories/GeoscienceAusralia"
+    },
+    {
+      "summary": "Geoscience Australia lodged a submission to a Senate Select Committee inquiry (specific committee not confirmed from the search snippet).",
+      "implication": "The agency is engaged in policy inquiries; aligning offerings to inquiry themes can aid relevance, but the subject needs confirmation.",
+      "source": "Parliament of Australia (DocumentStore) — https://www.aph.gov.au/DocumentStore.ashx?id=bcf013d8-45d1-46ac-8f61-fa7eab024fd8&subId=680397"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Performance measures for new Budget programs",
+      "agency_need": "New initiatives (RAP, large assets under construction) lack mature performance measures, and 16 prior measures were removed for lacking clear methodology — leaving a gap before the next reporting cycle.",
+      "mapped_service": "Evaluation, Performance & Program Review",
+      "suggested_offering": "A performance-measure design engagement aligned to the PGPA performance framework (s16EA), building robust, methodology-backed measures and a benefits-realisation logic for RAP and the major asset programs ahead of the next corporate plan.",
+      "rationale": "The plan explicitly flags that new programs' measures will be incorporated next period, and Appendix A shows repeated removals due to weak methodology — a clear, evidenced and time-bound need that maps cleanly to a defined deliverable.",
+      "confidence": "High"
+    },
+    {
+      "area": "Delivery assurance for RAP establishment",
+      "agency_need": "RAP is a newly funded 35-year flagship in its foundational year, with the plan describing the next 12 months as laying the foundations.",
+      "mapped_service": "Assurance, Probity & Reviews",
+      "suggested_offering": "Independent, gateway-style delivery assurance and a foundational health check of the RAP program's governance, planning and benefits-management setup as it stands up.",
+      "rationale": "A named, large, long-term Budget program in its establishment phase is the strongest demand signal in the plan; independent assurance fits even where the agency runs delivery in-house under the Strategic Commissioning Framework.",
+      "confidence": "High"
+    },
+    {
+      "area": "Probity and procurement assurance for major procurements",
+      "agency_need": "Significant upcoming procurements (Landsat Next/Alice Springs ground station enhancement, the Symonston building refresh, RAP field and data acquisition).",
+      "mapped_service": "Commercial & Procurement Advisory",
+      "suggested_offering": "Procurement strategy, approach-to-market and evaluation support, plus probity advice/auditing for the large acquisitions flowing from the new programs.",
+      "rationale": "The ANAO SBAS procurement audit and a Public Works Committee referral for the building refresh show procurement is both active and under scrutiny — a credible, audit-reinforced fit.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "WHS review implementation assurance",
+      "agency_need": "The agency has committed to implementing all recommendations of a commissioned WHS management-system review covering physical and psychosocial risks, including sexual harassment.",
+      "mapped_service": "Governance, Risk & Audit Support",
+      "suggested_offering": "An implementation-assurance and governance uplift engagement tracking delivery of the review's recommendations, with control and committee-oversight design for psychosocial risk.",
+      "rationale": "A specific external review with a public commitment to implement all recommendations creates a defined, lower-sensitivity assurance/governance need that sits outside 'core science' insourcing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning for scarce specialist skills",
+      "agency_need": "A named strategic risk of failing to attract, develop and retain Earth-science, data-science and engineering talent in a highly competitive market, against expanding long-term programs.",
+      "mapped_service": "Workforce & Capability",
+      "suggested_offering": "A workforce/resourcing strategy and capability-uplift plan for the critical science and data disciplines, including early-career pipeline and employee value proposition design, supporting the People and Culture Strategy 2028.",
+      "rationale": "The plan names this as a strategic risk and lists mitigations (succession planning, early-career entry, EVP); external 'geoscience crisis' reporting reinforces it. Note the Strategic Commissioning Framework favours strategy/advice over outsourced staffing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and digital investment governance",
+      "agency_need": "Delivery of the Data and Digital Strategy 2028 amid rapidly growing data volumes, cloud/AI adoption and major Earth-observation infrastructure investment.",
+      "mapped_service": "Data, Digital & ICT Advisory",
+      "suggested_offering": "ICT/digital program governance and assurance, plus investment business-case advice for the Landsat Next ground-station and data-management uplift (advisory only, not systems build).",
+      "rationale": "The plan commits to a fit-for-purpose, secure data and digital capability and large EO infrastructure investment; prior ANAO cyber-resilience scrutiny adds credibility. Medium because the agency has strong internal ICT and an insourcing posture.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Risk framework refresh support",
+      "agency_need": "The agency is refreshing its risk-management artefacts and reporting in 2024 to align with the Commonwealth Risk Management Policy and ISO 31000:2018.",
+      "mapped_service": "Governance, Risk & Audit Support",
+      "suggested_offering": "An enterprise risk-framework refresh and risk-reporting streamlining, plus fit-for-purpose risk training development.",
+      "rationale": "The plan states risk artefacts will be refreshed and training developed; the fit is real but general and may be done in-house, so the opportunity is inferred rather than evidenced as a procurement.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the RAP program leadership and the Office of the Chief Scientist with a short proposition on independent delivery assurance and a benefits-management/performance-measure framework for RAP's foundational year.",
+      "priority": "High",
+      "rationale": "RAP is the agency's largest, newest, time-bound initiative in its establishment phase; assurance and performance design are both needed and both fit a non-core advisory engagement compatible with the insourcing agenda."
+    },
+    {
+      "action": "Offer the CFO/COO and the Audit and Risk Committee a scoping conversation on PGPA s16EA-aligned performance-measure design for the new Budget programs and major assets under construction.",
+      "priority": "High",
+      "rationale": "The plan openly states new measures are outstanding and Appendix A shows repeated methodology weaknesses — a clearly articulated, well-bounded need with a defined next reporting cycle deadline."
+    },
+    {
+      "action": "Prepare a probity/procurement-assurance capability statement referencing the ANAO SBAS audit and the Symonston building-refresh works, and target the procurement and corporate functions.",
+      "priority": "Medium",
+      "rationale": "Active major procurements plus existing ANAO and Public Works Committee scrutiny make independent probity and procurement support credible and timely."
+    },
+    {
+      "action": "Engage the Chief Risk Officer / Director Governance on assurance over implementation of the WHS review recommendations and the risk-framework refresh.",
+      "priority": "Medium",
+      "rationale": "A public commitment to implement all WHS review recommendations creates a defined, lower-sensitivity governance/assurance opportunity that sits outside core insourced functions."
+    },
+    {
+      "action": "Monitor the ANAO Industry, Science and Resources work program and Senate Economics Legislation Committee Estimates for Geoscience Australia coverage of RAP, Landsat Next and procurement.",
+      "priority": "Low",
+      "rationale": "Forthcoming audit or Estimates scrutiny would sharpen demand signals and provide a credible hook for assurance and governance conversations."
+    }
+  ],
+  "engagement_targets": [
+    "CEO's office / accountable authority (Dr James Johnson) for strategic, whole-of-agency positioning",
+    "Office of the Chief Scientist (science strategy, performance and partnerships)",
+    "RAP program leadership / Resourcing Australia's Prosperity branch (program establishment and assurance)",
+    "Chief Financial Officer / Chief Operating Officer (performance framework, financial sustainability, procurement)",
+    "Chief Risk Officer and Director - Governance (risk framework refresh, WHS implementation assurance)",
+    "Audit and Risk Committee (independent assurance and performance reporting)",
+    "Head of data and digital / ICT (Data and Digital Strategy 2028 governance and assurance)",
+    "People and Culture function (workforce planning and capability uplift)"
+  ],
+  "talking_points": [
+    "You're standing up RAP — a 35-year flagship — in its foundational year; independent, gateway-style delivery assurance now protects the program's long-term benefits without displacing your in-house delivery teams.",
+    "Your plan flags that new Budget programs and major assets still lack mature performance measures, and 16 prior measures were removed for weak methodology — we design PGPA s16EA-compliant measures that survive audit and ANAO scrutiny.",
+    "With the SBAS procurement audited by ANAO and the Symonston refresh before the Public Works Committee, independent probity and procurement assurance on your upcoming acquisitions is a sensible, low-regret investment.",
+    "You've committed to implementing every WHS review recommendation, including psychosocial risk — we provide independent implementation assurance and governance uplift to evidence that commitment to your minister and committee.",
+    "We understand the Strategic Commissioning Framework: our offer is senior, independent advice and assurance, not outsourced core science or staff augmentation — complementary to bringing capability in-house.",
+    "The sector-wide geoscience skills shortage is now a public risk to the critical-minerals agenda; we can help convert your People and Culture Strategy 2028 into a concrete workforce and early-career pipeline plan."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The supplied document is the 2024-25 corporate plan (covering 2024-25 to 2027-28) despite the 2025-26 source URL, so some specifics may be a year out of date. The plan is relatively high-level and boilerplate in places, with limited detail on financials, operating-model change or named procurements, so several opportunities are inferred from strategic-risk and capability statements rather than explicit initiatives. The most important headwind is the agency's explicit commitment under the APS Strategic Commissioning Framework to reduce outsourcing of core work (including Data and Research, ICT and Science) — this materially narrows the addressable market to independent assurance, probity, performance-framework, governance and strategic-advisory work rather than embedded delivery or core-function support. External research was incomplete due to search-tool limits; ANAO recommendation detail and specific Senate Estimates/QoN content were not retrieved and should be verified before use."
+}

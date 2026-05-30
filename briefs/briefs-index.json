@@ -1,0 +1,21 @@
+{
+  "generated": "2026-05-30",
+  "briefs": {
+    "geoscience-australia": {
+      "name": "Geoscience Australia",
+      "portfolio": "Industry, Science and Resources",
+      "plan_url": "https://www.ga.gov.au/__data/assets/pdf_file/0008/172538/GA-Corporate-Plan-2025-26.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2024-25 (covers 2024-25 to 2027-28)",
+      "overall_confidence": "Medium"
+    },
+    "australian-national-audit-office-anao": {
+      "name": "Australian National Audit Office (ANAO)",
+      "portfolio": "Parliament",
+      "plan_url": "(seeded from earlier test)",
+      "generated_at": "2026-05-30",
+      "plan_period": "2025-26 (four-year outlook to 2028-29)",
+      "overall_confidence": "Low"
+    }
+  }
+}

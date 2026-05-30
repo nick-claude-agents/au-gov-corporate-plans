@@ -18,9 +18,19 @@ scrape.yml
 test_*.py
 test_*.html
 analyse_*.py
+# ...but the corporate-plan BD analyser IS part of this project (needed by the
+# cloud Actions job), so keep it tracked:
+!analyse_corporate_plan.py
 __pycache__/
 opportunity_urls.json
 PROJECT_SUMMARY.md
+
+# Local-only BD brief artifacts / logs (the dashboard briefs in briefs/ ARE tracked)
+plan_analyser.log
+brief_refresh.log
+ga_analysis.*
+anao_analysis.*
+sample_analysis.html
 
 # Environment files
 .env

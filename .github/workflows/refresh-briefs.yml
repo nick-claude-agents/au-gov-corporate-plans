@@ -1,0 +1,60 @@
+name: Refresh & backfill BD briefs
+
+# Runs in the cloud (GitHub Actions), not on any local machine.
+# - Refreshes every brief older than 60 days (rolling 2-month cadence per brief).
+# - Generates a few missing curated briefs each run, so the cloud gradually
+#   backfills all agencies without blowing the API rate limit.
+# Requires the repo secret ANTHROPIC_API_KEY.
+
+on:
+  schedule:
+    - cron: '0 20 * * *'    # 6:00 AM AEST daily (after the 5:00 AM checker)
+  workflow_dispatch:
+    inputs:
+      backfill_limit:
+        description: 'How many missing briefs to generate this run'
+        required: false
+        default: '3'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: bd-briefs            # never let two brief jobs run/commit at once
+  cancel-in-progress: false
+
+jobs:
+  briefs:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350      # generation is slow on a low rate-limit tier
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Refresh briefs older than 60 days
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python manage_briefs.py --refresh-stale --max-age-days 60
+
+      - name: Backfill a few missing curated briefs
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          LIMIT="${{ github.event.inputs.backfill_limit || '3' }}"
+          python manage_briefs.py --all --curated --skip-existing --limit "$LIMIT"
+
+      - name: Commit and push briefs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add briefs
+          git diff --staged --quiet || git commit -m "Briefs update $(date -u +%Y-%m-%d)"
+          git push
