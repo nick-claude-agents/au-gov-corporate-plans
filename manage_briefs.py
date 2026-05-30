@@ -28,7 +28,9 @@ Usage:
 
 import argparse
 import json
+import os
 import re
+import subprocess
 import sys
 import time
 from datetime import date
@@ -102,6 +104,28 @@ def save_index(index: dict) -> None:
     BRIEFS_DIR.mkdir(exist_ok=True)
     INDEX_FILE.write_text(json.dumps(index, indent=2, ensure_ascii=False),
                           encoding="utf-8")
+
+
+def _git(*args) -> subprocess.CompletedProcess:
+    return subprocess.run(["git", *args], cwd=str(SCRIPT_DIR),
+                          capture_output=True, text=True)
+
+
+def commit_and_push(message: str) -> None:
+    """Commit briefs/ and push, rebasing over concurrent pushes. Used by
+    --commit-each so each brief is saved to the repo as soon as it's generated
+    (so a job timeout never discards generated work). No-op outside a git repo."""
+    _git("add", "briefs")
+    if _git("diff", "--staged", "--quiet").returncode == 0:
+        return                                   # nothing new to commit
+    _git("commit", "-m", message)
+    for _ in range(6):
+        if (_git("pull", "--rebase", "origin", "main").returncode == 0
+                and _git("push", "origin", "main").returncode == 0):
+            return
+        _git("rebase", "--abort")
+        time.sleep(4)
+    LOG.warning("commit_and_push: could not push '%s' after retries.", message)
 
 
 # ── Standalone brief page ──────────────────────────────────────────────────────
@@ -179,7 +203,8 @@ def generate_one(agency: str, portfolio: str, url: str, index: dict,
 
 # ── Modes ──────────────────────────────────────────────────────────────────────
 def run_all(skip_existing: bool, limit: int | None, only: str | None,
-            curated: bool = False, research: bool = True) -> int:
+            curated: bool = False, research: bool = True,
+            commit_each: bool = False) -> int:
     agencies = parse_agencies()
     if curated:
         agencies = [a for a in agencies if is_curated(a)]
@@ -208,13 +233,32 @@ def run_all(skip_existing: bool, limit: int | None, only: str | None,
         if result is not None:
             ok += 1
             save_index(index)       # persist after each success (resumable)
+            if commit_each:
+                commit_and_push(f"Brief: {a['name']}")
         else:
             fail += 1
         time.sleep(1)               # be gentle on source sites
     LOG.info("Backfill complete. Succeeded: %d, failed: %d.", ok, fail)
-    # Per-plan failures (e.g. a slow/stale source URL) are expected in a batch and
-    # must NOT fail the whole (scheduled) run — successes are still saved/committed.
+
+    # Remaining = curated-with-URL agencies still without a brief. Used by the
+    # workflow to decide whether to chain another run (only if progress was made).
+    have = set(index.get("briefs", {}))
+    remaining = sum(1 for a in agencies
+                    if a["url"] and slugify(a["name"]) not in have)
+    _report_counts(generated=ok, remaining=remaining)
+
+    # Per-plan failures (slow/stale source URLs) are expected in a batch and must
+    # NOT fail the whole run — successes are still saved/committed.
     return 0
+
+
+def _report_counts(generated: int, remaining: int) -> None:
+    """Log counts and, in GitHub Actions, expose them as step outputs."""
+    LOG.info("Run summary: generated=%d remaining=%d", generated, remaining)
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write(f"generated={generated}\nremaining={remaining}\n")
 
 
 def run_one(agency: str, portfolio: str, url: str, email_snippet: bool,
@@ -297,6 +341,9 @@ def main() -> int:
                         "scheduled 2-monthly refresh)")
     p.add_argument("--max-age-days", type=int, default=60,
                    help="With --refresh-stale: age threshold in days (default 60)")
+    p.add_argument("--commit-each", action="store_true",
+                   help="git commit+push each brief as it is generated (for the "
+                        "cloud job, so a timeout never loses generated work)")
     args = p.parse_args()
 
     core.load_env_file()
@@ -306,7 +353,7 @@ def main() -> int:
         return run_refresh_stale(args.max_age_days, args.limit, research)
     if args.all:
         return run_all(args.skip_existing, args.limit, args.only, args.curated,
-                       research)
+                       research, args.commit_each)
     if args.agency and args.portfolio and args.url:
         return run_one(args.agency, args.portfolio, args.url, args.email_snippet,
                        research)

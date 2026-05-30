@@ -2,19 +2,22 @@ name: Refresh & backfill BD briefs
 
 # Runs in the cloud (GitHub Actions), not on any local machine.
 # - Refreshes every brief older than 60 days (rolling 2-month cadence per brief).
-# - Generates a few missing curated briefs each run, so the cloud gradually
-#   backfills all agencies without blowing the API rate limit.
+# - Backfills missing curated briefs as fast as the API rate limit allows,
+#   committing each brief the moment it is generated (so a job timeout never
+#   loses work) and resuming via --skip-existing on the next run.
+# Runs every 6 hours so it keeps churning through the backlog, then becomes a
+# cheap no-op once every reachable agency has a brief.
 # Requires the repo secret ANTHROPIC_API_KEY.
 
 on:
   schedule:
-    - cron: '0 20 * * *'    # 6:00 AM AEST daily (after the 5:00 AM checker)
+    - cron: '0 */6 * * *'    # every 6 hours
   workflow_dispatch:
     inputs:
       backfill_limit:
-        description: 'How many missing briefs to generate this run'
+        description: 'Max briefs to generate this run'
         required: false
-        default: '6'
+        default: '100'
 
 permissions:
   contents: write
@@ -39,37 +42,39 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Refresh briefs older than 60 days
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: python manage_briefs.py --refresh-stale --max-age-days 60
 
-      - name: Backfill a few missing curated briefs
+      - name: Backfill missing curated briefs (commit each)
+        id: backfill
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          LIMIT="${{ github.event.inputs.backfill_limit || '6' }}"
-          python manage_briefs.py --all --curated --skip-existing --limit "$LIMIT"
+          LIMIT="${{ github.event.inputs.backfill_limit || '100' }}"
+          python manage_briefs.py --all --curated --skip-existing \
+            --limit "$LIMIT" --commit-each
 
-      - name: Commit and push briefs
+      - name: Commit any remaining briefs (safety net)
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
           git add briefs
           if git diff --staged --quiet; then
-            echo "No new briefs to commit."
+            echo "Nothing left to commit."
             exit 0
           fi
           git commit -m "Briefs update $(date -u +%Y-%m-%d)"
-          # The daily checker and ad-hoc pushes also target main; rebase+retry so a
-          # concurrent push doesn't lose the briefs we just generated.
           for i in 1 2 3 4 5; do
             if git pull --rebase origin main && git push origin main; then
               echo "Pushed."
               exit 0
             fi
             git rebase --abort 2>/dev/null || true
-            echo "Push race; retry $i..."
             sleep $((RANDOM % 8 + 3))
           done
           echo "Push failed after retries."
