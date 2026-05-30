@@ -1,0 +1,162 @@
+{
+  "agency_name": "Australian War Memorial (AWM)",
+  "portfolio": "Veterans' Affairs",
+  "plan_period": "2024-25 (covering 2024-25 to 2027-28)",
+  "executive_summary": "The AWM is a cultural/collecting institution in the midst of a once-in-a-generation $595m+ Development Project ('Our Continuing Story'), with phase-one new spaces (Southern Entry, Charles Bean Research Centre) transitioning into operations in 2024-25 and full completion by 2028. The dominant BD signals are the Transition Project (a new operating model, organisational structural review and change management to absorb 5,500m2 of new gallery space), genuine financial-sustainability pressure (a forecast $14.6m operating loss, 87% appropriation-dependent, with a mandate to grow non-government revenue), and a heavy digital/collections agenda (Digital Engagement Strategy, ICT Strategic Plan, the Memorial Enterprise Transformation (MET) Program, and large-scale digitisation). The APS Strategic Commissioning Framework also pushes AWM to reduce contractor/outsourced core work, so engagements should be framed as capability transfer rather than long-term staff substitution. This is a smaller-budget entity, so offerings must be proportionate: targeted advisory, framework design, evaluation, and discrete digital/data delivery rather than large embedded programs — with the notable exception of assurance and transition support for the major capital project.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver and transition the Development Project",
+      "description": "Complete phase one (Central Energy Plant, Southern Entry, Charles Bean Research Centre) and progress Anzac Hall/Glazed Link, while transitioning new functions and capabilities into live operations and integrating deliverables via the Transition Program.",
+      "source_quote": "Staged implementation of the Development Project activities delivered safely in line with approved project program and budget."
+    },
+    {
+      "title": "Build a sustainable operating model",
+      "description": "Run an organisational structural review and revised operating model that aligns revenue, services and structure to run a much larger post-development Memorial; reduce outsourcing of core work per the APS Strategic Commissioning Framework.",
+      "source_quote": "reviewing its operating model to ensure it has appropriate human resources in sufficient quantity and in the right areas to transition from pre- to post-development operations."
+    },
+    {
+      "title": "Grow and diversify non-government revenue",
+      "description": "Increase commercial (retail, F&B, ecommerce, licensing, events) and philanthropic income to offset a constrained fiscal position and forecast operating losses, leveraging new facilities.",
+      "source_quote": "Increase and diversify own source revenue... Increased revenue from commercial and philanthropic sources."
+    },
+    {
+      "title": "Digital access and collection modernisation",
+      "description": "Deliver the Digital Engagement Strategy and ICT Strategic Plan, enhance collections systems/repository, avoid technology obsolescence, and digitise at-risk and high-use items for online access.",
+      "source_quote": "investing in digital storytelling, access and enhancements to collections systems... The enhanced repository will facilitate automated access to digitised materials."
+    },
+    {
+      "title": "Care for and preserve the National Collection",
+      "description": "Acquire, conserve, digitise and store the collection per the Collection Development, Preservation and Hazard Management Plans, including Treloar Complex storage and logistics planning.",
+      "source_quote": "Items appropriate for the National Collection are identified, acquired and conserved in accordance with the Collection Development Plan, Hazard Management Plan and Preservation Plan."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "The $498.7m Development Project (plus a $50m variation and $47m ancillary investment) with a hard 30 June 2028 completion date — the largest change since 1941.",
+    "Transition Project (established 2022) to design a sustainable post-development operating model and absorb a 5,500m2 gallery expansion.",
+    "APS Strategic Commissioning Framework driving a reduction in outsourced/contractor core work (Trades & Labour, Administration, Data & Research) — including a planned reduction of seven contractor positions.",
+    "Financial pressure: forecast $14.6m operating loss in 2024-25, ongoing losses, 87% appropriation dependence, and unfunded asset-base depreciation, with ongoing operational funding still to be sought for expanded gallery space.",
+    "Digital Engagement Strategy and 2023-2028 ICT Strategic Plan, plus the Memorial Enterprise Transformation (MET) Program.",
+    "Demographic/audience shift: need to connect with younger visitors, recent veterans and post-pandemic interstate/international visitors (future audiences market research underway)."
+  ],
+  "challenges_and_risks": [
+    "Development Project may fail to deliver expected infrastructure/gallery outcomes against program and budget.",
+    "Inability to meet service levels through a period of significant change; disruption and competing priorities between project delivery and live operations.",
+    "Loss of key personnel, resourcing gaps and difficulty attracting/retaining staff in a tight labour market, plus pay-fragmentation issues.",
+    "Financial sustainability: structural operating losses and over-reliance on appropriation in a constrained fiscal environment.",
+    "Collections management complexity — preservation, digitisation and accessibility risks, plus complicated/ageing collection management systems and hazardous-material handling.",
+    "Failure to connect with young visitors and recent veterans, or to meet community expectations for commemorations and exhibitions."
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Post-development operating model and structural review",
+      "agency_need": "Design a sustainable operating model and organisational structure to run a much larger Memorial after the Development Project, aligning revenue, services and staffing.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model design and functional/structural review (6-16 weeks) defining the future hierarchy, roles and skills needed for post-development operations, with an implementation roadmap — delivered alongside change management.",
+      "rationale": "The plan explicitly names a Transition Project, an 'organisational structural review' and a 'revised operating model based on options that align revenue, services and organisational structure'. This is a named, time-bound reform with a clear owner.",
+      "confidence": "High"
+    },
+    {
+      "area": "Transition Program change management and workforce planning",
+      "agency_need": "Move staff from pre- to post-development operations, build delivery capability, and prepare an informed workforce for staged operational change while reducing reliance on contractors.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan and capability-uplift program supporting the transition — workforce modelling for the expanded site, change/communications support, and an insourcing transition plan aligned to the APS Strategic Commissioning Framework and the APS Census Action Plan.",
+      "rationale": "Capability section commits to 'reviewing the operating and resource model', an 'informed workforce, prepared for staged operational changes', plus an APS Census Action Plan and a target to reduce outsourcing of core work and contractor positions.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial sustainability and revenue diversification",
+      "agency_need": "Address structural operating losses ($14.6m forecast) and grow non-government revenue from commercial and philanthropic sources.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and commercial revenue model (6-12 weeks): cost/activity baseline, options to lift retail/F&B/ecommerce/licensing/events returns, and a financing strategy to inform the operational-funding case to government.",
+      "rationale": "The plan reports a constrained fiscal environment, a forecast operating loss, 87% appropriation dependence, unfunded depreciation, and explicit targets to increase and diversify own-source revenue using new facilities.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of the Development Project and its transition",
+      "agency_need": "Ensure the $595m+ Development Project delivers on program, budget and outcomes and that deliverables integrate cleanly into operations.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style delivery assurance / health checks at each phase (CEP, Southern Entry, Charles Bean Research Centre, Anzac Hall/Glazed Link) and assurance of the Transition Program's readiness for operational handover.",
+      "rationale": "The top enterprise risk is that 'the project fails to deliver appropriate outcomes', with a strategic response calling for 'appropriate oversight mechanisms to understand, measure and meet expected outcomes'. A capital program of this scale with a fixed 2028 deadline warrants independent assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Collections digitisation and repository modernisation",
+      "agency_need": "Enhance collections systems and the digital repository to enable automated access to digitised materials, avoid technology obsolescence and prevent loss through deterioration.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and solutions delivery for the enhanced collections repository — systems/process analysis, integration and implementation to support automated access to digitised materials, scaled in stages as capital allows.",
+      "rationale": "The Digital Engagement Strategy commits to 'enhancements to collections systems' and an 'enhanced repository [to] facilitate automated access to digitised materials'; the ICT Strategic Plan and MET Program reinforce a technology-modernisation agenda.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Future audiences research and engagement strategy",
+      "agency_need": "Understand and connect with future audiences (younger visitors, recent veterans, interstate/international visitors) and translate findings into an implementation strategy.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Future-audiences market research and segmentation, plus a data-informed implementation strategy and measurement framework to track visitation and engagement outcomes.",
+      "rationale": "Key Activity 3 names a performance target to 'Conduct the future audiences market research... finalise findings and develop an implementation strategy', directly tied to the risk of failing to connect with young visitors and recent veterans.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "MET Program and ICT/infrastructure delivery oversight",
+      "agency_need": "Deliver priority ICT and infrastructure projects on schedule and budget under the Memorial Enterprise Transformation (MET) Program and Priority Project Steering Group.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "PMO uplift / delivery support for the MET Program and priority-projects portfolio — benefits-management and reporting frameworks, and project-management discipline embedding aligned to the Staff Learning & Development goal of an org-wide PM discipline.",
+      "rationale": "Capability measures cite 'Implementation of the Memorial Enterprise Transformation (MET) Program' and a Priority Project Steering Group, alongside a commitment to 'facilitating an organisation-wide project management and leadership discipline'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance measure and evaluation uplift",
+      "agency_need": "Several performance measures are qualitative or activity-based (e.g. 'feedback and satisfaction levels remain positive'), with limited outcome focus for a period of major change.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign linking the four key activities to outcome measures and an evaluation approach for post-development service levels.",
+      "rationale": "The plan's measures lean heavily on attendance, satisfaction and delivery milestones; as new functions come online there is a clear case to strengthen outcome measurement. This is an inferred rather than explicitly stated need.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Director's office and the COO/CFO function with a financial-sustainability and revenue-diversification proposition tailored to the $14.6m operating loss and the post-development funding case.",
+      "priority": "High",
+      "rationale": "Financial sustainability is an explicit, board-level pressure with hard numbers; a proportionate review supports the operational-funding bid AWM says it must make to government for expanded gallery space."
+    },
+    {
+      "action": "Offer the Transition Program team a target operating model / structural-review and change-management capability statement, framed around insourcing core work under the APS Strategic Commissioning Framework.",
+      "priority": "High",
+      "rationale": "The structural review and operating-model work are named, time-bound and central to 2024-25; framing as capability transfer (not contractor substitution) aligns with AWM's commitment to reduce outsourcing."
+    },
+    {
+      "action": "Pitch independent, gateway-style delivery assurance to the Development Project / Transition Program governance (Council audit & risk committee and project SRO) ahead of each phase handover.",
+      "priority": "High",
+      "rationale": "The Memorial's number-one strategic risk is delivery failure of a $595m+ project with a fixed 2028 deadline; independent assurance is low-sensitivity and timely as phase-one functions transition into operations in 2024-25."
+    },
+    {
+      "action": "Prepare a short thought piece on collections-repository modernisation and digitisation delivery for the Digital Engagement / ICT leadership, referencing the MET Program and ICT Strategic Plan objectives.",
+      "priority": "Medium",
+      "rationale": "Digital and collections modernisation is a recurring multi-year theme; an early, specific point of view positions the firm for discovery and build work as capital is released in stages."
+    },
+    {
+      "action": "Watch for procurements arising from the future-audiences market research, the operating-model review and ICT/MET program, and monitor Portfolio Budget Statements for any new operational funding decision.",
+      "priority": "Medium",
+      "rationale": "These named initiatives are likely to go to market; funding outcomes will determine scope and timing, especially the unresolved operational-funding ask for expanded gallery space."
+    }
+  ],
+  "engagement_targets": [
+    "Director / CEO's office and the Council audit & risk committee (assurance and governance of the Development Project)",
+    "Chief Operating Officer / Chief Finance Officer function (financial sustainability, revenue diversification, budgeting)",
+    "Transition Program lead and the Priority Project Steering Group (operating model, structural review, change management)",
+    "Head of People/HR (workforce planning, APS Census Action Plan, insourcing transition)",
+    "Head of Digital Engagement / ICT (ICT Strategic Plan, MET Program, collections repository)",
+    "Development Project SRO / project governance (delivery assurance and handover readiness)"
+  ],
+  "talking_points": [
+    "You are transitioning phase-one functions into live operations in 2024-25 — independent gateway assurance at each handover de-risks the single biggest item on your enterprise risk register.",
+    "A forecast $14.6m operating loss and a mandate to grow commercial and philanthropic revenue point to a tight, proportionate financial-sustainability review that also strengthens your operational-funding case to government.",
+    "Your structural review and revised operating model need a target operating model that sizes the workforce for 5,500m2 of new gallery space — designed to insource core work in line with the APS Strategic Commissioning Framework, not entrench contractors.",
+    "Collections repository modernisation and automated digital access are multi-year ambitions — we can help scope discovery and then build and integrate, not just advise.",
+    "Future-audiences research is only valuable if it converts to an implementation strategy with measurable engagement outcomes — we can connect the research to a data-informed delivery plan."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a relatively thin, small-budget cultural institution plan; offerings are deliberately right-sized. The strongest, evidence-backed opportunities are the operating-model/transition work, financial sustainability, and Development Project assurance. Digital, MET and performance-measure items are inferred from brief references and carry lower confidence. The external research tool returned no usable results, so news, ANAO and parliamentary sections are empty — these should be refreshed before engagement, as AWM's Development Project has previously attracted significant public and parliamentary scrutiny that is not reflected here. Roles named are inferred from the plan's structure, as it does not name individuals beyond the Chair and Director."
+}

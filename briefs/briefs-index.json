@@ -72,6 +72,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "australian-war-memorial-awm": {
+      "name": "Australian War Memorial (AWM)",
+      "portfolio": "Veterans' Affairs",
+      "plan_url": "https://www.awm.gov.au/sites/default/files/corporate-plan-2024-28-final-compressed.pdf",
+      "generated_at": "2026-05-30",
+      "plan_period": "2024-25 (covering 2024-25 to 2027-28)",
+      "overall_confidence": "Medium"
     }
   }
 }
