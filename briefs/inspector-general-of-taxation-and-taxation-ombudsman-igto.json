@@ -1,0 +1,188 @@
+{
+  "agency_name": "Inspector-General of Taxation and Taxation Ombudsman (IGTO)",
+  "portfolio": "Treasury",
+  "plan_period": "2023-24 to 2026-27 (Corporate Plan 2024-2027)",
+  "executive_summary": "The IGTO is a micro statutory integrity agency (around 29 staff) that investigates taxpayer complaints/disputes about the ATO and Tax Practitioners Board and conducts systemic review investigations. The plan candidly admits acute resource pressure: a growing backlog of complex disputes, an 'unacceptably high' nine-month wait time, and forecast 5-10% annual growth in disputes as the ATO resumes compliance and debt-collection activity. Its single largest current initiative is implementing a new case management system (CMS) to digitally transform investigation services, alongside building an integrity framework to meet new NACC obligations and refreshing ATO protocols. As a Treasury-portfolio regulator/oversight body, demand fits data/analytics, digital delivery (CMS), governance/integrity, and workforce capability — but all opportunities must be right-sized to a tiny appropriation-funded agency that already outsources ICT and internal audit. A Senate inquiry into the IGTO's own performance adds a credible governance/capability signal.",
+  "strategic_priorities": [
+    {
+      "title": "Transform dispute investigation via a new case management system",
+      "description": "Implement a modern, secure CMS giving complainants a real-time portal to track disputes, improving transparency on delays, caseload monitoring and reporting; later expanded to review investigations, stakeholder and information management.",
+      "source_quote": "As a key current initiative, we are implementing a new case management system (CMS) which will digitally transform our investigation services."
+    },
+    {
+      "title": "Reduce backlog and improve timeliness of dispute investigations",
+      "description": "Address an 'unacceptably high' nine-month wait time and a growing backlog of complex/highly complex disputes, including via the Feb 2023 joint IGTO-ATO triage/assessment process, while protecting staff wellbeing.",
+      "source_quote": "The current wait time for an IGTO dispute investigation remains unacceptably high - nine-months."
+    },
+    {
+      "title": "Foster fairness, integrity and accountability (NACC obligations)",
+      "description": "Develop and implement an integrity framework and policies/processes to discharge obligations under the National Anti-Corruption Commission framework, as a named Commonwealth integrity agency from 1 July 2023.",
+      "source_quote": "the IGTO has considered how best to reallocate resources to develop policies and processes to ensure that we meet the obligations under the NACC legislative framework."
+    },
+    {
+      "title": "Improve data systems and capability to capture and report evidence",
+      "description": "Improve information and data capture, analysis and reporting to deliver meaningful reports and briefings that inform recommendations for improvement.",
+      "source_quote": "Improve our systems information and data capture, analysis and reporting capabilities to deliver meaningful reports and briefings."
+    },
+    {
+      "title": "Improve community awareness of IGTO services",
+      "description": "Raise awareness of the office, especially among vulnerable taxpayers and those outside metropolitan areas, via multi-channel communications and stakeholder leverage.",
+      "source_quote": "An important priority and persistent challenge for the IGTO is to improve the community's awareness of our office and the services we deliver."
+    },
+    {
+      "title": "Refresh protocols and guidelines with the ATO",
+      "description": "Refresh ATO protocols/guidelines to better communicate expectations, support effective investigations and enable escalation of significant matters to senior officers.",
+      "source_quote": null
+    },
+    {
+      "title": "Attract and retain tax/superannuation specialists and build resilience",
+      "description": "Establish IGTO as an employer of choice for scarce tax/super specialist and investigative talent, with training to AGIS standards and wellbeing support for staff in high-stress investigations.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "ATO resumption of compliance and debt-collection activities post-COVID, expected to drive a 5-10% annual rise in disputes (debt complaints were historically ~24% of receipts).",
+    "New NACC operations from 1 July 2023 making the IGTO a named Commonwealth integrity agency with new compliance obligations.",
+    "Economic pressures (high inflation, interest rates, debt, insolvency risk) increasing debt- and superannuation-related disputes.",
+    "ATO disclosure of tax debt to Credit Reporting Bureaus, which is paused where a dispute is lodged with IGTO - a direct workload driver.",
+    "Shift toward Complex and Highly Complex disputes that are resource- and time-intensive.",
+    "New CMS rollout (FY24) as a digital transformation of investigation services.",
+    "Planned abolition/replacement of the AAT affecting referral powers."
+  ],
+  "challenges_and_risks": [
+    "Nine-month dispute wait time and growing backlog of complex investigations against a 29-person workforce.",
+    "Micro-agency carrying the same mandatory corporate/compliance and reporting burden as the largest APS agencies.",
+    "Appropriation-dependent funding outside the agency's control, limiting capacity to scale.",
+    "Workforce risk: attracting and retaining scarce tax/super specialists; staff wellbeing in emotionally demanding roles (Key Risk 4).",
+    "Dependence on ATO for independent access to records/systems, with no sanction for non-compliance under the IGT Act.",
+    "Declining complainant survey results (59% service satisfaction in FY23 against a 70% target).",
+    "Reliance on external providers for ICT and internal audit.",
+    "Governance/effectiveness scrutiny via a Senate inquiry into IGTO performance."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The IGTO engaged publicly on the ATO's handling of re-raised historical ('on hold') tax debts, a live systemic issue in 2024.",
+      "implication": "A current systemic-review topic with stakeholder-communication and data-analysis dimensions where review-support could be relevant; confirm scope before approaching.",
+      "source": "Mathews Tax Lawyers, Apr 2024 - https://www.mathewstaxlawyers.com.au/taxation-news/ato-and-tax-updates/old-tax-debts-igto-weighs-in/"
+    },
+    {
+      "summary": "Trade press reported the ANAO being urged to audit ATO tax-debt reporting - adjacent to, not directly about, the IGTO.",
+      "implication": "Indicates sustained scrutiny pressure across the IGTO/ATO oversight space; useful context rather than a direct IGTO issue.",
+      "source": "Accountants Daily, Apr 2025 - https://www.accountantsdaily.com.au/tax-compliance/21222-anao-urged-to-undertake-audit-into-ato-tax-debt-reporting"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Management of Complaints by the Australian Taxation Office' examines the ATO's complaints handling - directly adjacent to the IGTO's role investigating ATO complaints. Specific findings naming the IGTO were not confirmed.",
+      "implication": "The ATO/IGTO complaints interface is an audited, scrutinised area - potential for process-improvement, data and assurance work; confirm whether IGTO is named in recommendations before pitching.",
+      "source": "ANAO - https://www.anao.gov.au/work/performance-audit/management-of-complaints-the-australian-taxation-office"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "A Senate Economics References Committee inquiry titled 'Performance of the Inspector-General of Taxation' examined the agency's own effectiveness, independence and capability.",
+      "implication": "Primary parliamentary record on the agency's effectiveness - essential reading for any governance, capability-review or assurance pitch; findings may directly create demand.",
+      "source": "Parliament of Australia - https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/Inspector-GeneralofTax"
+    },
+    {
+      "summary": "The IGTO appeared before the Joint Committee of Public Accounts and Audit (JCPAA) in June 2025.",
+      "implication": "Recent parliamentary engagement; Hansard may reveal funding, workload or performance pressures useful for shaping a proportionate offer.",
+      "source": "Tax Ombudsman (IGTO) - https://taxombudsman.gov.au/igt-at-jcpaa/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "New case management system - delivery and implementation",
+      "agency_need": "FY24 rollout of a new CMS to digitally transform investigation services, with a real-time complainant portal and improved caseload monitoring and reporting; later expansion to review investigations and information management.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design plus solutions implementation/integration support for the CMS and complainant portal, sized for a micro-agency that already uses third-party ICT providers - including business/process analysis and service transition support.",
+      "rationale": "The plan names the CMS as the 'key current initiative' to 'digitally transform our investigation services' and lists specific functional outcomes (real-time portal, delay transparency, caseload analytics), making this concrete and time-bound.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data capture, analytics and reporting capability",
+      "agency_need": "Strategic priority to improve systems information and data capture, analysis and reporting to inform recommendations, plus identifying systemic issues from complaint/dispute trends (KPA 2).",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and business-intelligence build to turn complaint and dispute data into trend analysis and reporting that informs own-initiative/review topic selection - a short framework/design engagement aligned to the CMS data.",
+      "rationale": "The plan explicitly prioritises improving data capture, analysis and reporting, and ties review-topic selection to analysis of complaint and dispute trends; the new CMS provides the data foundation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Integrity framework and NACC obligations",
+      "agency_need": "As a named Commonwealth integrity agency since 1 July 2023, IGTO must develop and implement a fit-for-purpose integrity framework and supporting policies/processes under the NACC framework.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short advisory to design/uplift the integrity framework, governance policies and escalation processes aligned to NACC obligations, building on the work of its newly engaged Integrity Officer.",
+      "rationale": "The plan names integrity-framework development as a strategic priority and a deliberate response to new NACC obligations - a clear, bounded governance need for a small agency.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance/governance review response (Senate inquiry)",
+      "agency_need": "A Senate Economics References Committee inquiry into the IGTO's own performance signals scrutiny of effectiveness, independence and capability.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent health check or governance assessment of the agency's operating model and dispute-service effectiveness, helping translate inquiry findings into an actionable response.",
+      "rationale": "The external Senate inquiry into IGTO performance creates credible demand for independent assurance/governance support; right-sized to a short review for a micro-agency.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce attraction, retention and resilience",
+      "agency_need": "Key Risk 4 and a strategic priority around attracting/retaining scarce tax/super specialists, AGIS-standard investigator training, and maintaining staff wellbeing during high-stress investigations.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A proportionate workforce plan and capability/retention strategy for specialist investigators, plus resilience/wellbeing program design - delivered as a short advisory given the small headcount.",
+      "rationale": "The plan repeatedly names workforce capability, retention and resilience as priorities and risks, with declining survey results adding pressure; offering must be modest in scale.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Dispute investigation process and timeliness improvement",
+      "agency_need": "Backlog reduction and timeliness against a nine-month wait time, with continuous improvement of the dispute investigation service and the IGTO-ATO triage process.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A short process-improvement/change engagement to streamline the dispute workflow and embed the new CMS-enabled triage, focused on cycle-time reduction and benefits tracking.",
+      "rationale": "The plan candidly flags an unacceptable wait time and backlog and commits to continuously optimising the dispute service and ICT - a real but general improvement need closely tied to the CMS.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the IGTO executive (and the Assistant Director - Risk, Governance and Compliance) with a right-sized CMS implementation/integration and complainant-portal proposition, positioned around the FY24 rollout.",
+      "priority": "High",
+      "rationale": "The CMS is the named flagship initiative; a micro-agency that outsources ICT will need delivery and integration support, and timing aligns with the rollout window."
+    },
+    {
+      "action": "Prepare a short capability statement on turning complaint/dispute data into trend analytics and reporting, referencing KPA 2 and the CMS data foundation.",
+      "priority": "Medium",
+      "rationale": "Data capture, analysis and reporting is an explicit priority and underpins systemic review-topic selection; a small, well-scoped BI engagement is credible."
+    },
+    {
+      "action": "Read the Senate Economics References Committee 'Performance of the IGTO' inquiry report and the June 2025 JCPAA Hansard before any governance/assurance pitch.",
+      "priority": "High",
+      "rationale": "These primary sources reveal effectiveness, funding and capability concerns and determine whether a governance health-check is timely and welcome."
+    },
+    {
+      "action": "Develop a modest NACC-aligned integrity-framework advisory offer to support the agency's Integrity Officer.",
+      "priority": "Medium",
+      "rationale": "New NACC obligations are a named, time-relevant governance need where a focused short advisory fits a micro-agency budget."
+    },
+    {
+      "action": "Watch for procurement signals around the CMS expansion (to review investigations, stakeholder and information management) and any funding outcomes from Treasury/Budget.",
+      "priority": "Medium",
+      "rationale": "The plan signals staged CMS expansion; appropriation-dependent funding means timing of any engagement hinges on budget decisions."
+    }
+  ],
+  "engagement_targets": [
+    "Inspector-General of Taxation / Taxation Ombudsman (Accountable Authority) and the senior executive team",
+    "Assistant Director - Risk, Governance and Compliance (risk, governance, NACC/integrity)",
+    "Integrity Officer (NACC obligations and integrity framework)",
+    "ICT / digital function and the CMS project owner (noting reliance on external ICT providers)",
+    "Independent Audit and Risk Committee (assurance and governance matters)",
+    "Dispute investigation service leads (process/timeliness improvement)"
+  ],
+  "talking_points": [
+    "Your CMS rollout is the agency's flagship transformation - we can provide proportionate implementation, integration and portal delivery for a micro-agency that relies on external ICT providers, without over-building.",
+    "The nine-month wait time and complex-dispute backlog are solvable with CMS-enabled triage and a focused process-improvement effort tied to measurable cycle-time reduction.",
+    "KPA 2 depends on turning complaint and dispute data into trend insight - we can stand up a lean analytics and reporting capability on top of your new CMS data.",
+    "New NACC obligations create a clear, bounded need to design an integrity framework and escalation processes - we can support your Integrity Officer with a short, practical advisory.",
+    "With a Senate inquiry examining IGTO performance, an independent operating-model and dispute-service health check can help you translate findings into a credible response.",
+    "Everything we propose is right-sized to a 29-person appropriation-funded agency - short advisories and staged delivery, not large programs."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a micro-agency (around 29 staff) with appropriation-only funding and existing reliance on external ICT and internal-audit providers, so all opportunities must be modest and staged - large delivery or transformation programs are not realistic. The strongest, clearly-evidenced opportunity is CMS-related digital/data work; governance, integrity, workforce and assurance offers are inferred from stated priorities/risks and are smaller and lower-confidence. External research was truncated and surfaced no scandal-level issues; the Senate performance inquiry and adjacent ANAO complaints-handling audit are the main external signals and their detailed findings were not fully verified. The plan analysed is the 2024-2027 edition; a later corporate plan and recent annual report should be checked for current funding, staffing and CMS status before engaging."
+}
