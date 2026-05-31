@@ -224,6 +224,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "Unknown (assumed 2025-26; source is the AgriFutures public website, not the published corporate plan)",
       "overall_confidence": "Low"
+    },
+    "wine-australia": {
+      "name": "Wine Australia",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "plan_url": "https://www.wineaustralia.com",
+      "generated_at": "2026-05-31",
+      "plan_period": "Unknown (web/site content; appears to cover the 2025-26 outlook referencing FY2024/25 delivery data)",
+      "overall_confidence": "Medium"
     }
   }
 }

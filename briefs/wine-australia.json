@@ -1,0 +1,166 @@
+{
+  "agency_name": "Wine Australia",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "plan_period": "Unknown (web/site content; appears to cover the 2025-26 outlook referencing FY2024/25 delivery data)",
+  "executive_summary": "Wine Australia is a small corporate Commonwealth entity (a Rural Research & Development Corporation) funded by grower/winemaker/exporter levies plus Commonwealth matching for R&D, with three core activities: Research, Innovation & Adoption; Market Development; and Regulatory Services. It is operating in a sector in acute financial distress (oversupply, flat levies) and is responding through the 2024 One Grape & Wine Sector Plan and a newly created Australian Wine Future Fund (with a Research & Innovation Fund and a Venture Investments Portfolio), enabled by July 2025 legislative changes that let it pursue non-levy funding. New build/initiatives — the National Vineyard Register and the Future Fund — plus a known ANAO probity focus on RDCs create credible, proportionate demand for investment-governance, program delivery, probity, data/ICT and financial-sustainability advisory. Keep all offerings sized to a small statutory authority under levy/budget pressure.",
+  "strategic_priorities": [
+    {
+      "title": "Stand up the Australian Wine Future Fund",
+      "description": "Operationalise a new investment vehicle with two streams — a Research & Innovation Fund and a Venture Investments Portfolio — to unlock non-levy investment while levies remain flat, leveraging increased Commonwealth matching from July 2025.",
+      "source_quote": "The Australian Wine Future Fund... two complementary streams: Research & Innovation Fund; Venture Investments Portfolio... in response to 2024's One Grape & Wine Sector Plan, which identified the urgent need to unlock additional investment while levies remain flat."
+    },
+    {
+      "title": "Deliver against the One Grape & Wine Sector Plan",
+      "description": "Coordinate sector-wide priorities and actions to 2030 to improve profitability and resilience and align plans across sector organisations toward Vision 2050.",
+      "source_quote": "a set of priorities and actions to help the sector reset the course for future resilience... improve profitability and resilience... until 2030."
+    },
+    {
+      "title": "Build the National Vineyard Register",
+      "description": "Create a planned national register/database of all grapevine plantings to help balance supply and demand and support sector initiatives.",
+      "source_quote": "The National Vineyard Register (NVR) is a planned register or database of all grapevine plantings in Australia."
+    },
+    {
+      "title": "Grow demand and premium through Market Development",
+      "description": "Increase demand and the premium paid for Australian wine across markets, including new domestic campaigns ('We make a wine for that') and emerging categories such as mid-strength/lighter lifestyle wines and export-market diversification (Canada, USA).",
+      "source_quote": "Market Development to increase the demand and premium paid for Australian wine across all markets."
+    },
+    {
+      "title": "Safeguard product integrity via Regulatory Services",
+      "description": "Maintain export and compliance regulation (product approvals, VI-1 certificates, shipping approvals, export licences) to uphold the sector's reputation and market confidence.",
+      "source_quote": "Regulatory Services to safeguard product integrity and uphold the sector's reputation."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "2024 One Grape & Wine Sector Plan setting priorities and actions to 2030",
+    "Legislative change from July 2025 increasing Commonwealth R&D matching and enabling Wine Australia to seek non-levy funding",
+    "Creation of the Australian Wine Future Fund, including a Venture Investments Portfolio (a non-traditional activity for an RDC)",
+    "Flat levy revenue against a backdrop of sector-wide oversupply and grower financial distress",
+    "Shifting global consumer preferences toward mid-strength / lighter lifestyle and NOLO wines",
+    "Export market diversification following past trade disruption (Canada, USA momentum)",
+    "Ethical/labour-exploitation risk management (Ethical Business Guide) and Reflect Reconciliation Action Plan commitments"
+  ],
+  "challenges_and_risks": [
+    "Structural oversupply and grower distress increasing scrutiny over how levy funds are deployed",
+    "Flat levy income limiting investment capacity, driving reliance on matching funds and new non-levy revenue",
+    "Establishing investment-governance and probity controls for a Venture Investments Portfolio — a higher-risk activity than traditional grant-style R&D funding",
+    "Delivery and data-integrity risk in building the National Vineyard Register",
+    "ANAO-identified probity focus across Rural RDCs (conflicts of interest, grants/contract management)",
+    "Reputational sensitivity: any consulting/admin spend in a distressed-sector context invites political and grower criticism",
+    "Wine Australia's narrow, non-advocacy remit creates dependence on partners (e.g. Australian Grape & Wine) and government during sector crises"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Industry coverage drawing on Wine Australia's own data reports that Australian wine production again exceeded sales in 2024-25, with stock levels up ~5%, and warnings that excess-wine stocks remain high amid an 'existential' oversupply crisis.",
+      "implication": "The levy-paying base is in acute distress, sharpening scrutiny of how funds and any restructuring/support are deployed — demand for strategy, evaluation and stakeholder-engagement work, but with high reputational sensitivity around spend.",
+      "source": "Meininger's International, 'Australian Wine Industry Faces Existential Crisis From Oversupply' (18 Dec 2025) — https://www.meininger.de/en/meiningers-international/insights/australian-wine-industry-faces-existential-crisis-oversupply"
+    },
+    {
+      "summary": "Commentary notes a Senate committee found the Wine Equalisation Tax (WET) rebate distorts the industry and is subject to widespread 'rorting' — a Treasury tax-policy issue affecting the sector, not conduct attributed to Wine Australia.",
+      "implication": "Tax/levy grievances colour grower sentiment toward all sector institutions; scope work to Wine Australia's actual remit (R&D, marketing, export regulation), not WET policy.",
+      "source": "The Conversation, 'Australia's reputation for fine wines is under threat' — https://theconversation.com/australias-reputation-for-fine-wines-is-under-threat-62432"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "An ANAO performance audit, 'Probity Management in Rural Research and Development Corporations', covers the RDC population to which Wine Australia belongs. The research could not confirm whether Wine Australia was specifically sampled or the entity-specific findings.",
+      "implication": "Probity, conflict-of-interest and grants/contract-management controls are a confirmed ANAO focus for RDCs — a credible entry point for governance-uplift, probity and assurance advisory, especially given the new Venture Investments Portfolio. Verify entity-specific findings before pitching.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/probity-management-rural-research-and-development-corporations"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Investment governance and probity for the Australian Wine Future Fund",
+      "agency_need": "A newly created fund with a Venture Investments Portfolio requires robust investment-decision governance, conflict-of-interest management and probity controls — activities riskier than traditional RDC grant funding, against an ANAO probity focus on RDCs.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "A probity advisory and probity-audit engagement for the Future Fund's investment processes, plus a conflict-of-interest and decision-governance framework — a short, senior advisory piece producing an investment-governance/probity playbook and ongoing probity oversight as investments are made.",
+      "rationale": "The plan explicitly establishes a Venture Investments Portfolio and a Research & Innovation Fund seeking non-levy capital; the ANAO RDC probity audit signals heightened scrutiny of exactly these controls. Non-legal probity is squarely in scope for the firm.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Establishing and governing the Future Fund as a program",
+      "agency_need": "Operationalising a two-stream fund (R&D Fund + Venture portfolio) with new legislative settings and non-levy fundraising needs delivery structure, governance design and benefits tracking.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance-framework and operating-model design for the Future Fund (decision rights, board/committee oversight, investment mandate, risk appetite), with a benefits-realisation framework — a 6-16 week design piece.",
+      "rationale": "The Fund is brand-new and central to the entity's strategy; a small statutory authority is unlikely to hold deep in-house fund-governance capability. Grounded in the plan's description of the Fund and the July 2025 legislative enablement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National Vineyard Register build and data foundation",
+      "agency_need": "A 'planned' national database of all grapevine plantings to balance supply and demand — currently conceptual, requiring discovery, design and a build.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A discovery and service-design phase followed by build/implementation of the National Vineyard Register, including data ingestion, integration with export/levy systems and ongoing support — secondary Data, Analytics & Information for the data model and supply/demand analytics.",
+      "rationale": "The plan states the NVR is 'a planned register or database' — i.e. not yet built — and frames it as an important sector resource. The firm can both design and build, differentiating from pure advisers.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability under flat levies and sector distress",
+      "agency_need": "Levy income is flat while the sector is in oversupply distress; the entity is reliant on matching funds and pursuing new non-levy revenue.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and funding-model analysis (levy + matching + non-levy revenue scenarios, cost-to-serve by activity), producing options to sustain investment capacity — a short senior advisory engagement.",
+      "rationale": "The plan itself cites 'the sector's levies remain flat' as the trigger for the Future Fund; external reporting confirms acute sector financial pressure. A corporate entity under revenue pressure is a strong financial-sustainability prospect.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "One Grape & Wine Sector Plan delivery and performance/evaluation",
+      "agency_need": "A 2024-2030 multi-organisation plan with priorities and actions needs coordinated delivery tracking and credible measurement of progress and impact.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Delivery/PMO support and a benefits-management framework for the Sector Plan's actions, with progress reporting aligned to the OGWSP State Progress Report cycle — secondary Strategy, Policy & Governance for outcome-evaluation design.",
+      "rationale": "The plan describes the OGWSP as a 'collective effort' to 2030 with state progress-report meetings, implying a coordination and reporting load suited to lightweight PMO and evaluation support.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Market insights and analytics capability",
+      "agency_need": "Wine Australia produces extensive market statistics, dashboards and insights (USA, Canada, mid-strength category) used for sector decision-making.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Business-intelligence and analytics uplift — dashboard modernisation, data integration and market-research support to extend the existing Market Insights function.",
+      "rationale": "The plan shows a mature, ongoing data/insights function; however the entity likely has strong in-house capability here, so demand is incremental rather than transformational.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the executive lead for the Australian Wine Future Fund (and the CFO/Company Secretary) to discuss investment-governance and probity readiness for the Venture Investments Portfolio.",
+      "priority": "High",
+      "rationale": "The Fund is the entity's flagship new activity and the riskiest from a governance/probity standpoint; getting in early — before investment processes are locked — maximises influence and aligns to the ANAO RDC probity focus."
+    },
+    {
+      "action": "Open and verify the ANAO 'Probity Management in Rural RDCs' audit and Wine Australia's own published summary-of-recommendations page, then prepare a short probity/governance health-check proposition tailored to the Future Fund.",
+      "priority": "High",
+      "rationale": "Confirmed audit focus + a new high-risk investment activity is the cleanest credible entry point; a verified, audit-anchored pitch will resonate with the audit/risk committee."
+    },
+    {
+      "action": "Prepare a capability statement on building data registers for the National Vineyard Register and seek a discovery conversation with the Research, Innovation & Adoption and Regulatory Services leads.",
+      "priority": "Medium",
+      "rationale": "The NVR is still 'planned', so there is a window to shape discovery and design before any approach to market; the firm's build capability differentiates it."
+    },
+    {
+      "action": "Develop a right-sized financial-sustainability/funding-model thought piece referencing flat levies and the matching-funds change, and share it with the CFO.",
+      "priority": "Medium",
+      "rationale": "The plan explicitly ties strategy to flat levies; a proportionate, credible funding-model angle suits a small entity under revenue pressure and avoids overreach."
+    },
+    {
+      "action": "Monitor RRAT Legislation Committee Senate Estimates and any procurement notices (AusTender) from Wine Australia for the Future Fund and NVR.",
+      "priority": "Medium",
+      "rationale": "Estimates and procurement signals will reveal timing, budget and political sensitivity; the external research could not confirm recent Estimates activity, so this gap needs closing."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive Officer",
+    "Chief Financial Officer / Company Secretary",
+    "Executive/General Manager responsible for the Australian Wine Future Fund and investment streams",
+    "General Manager, Research, Innovation & Adoption (owner of the National Vineyard Register)",
+    "General Manager, Regulatory Services",
+    "General Manager / Head of Market Development and Market Insights",
+    "Audit and Risk Committee"
+  ],
+  "talking_points": [
+    "The Venture Investments Portfolio takes Wine Australia into higher-risk investment activity than traditional RDC grants — we can stand up the investment-governance and (non-legal) probity controls that an ANAO probity lens on RDCs will expect.",
+    "With levies flat and a sector in oversupply distress, a disciplined funding-model and financial-sustainability review can show how to protect investment capacity across levy, matching and new non-levy revenue.",
+    "The National Vineyard Register is still at the 'planned' stage — we can run discovery and service design and then build and integrate it, not just advise.",
+    "The One Grape & Wine Sector Plan to 2030 is a multi-organisation effort; lightweight PMO and a benefits/evaluation framework would give you defensible evidence of progress at each State Progress Report cycle.",
+    "Everything we propose is sized for a small statutory authority and mindful of grower scrutiny over spend in a distressed sector."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The supplied 'plan' is website/marketing content rather than the formal PGPA corporate plan, so key activities and performance measures are inferred from public-facing material and the Future Fund/NVR/OGWSP descriptions rather than a structured planning document. Most opportunities are therefore Medium/Low confidence and would need validation against the actual corporate plan and budget. External research was explicitly truncated by search rate-limiting: the ANAO probity audit was identified but not confirmed as naming Wine Australia, and Senate Estimates/QON were effectively un-searched — these gaps should be closed before relying on the news, ANAO and Parliament sections. Offerings are deliberately right-sized to a small, levy-funded entity under financial pressure."
+}
