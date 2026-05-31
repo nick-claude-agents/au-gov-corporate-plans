@@ -1,0 +1,237 @@
+{
+  "agency_name": "Housing Australia",
+  "portfolio": "Treasury",
+  "plan_period": "2024-25",
+  "executive_summary": "Housing Australia is a corporate Commonwealth entity (a 'specialist investment vehicle' in the Treasury portfolio) that has roughly doubled in size in a single year (79 to 138 staff, heading to ~220) as it absorbed major new financing programs — the Housing Australia Future Fund Facility (HAFFF), National Housing Accord Facility (NHAF), an expanded National Housing Infrastructure Facility (NHIF) and the Home Guarantee Scheme. It is standing up programs, systems, risk frameworks and a workforce at speed, with more change pending (Help to Buy shared equity scheme, the extra $1bn NHIF for crisis/transitional accommodation). The plan openly flags reliance on contractors/consultants during establishment, immature outcomes-measurement methodology, a strengthening-but-evolving risk framework, and new technology/data builds. External scrutiny of HAFF delivery, cost and delay — including live ANAO performance audits and Senate inspection — sharpens demand for independent delivery assurance, program management, evaluation and financial/governance uplift. This is a high-growth, high-scrutiny financing body: strong fit for Programs/Change, Audit & Assurance, Financial & Accounting, Data & Analytics and Workforce work, sized to a lean (~200-person) organisation.",
+  "strategic_priorities": [
+    {
+      "title": "Stand up and scale the HAFFF and NHAF delivery",
+      "description": "Deliver Government dwelling targets — 30,000 social/affordable under HAFFF and 10,000 affordable under NHAF over five years — through new funding documentation, evaluation panels and approval processes built at speed in 2023-24.",
+      "source_quote": "Housing Australia's key activities substantially expanded as a result of the passage of the Housing Australia Future Fund Bill 2023... a rapid implementation of the HAFFF/NHAF programs was necessary."
+    },
+    {
+      "title": "Establish processes for the expanded NHIF (crisis/transitional accommodation)",
+      "description": "Build new funding documentation and processes to deliver the additional NHIF funding targeted at crisis and transitional accommodation for women and children fleeing domestic violence, and youth, working with DSS.",
+      "source_quote": "This will require the establishment of new funding documentation and processes to effectively deliver the program."
+    },
+    {
+      "title": "Prepare for new programs subject to legislation (Help to Buy, NHIF expansion)",
+      "description": "Position to deliver the Help to Buy shared equity scheme (a first-of-type Commonwealth program) and the $1bn NHIF expansion once legislation and Investment Mandate changes pass.",
+      "source_quote": "If the Help to Buy scheme does proceed, Housing Australia will need to manage the additional delivery risks associated with this program. This is an innovative program type, which will be delivered for the first time at a Commonwealth level."
+    },
+    {
+      "title": "Mature outcomes measurement and evaluation",
+      "description": "Refine methodologies to demonstrate program impact, value for money and additionality, and establish best-practice evaluation frameworks and reports after each funding round.",
+      "source_quote": "Housing Australia is continuing to refine its methodologies for reporting on outcomes... Evaluation framework developed to measure outcomes and impacts, and evaluation report prepared."
+    },
+    {
+      "title": "Build internal capability and a sustainable operating model",
+      "description": "Replace contractors/consultants with permanent staff, review the operating model around Origination, Credit, Treasury and Finance, and embed culture as the organisation grows to ~220 staff.",
+      "source_quote": "as we replace consultants and contractors with permanent and fixed-term staff... we expect to grow to about 200 staff by early 2025 and stabilise at around 220 staff."
+    },
+    {
+      "title": "Strengthen risk, technology and data foundations",
+      "description": "Mature the enterprise risk framework (three lines of defence), bring IT fully in-house from Export Finance Australia, build customer-facing/digitised systems, and strengthen the data governance framework.",
+      "source_quote": "We will continue to strengthen our data governance framework, ensuring our practices are comprehensive and scalable to meet the increasing complexity and volume of our data sets."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Major legislative expansion (Housing Australia Future Fund Act 2023, National Housing Supply and Affordability Council Act, Treasury Laws Amendment (Housing Measures No. 1) Act) that created HAFFF and NHAF responsibilities",
+    "Pending Help to Buy shared equity scheme legislation (before the Senate) and a pending Investment Mandate amendment for the additional $1bn NHIF",
+    "2024-25 Budget changes: NHIF liability cap raised to $10bn, Line of Credit to $4bn, NHIF redirected to crisis/transitional accommodation, Capacity Building Program doubled to $3m",
+    "Department of Finance establishing a central oversight/governance function for Specialist Investment Vehicles, increasing accountability expectations on balance-sheet risk",
+    "Government expectation that key functions be delivered by internal staff rather than contractors/consultants",
+    "Macroeconomic pressure: construction-sector cost inflation (~40% since 2019), insolvencies, tight rental markets, and capital-market funding costs that constrain delivery"
+  ],
+  "challenges_and_risks": [
+    "Rapid organisational growth straining operating model, systems and workforce; transition from heavy contractor/consultant reliance to permanent staffing with knowledge-transfer risk",
+    "Capacity and capability of the community housing sector to absorb funding and actually deliver supply (concentration in Tier 1/Tier 2 CHPs)",
+    "Delivery risk on first-of-type and time-bound programs (Help to Buy, crisis accommodation NHIF) against fixed Government dwelling targets",
+    "Immature outcomes/impact measurement methodology and newly introduced performance measures (rationalised from 35 to 14, several with 'Yes/No' targets)",
+    "Credit, financial, market and operational risk as lending, credit and portfolio-management activity grows in complexity",
+    "Cyber and data-governance exposure as the technology footprint and data sets expand and IT is brought in-house",
+    "Intense external scrutiny of HAFF delivery, cost and delay, including ANAO audits and parliamentary inquiries"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The AFR reported the Housing Australia Future Fund has been criticised for failing to deliver homes.",
+      "implication": "Delivery-performance pressure points to demand for program-management, pipeline-acceleration and independent delivery assurance.",
+      "source": "Australian Financial Review — https://www.facebook.com/financialreview/posts/1282718247222623/"
+    },
+    {
+      "summary": "The Canberra Times reported cost concerns shadowing the $10bn HAFF plan.",
+      "implication": "Value-for-money scrutiny suggests appetite for financial-modelling and cost-assurance advisory work.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/9215908/housing-australia-future-fund-cost-concerns-shadow-10bn-plan/"
+    },
+    {
+      "summary": "Industry outlet Australian Property Update reported the $10b housing fund faces delays, rising costs and an audit.",
+      "implication": "A delayed, audited program signals demand for delivery-recovery, governance uplift and audit-remediation support.",
+      "source": "Australian Property Update — https://australianpropertyupdate.com.au/apu/labors-10b-housing-fund-faces-delays-rising-costs-and-an-audit"
+    },
+    {
+      "summary": "The Conversation published analysis arguing the affordable housing fund is 'proving problematic' after a hopeful start.",
+      "implication": "Persistent policy-design critique points to opportunities in program evaluation and outcomes measurement.",
+      "source": "The Conversation — https://theconversation.com/after-a-hopeful-start-labors-affordable-housing-fund-is-proving-problematic-260085"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO lists a performance audit of the Housing Australia Future Fund on its work program.",
+      "implication": "A live/forthcoming audit creates near-term demand for audit-readiness, evidence-gathering and recommendation-implementation support.",
+      "source": "ANAO — https://www.anao.gov.au/work/request/performance-audit-of-the-housing-australia-future-fund"
+    },
+    {
+      "summary": "ANAO has an audit/request relating to HAFF availability payments.",
+      "implication": "Scrutiny of payment mechanisms suggests work in controls, payment assurance and contract management.",
+      "source": "ANAO — https://www.anao.gov.au/work/request/housing-australia-future-fund-haff-availability-payments"
+    },
+    {
+      "summary": "ANAO lists a performance audit titled 'Design and Implementation of the National Housing Accord and the Housing Australia Future Fund.'",
+      "implication": "Design/implementation focus signals opportunities in program-design assurance and implementation planning.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/design-and-implementation-of-the-national-housing-accord-and-the-housing-australian-future-fund"
+    },
+    {
+      "summary": "The Canberra Times reported the Greens and Liberals welcomed an ANAO audit of the Housing Future Fund (Oct 2025).",
+      "implication": "Cross-bench political support raises the audit's profile and the likelihood of follow-up remediation needs.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/9100123/greens-liberals-welcome-anao-audit-of-housing-future-fund/"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Senate Economics Legislation Committee reported on the Housing Package of Bills, with a chapter dedicated to the HAFF.",
+      "implication": "The committee record maps stakeholder concerns and design issues that can be used to position offers.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Economics/HousingPackageofBills/Report/Chapter_2_-_The_Housing_Australia_Future_Fund"
+    },
+    {
+      "summary": "A Senate Community Affairs References Committee inquiry into the worsening rental crisis addressed boosting social and affordable housing stock — the area Housing Australia delivers.",
+      "implication": "Inquiry findings highlight unmet supply targets, useful for shaping supply-acceleration and delivery proposals.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Worseningrentalcrisis/Final_Report/Chapter_2_-_Boosting_the_stock_of_social_and_affordable_housing"
+    },
+    {
+      "summary": "A Treasury Senate Estimates brief (Additional Estimates 2024-25, ref SB25-000090), released under FOI, relates to HAFF estimates questioning.",
+      "implication": "Estimates briefs reveal the metrics senators are probing (dwellings delivered, timelines), guiding evidence-led pitching.",
+      "source": "Treasury (FOI release) — https://treasury.gov.au/sites/default/files/2025-08/foi-3957_0.pdf"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Independent delivery assurance of HAFFF/NHAF",
+      "agency_need": "Deliver Government dwelling targets at speed under intense external scrutiny, with ANAO audits underway and public criticism of delays and cost.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A rolling, gateway-style independent assurance role over the HAFFF/NHAF delivery program — stage health checks at each funding round, plus audit-readiness support ahead of and in response to the ANAO performance audits.",
+      "rationale": "The plan describes programs stood up rapidly with new processes; external research confirms live ANAO audits of HAFF design, implementation and availability payments plus parliamentary scrutiny — a direct, time-bound assurance demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Program/PMO delivery support for new and pending programs",
+      "agency_need": "Establish funding documentation and processes for the expanded NHIF (crisis/transitional accommodation) and prepare to deliver the first-of-type Help to Buy scheme.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program establishment and PMO support — delivery planning, process and funding-documentation design, and a benefits/targets-management framework — with surge capacity for new funding rounds as legislation passes.",
+      "rationale": "The plan explicitly flags 'the establishment of new funding documentation and processes' for NHIF and 'additional delivery risks' for Help to Buy as a first Commonwealth-level program.",
+      "confidence": "High"
+    },
+    {
+      "area": "Outcomes and impact evaluation framework",
+      "agency_need": "Refine immature methodologies to demonstrate program impact, additionality, value for money, and social/environmental (incl. carbon, tenant) outcomes.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design a PGPA-aligned evaluation and outcomes-measurement framework with an evaluation plan and post-round evaluation reports (Measure 9), plus uplift of the newly introduced performance measures.",
+      "rationale": "Performance measure 9 commits to establishing best-practice evaluation each funding round, and the plan admits it is 'continuing to refine its methodologies for reporting on outcomes'; measures were cut from 35 to 14 with several thin Yes/No targets.",
+      "confidence": "High"
+    },
+    {
+      "area": "Impact and program data analytics",
+      "agency_need": "Quantify and report bond-proceeds impact, carbon emissions from housing development, and tenant social/economic outcomes for over 70 institutional investors.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Build an impact-data and analytics capability — data model, business intelligence and reporting — to evidence social/sustainability bond outcomes and program impact, supporting the in-development Sustainability Strategy.",
+      "rationale": "The plan states investors have 'strong interest in how bond proceeds are being used' and Housing Australia 'will need to continue to monitor and improve our understanding of the impact of our funding, including in relation to carbon emissions.'",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and operating-model review",
+      "agency_need": "Transition from contractors/consultants to permanent staff, grow to ~220, and review the operating model around Origination, Credit, Treasury and Finance.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan and target-operating-model review that maps capability needs, knowledge-transfer from departing contractors, and organisational design for the expanded functions.",
+      "rationale": "The plan commits to replacing contractors with permanent staff, notes knowledge-transfer reliance, and states it 'continue[s] to review our operating model to incorporate our new and expanded functions.'",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise risk framework uplift",
+      "agency_need": "Keep a fit-for-purpose risk framework and three-lines-of-defence model as the organisation grows in size and complexity, with Finance establishing central SIV oversight.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework and governance maturity review — refresh the Risk Appetite Statement, taxonomy, tolerances and committee (ARC) effectiveness against the heightened SIV oversight expectations.",
+      "rationale": "The plan states the risk framework 'continues to strengthen' and must 'remain fit for purpose to manage the risks of this growth'; Finance is establishing central SIV governance over balance-sheet risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and costing as a SIV",
+      "agency_need": "Maintain capital adequacy and reserves, assess dividend capacity, and demonstrate value for money for the Commonwealth amid cost-of-funding pressure.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and costing review — model capital adequacy, reserve build, cost-to-serve and value-for-money benchmarking — to support Board decisions and Finance's SIV oversight.",
+      "rationale": "The plan notes the Board must maintain adequate capital and reserves and consider dividends, no dividends yet paid, and Measure 8 ties funding allocation to value-for-money/cost benchmarks; news flags cost scrutiny.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Customer-facing systems and digitised processes",
+      "agency_need": "Enhance customer-facing systems and the HGS IT portal, and create a fully digitised end-to-end process to reduce support-team workload.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery, service design and build/integration for customer-facing systems and a digitised end-to-end lending/guarantee workflow, including the HGS portal, with ongoing support and operations.",
+      "rationale": "The plan commits to 'enhance our customer-facing systems', 'integrating advanced features', and 'creation of a fully digitised end-to-end process'; the firm can build, not just advise.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security and data governance assurance",
+      "agency_need": "Sustain a maturing cyber posture (ACSC-aligned roadmap) and a scalable data-governance framework as IT comes fully in-house and data volumes grow.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of in-housed systems and growing data sets, complementing existing third-party controls testing, plus data-governance framework support.",
+      "rationale": "The plan describes a cyber roadmap, 'regular schedule of controls testing through independent third-party audits', and a need to strengthen data governance with audits and tools.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Strategy & Transformation and program-delivery leads with an independent delivery-assurance and audit-readiness proposition for HAFFF/NHAF, referencing the live ANAO audits.",
+      "priority": "High",
+      "rationale": "ANAO performance audits of HAFF design/implementation and availability payments are underway and politically prominent; audit-readiness and remediation demand is immediate and time-bound."
+    },
+    {
+      "action": "Offer a short evaluation/outcomes-framework engagement to the Research, Data & Analytics function tied to Measure 9 and the next funding round.",
+      "priority": "High",
+      "rationale": "The plan openly admits methodology immaturity and commits to post-round evaluation; this is a clearly evidenced, near-term need with a defined deliverable."
+    },
+    {
+      "action": "Prepare a capability statement on program/PMO establishment for first-of-type schemes and brief the CEO/COO office ahead of Help to Buy and NHIF-expansion legislation passing.",
+      "priority": "Medium",
+      "rationale": "Both programs are pending legislation; positioning now captures the establishment work the plan says will be needed once mandates are updated."
+    },
+    {
+      "action": "Pitch a workforce-plan and operating-model review to People & Culture and the COO, framed around knowledge transfer as contractors are replaced.",
+      "priority": "Medium",
+      "rationale": "The plan commits to internalising functions and reviewing the operating model; this is enabling/corporate work that is less politically sensitive and easier to win."
+    },
+    {
+      "action": "Watch for Investment Mandate amendments, the tabling of the ANAO audits, and any HGS/portal procurements as triggers for assurance, financial and digital offers.",
+      "priority": "Medium",
+      "rationale": "Several opportunities are gated by legislative and audit timing; monitoring these events lets the firm engage at the moment of demand."
+    }
+  ],
+  "engagement_targets": [
+    "Head of Strategy & Transformation",
+    "Chief Risk Officer / Risk & Compliance function",
+    "HAFFF/NHAF program-delivery leads (Origination and Credit)",
+    "Chief Financial Officer / Finance function",
+    "Head of Research, Data & Analytics",
+    "Head of People & Culture",
+    "Head of Technology",
+    "Audit and Risk Committee (ARC) and the Board"
+  ],
+  "talking_points": [
+    "Your HAFFF/NHAF delivery is under live ANAO audit and parliamentary scrutiny — independent gateway-style assurance and audit-readiness can get ahead of findings rather than react to them.",
+    "Performance Measure 9 commits you to best-practice evaluation each funding round, yet the plan acknowledges outcomes methodology is still maturing — we can design a PGPA-aligned evaluation and outcomes framework now.",
+    "With Help to Buy and the NHIF crisis-accommodation expansion pending, we can stand up program establishment and funding-process design so you can deliver first-of-type schemes without re-running the contractor surge of 2023-24.",
+    "As you internalise functions and grow to ~220 staff, a workforce plan and operating-model review protects against knowledge loss as contractors roll off.",
+    "Investors and Finance's new SIV oversight both want hard evidence of impact and value for money — we can build the impact-data and costing capability to demonstrate it.",
+    "We can build as well as advise — customer-facing systems, the HGS portal and a fully digitised end-to-end process are squarely in scope."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is detailed and rich in BD signals, giving high confidence on the major opportunities (assurance, program delivery, evaluation). However, Housing Australia is a lean (~200-person) financing entity with significant in-house banking/finance/legal expertise and a Government push to use internal staff over consultants — so engagements should be positioned as specialist, time-bound and assurance/evaluation-led rather than large embedded teams. External research confirms the existence of ANAO audits and parliamentary scrutiny but not their detailed findings (search was rate-limited), so audit-remediation scope is inferred. Digital and cyber opportunities are lower-confidence: the plan signals activity but suggests much is already handled in-house or via third parties. Help to Buy and NHIF-expansion opportunities are contingent on legislation that had not passed at the plan's publication."
+}

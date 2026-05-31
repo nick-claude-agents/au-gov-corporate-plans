@@ -144,6 +144,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "housing-australia": {
+      "name": "Housing Australia",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.housingaustralia.gov.au/sites/default/files/2024-08/housing_australia_corporate_plan_2024-25.pdf",
+      "generated_at": "2026-05-31",
+      "plan_period": "2024-25",
+      "overall_confidence": "High"
     }
   }
 }
