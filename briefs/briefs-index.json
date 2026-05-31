@@ -232,6 +232,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "Unknown (web/site content; appears to cover the 2025-26 outlook referencing FY2024/25 delivery data)",
       "overall_confidence": "Medium"
+    },
+    "murray-darling-basin-authority-mdba": {
+      "name": "Murray-Darling Basin Authority (MDBA)",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "plan_url": "https://www.mdba.gov.au/publications-and-data/publications/corporate-plan",
+      "generated_at": "2026-05-31",
+      "plan_period": "2025-26 to 2028-29",
+      "overall_confidence": "Low"
     }
   }
 }

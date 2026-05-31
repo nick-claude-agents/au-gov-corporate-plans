@@ -1,0 +1,123 @@
+{
+  "agency_name": "Murray-Darling Basin Authority (MDBA)",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "plan_period": "2025-26 to 2028-29",
+  "executive_summary": "The supplied source is the MDBA corporate-plan landing/publications page, not the substantive plan text — so the document itself yields only the entity's statutory frame (Water Act 2007, Murray–Darling Basin Plan 2012, Basin Agreement 2008) and the fact that the 2025-26 to 2028-29 plan exists (11MB PDF, published 28 Aug 2025). MDBA is a water-management and river-operations authority operating in a highly contested, politically scrutinised environment, with Basin Plan delivery timelines under sustained pressure and active litigation over river-operations decisions. Genuine BD signals here come more from the external context — Senate Estimates scrutiny of Basin Plan settings, a Barmah–Millewa class action, and the perennial water-recovery delivery risk — than from the thin plan extract provided. Any opportunity below is inferred from MDBA's known mandate and the external research, and must be confirmed against the actual plan PDF before pursuit.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver and implement the Murray–Darling Basin Plan",
+      "description": "MDBA's core statutory task is implementing the Basin Plan 2012 and meeting water-recovery and review milestones, which the corporate plan (per the landing page) frames as collaborative work with governments, communities, industry and researchers over a four-year horizon.",
+      "source_quote": "Our corporate plan outlines the road ahead for MDBA for the next 4 years in our collaborative work with governments, communities, industry groups and researchers."
+    },
+    {
+      "title": "River operations and water management",
+      "description": "Day-to-day operation of the River Murray system and management of shared water resources under the Basin Agreement — an activity currently exposed to operational-risk litigation (Barmah–Millewa).",
+      "source_quote": null
+    },
+    {
+      "title": "Statutory compliance and Basin Plan review",
+      "description": "Discharging responsibilities under the Water Act 2007 and preparing for/responding to Basin Plan evaluation and review obligations.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Restoring Our Rivers Act and amended Basin Plan settings extending water-recovery timelines to 2027, creating new delivery and accountability pressures",
+    "Climate variability and drought cycles increasing demand for hydrological modelling and water-management decision support",
+    "Sustained political and parliamentary scrutiny of Basin Plan delivery milestones",
+    "Legal exposure from river-operations decisions (Barmah–Millewa Forest overbank transfers)"
+  ],
+  "challenges_and_risks": [
+    "Basin Plan delivery-timeline risk under intense political scrutiny in Senate Estimates",
+    "Active class-action litigation over river-operations and Barmah–Millewa Forest management, raising operational and reputational risk",
+    "Maintaining stakeholder and community trust across competing state, industry and environmental interests",
+    "Defensibility of technical/hydrological decisions given Estimates and discovery exposure",
+    "Note: enterprise risks cannot be confirmed because the substantive plan text was not supplied"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Senate Estimates featured a tense exchange between Senator Sarah Hanson-Young and DCCEEW secretary on whether government would commit to the Basin Plan delivery deadline; the plan was described as still being worked on.",
+      "implication": "Delivery-timeline and water-recovery risk is politically hot — likely appetite for program-assurance, delivery-acceleration and stakeholder-engagement advisory, with intense scrutiny of any work touching Plan milestones.",
+      "source": "The Mandarin — https://www.themandarin.com.au/205147-uncomfortable-discussion-on-murray-darling-basin-plan-timeline-in-senate-estimates/"
+    },
+    {
+      "summary": "A class action alleges MDBA and its delegates mismanaged operation/maintenance by causing or permitting 'overbank transfers' through the Barmah–Millewa Forest from October 2017.",
+      "implication": "Active litigation around river-operations decisions signals demand for operational-risk and hydrology-assurance support, but heightened sensitivity and document-discovery constraints around related engagements.",
+      "source": "Banton Group — https://bantongroup.com/mdba-class-action/"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "MDBA and DCCEEW were questioned on the broad implications of the new Murray–Darling Basin Plan settings in Senate Estimates on 16 February 2024.",
+      "implication": "MDBA's programs face recurring, detailed Estimates scrutiny — any consultant deliverable may be referenced in QoN/Hansard and must be defensible and Estimates-ready.",
+      "source": "Senate Estimates (video record), 16 Feb 2024 — https://www.youtube.com/watch?v=BbRknsfA1hs"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Basin Plan delivery assurance",
+      "agency_need": "Meeting amended water-recovery milestones under intense political scrutiny while demonstrating credible, defensible progress.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style assurance or health check of the Basin Plan delivery program, providing periodic, Estimates-ready confirmation of progress against milestones and risks.",
+      "rationale": "Senate Estimates exchanges show delivery-timeline risk is politically charged; independent assurance helps MDBA defend its program publicly. Confidence tempered because the actual plan content was not available to confirm program scope.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "River-operations and hydrology decision assurance",
+      "agency_need": "Defensibility of operational decisions following the Barmah–Millewa class action.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A review/health check of river-operations decision governance and documentation practices to strengthen defensibility — explicitly non-legal, complementing (not replacing) legal counsel.",
+      "rationale": "Active litigation over overbank transfers points to operational-risk and process-assurance demand; however, discovery sensitivities and the firm's non-legal status constrain scope, hence lower confidence.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Stakeholder and community engagement",
+      "agency_need": "Maintaining trust across contested state, industry, environmental and community interests during Plan delivery.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Community and stakeholder engagement strategy and delivery support for water-recovery and river-operations decisions affecting Basin communities.",
+      "rationale": "The plan landing page emphasises 'collaborative work with governments, communities, industry groups and researchers'; engagement is central to MDBA's mandate. Inferred from mandate rather than a named initiative.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Enterprise risk and governance uplift",
+      "agency_need": "Managing litigation, political and delivery risks within a robust governance framework.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and governance assessment aligned to the heightened operational and reputational exposure.",
+      "rationale": "Litigation and Estimates pressure suggest value in governance/risk uplift, but no named risk initiative is visible in the supplied text, so this is inferred.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and read the full MDBA Corporate Plan 2025-26 to 2028-29 PDF (11MB, published 28 Aug 2025) and re-run this analysis against its key activities, enterprise risks and performance measures.",
+      "priority": "High",
+      "rationale": "The supplied source contained no substantive plan content; every opportunity above is provisional until grounded in the actual document."
+    },
+    {
+      "action": "Prepare a short, Estimates-aware capability statement on independent delivery assurance for politically scrutinised programs and request a meeting with the executive/branch owning Basin Plan implementation.",
+      "priority": "Medium",
+      "rationale": "Basin Plan delivery-timeline risk is the most active and credible signal from the external research; assurance is the cleanest fit."
+    },
+    {
+      "action": "Complete the ANAO and a fuller Parliamentary/Hansard sweep that the external research left incomplete.",
+      "priority": "Medium",
+      "rationale": "Water-recovery accounting and Basin Plan implementation have historically attracted audit and committee interest; gaps in the research may hide strong demand signals."
+    }
+  ],
+  "engagement_targets": [
+    "Executive/Group responsible for Basin Plan implementation and water recovery",
+    "Head of River Operations",
+    "Chief Risk Officer / governance and risk function",
+    "Chief Operating Officer / corporate enabling function",
+    "Stakeholder engagement and communications branch"
+  ],
+  "talking_points": [
+    "Basin Plan delivery is under sustained Estimates scrutiny — independent, gateway-style assurance gives MDBA defensible, Estimates-ready evidence of progress against milestones.",
+    "With amended water-recovery timelines now in legislation, a benefits/milestone assurance cadence reduces the risk of public credibility gaps.",
+    "Following the Barmah–Millewa class action, strengthening river-operations decision governance and documentation (non-legal) supports defensibility.",
+    "Engagement across contested Basin communities is core to MDBA's mandate — structured stakeholder strategy can reduce friction around water-recovery decisions.",
+    "We can right-size to a smaller authority: short advisory reviews and framework pieces rather than large embedded programs."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied source is only the MDBA corporate-plan publications/landing page — it contains no substantive plan content (no key activities, enterprise risks, capability sections or performance measures). All strategic priorities and opportunities above are inferred from MDBA's statutory mandate (Water Act 2007, Basin Plan 2012, Basin Agreement 2008) and the external research, not quoted from the actual 2025-26 plan, which must be read before pursuit. The external research itself was explicitly incomplete: no ANAO findings were retrieved and the Parliamentary sweep was partial. MDBA is treated as a water-management/regulatory authority archetype — smaller, expertise-heavy, with limited appetite for large delivery programs — so offerings are kept proportionate. Litigation sensitivities and the firm's non-legal status further constrain the river-operations opportunity."
+}
