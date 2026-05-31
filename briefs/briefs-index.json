@@ -216,6 +216,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "Unknown",
       "overall_confidence": "Low"
+    },
+    "rural-industries-research-and-development-corporation-trading-as-agrifutures-australia": {
+      "name": "Rural Industries Research and Development Corporation (trading as AgriFutures Australia)",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "plan_url": "https://agrifutures.com.au/",
+      "generated_at": "2026-05-31",
+      "plan_period": "Unknown (assumed 2025-26; source is the AgriFutures public website, not the published corporate plan)",
+      "overall_confidence": "Low"
     }
   }
 }

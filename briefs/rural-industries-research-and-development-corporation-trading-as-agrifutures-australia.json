@@ -1,0 +1,155 @@
+{
+  "agency_name": "Rural Industries Research and Development Corporation (AgriFutures Australia)",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "plan_period": "Unknown (assumed 2025-26; source is the AgriFutures public website, not the published corporate plan)",
+  "executive_summary": "AgriFutures Australia (the trading name of RIRDC) is a corporate Commonwealth entity and rural Research and Development Corporation that invests statutory levy funds and matched Commonwealth funding on behalf of 13 levied industries plus emerging industries. It is a small, expertise- and grants-driven body whose core workload is commissioning, managing and extending R&D, and demonstrating value to levy payers and government. The most material BD signals are the new 2025-2034 Statutory Funding Agreement (incorporating 'levies modernisation') which triggers fresh performance, compliance and reporting obligations, and the cross-cutting national agendas it is leading - AI for agriculture (RDC AI Alliance), energy transition, connectivity and food/fuel supply-chain resilience. As a levy-funded entity it is sensitive to stakeholder legitimacy and probity, making governance, evaluation and probity work the strongest fits. Note: the supplied text is website content rather than the formal corporate plan, so several opportunities are inferred and confidence is calibrated accordingly.",
+  "strategic_priorities": [
+    {
+      "title": "Investing levy funds in industry R&D across 13 levied and emerging industries",
+      "description": "Commissioning and managing research projects (e.g. honey bee Varroa control, chicken meat AMR, export fodder yield, thoroughbred fertility) and extending findings to levy-paying industries.",
+      "source_quote": "Since our inception in 1990 ... AgriFutures has grown alongside our 13 levied industries ... supporting the growth and overall success of Australian agriculture."
+    },
+    {
+      "title": "Leading national, cross-sector challenges",
+      "description": "Driving coordinated national work on AI for agriculture (RDC AI Alliance), energy transition (Energy Transition Roadmap 2026-2035), on-farm connectivity and food/fuel supply-chain resilience.",
+      "source_quote": "The RDC AI Alliance recognises the transformative potential of AI for Australia's AFF sectors and is driving a coordinated effort to unlock sector-wide benefits."
+    },
+    {
+      "title": "Growing emerging industries",
+      "description": "Building new industries (sesame, industrial hemp, insects) through frameworks, extension services and capability, with a dedicated Emerging Industries function.",
+      "source_quote": "The Sesame Central Program Framework provides a comprehensive roadmap for developing a sustainable and commercially viable sesame industry in Australia."
+    },
+    {
+      "title": "Industry leadership and capability",
+      "description": "Developing rural leaders and researchers through Horizon and Gary Sansom scholarships and industry advisory panels that direct levy investment.",
+      "source_quote": "Supporting the next wave of industry-led agricultural leaders through the 2026 AgriFutures Horizon Scholarship."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "New 2025-2034 Statutory Funding Agreement took effect 1 January 2025, replacing the 2020-2030 agreement, to incorporate 'levies modernisation' legislative changes - creating fresh KPI, compliance and reporting obligations.",
+    "Introduction/administration of a compulsory Thoroughbred Breeders R&D levy following industry consultation, expanding levy governance responsibilities.",
+    "National policy momentum on AI in agriculture via the cross-RDC AI Alliance and a published situational/gap analysis.",
+    "Energy transition and on-farm connectivity agendas requiring new research and coordination.",
+    "Food and fuel supply-chain resilience pressures (National Food Supply Chain Assessment) drawing the entity into government coordination."
+  ],
+  "challenges_and_risks": [
+    "Reliance on levy revenue and matched Commonwealth funding makes financial sustainability sensitive to commodity cycles and levy-payer support.",
+    "Probity and conflict-of-interest exposure inherent in research-grant decision-making across many small industries (a documented ANAO focus area for RDCs).",
+    "Demonstrating measurable benefit/return on R&D investment to levy payers and government under a new funding agreement.",
+    "Stakeholder legitimacy in politically sensitive, welfare-adjacent sectors (e.g. thoroughbred breeding with a persistently low ~66% live-foal ratio).",
+    "Standing up new industries (sesame, hemp, insects) where commercial viability and evidence are still immature."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "AgriFutures introduced/administers a compulsory Thoroughbred Breeders R&D levy after industry consultation, in a sector carrying long-standing welfare scrutiny (e.g. a persistently low ~66% live-foal-to-mares-covered ratio).",
+      "implication": "Levy-funded industries are politically sensitive; engagements touching levy governance, levy-payer consultation or welfare-adjacent R&D should be framed around stakeholder legitimacy and transparency.",
+      "source": "AgriFutures Australia - https://agrifutures.com.au/news/thoroughbred-breeders-australia-compulsory-rd-levy/ ; DAFF - https://www.agriculture.gov.au/agriculture-land/farm-food-drought/levies/rates/thoroughbred-horses"
+    },
+    {
+      "summary": "A new 2025-2034 Statutory Funding Agreement took effect 1 January 2025, replacing the 2020-2030 agreement, to incorporate 'levies modernisation' legislative changes (operational change rather than a controversy).",
+      "implication": "A fresh funding/performance agreement signals near-term demand for KPI/measurement, compliance and program-design support.",
+      "source": "AgriFutures corporate governance page - https://agrifutures.com.au/about/corporate-governance/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Probity Management in Rural Research and Development Corporations' examined probity, conflict-of-interest and grant-decision controls across the RDC family (of which AgriFutures is one). Research could not confirm AgriFutures-specific findings or dates - treat as a lead.",
+      "implication": "Probity and COI controls in research-grant decisions are an audited risk area sector-wide - a credible basis for probity advisory and grant-process assurance offerings.",
+      "source": "ANAO - https://www.anao.gov.au/work/performance-audit/probity-management-rural-research-and-development-corporations"
+    },
+    {
+      "summary": "ANAO performance audit 'Design and Monitoring of the Rural Research and Development for Profit Programme' examined program design and monitoring/evaluation of rural R&D funding. AgriFutures-specific findings not confirmed in research.",
+      "implication": "Design, monitoring and evaluation of rural R&D funding has drawn audit attention - relevant to M&E and benefits-realisation work.",
+      "source": "ANAO - https://www.anao.gov.au/work/performance-audit/design-and-monitoring-the-rural-research-and-development-profit-programme"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Performance and compliance uplift under the new Statutory Funding Agreement",
+      "agency_need": "The 2025-2034 SFA and 'levies modernisation' create new KPI, reporting and compliance obligations that must be designed and embedded.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA- and SFA-aligned performance-measure and KPI redesign, with a reporting/compliance framework mapping obligations to evidence - a 6-12 week framework piece sized to a small entity.",
+      "rationale": "The new agreement is a concrete, time-bound trigger; corporate plans and SFAs require defensible performance measures, an area where AgriFutures must demonstrate value to government and levy payers.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Probity and conflict-of-interest assurance for research-grant decisions",
+      "agency_need": "Levy-funded grant decision-making across many industries and advisory panels carries probity and COI risk flagged by ANAO across the RDC sector.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "A non-legal probity health check and COI framework refresh for funding rounds and advisory-panel decisions, with probity plans for major rounds.",
+      "rationale": "ANAO's 'Probity Management in Rural R&D Corporations' audit signals sector-wide scrutiny; AgriFutures runs recurring competitive funding rounds and panel-driven levy investment, where probity controls are directly relevant.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Evaluation and benefits realisation of R&D investment",
+      "agency_need": "AgriFutures must demonstrate measurable return on levy and Commonwealth funding to industries and government.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A program/outcome evaluation and benefits-management framework for R&D portfolios, with evidence drawn from project data - an 8-16 week engagement.",
+      "rationale": "Cross-cutting programs (AI Alliance, emerging industries, energy/connectivity) and ANAO interest in monitoring/evaluation of rural R&D create demand for credible, independent evaluation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and analytics for AI-in-agriculture and connectivity agendas",
+      "agency_need": "AgriFutures is coordinating national AI and connectivity research and has published gap analyses, implying a need for data strategy and synthesis.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and research-synthesis piece to underpin the RDC AI Alliance and connectivity work, including business intelligence on industry contribution and impact.",
+      "rationale": "The published AI situational/gap analysis and connectivity research show active investment, but the entity's role is coordination rather than large build, so the fit is advisory/analytical.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability of a levy-funded corporate entity",
+      "agency_need": "Revenue depends on commodity levies and matched funding; cost pressure and new industries strain the funding model.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and costing of program/industry portfolios to inform levy investment allocation - a short senior advisory.",
+      "rationale": "As a corporate Commonwealth entity reliant on own-source levy revenue, financial sustainability is a recurring pressure; however the plan text does not name a specific financial trigger.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Stakeholder engagement and levy-payer legitimacy",
+      "agency_need": "Levy changes (e.g. thoroughbred levy) and welfare-sensitive sectors require transparent consultation and communication.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Levy-payer and stakeholder engagement design and communications support for levy/governance changes and advisory-panel recruitment.",
+      "rationale": "New compulsory levies and advisory-panel recruitment show active stakeholder management needs in politically sensitive sectors.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the General Manager Business Development / corporate governance lead with a short proposition on performance-measure and compliance uplift tied to the new 2025-2034 Statutory Funding Agreement.",
+      "priority": "High",
+      "rationale": "The SFA and levies modernisation are a concrete, recent trigger generating defined KPI and reporting obligations - the cleanest near-term entry point for a small entity."
+    },
+    {
+      "action": "Prepare a probity/COI capability statement referencing the ANAO 'Probity Management in Rural R&D Corporations' audit and offer a no-obligation probity health check of upcoming funding rounds.",
+      "priority": "Medium",
+      "rationale": "Sector-wide ANAO scrutiny gives a credible, non-confrontational reason to engage on grant-decision controls AgriFutures runs continuously."
+    },
+    {
+      "action": "Develop a one-page evaluation/benefits-realisation thought piece for rural R&D and seek a meeting with the heads of the relevant program areas (Emerging Industries, National Challenges and Opportunities).",
+      "priority": "Medium",
+      "rationale": "Demonstrating R&D impact is a standing need and aligns with ANAO interest in monitoring/evaluation; positions the firm ahead of the next investment cycle."
+    },
+    {
+      "action": "Re-run external research against aph.gov.au (RRAT Estimates, QoN) and the ANAO report bodies to confirm any AgriFutures-specific findings before a partner meeting.",
+      "priority": "Medium",
+      "rationale": "The supplied research was incomplete; confirming or ruling out parliamentary and audit findings sharpens the pitch and avoids over-claiming."
+    }
+  ],
+  "engagement_targets": [
+    "Managing Director / CEO office (small entity - leadership sets advisory spend)",
+    "General Manager, Business Development / Corporate Services (SFA, performance, compliance, finance)",
+    "Chief Financial Officer / corporate governance lead",
+    "Managers of program areas: Emerging Industries; National Challenges and Opportunities; levied-industry program managers",
+    "Board Audit and Risk Committee (probity, risk and assurance oversight)"
+  ],
+  "talking_points": [
+    "The new 2025-2034 Statutory Funding Agreement and levies modernisation reset your performance and compliance obligations - we can redesign KPIs and a reporting framework that hold up to government and levy payers.",
+    "ANAO has scrutinised probity and grant-decision controls across the RDC family - an independent, non-legal probity health check of your funding rounds is a low-risk way to get ahead of it.",
+    "Demonstrating measurable return on levy investment is your standing challenge; a portfolio evaluation and benefits framework gives you defensible evidence of impact.",
+    "You're coordinating national AI, energy and connectivity agendas - we can provide the data strategy and research synthesis to underpin them without duplicating your delivery partners.",
+    "Engagements will be right-sized to a small, levy-funded entity - short senior advisory and framework pieces, not large programs."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied 'plan text' is the AgriFutures public website rather than the formal PGPA corporate plan, so strategic priorities, risks and performance measures are inferred from web content and the external research, not read directly from the plan. Most opportunities are therefore Medium/Low confidence. The strongest, evidence-backed signal is the new 2025-2034 Statutory Funding Agreement. ANAO findings are unconfirmed leads (not verified as naming AgriFutures specifically) and no parliamentary material was retrieved - both should be re-run before relying on this brief. Offerings have been deliberately kept proportionate to a small corporate Commonwealth entity."
+}
