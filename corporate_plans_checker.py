@@ -347,7 +347,11 @@ def main():
         html += "</table><br>"
 
     if broken:
-        html += f"<h3 style='color:#BF360C'>Broken Links ({len(broken)})</h3><ul style='font-size:13px'>"
+        html += f"<h3 style='color:#BF360C'>Broken Links ({len(broken)})</h3>"
+        html += ("<p style='font-size:12px;color:#777;margin:0 0 8px'>These plan URLs "
+                 "failed on 2+ consecutive daily checks (not a one-off timeout) and "
+                 "may have moved — worth verifying in a browser.</p>")
+        html += "<ul style='font-size:13px'>"
         for b in broken:
             html += f"<li><strong>{b['name']}</strong> ({b['portfolio']}) - <a href='{b['url']}' style='color:#BF360C'>{b['url']}</a></li>"
         html += "</ul><br>"
