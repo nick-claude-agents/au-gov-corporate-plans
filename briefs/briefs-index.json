@@ -168,6 +168,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2024-25",
       "overall_confidence": "Medium"
+    },
+    "national-disability-insurance-agency-ndia": {
+      "name": "National Disability Insurance Agency (NDIA)",
+      "portfolio": "Social Services",
+      "plan_url": "https://www.ndis.gov.au/about-us/publications/corporate-plan",
+      "generated_at": "2026-05-31",
+      "plan_period": "2025-26 (4-year outlook)",
+      "overall_confidence": "Low"
     }
   }
 }
