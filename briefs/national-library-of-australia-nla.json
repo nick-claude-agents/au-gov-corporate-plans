@@ -1,0 +1,186 @@
+{
+  "agency_name": "National Library of Australia (NLA)",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications and the Arts",
+  "plan_period": "2024-25",
+  "executive_summary": "The NLA is a corporate Commonwealth entity and cultural/collecting institution stewarding one of the world's largest collections, with its national digital platform Trove at the centre of its mission. This year's plan is dominated by infrastructure modernisation: a five-year roadmap to replace Trove's end-of-life software (including its metadata engine), cyber-security uplift, major heritage-building works on the Parkes building, and an extension of the Hume Repository to address long-term collection storage. The plan openly flags funding-sustainability risk, end-of-life core IT systems, labour-market competition for specialist skills, and new (baseline-to-be-set) performance measures. Notably, the NLA is reducing outsourcing under the APS Strategic Commissioning Framework, which is a headwind for advisory spend, so opportunities should be proportionate to a modest budget and concentrated where the Library lacks internal capacity (digital build, costing/business cases, assurance). ANAO follow-on audit findings (storage strategy, deselection/disposal policy, business continuity, LMS security) and a reported staff underpayment add concrete, demand-creating pressures.",
+  "strategic_priorities": [
+    {
+      "title": "Modernise and stabilise Trove",
+      "description": "Execute a five-year implementation roadmap to replace Trove's end-of-life software, stabilise and secure the platform, and replace the underlying metadata engine to improve efficiency and capacity.",
+      "source_quote": "We are executing a five-year implementation roadmap to replace Trove's end-of-life software elements, and to stabilise and secure the platform... Modernise the underlying infrastructure to improve Trove's efficiency and capacity, including replacement of the metadata engine."
+    },
+    {
+      "title": "Major building works and long-term collection storage",
+      "description": "Progress major works and preventative maintenance on the heritage-listed Parkes building, construct the Hume Repository extension, and plan for longer-term storage needs while remaining open to the public.",
+      "source_quote": "Progress the major building works and preventative maintenance program... Construct the extension to the Hume Repository and continue to plan for longer-term storage needs."
+    },
+    {
+      "title": "Digital, data and cyber capability uplift",
+      "description": "Execute the Digital Strategy to ensure suitable digital infrastructure, uplift cyber security, adopt cloud/SaaS in line with government priorities, deliver a more accessible website and collection search, and operationalise handwritten text recognition/transcription.",
+      "source_quote": "Execute the National Library's Digital Strategy to ensure ongoing suitability of digital infrastructure, uplift cyber security, responsibly adopt technology..."
+    },
+    {
+      "title": "Funding sustainability and demonstrating return on investment",
+      "description": "Secure a sustainable funding and resource model to meet the institutional mandate, maintain the heritage building, and sustain Trove to world-leading standards; continue to advocate for future funding needs to government.",
+      "source_quote": "The National Library does not have a sustainable funding and resource model to meet its institutional mandate... The National Library will continue to advocate for future funding needs through reporting to government."
+    },
+    {
+      "title": "Reshape workforce and reduce reliance on external labour",
+      "description": "Strengthen capability via the Strategic People Pathway, reduce outsourcing of core (initially information/knowledge management) work under the APS Strategic Commissioning Framework, and embed the new Enterprise Agreement.",
+      "source_quote": "In 2024-25, the National Library will reduce outsourcing of core work in line with the Government's APS Strategic Commissioning Framework."
+    },
+    {
+      "title": "Refresh the performance framework",
+      "description": "Introduce new effectiveness measures (digital and onsite visitor satisfaction surveys with baselines to be set) and retire several output/service-charter measures to improve the 'clear read' across PBS, Corporate Plan and Annual Report.",
+      "source_quote": "This new performance measure will provide valuable feedback... Baseline to be set."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "National Cultural Policy (Revive) alignment shaping collecting, engagement and infrastructure priorities",
+    "APS Strategic Commissioning Framework requiring reduced outsourcing of core work",
+    "Generative AI rapidly altering the operating context for a custodian of large-scale digital content",
+    "Government cloud/SaaS priorities driving migration of enterprise services",
+    "2023 funding commitment creating public expectation that building and service upgrades will be delivered",
+    "New Enterprise Agreement (effective April 2024) requiring refresh of supporting policies",
+    "Archives Act 1983 information-governance obligations",
+    "Physical collection growth of ~2.5km per year intensifying storage pressure"
+  ],
+  "challenges_and_risks": [
+    "Funding/resource model may be insufficient to sustain the mandate, building and Trove over the medium-long term",
+    "Core IT systems at end of life; rising digital infrastructure, supplier, project and contractor costs",
+    "Increasing cyber-security threats to systems and data, against a stated low risk appetite for confidentiality/integrity/availability",
+    "Labour-market competition for specialist skills and reliance on hard-to-retain expertise",
+    "Managing multiple building projects within a functioning, heritage-listed public facility",
+    "Long-term collection storage unresolved as current arrangements approach end of life",
+    "New satisfaction measures lack baselines, leaving effectiveness reporting immature in 2024-25"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Reporting referenced a finding that the NLA underpaid staff by approximately $250,000, framed by the Fair Work Ombudsman as a warning to public employers.",
+      "implication": "Payroll/award-compliance remediation and HR systems assurance are plausible near-term needs and a credible workforce/governance entry point.",
+      "source": "The Mandarin — https://www.themandarin.com.au/149837-national-library-faces-future-risks/"
+    },
+    {
+      "summary": "Coverage of the ANAO follow-on audit reported the collections face significant future risks without a funded long-term storage solution (leasing arrangements ending around 2025), with two draft preservation policies unfinalised since 2009 and library-management-system security shortcomings.",
+      "implication": "Capital/storage business-case development, preservation policy finalisation and IT/records security remediation are concrete advisory opportunities tied to a publicly stated risk.",
+      "source": "The Mandarin — https://www.themandarin.com.au/149837-national-library-faces-future-risks/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "Auditor-General Report No. 29 of 2020-21 'Management of the National Collections — Follow-on' found NLA governance and collection management 'largely effective' but flagged no plan for removing items from collections, unresolved long-term storage, preservation recording not integrated with the collection-management system, and sub-standard library-management-system security. Two recommendations to the NLA (update business continuity plan; develop a deselection/disposal policy) were agreed.",
+      "implication": "Audit-driven, agreed recommendations (deselection/disposal policy, business continuity, storage strategy, system security) are ready-made, defensible workstreams for assurance, governance and digital remediation support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/management-the-national-collections-follow"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "ANAO Report No. 29 (2020-21) was tabled in Parliament and recorded in ParlInfo, including the Library's summary response noting 'significant future risks' around storage funding.",
+      "implication": "The Library's own tabled words on funding/storage risk provide useful framing for a business-case or budget-bid advisory pitch.",
+      "source": "Parliament of Australia (ParlInfo) — https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22publications/tabledpapers/99b0aa25-0ab3-4f86-9dd1-562cf98d5887%22"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Trove platform modernisation and metadata engine replacement",
+      "agency_need": "Replace Trove's end-of-life software and metadata engine over a five-year roadmap while stabilising and securing the platform.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery/solution-design and build support for the metadata-engine replacement and platform re-platforming, including systems/process analysis, integration and service transition — scoped to discrete roadmap phases rather than a single large build.",
+      "rationale": "The plan names a specific multi-year roadmap, a metadata-engine replacement and an end-of-life-software problem; Trove is the Library's flagship asset. The firm can build and implement, not only advise. Confidence tempered by funding constraints and the outsourcing-reduction agenda.",
+      "confidence": "High"
+    },
+    {
+      "area": "Long-term collection storage business case (Hume Repository / Parkes)",
+      "agency_need": "Secure a funded long-term storage solution and justify capital investment amid growth of ~2.5km of physical collection per year and leasing arrangements ending around 2025.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and capital business-case engagement: options analysis, costing and a budget-bid-ready business case for long-term storage, supporting the Library's funding advocacy to government.",
+      "rationale": "The plan flags an unsustainable funding/resource model and unresolved long-term storage; ANAO and media reporting both name storage funding as a significant future risk, strengthening the case.",
+      "confidence": "High"
+    },
+    {
+      "area": "Audit-recommendation implementation: deselection/disposal policy and business continuity",
+      "agency_need": "Close agreed ANAO recommendations to develop a deselection/disposal policy and update the business continuity plan, and finalise long-standing draft preservation policies.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short policy/governance engagement to draft the deselection/disposal policy, refresh the business continuity plan and finalise preservation policies, aligned to the Archives Act and the Library's information-governance framework.",
+      "rationale": "ANAO Report No. 29 made two agreed recommendations and media reporting noted unfinalised preservation policies since 2009 — concrete, audit-driven, defensible scope for a small advisory team.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cyber-security uplift and system security assurance",
+      "agency_need": "Uplift cyber security and address library-management-system security shortcomings, with a stated low risk appetite for system confidentiality, integrity and availability.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance review of Trove and the library-management system, with a prioritised remediation roadmap aligned to the Library's Cyber Security Strategy and PSPF obligations.",
+      "rationale": "The plan commits to cyber uplift and cites increasing threats; ANAO specifically found LMS security 'not up to standard', creating an evidenced demand signal.",
+      "confidence": "High"
+    },
+    {
+      "area": "Digitisation and AI-enabled transcription delivery",
+      "agency_need": "Operationalise handwritten text recognition/transcription and implement the Digitisation Strategy to increase accessible digitised content.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Implementation support for handwritten text recognition and transcription pipelines, plus an information-management/AI-readiness assessment to safely adopt generative AI against Trove's deep digital materials.",
+      "rationale": "The plan names operationalising transcription via enhanced handwritten text recognition and signals measured AI adoption; this is data/information work proportionate to the Library's scale.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measure framework refresh",
+      "agency_need": "Set baselines for new digital and onsite visitor-satisfaction measures and ensure a 'clear read' across PBS, Corporate Plan and Annual Report.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review to design the new satisfaction measures, set baselines and methodology, and confirm clear-read alignment — a short advisory piece.",
+      "rationale": "The plan introduces new effectiveness measures with 'baseline to be set' and removed several measures, signalling a framework in transition. Some of this may be done in-house given outsourcing reduction, so confidence is moderate.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Payroll/award compliance and EA policy refresh",
+      "agency_need": "Remediate reported staff underpayment and refresh the many supporting policies affected by the 2024-2027 Enterprise Agreement.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce/HR engagement to review award and EA compliance, remediation assurance, and a refresh of supporting people policies post-EA.",
+      "rationale": "Media reporting cited an ~$250k underpayment and the plan notes a major EA driving policy refresh. Tempered by the APS Strategic Commissioning Framework reducing reliance on external workforce providers.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the CIO / digital infrastructure leadership with a phased delivery proposition for the Trove metadata-engine replacement, leading with build-and-implement credentials and discrete roadmap phases.",
+      "priority": "High",
+      "rationale": "This is the largest, time-bound, named opportunity in the plan and plays to the firm's ability to build, not just advise — differentiating it from pure advisers."
+    },
+    {
+      "action": "Prepare a tailored capability statement and outreach to the CFO / corporate group offering a long-term storage business case and financial-sustainability review, citing the ANAO follow-on audit and the Library's own tabled funding-risk statement.",
+      "priority": "High",
+      "rationale": "Storage funding is an explicit strategic risk reinforced by ANAO and Parliament; a budget-bid-ready business case directly serves the Library's stated advocacy need."
+    },
+    {
+      "action": "Offer the Audit and Enterprise Risk Committee / Director-General's office a packaged 'audit-recommendation closure' engagement covering the deselection/disposal policy, business continuity update and preservation-policy finalisation.",
+      "priority": "Medium",
+      "rationale": "Agreed ANAO recommendations and long-unfinalised policies are low-political-risk, defensible scope that the committee is accountable for closing."
+    },
+    {
+      "action": "Pitch a focused cyber-security assessment of Trove and the library-management system to the CIO and CISO function, referencing the ANAO LMS-security finding.",
+      "priority": "Medium",
+      "rationale": "Cyber uplift is a stated capability action with a specific audit-evidenced weakness and a low risk appetite, making it an easy-to-justify engagement."
+    },
+    {
+      "action": "Watch for procurement signals around the Trove roadmap, Hume Repository works and digital infrastructure, and confirm panel positioning (management consulting and digital services) before any approach to market.",
+      "priority": "Medium",
+      "rationale": "Multi-year reform programs will generate staged procurements; early positioning on the right panels is essential given the firm sells almost exclusively to Commonwealth entities."
+    }
+  ],
+  "engagement_targets": [
+    "Director-General and Executive (delegated owners of the Risk Management Framework and strategic priorities)",
+    "Chief Information Officer / digital infrastructure leadership (Trove, Digital Strategy, cyber, cloud migration)",
+    "Chief Financial Officer / corporate group (funding sustainability, storage business case, capital works)",
+    "Audit and Enterprise Risk Committee (ANAO recommendation closure, business continuity, security)",
+    "Head of collections / preservation (deselection/disposal and preservation policies, storage planning)",
+    "HR / People function (EA policy refresh, payroll compliance, Strategic People Pathway)"
+  ],
+  "talking_points": [
+    "Trove's five-year roadmap and metadata-engine replacement need a delivery partner that can build and integrate, not just advise — we can scope discrete, fundable phases that de-risk an end-of-life platform.",
+    "Your tabled funding/storage risk and the ANAO follow-on findings point to a budget-bid-ready capital business case for long-term storage — we can build the options analysis and costing.",
+    "We can package the closure of your agreed ANAO recommendations — deselection/disposal policy and business continuity — alongside finalising the long-standing draft preservation policies.",
+    "With a stated low risk appetite for system integrity and an ANAO finding on library-management-system security, a targeted cyber assessment of Trove and the LMS gives you an evidenced remediation roadmap.",
+    "Your new visitor-satisfaction measures need baselines and clear-read alignment — a short PGPA-aligned performance review will firm them up before annual reporting.",
+    "We understand the Strategic Commissioning Framework — our offerings are scoped to where you genuinely lack internal capacity, not to displace core work you're bringing in-house."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a relatively thin, mission-focused plan from a small-budget cultural institution, so opportunities must be right-sized and several map to short advisory or discrete build phases rather than large programs. A material headwind is the Library's explicit commitment to reduce outsourcing under the APS Strategic Commissioning Framework, which may suppress advisory demand — opportunities are strongest where the Library lacks internal capacity (digital build, costing/business cases, cyber assurance). External research was limited by a search-quota cap: the Trove-funding story and recent Senate Estimates/QON were not surfaced, the key ANAO audit is from 2020-21 (just outside the preferred window), and the underpayment figure is single-sourced. Funding constraints make timing and procurement appetite uncertain."
+}

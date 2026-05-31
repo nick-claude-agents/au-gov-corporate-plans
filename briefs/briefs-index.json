@@ -184,6 +184,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2024-25",
       "overall_confidence": "Low"
+    },
+    "national-library-of-australia-nla": {
+      "name": "National Library of Australia (NLA)",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications and the Arts",
+      "plan_url": "https://www.library.gov.au/sites/default/files/documents/2024-09/nla-corporate-plan-2024-2025.pdf",
+      "generated_at": "2026-05-31",
+      "plan_period": "2024-25",
+      "overall_confidence": "Medium"
     }
   }
 }
