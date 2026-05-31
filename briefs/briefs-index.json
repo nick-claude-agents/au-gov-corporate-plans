@@ -208,6 +208,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "northern-territory-aboriginal-investment-corporation": {
+      "name": "Northern Territory Aboriginal Investment Corporation",
+      "portfolio": "Prime Minister and Cabinet",
+      "plan_url": "https://www.transparency.gov.au/publications/corporate-plans",
+      "generated_at": "2026-05-31",
+      "plan_period": "Unknown",
+      "overall_confidence": "Low"
     }
   }
 }
