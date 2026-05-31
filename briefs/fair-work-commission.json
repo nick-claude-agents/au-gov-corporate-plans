@@ -1,0 +1,176 @@
+{
+  "agency_name": "Fair Work Commission",
+  "portfolio": "Employment and Workplace Relations",
+  "plan_period": "2025-26",
+  "executive_summary": "The Fair Work Commission is Australia's national workplace relations tribunal — a small, expertise-heavy regulatory/quasi-judicial entity that resolves disputes, sets minimum conditions and oversees registered organisations. After a significant expansion of functions over the last three years (Secure Jobs/Better Pay and related reforms), the 2025-26 plan is explicitly about consolidating: refining and evolving service delivery, streamlining processes, improving access for all parties, and strengthening education, outreach and self-help resources. External signals are far sharper than the published plan: the President has publicly described an 'unsustainable' caseload (44,075 lodgements, ~75% growth over three years) colliding with an ~11% budget reduction and AI-inflated application volumes. That workload-versus-funding crunch is the dominant, self-declared demand signal — pointing to operating-model, case-management, digital/AI and efficiency work — tempered by an entity in budget-repair mode and politically sensitive about perceptions of impartiality.",
+  "strategic_priorities": [
+    {
+      "title": "Consolidate after function expansion",
+      "description": "Refine and evolve how the Commission delivers services following a significant expansion of functions over the last three years, embedding new responsibilities into sustainable business-as-usual.",
+      "source_quote": "This year our focus is on refining and evolving our approach to delivering our services, following a significant expansion of functions over the last 3 years."
+    },
+    {
+      "title": "Streamline processes and improve access",
+      "description": "Enhance how the community accesses Commission services by streamlining processes and improving access for all parties to proceedings.",
+      "source_quote": "We will enhance the way the community accesses our services by streamlining our processes and improving access for all parties."
+    },
+    {
+      "title": "Education, outreach and self-help resources",
+      "description": "Support education and outreach programs and build on the established suite of resources so parties can navigate the system with less hands-on intervention.",
+      "source_quote": "support education and outreach programs and build on our suite of established resources."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Significant expansion of functions over three years (bargaining and workplace-relations reforms) now requiring operational consolidation",
+    "Caseload growth described by the President as 'unsustainable' — 44,075 lodgements in 2024-25, ~10% year-on-year and ~75% over three years",
+    "Budget reduction of ~11% with an actual ~$2m cut in-year and funding not returning to prior levels until 2028-29",
+    "AI being used by applicants (>40%) inflating application volumes and changing the nature of filings",
+    "Growing presence of unregulated 'paid agents' in proceedings, prompting a dedicated working group",
+    "Ongoing implementation scrutiny of multi-employer bargaining reforms"
+  ],
+  "challenges_and_risks": [
+    "Demand outstripping operational, performance and funding structures simultaneously",
+    "Doing more with less: efficiency targets while caseload rises",
+    "Quality and integrity risk from unregulated paid agents appearing before the tribunal",
+    "AI-driven volume and quality issues in lodgements",
+    "Reputational risk around perceptions of partiality tied to member appointments (criticised by both employer groups and unions)",
+    "Constrained discretionary spend limits appetite for large advisory engagements"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "FWC President Justice Adam Hatcher publicly warned that application growth is 'unsustainable within the Commission's current operational, performance and funding structures', with 44,075 lodgements in 2024/25 — ~10% up year-on-year and ~24% above the five-year average, driven by general protections and unfair dismissal claims.",
+      "implication": "A self-declared problem creates a clear opening for case-management redesign, demand forecasting, digital triage and operating-model/efficiency work.",
+      "source": "Gadens legal insight, 3 Dec 2025 — https://www.gadens.com/legal-insights/a-system-under-strain-the-unsustainable-rise-in-fair-work-commission-applications/"
+    },
+    {
+      "summary": "Hatcher described a 'perfect storm': ~75% workload growth versus three years ago, a requirement to cut ~11% from the budget, an actual ~$2m in-year cut (funding ~$111m in 2024/25) with no return to prior levels until 2028-29, and AI inflating application volumes (>40% of applicants admit using AI).",
+      "implication": "Strong demand for cost-reduction strategy, workforce planning and AI-in-tribunal process controls — but note the entity is in budget-repair mode, constraining discretionary spend.",
+      "source": "QLS Proctor, May 2026 — https://www.qlsproctor.com.au/2026/05/fair-work-commission-president-reveals-perfect-storm-as-ai-funding-cuts-hit/"
+    },
+    {
+      "summary": "Employer groups and unions have repeatedly criticised member appointments as politically driven (AREEA's Steve Knott said the approach 'devalues the commission'); appointments are a long-running partisan flashpoint over the tribunal's perceived impartiality.",
+      "implication": "Any engagement must be politically neutral and defensible to both employer and union stakeholders; manage bipartisan sensitivity.",
+      "source": "Lawyers Weekly, 26 Feb 2025 — https://www.lawyersweekly.com.au/politics/41588-labor-accused-of-stacking-fwc-with-union-and-lawyer-mates"
+    },
+    {
+      "summary": "The Commission established a 'Paid Agents Working Group' and published a report flagging that paid agents — not bound by lawyers' professional/ethical obligations — are a growing conduct concern in proceedings.",
+      "implication": "Scope for integrity-framework, regulatory-design, conduct-monitoring and stakeholder-engagement advisory.",
+      "source": "Gadens, 3 Dec 2025 — https://www.gadens.com/legal-insights/a-system-under-strain-the-unsustainable-rise-in-fair-work-commission-applications/"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "The FWC appears regularly before the Senate Education and Employment Legislation Committee; 31 May 2023 Hansard records officials questioned by Senator Cash on enterprise-agreement approvals under new multi-employer bargaining laws, with matters taken on notice.",
+      "implication": "Implementation of bargaining reforms is under active parliamentary scrutiny; any reform-support engagement would have visible parliamentary exposure and estimates-grade transparency expectations.",
+      "source": "ParlInfo (aph.gov.au), Estimates Hansard 31/05/2023 — https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:%22committees%2Festimate%2F26913%2F0002%22"
+    },
+    {
+      "summary": "The Senate Education and Employment Legislation Committee held a March 2025 Estimates session featuring the Fair Work Commission, confirming a continuing scrutiny cadence.",
+      "implication": "Useful for timing engagement and anticipating questions on caseload, funding and reform delivery.",
+      "source": "Australian Parliament (APH) Senate Estimates video, 7 Mar 2025 — https://www.youtube.com/watch?v=VoWdi66CyfE"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Case-management operating-model redesign for a strained caseload",
+      "agency_need": "Caseload has risen ~75% in three years and is described by the President as 'unsustainable' within current operational and funding structures; the plan commits to streamlining processes and improving access.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model and case-management redesign — mapping demand, triage pathways and process bottlenecks across general protections and unfair dismissal streams, with a prioritised efficiency roadmap.",
+      "rationale": "The plan's streamlining commitment plus the President's public 'unsustainable caseload' warning (Gadens, QLS Proctor) make this a concrete, self-declared need rather than an inferred one.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial-sustainability and cost-reduction strategy",
+      "agency_need": "An ~11% budget reduction and ~$2m in-year cut, with funding not recovering until 2028-29, against rising demand.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review with an activity-based costing model of core case-processing functions, identifying where the mandated savings can be realised without degrading service or statutory obligations.",
+      "rationale": "Funding cuts are explicit (QLS Proctor); a costing/sustainability piece directly supports the savings task and any future funding case to government.",
+      "confidence": "High"
+    },
+    {
+      "area": "Digital triage and AI-driven lodgement handling",
+      "agency_need": ">40% of applicants use AI, inflating volumes and changing filing quality; the plan wants to improve access and streamline processes.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for a digital intake/triage capability — online self-help, guided lodgement and automated triage — with build/integration into existing case systems.",
+      "rationale": "Combines the plan's access/streamlining goal with the AI-volume pressure flagged publicly; the firm can both design and build, suiting a measurable efficiency outcome.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Demand forecasting and caseload analytics",
+      "agency_need": "The Commission cannot match resourcing to demand it does not forecast; lodgement volumes are volatile and rising.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "A demand-forecasting and business-intelligence capability — predictive models of lodgement volumes by stream and region to inform resourcing and member allocation.",
+      "rationale": "Directly underpins both the operating-model and sustainability work; grounded in the documented volume surge.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce and capability planning under budget constraint",
+      "agency_need": "Rising workload and a shrinking budget force hard choices on staffing, member support and skills mix.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan aligning roles and capability to the redesigned operating model, including scenarios for the constrained funding envelope to 2028-29.",
+      "rationale": "Logical complement to operating-model and sustainability work; inferred from the funding/workload squeeze rather than named in the plan.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Paid-agents integrity and conduct framework",
+      "agency_need": "Unregulated paid agents are a growing conduct concern; the Commission has stood up a working group but lacks a settled regulatory/integrity response.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A regulatory-design and integrity-framework advisory — options for conduct standards, monitoring and stakeholder engagement on paid agents, building on the working group's findings.",
+      "rationale": "The Commission has publicly identified this gap (Gadens); a discrete, proportionate advisory fits a small entity's budget.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Education, outreach and self-help content",
+      "agency_need": "The plan commits to supporting education and outreach and building on established resources to reduce hands-on demand.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Content and engagement support to expand self-help resources and outreach to vulnerable/self-represented parties, reducing avoidable contact and improving access.",
+      "rationale": "Directly stated in the plan; deflecting demand to self-service also supports the efficiency agenda.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the General Manager / Chief Operating Officer function with a tightly-scoped, low-cost case-management efficiency diagnostic that explicitly respects the budget-repair context.",
+      "priority": "High",
+      "rationale": "The President has publicly framed caseload-versus-funding as the core problem; a proportionate, savings-oriented diagnostic meets the entity where it is and is the most defensible spend in a cost-cutting year."
+    },
+    {
+      "action": "Prepare a short capability statement pairing operating-model redesign with activity-based costing, positioning the firm as able to both find savings and evidence a future funding case.",
+      "priority": "High",
+      "rationale": "Aligns two of the firm's strengths to the entity's two declared pressures (cost cuts and demand), and gives the agency something to use at Estimates."
+    },
+    {
+      "action": "Develop a neutral thought piece on AI-driven lodgements and digital triage in tribunals, sent ahead of any meeting.",
+      "priority": "Medium",
+      "rationale": "AI volume is a live, novel issue the Commission has publicly named; a credible, non-partisan POV opens a door without political risk."
+    },
+    {
+      "action": "Track the Senate Education and Employment Legislation Committee Estimates cadence (next sessions) and the FWC's annual report for caseload/funding metrics.",
+      "priority": "Medium",
+      "rationale": "Estimates exchanges and the annual report will reveal where pressure is greatest and time any procurement; reform implementation is under active scrutiny."
+    },
+    {
+      "action": "Ensure any proposal is demonstrably independent and politically neutral, avoiding association with the appointments controversy.",
+      "priority": "High",
+      "rationale": "Perceptions of partiality are a live reputational risk; neutrality is a precondition for credible engagement with this tribunal."
+    }
+  ],
+  "engagement_targets": [
+    "General Manager of the Fair Work Commission (the statutory administrative head) and their office",
+    "Chief Operating Officer / corporate services leadership (finance, people, ICT)",
+    "Chief Financial Officer (for costing and sustainability work)",
+    "Head of case management / tribunal services operations",
+    "Digital/ICT and information services lead",
+    "Audit and Risk Committee (for any assurance or governance angle)"
+  ],
+  "talking_points": [
+    "Your own President has called the caseload 'unsustainable' against current funding — we help tribunals redesign case-management operating models to absorb demand without proportional cost growth.",
+    "With an ~11% budget reduction to find by 2028-29, an activity-based costing model shows exactly where savings are achievable while protecting your statutory obligations — and strengthens any future funding submission.",
+    "Over 40% of applicants now use AI; we can design and build a digital intake and triage capability that turns that volume pressure into a streamlined access channel.",
+    "Your plan commits to improving access and self-help resources — we can deflect avoidable demand through better digital service design and outreach content.",
+    "Everything we propose is independent, non-legal and politically neutral — important for a tribunal where impartiality is under public scrutiny."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The published corporate plan text available is essentially a short news summary, not the full PDF — so strategic priorities are paraphrased from a brief 'refine, streamline, improve access, educate' statement and the substantive demand signals come almost entirely from external research (President's public statements via Gadens and QLS Proctor). Those external claims about budget cuts, caseload and AI volumes are credible but second-hand and should be confirmed against the full corporate plan and the latest annual report. The firm is in active budget-repair mode, which constrains discretionary advisory spend — offerings are deliberately right-sized and savings-oriented. No ANAO audit of the Commission itself was found (only adjacent OFWO audits). The paid-agents and outreach opportunities are lower-confidence extrapolations."
+}

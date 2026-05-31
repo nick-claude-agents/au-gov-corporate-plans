@@ -136,6 +136,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2025-26 to 2028-29 (budget year 2025-26)",
       "overall_confidence": "Low"
+    },
+    "fair-work-commission": {
+      "name": "Fair Work Commission",
+      "portfolio": "Employment and Workplace Relations",
+      "plan_url": "https://www.fwc.gov.au/about-us/news-and-media/news/our-corporate-plan-2025-26-published",
+      "generated_at": "2026-05-31",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
