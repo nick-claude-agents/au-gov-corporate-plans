@@ -5,11 +5,13 @@ CorporatePlanChecker/
 buyict_scraper.py
 buyict_*.xlsx
 buyict_scraper.log
+buyict_latest.html
 tenders_scraper.py
 tenders_*.py
 tenders_*.json
 tenders_*.xlsx
 tenders_scraper.log
+tenders_latest.html
 run_*.bat
 probe*.py
 probe*.py
