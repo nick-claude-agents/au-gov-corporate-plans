@@ -1,0 +1,183 @@
+{
+  "agency_name": "Australian National University",
+  "portfolio": "Education",
+  "plan_period": "Unknown",
+  "executive_summary": "The supplied 'corporate plan' text contains only ANU website navigation and news snippets — no usable PGPA corporate plan content was provided, so this brief is built almost entirely from external research. ANU is a corporate Commonwealth entity governed by its own federal legislation, making it unusually subject to ANAO audit and Senate Estimates for a university. It is in the middle of a contested transformation ('Renew ANU') targeting ~$250m in cost cuts and ~650 jobs, amid a disputed deficit narrative, leadership exits (VC and Chancellor both resigned in 2025), a Ministerial referral to regulator TEQSA, and recurring Senate scrutiny. There is genuine latent demand for financial-sustainability, governance and change-management support — but consultancy spend at ANU is itself a live political flashpoint, with contracts itemised through Questions on Notice and criticised in Estimates. Any BD pursuit must be probity-first and prepared for full public disclosure.",
+  "strategic_priorities": [
+    {
+      "title": "Cost reduction and financial sustainability ('Renew ANU')",
+      "description": "Reduce operating costs by a stated ~$250m over ~15 months (≈$150m spending, ≈$100m salaries) and return to a sustainable financial footing following a contested 2024 deficit.",
+      "source_quote": "ANU announced a plan to cut ~$250m in operating costs over 15 months, citing a 2024 deficit it put at over $200m."
+    },
+    {
+      "title": "Organisational restructure",
+      "description": "Collapse seven academic colleges into six (including disestablishing the College of Health and Medicine), with an accompanying operating-model and workforce change.",
+      "source_quote": "to collapse seven colleges into six (disestablishing the College of Health and Medicine)"
+    },
+    {
+      "title": "Governance and leadership reset under regulator oversight",
+      "description": "Rebuild governance credibility and recruit a new Chancellor and Vice-Chancellor under TEQSA oversight following leadership resignations and a Ministerial referral.",
+      "source_quote": "TEQSA secured a role in overseeing the recruitment of ANU's new Chancellor and VC."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Stated structural operating deficit and a board/management decision to cut costs and restructure colleges",
+    "Ministerial referral to TEQSA over governance and conflict-of-interest concerns, placing the regulator inside ANU's governance and recruitment processes",
+    "Leadership transition — resignations of both the Vice-Chancellor (Sept 2025) and Chancellor (Oct 2025) and an interim VC reversing the forced-redundancy push",
+    "Sustained parliamentary scrutiny via Senate Estimates and a Senate inquiry into university governance",
+    "As a corporate Commonwealth entity, exposure to ANAO audit and Commonwealth-level accountability uncommon among universities"
+  ],
+  "challenges_and_risks": [
+    "Publicly contested financial figures — external analysts allege the deficit was overstated by ~$60m and that audited accounts showed a surplus, undermining the cost-cutting rationale",
+    "Severe internal trust deficit: 750+ staff voted no confidence in the Chancellor and VC; strong NTEU opposition to external advisers perceived as management-aligned",
+    "Consultancy spend is politicised — the Nous contract (rising from $837k to $1.127m) drew QoN scrutiny and an allegation that ANU misled the Senate",
+    "Probity and conflict-of-interest exposure at the most senior levels, now under TEQSA examination",
+    "Decision-making continuity is uncertain during leadership transition, complicating engagement and approvals"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "In October 2024 ANU announced ~$250m in operating cost cuts over 15 months (~$150m spending, ~$100m salaries) and ~650 job losses, citing a 2024 deficit over $200m, and proposed collapsing seven colleges into six.",
+      "implication": "A large, contested transformation signals change-management, financial and restructuring demand — but in a scrutiny-heavy, union-opposed environment.",
+      "source": "ResearchCareer — https://www.researchcareer.com.au/news/anu-announces-cuts"
+    },
+    {
+      "summary": "More than 750 NTEU-aligned staff voted no confidence in Chancellor Julie Bishop and VC Genevieve Bell in early 2025, alleging poor leadership, financial mismanagement and poor governance.",
+      "implication": "Deep internal trust deficit; consultants seen as management-aligned risk reputational blowback and active union opposition.",
+      "source": "Guardian (CPA) — https://cpa.org.au/guardian/issue-2148/destructive-job-cuts-at-anu-and-usq/ ; Mirage News — https://www.miragenews.com/anu-announces-more-job-cuts-1465679/"
+    },
+    {
+      "summary": "The Australia Institute argued ANU's audited 2024 accounts showed a ~$90m surplus and growing net assets (~$3.8bn), and that the '$142.5m underlying operating deficit' relied on excluding ~$232.4m of auditor-recognised revenue.",
+      "implication": "The financial rationale for cuts is publicly disputed — advice built on the deficit narrative carries credibility and transparency risk.",
+      "source": "The Australia Institute — https://australiainstitute.org.au/post/a-closer-look-at-the-anu-books-reveals-a-hard-truth-about-these-job-cuts/"
+    },
+    {
+      "summary": "Reporting indicates ANU overestimated its 2024 deficit by roughly $60m, with critics arguing the cuts target was therefore overstated.",
+      "implication": "Reinforces questions about ANU's financial modelling/forecasting capability — a competence gap, but a reputationally sensitive one.",
+      "source": "PS News — https://psnews.com.au/challenging-and-hard-and-sad-job-cuts-on-the-table-for-three-more-anu-areas/160353/"
+    },
+    {
+      "summary": "Education Minister Jason Clare referred ANU to TEQSA over governance concerns; reporting noted VC Genevieve Bell held a paid role with Intel while in ANU leadership on a ~$1.1m salary.",
+      "implication": "Active regulator involvement makes governance, conflict-of-interest and probity work a live need — but downstream procurement will be heavily scrutinised.",
+      "source": "HR Leader — https://www.hrleader.com.au/business/26963-disgraceful-and-egregious-governance-has-engulfed-australian-universities-union-says"
+    },
+    {
+      "summary": "VC Genevieve Bell resigned (Sept 2025) and Chancellor Julie Bishop resigned (Oct 2025); interim VC Rebekah Brown abandoned the forced-redundancy push, and TEQSA secured a role overseeing recruitment of the new Chancellor and VC.",
+      "implication": "Leadership and governance are in transition under regulator oversight — opportunity for transition/governance support, but authority and continuity are uncertain.",
+      "source": "The Nightly — https://thenightly.com.au/politics/julie-bishop-resigns-from-australian-national-university-amid-restructuring-and-governance-backlash-c-22253805"
+    },
+    {
+      "summary": "Senate Estimates questioning led ANU to acknowledge ~$35,000 over four years on external speechwriting for the Chancellor, with a leak alleging ~$150,000 in 2024 travel costs.",
+      "implication": "Spending on external advisers is itself politicised at ANU — consultancy fees will likely be disclosed and challenged publicly.",
+      "source": "The Australia Institute — https://australiainstitute.org.au/post/anus-latest-scandal-shows-us-why-transparency-is-so-important-and-where-to-start/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "Auditor-General Report No. 11 of 2021–22, 'Australian National University's Governance and Control Framework,' provided Parliament independent assurance on the effectiveness of ANU's governance arrangements and controls, including its response to 2020 disruptions such as COVID-19.",
+      "implication": "ANU has a documented governance audit baseline; given current TEQSA scrutiny a follow-up audit is plausible — relevant for governance and assurance positioning.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/australian-national-university-governance-and-control-framework"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "ANU engaged with a Senate inquiry into the quality of governance at higher education providers (appearance 20 September 2024) and appeared at Senate Estimates on 6 June 2024, 7 November 2024 and 12 February 2026 (the latter with interim VC Rebekah Brown).",
+      "implication": "ANU's finances and governance are under sustained, recurring parliamentary scrutiny — any engagement carries Estimates and disclosure exposure.",
+      "source": "ANU Parliamentary Engagement — https://www.anu.edu.au/about/parliamentary-engagement/senate-inquiry-20-september-2024 ; https://www.anu.edu.au/about/parliamentary-engagement/senate-estimates-7-november-2024"
+    },
+    {
+      "summary": "A Question on Notice established that ANU's Nous consulting contract for Renew ANU rose from $837,000 (Sept 2024) to $1,127,000 (after Dec 2024/Jan 2025 increases, excluding travel), plus $66,390 to three other firms; Senator Pocock alleged ANU had misled him and the Senate.",
+      "implication": "Consultancy spend at ANU is a flashpoint subject to QoN disclosure and senator-level criticism — expect full public itemisation and political risk.",
+      "source": "Senator David Pocock — https://www.davidpocock.com.au/anu_nous_statement"
+    },
+    {
+      "summary": "Chancellor Julie Bishop was questioned at Senate Estimates about external consultants and conflict-of-interest processes; the Australia Institute noted Estimates scrutiny materially increased ANU transparency.",
+      "implication": "Probity, conflicts and consultant arrangements at ANU are directly examined in Parliament — strong probity safeguards are a prerequisite for any engagement.",
+      "source": "The Australia Institute — https://australiainstitute.org.au/post/anus-latest-scandal-shows-us-why-transparency-is-so-important-and-where-to-start/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Independent financial-sustainability and deficit verification review",
+      "agency_need": "ANU's deficit figures are publicly contested (alleged ~$60m overestimate; surplus claims), undermining the credibility of the cost-cutting case and exposing its financial modelling.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A short, independent financial-sustainability review that reconciles audited accounts to the 'underlying' operating position, stress-tests the forecasting model, and produces a defensible, transparent baseline that can withstand Estimates scrutiny.",
+      "rationale": "The Australia Institute and PS News reporting show the deficit narrative is disputed; a credible independent baseline directly addresses the controversy and the apparent forecasting gap. Confidence tempered by the politicised, scrutinised nature of any such engagement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Governance framework and conflict-of-interest uplift under TEQSA oversight",
+      "agency_need": "Ministerial TEQSA referral over governance and senior conflict-of-interest concerns; a 2021 ANAO audit of governance and controls already exists as a baseline.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance framework and conflict-of-interest assessment aligned to TEQSA expectations and the prior ANAO findings — Council/committee effectiveness review, COI policy redesign, and a remediation roadmap.",
+      "rationale": "Active regulator involvement plus a documented ANAO governance baseline create a clear, externally-mandated need. Confidence limited by leadership transition and uncertainty over who owns the work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Change management for the college restructure and workforce transition",
+      "agency_need": "Collapsing seven colleges into six and large-scale role changes amid severe staff distrust and a reversed redundancy push.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Organisational design and workforce-transition support for the revised operating model, with structured staff and union engagement built in to rebuild trust.",
+      "rationale": "The restructure is a named, active program. However, the 750+ no-confidence vote and union hostility to management-aligned advisers make this high-risk; right-sizing and a trust-rebuilding posture are essential.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Probity advisory for Renew ANU procurements and consultant arrangements",
+      "agency_need": "Consultancy spend (Nous contract escalation) is under QoN and Estimates scrutiny, with allegations the Senate was misled — strong probity safeguards are now a precondition for any external work.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Independent (non-legal) probity advisory and contract-management oversight for transformation-related procurements, ensuring documented, disclosable processes that withstand parliamentary scrutiny.",
+      "rationale": "Parliamentary findings show consultancy procurement at ANU is itself a flashpoint; independent probity is the most defensible entry point and de-risks ANU's exposure. Confidence tempered by ANU's sensitivity to any new consultant spend.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Leadership-transition and Council governance support",
+      "agency_need": "Both VC and Chancellor have resigned; recruitment of successors proceeds under TEQSA oversight, with continuity and decision authority uncertain.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Interim governance and transition support — decision-rights mapping, Council/committee operating rhythm, and a 100-day stabilisation plan for incoming leadership.",
+      "rationale": "A real, time-bound need driven by simultaneous leadership exits. Confidence low because the agency may prioritise TEQSA-led and internal processes, and appetite for external advisers is constrained.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain ANU's actual current corporate plan and latest annual report/audited financial statements before any pursuit; build the BD case on primary documents, not media aggregation.",
+      "priority": "High",
+      "rationale": "The supplied 'plan' contained no usable content. Given the publicly disputed financials, the firm must work from ANU's own audited figures to avoid adopting a contested narrative."
+    },
+    {
+      "action": "Lead with a probity-first, transparency-first positioning in any approach — emphasise independence, disclosability and non-management alignment.",
+      "priority": "High",
+      "rationale": "Consultancy spend at ANU is under QoN/Estimates scrutiny and union hostility; only a probity-led, fully disclosable posture is commercially survivable here."
+    },
+    {
+      "action": "Hold off on pursuing restructure/redundancy change work until leadership and the TEQSA-overseen recruitment stabilise; monitor the new VC/Chancellor appointments.",
+      "priority": "Medium",
+      "rationale": "Decision authority is uncertain and the redundancy push has already been reversed; engaging prematurely risks wasted effort and reputational exposure."
+    },
+    {
+      "action": "Prepare a tightly-scoped independent financial-sustainability review concept aimed at the CFO/Council Finance Committee, framed as restoring a defensible, transparent baseline.",
+      "priority": "Medium",
+      "rationale": "The contested deficit is the central controversy; an independent, credibility-restoring review is the clearest legitimate need — if positioned as transparency rather than cuts justification."
+    },
+    {
+      "action": "Watch for a possible follow-up ANAO performance audit and TEQSA outcomes; these would create externally-mandated assurance and governance demand.",
+      "priority": "Medium",
+      "rationale": "A 2021 ANAO governance audit baseline plus active TEQSA scrutiny make further independent assurance plausible and well-justified."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Financial Officer / Chief Operating Officer (financial sustainability and modelling)",
+    "ANU Council and its Audit & Risk and Finance committees (governance and assurance)",
+    "Office of the Vice-Chancellor / Acting Provost (transformation oversight) — once leadership stabilises",
+    "Director, Governance / University Secretary (conflict-of-interest and TEQSA response)",
+    "Procurement and contract-management function (probity and disclosure for Renew ANU)"
+  ],
+  "talking_points": [
+    "ANU's biggest exposure is credibility: an independent, transparent financial baseline that reconciles audited accounts to the 'underlying' position would directly answer the public dispute over the deficit.",
+    "We work probity-first and fully disclosable — important when every consultancy dollar is itemised through Questions on Notice and tested at Estimates.",
+    "The 2021 ANAO governance audit and the current TEQSA referral give a clear baseline and mandate for a governance and conflict-of-interest uplift that pre-empts a follow-up audit.",
+    "Independent assurance and probity over transformation procurements protects ANU's reputation as much as its process — a defensible trail is now a precondition, not a nicety.",
+    "On change and workforce, success depends on visible independence from management and structured staff/union engagement — we would design that in, given the trust deficit."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied corporate plan text was effectively empty (website navigation only), so no PGPA plan signals could be analysed; all priorities, drivers and opportunities are inferred from external media, ANAO and parliamentary research rather than ANU's own planning document. This materially lowers confidence and means strategic priorities are reconstructed, not quoted. ANU is also a uniquely difficult BD environment right now: consultancy spend is politicised and publicly itemised, there is strong union opposition to management-aligned advisers, financial figures are contested, and leadership/governance is in flux under regulator oversight. The single ANAO item is from late 2021. Any pursuit should be probity-led, grounded in ANU's own audited documents, and timed to leadership stabilisation."
+}

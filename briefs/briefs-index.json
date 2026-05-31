@@ -192,6 +192,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2024-25",
       "overall_confidence": "Medium"
+    },
+    "australian-national-university": {
+      "name": "Australian National University",
+      "portfolio": "Education",
+      "plan_url": "http://www.anu.edu.au",
+      "generated_at": "2026-05-31",
+      "plan_period": "Unknown",
+      "overall_confidence": "Low"
     }
   }
 }
