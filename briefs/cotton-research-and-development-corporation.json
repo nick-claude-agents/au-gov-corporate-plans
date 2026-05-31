@@ -1,0 +1,116 @@
+{
+  "agency_name": "Cotton Research and Development Corporation",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "plan_period": "2025-26",
+  "executive_summary": "CRDC is a small corporate Commonwealth entity (a statutory Rural Research and Development Corporation) that co-invests Commonwealth and grower levy funds — $33.2 million in 2025-26 — into cotton research, development and extension (RD&E). The only document available for this analysis is the public website homepage, not the full PGPA corporate plan, so signals are limited. What is visible: a research-grant/co-investment model, a flagship emissions-reduction program (Cotton Low Emissions Intensity Farming Systems, 'Cotton LEIFS'), and grower-facing extension on input costs (fuel, nitrogen). The most concrete BD signal comes from external research: an ANAO performance audit of probity management across Rural RDCs, which puts procurement/probity governance squarely in scope. As a small research-funding body, CRDC warrants proportionate, short-form advisory engagements rather than large delivery programs.",
+  "strategic_priorities": [
+    {
+      "title": "Co-investing in cotton RD&E",
+      "description": "Deploying $33.2 million of combined Commonwealth and grower funding in 2025-26 into RD&E projects that benefit growers and the wider community — CRDC's core grant/co-investment mandate.",
+      "source_quote": "In 2025-26, Australia's cotton growers and the Government are co-investing $33.2 million through CRDC into impactful RD&E projects."
+    },
+    {
+      "title": "Cotton LEIFS — low-emissions farming systems",
+      "description": "Driving the next phase of on-farm emissions reduction through grower-led trials of enhanced efficiency fertilisers, smarter nitrogen use and cover crops across Qld and NSW, aiming to cut emissions while maintaining productivity.",
+      "source_quote": "the next phase of on-farm action through Cotton Low Emissions Intensity Farming Systems (Cotton LEIFS), with grower-led trials now underway across Qld and NSW."
+    },
+    {
+      "title": "Grower extension on input cost and productivity pressures",
+      "description": "Helping growers respond to fuel supply pressure, high input costs and nitrogen management during a time-critical season — translating research into practical, timely guidance.",
+      "source_quote": "growers are dealing with ongoing fuel supply pressure and high input costs, adding extra stress during an already time-critical part of the season."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Climate/emissions agenda flowing into agriculture, driving the Cotton LEIFS low-emissions farming program",
+    "Input cost and supply pressures (fuel, fertiliser/nitrogen) affecting grower economics and the value case for RD&E",
+    "Co-investment funding model combining Commonwealth appropriation and grower levies, requiring demonstrable returns on investment",
+    "ANAO scrutiny of probity management across the Rural RDC class, raising expectations on procurement and conflict-of-interest controls"
+  ],
+  "challenges_and_risks": [
+    "Demonstrating measurable outcomes and return on a $33.2m co-investment portfolio to both government and levy-paying growers",
+    "Probity and conflict-of-interest management in research grant allocation — an active ANAO focus area for Rural RDCs",
+    "Translating emissions-reduction research (Cotton LEIFS) into verifiable, scalable on-farm practice change",
+    "Small-entity capability constraints typical of an RDC — limited internal resources for evaluation, data and assurance functions"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [
+    {
+      "summary": "An ANAO performance audit titled 'Probity Management in Rural Research and Development Corporations' examines probity management across the Rural RDCs — the statutory class to which CRDC belongs. Specific findings/recommendations naming CRDC were not verified in this research pass.",
+      "implication": "Probity, procurement and conflict-of-interest controls are an active assurance focus for RDCs — a credible, evidence-backed entry point for governance and probity advisory work.",
+      "source": "Australian National Audit Office — https://www.anao.gov.au/work/performance-audit/probity-management-rural-research-and-development-corporations"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Probity and conflict-of-interest uplift in research grant allocation",
+      "agency_need": "ANAO has examined probity management across the Rural RDCs; CRDC allocates $33.2m of public and levy funds through research grants where conflict-of-interest risk is inherent.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "A short probity and grant-allocation governance health check (4-8 weeks): review conflict-of-interest controls, grant assessment processes and probity documentation against ANAO expectations, with a remediation roadmap. Probity advisory is non-legal.",
+      "rationale": "The ANAO performance audit of probity in Rural RDCs is a direct, class-wide demand signal; a proportionate review lets CRDC pre-empt or implement audit recommendations.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "RD&E portfolio evaluation and outcomes measurement",
+      "agency_need": "CRDC must demonstrate impact and return on a $33.2m co-investment to government and levy-paying growers.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure and benefits-realisation framework for the RD&E portfolio, or a process/outcome evaluation of a flagship program, producing defensible impact metrics.",
+      "rationale": "Co-investment models live or die on demonstrable returns; the plan's emphasis on 'impactful' investment and grower benefit points to an evaluation/measurement need, though no specific framework gap is named in the available text.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Cotton LEIFS emissions data and measurement",
+      "agency_need": "Cotton LEIFS trials aim to cut emissions while maintaining productivity, requiring credible measurement of emissions and productivity outcomes across multiple sites.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "A data and analytics design piece to capture, standardise and analyse trial data across Qld/NSW sites, enabling verifiable emissions-intensity reporting and evidence for practice change.",
+      "rationale": "The LEIFS program is explicitly trial-based and data-dependent; robust measurement underpins its credibility. Inferred from the program description rather than a stated data gap.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability of the co-investment model",
+      "agency_need": "As a corporate Commonwealth entity reliant on appropriations and grower levies, CRDC faces input-cost and grower-economic pressures that can affect levy revenue and portfolio affordability.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A short financial-sustainability review of the co-investment model, stress-testing levy revenue scenarios against the RD&E commitment pipeline.",
+      "rationale": "Plan references grower input-cost stress and a fixed co-investment commitment; a corporate entity with own-source revenue is a plausible financial-sustainability prospect. Highly inferred given thin source material.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Verify the ANAO 'Probity Management in Rural Research and Development Corporations' audit — publication date, whether CRDC is named, and specific recommendations — then approach CRDC's Company Secretary / governance lead with a tailored probity health-check proposal.",
+      "priority": "High",
+      "rationale": "This is the single strongest, evidence-backed demand signal; confirming the findings turns a generic pitch into a targeted, credible offer."
+    },
+    {
+      "action": "Obtain CRDC's actual published corporate plan and most recent annual report (transparency.gov.au) to confirm enterprise risks, performance measures and capability gaps before pitching evaluation or financial work.",
+      "priority": "High",
+      "rationale": "The available source is only a website homepage; the full plan is needed to validate the lower-confidence opportunities and avoid generic outreach."
+    },
+    {
+      "action": "Prepare a concise capability statement on probity, grant-program governance and RD&E evaluation tailored to small Rural RDCs, proportionate to a small-entity budget.",
+      "priority": "Medium",
+      "rationale": "Right-sized, sector-specific material resonates with a small research-funding body and differentiates from large-firm boilerplate."
+    },
+    {
+      "action": "Monitor for CRDC's response to the ANAO probity audit and any RDC-wide governance uplift initiatives across the Agriculture portfolio.",
+      "priority": "Medium",
+      "rationale": "Audit responses often generate time-bound assurance and governance work across the whole RDC class, not just one entity."
+    }
+  ],
+  "engagement_targets": [
+    "Executive Director / CEO's office (small entity — leadership owns strategy and risk)",
+    "Company Secretary / governance and risk lead (probity, COI, audit-response owner)",
+    "Chief Financial Officer / finance manager (co-investment model, financial sustainability)",
+    "RD&E program managers / portfolio leads (evaluation, outcomes measurement, LEIFS data)",
+    "Audit and risk committee (probity and governance assurance)"
+  ],
+  "talking_points": [
+    "The ANAO's probity-management audit of Rural RDCs makes conflict-of-interest and grant-allocation controls a live, sector-wide assurance priority — we can run a proportionate, non-legal probity health check to get ahead of it.",
+    "With $33.2m co-invested across government and grower funds, demonstrating measurable RD&E impact is a perennial pressure — we can design PGPA-aligned outcome measures and run targeted evaluations.",
+    "Cotton LEIFS is data-dependent: credible emissions-intensity claims need standardised measurement across trial sites, which we can help design and analyse.",
+    "As a small corporate Commonwealth entity exposed to grower input-cost pressures, a light-touch financial-sustainability review can stress-test the co-investment pipeline against levy-revenue scenarios.",
+    "We tailor engagement size to small Rural RDCs — short advisory and framework pieces, not over-scoped programs."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied 'corporate plan' is in fact CRDC's public website homepage (news, magazine and grant-investment snippets), not the PGPA corporate plan. Genuine strategic priorities, enterprise risks, capability gaps and performance measures are not available, so most opportunity areas are inferred from limited signals and marked Low confidence. The strongest signal is external: an ANAO probity audit of the Rural RDC class, whose specific findings for CRDC were not verified in the research pass. External news and Parliamentary searches were truncated and returned little — treat 'nothing found' as provisional. Obtain the actual corporate plan and annual report, and verify the ANAO audit specifics, before acting."
+}

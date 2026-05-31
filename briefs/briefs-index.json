@@ -200,6 +200,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "Unknown",
       "overall_confidence": "Low"
+    },
+    "cotton-research-and-development-corporation": {
+      "name": "Cotton Research and Development Corporation",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "plan_url": "http://crdc.com.au/",
+      "generated_at": "2026-05-31",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }
