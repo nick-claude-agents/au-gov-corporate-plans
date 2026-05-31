@@ -1084,12 +1084,9 @@ function renderCards(list) {
         <div class="card-portfolio">${a.portfolio}</div>
         <div class="card-desc">${a.description}</div>
         <div class="card-actions has-brief">
-          <a href="${a.url}" target="_blank" rel="noopener" class="btn btn-open">
-            ${openIcon} ${isPdf ? 'Open PDF' : 'Open Web'}
-          </a>
           ${isPdf
-            ? `<a href="${a.url}" download class="btn btn-download">${dlIcon} Download</a>`
-            : `<a href="${a.url}" target="_blank" rel="noopener" class="btn btn-download">${dlIcon} View</a>`
+            ? `<a href="${a.url}" download target="_blank" rel="noopener" class="btn btn-open">${dlIcon} Download PDF</a>`
+            : `<a href="${a.url}" target="_blank" rel="noopener" class="btn btn-open">${openIcon} View Plan</a>`
           }
           ${briefBtn}
           ${orgBtn}
