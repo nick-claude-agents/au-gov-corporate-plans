@@ -1,0 +1,187 @@
+{
+  "agency_name": "Export Finance Australia (EFA)",
+  "portfolio": "Foreign Affairs and Trade",
+  "plan_period": "2025-26 to 2028-29 (budget year 2025-26)",
+  "executive_summary": "EFA is the Commonwealth's export credit agency — a corporate Commonwealth entity with own-source revenue that finances Australian export trade, overseas investment and infrastructure with Australian benefit. Its 2025-26 plan is organised around a single strategic priority, 'Sustainable growth', delivered through five goals (drive commercial growth, strengthen key markets, deliver our mandates, ensure sustainability, accelerate digitalisation) and four enablers (people and culture; technology and systems; partners and stakeholders; communication). The clearest BD signals are the explicit 'accelerate digitalisation' goal (technology/systems modernisation), the 'ensure sustainability' goal (financial-sustainability and futureproofing of a commercially-funded entity), and persistent external scrutiny over ESG/fossil-fuel financing and mandate-effectiveness. As a small, expertise-heavy, commercially-oriented entity it suits proportionate advisory, assurance, digital-delivery, data and governance work rather than large transformation programs. The published plan text is thin (a landing page rather than the full PDF), so several opportunities are inferred from goal headings and external research.",
+  "strategic_priorities": [
+    {
+      "title": "Sustainable growth (overarching priority)",
+      "description": "EFA's single stated strategic priority is to increase commercial finance to support more customers and futureproof the organisation — signalling a deliberate push to grow the loan/insurance book while keeping the entity financially and operationally durable.",
+      "source_quote": "Strategic priority: Sustainable growth — Increase commercial finance to support more customers and futureproof Export Finance Australia."
+    },
+    {
+      "title": "Drive commercial growth",
+      "description": "Grow commercial financing volumes and customer numbers, implying scaled origination, risk assessment and portfolio-management capability.",
+      "source_quote": "Goal 1 — Drive commercial growth"
+    },
+    {
+      "title": "Strengthen key markets",
+      "description": "Deepen EFA's presence and effectiveness in priority markets (likely including the Indo-Pacific and infrastructure financing such as the AIFFP).",
+      "source_quote": "Goal 2 — Strengthen key markets"
+    },
+    {
+      "title": "Deliver our mandates",
+      "description": "Execute EFA's expanding government mandates (e.g. overseas infrastructure financing, critical minerals, defence export, Pacific facility) effectively and demonstrably.",
+      "source_quote": "Goal 3 — Deliver our mandates"
+    },
+    {
+      "title": "Ensure sustainability",
+      "description": "Maintain financial and operational sustainability — managing risk, capital and ESG considerations so growth does not erode resilience.",
+      "source_quote": "Goal 4 — Ensure sustainability"
+    },
+    {
+      "title": "Accelerate digitalisation",
+      "description": "Modernise technology and systems to enable faster, more scalable customer service and operations — named as both a goal and an enabler.",
+      "source_quote": "Goal 5 — Accelerate digitalisation; enabler: Technology and systems"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Expansion and execution of multiple government mandates (overseas infrastructure financing under the 2019 powers, AIFFP, and more recently critical minerals and defence export facilities), creating mandate-effectiveness and benefits-realisation demand.",
+    "Explicit 'accelerate digitalisation' goal and 'technology and systems' enabler, signalling system modernisation and digital service investment.",
+    "Growth ambition ('increase commercial finance to support more customers') requiring scalable origination, credit-risk and portfolio capability.",
+    "ESG/climate scrutiny over fossil-fuel versus renewables financing, pushing uplift in environmental & social transaction screening and disclosure.",
+    "Alignment with broader policy agendas (e.g. Future Made in Australia, Clean Energy Transition Partnership) shaping the financing portfolio."
+  ],
+  "challenges_and_risks": [
+    "Reputational and policy pressure from sustained NGO campaigns on fossil-fuel financing and transparency.",
+    "Transparency/accountability criticism (Budget 'not for publication' items; partial FOI exemption) creating disclosure-uplift pressure.",
+    "Mandate-implementation risk — an independent review found it 'too early' to assess effectiveness of the 2019 infrastructure powers, implying ongoing evaluation need.",
+    "Balancing commercial growth with prudent credit/portfolio risk as the book expands.",
+    "Legacy or under-scaled technology limiting the 'accelerate digitalisation' ambition.",
+    "Regular Senate Estimates and ANAO scrutiny of value-for-money and outcomes across its facilities and AIFFP arrangements."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "A coalition (Jubilee Australia, Oxfam, the Australia Institute, ACF) campaigned for EFA to stop financing coal, oil and gas; Jubilee research alleged EFA provided roughly 80x more finance to fossil fuels than renewables (~$1.69bn vs ~$20m, 2009–2020), and EFA was named among financiers ruled out of the Papua LNG project.",
+      "implication": "Live ESG/reputational pressure point — advisory on environmental & social transaction screening, E&S policy and disclosure/transparency is valued and politically sensitive.",
+      "source": "Jubilee Australia — https://www.jubileeaustralia.org/news/latest-news/category/efa"
+    },
+    {
+      "summary": "Per a Wikipedia summary citing the Australia Institute, the 2020-21 Budget set a record for 'not for publication' items, with export-finance-related expenditure hidden, prompting accountability concerns (note: 2020-21, slightly outside the 3-year window).",
+      "implication": "Disclosure/accountability is a recurring critique — proposals demonstrating transparency uplift and accountable reporting may resonate, though FOI sensitivities apply.",
+      "source": "Wikipedia (citing the Australia Institute) — https://en.wikipedia.org/wiki/Export_Finance_Australia"
+    },
+    {
+      "summary": "In Nov 2021 the Government tabled an independent review by Stephen Sedgwick AO of EFA's 2019 overseas infrastructure-financing powers; it made 25 findings, noted seven transactions (~$144m) would not have proceeded without the new mandate, and concluded it was 'too early' to assess effectiveness of the 2019 amendments.",
+      "implication": "A documented evidence base flagging early-stage mandate implementation — useful framing for program-evaluation, benefits-realisation and mandate-effectiveness advisory.",
+      "source": "DFAT — https://www.dfat.gov.au/news/news/export-finance-australia-independent-review-overseas-infrastructure-financing-powers"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO conducted a performance audit, 'Effectiveness of the Export Finance and Insurance Corporation' (Auditor-General Report No. 44 of 2018-19) — older than the 3-year window.",
+      "implication": "Provides a documented baseline of audit expectations on effectiveness; a fresh audit may be overdue, signalling future readiness/assurance demand.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/effectiveness-export-finance-and-insurance-corporation"
+    },
+    {
+      "summary": "An ANAO performance audit on DFAT's establishment of the Australian Infrastructure Financing Facility for the Pacific (AIFFP) is scoped to examine DFAT's management of its arrangements with EFA; AIFFP comprises up to $500m grants plus up to $1.5bn loans over seven years (established July 2019).",
+      "implication": "EFA's AIFFP delivery role is an audit focus area — assurance, controls and governance-of-arrangements advisory could be in demand around this facility.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/dfats-establishment-the-australian-infrastructure-financing-facility-the-pacific-0"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "EFA's senior management attends Senate Estimates three times a year (Foreign Affairs, Defence and Trade committee) to answer for its operations, the Minister responds to parliamentary questions/orders, and EFA's annual reports are tabled in Parliament.",
+      "implication": "EFA faces regular parliamentary scrutiny — engagements should be framed to withstand Estimates-level questioning on value-for-money and outcomes.",
+      "source": "APH Senate Estimates (FADT) — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/fadt"
+    },
+    {
+      "summary": "A 2019 Senate committee inquiry examined the Export Finance and Insurance Corporation Amendment (Support for Infrastructure Financing) Bill 2019, which expanded EFA's mandate (note: 2019, outside the window).",
+      "implication": "Mandate-expansion scrutiny is documented — relevant background for policy, legislative-implementation and stakeholder-engagement advisory.",
+      "source": "DFAT — https://www.dfat.gov.au/news/news/export-finance-australia-independent-review-overseas-infrastructure-financing-powers"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Digital and systems modernisation to enable scalable customer service",
+      "agency_need": "The 'Accelerate digitalisation' goal and 'Technology and systems' enabler signal investment in modernising platforms to support more customers and faster transactions.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A discovery and service-design engagement on EFA's customer/origination journey, followed by systems development or solutions implementation/integration to digitise application, credit-assessment and portfolio workflows.",
+      "rationale": "Digitalisation is named as both a goal and an enabler, and growth ambition ('support more customers') depends on scalable systems — a clear, plan-grounded technology demand for an entity that can fund commercial delivery.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Mandate-effectiveness evaluation and benefits realisation",
+      "agency_need": "EFA must 'deliver our mandates' and demonstrate impact; the Sedgwick review found it 'too early' to judge the 2019 infrastructure powers, and AIFFP is an ANAO focus area.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned program evaluation / mandate-effectiveness review with a benefits-realisation framework across the infrastructure, AIFFP, critical minerals and defence export facilities.",
+      "rationale": "An independent review explicitly flagged effectiveness as unassessed and ANAO is scrutinising AIFFP arrangements — a documented, time-relevant evaluation need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and portfolio/credit-risk uplift",
+      "agency_need": "'Ensure sustainability' and 'futureproof EFA' while growing commercial finance require robust financial-sustainability and risk settings for a commercially-funded corporate entity.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and costing/capital-adequacy assessment testing whether the growth ambition is supportable, with options to strengthen the financial framework.",
+      "rationale": "The overarching priority pairs growth with futureproofing — a natural prompt for financial-sustainability advice in an own-source-revenue entity, though no specific cost pressure is named in the thin plan text.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Environmental & social (E&S) screening and disclosure uplift",
+      "agency_need": "Sustained ESG/climate scrutiny over fossil-fuel financing and transparency criticism create pressure to strengthen transaction screening and public disclosure.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A review and redesign of E&S transaction-screening policy and disclosure/transparency practices (aligned to the Equator Principles framework EFA already references), with governance and reporting uplift.",
+      "rationale": "Multiple credible external sources (Jubilee, Oxfam, ACF, Australia Institute) evidence reputational pressure on EFA's E&S and disclosure practices — a politically sensitive but real demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Assurance of AIFFP and mandate-delivery controls",
+      "agency_need": "EFA delivers large facilities (AIFFP up to $2bn) under arrangements ANAO is examining; growth raises control and governance-of-arrangements risk.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent health-check / assurance review of controls and governance over the AIFFP and newer facilities, positioned ahead of ANAO scrutiny.",
+      "rationale": "ANAO has scoped DFAT's management of its EFA arrangements; a pre-emptive assurance engagement is a defensible, scrutiny-aligned offering.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and business intelligence for portfolio insight",
+      "agency_need": "Growing the commercial book and demonstrating market impact require better data analytics across customers, transactions and outcomes.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "A business-intelligence and portfolio-analytics capability build to support origination targeting, risk monitoring and outcomes reporting.",
+      "rationale": "Implied by the growth and mandate-delivery goals, but not explicitly named in the plan text — extrapolated.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and analyse the full 2025-26 Corporate Plan PDF before pitching, to confirm the specifics behind the five goals and enablers.",
+      "priority": "High",
+      "rationale": "The available text is a landing page, not the full plan; opportunities are currently inferred from goal headings and external research, so the PDF is essential to ground and prioritise offerings."
+    },
+    {
+      "action": "Approach the Chief Operating Officer / technology leadership with a digitalisation discovery proposition tied to the 'accelerate digitalisation' goal.",
+      "priority": "High",
+      "rationale": "Digitalisation is named as both a goal and an enabler and underpins the growth ambition; a discovery/service-design entry is proportionate and can lead to build work the firm can deliver."
+    },
+    {
+      "action": "Prepare a short capability statement on mandate evaluation and benefits realisation, referencing the Sedgwick review and ANAO's AIFFP focus, for the head of the relevant mandate/infrastructure financing division.",
+      "priority": "Medium",
+      "rationale": "The 'too early to assess' finding and active ANAO interest create a credible, evidence-backed evaluation need with parliamentary relevance."
+    },
+    {
+      "action": "Offer a confidential, non-legal E&S screening and disclosure review to the Chief Risk Officer / Board Audit and Risk Committee, framed around resilience to Estimates and NGO scrutiny.",
+      "priority": "Medium",
+      "rationale": "ESG/transparency pressure is well-evidenced externally; positioning it as risk and reputation management (not advocacy) makes it palatable."
+    },
+    {
+      "action": "Monitor the ANAO Foreign Affairs and Trade work program and EFA's announcements on the Critical Minerals Facility and Defence Export Facility for emerging assurance/delivery opportunities.",
+      "priority": "Medium",
+      "rationale": "New facilities and any fresh audit are strong, time-bound demand signals that the constrained research could not fully confirm."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer (technology and systems / digitalisation enabler)",
+    "Head of the mandate / overseas infrastructure financing division (including AIFFP)",
+    "Chief Financial Officer (financial sustainability and capital)",
+    "Chief Risk Officer and the Board Audit and Risk Committee (E&S, assurance, risk framework)",
+    "Head of communications / stakeholder engagement (transparency and disclosure)"
+  ],
+  "talking_points": [
+    "Your 'accelerate digitalisation' goal is the engine for supporting more customers — we can run a discovery and then build the customer/origination platform, not just advise on it.",
+    "The Sedgwick review left mandate effectiveness 'too early to assess' and ANAO is examining AIFFP arrangements — we can stand up an evaluation and benefits-realisation framework that pre-empts that scrutiny.",
+    "Sustained NGO and Budget-transparency pressure on E&S financing is a reputational risk we can help manage through a screening and disclosure uplift aligned to your Equator Principles framework.",
+    "'Sustainable growth' pairs expansion with futureproofing — a financial-sustainability and capital-adequacy lens tests that the growth ambition is durable.",
+    "With Estimates three times a year, we frame every engagement to withstand value-for-money questioning, with defensible evidence and assurance."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "The supplied plan text is essentially a web landing page summarising one strategic priority, five goal headings and four enablers — not the full corporate plan PDF. There is no detail on budgets, key activities, named programs, risk register or performance measures, so most opportunities are inferred from goal titles and from external research rather than evidenced in the plan. EFA is a small, expertise-heavy, commercially-funded corporate Commonwealth entity, so offerings are deliberately right-sized; large transformation programs are unlikely. External research was explicitly constrained, with several findings sitting at or just outside the 3-year window. Confidence should rise materially once the full 2025-26 PDF is reviewed."
+}

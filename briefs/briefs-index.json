@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-30",
+  "generated": "2026-05-31",
   "briefs": {
     "geoscience-australia": {
       "name": "Geoscience Australia",
@@ -128,6 +128,14 @@
       "generated_at": "2026-05-30",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "export-finance-australia-efa": {
+      "name": "Export Finance Australia (EFA)",
+      "portfolio": "Foreign Affairs and Trade",
+      "plan_url": "https://www.exportfinance.gov.au/our-organisation/about-us/reporting/corporate-plan/",
+      "generated_at": "2026-05-31",
+      "plan_period": "2025-26 to 2028-29 (budget year 2025-26)",
+      "overall_confidence": "Low"
     }
   }
 }
