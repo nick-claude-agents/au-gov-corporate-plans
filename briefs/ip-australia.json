@@ -1,0 +1,160 @@
+{
+  "agency_name": "IP Australia",
+  "portfolio": "Industry, Science and Resources",
+  "plan_period": "2024-25",
+  "executive_summary": "IP Australia is a fully cost-recovered regulator and administrator of Australia's IP rights system (patents, trade marks, designs, plant breeder's rights) and the Trans-Tasman attorney regime. The 2024-25 plan signals a deliberate sharpening around financial sustainability/efficiency, contemporary digital and data-driven customer services, AI's disruptive impact on examination, and workforce capability under the APS Reform agenda. As a cost-recovered agency exposed to volatile filing patterns, it runs a rolling ten-year investment plan and an ICT Strategy 2022-2025 that is due for refresh. A live ANAO performance audit into AI use in patent examination and an ANAO cost-recovery audit are the strongest near-term external demand signals. Best-fit opportunities lie in Audit & Assurance (AI/ADM governance), Financial & Accounting (cost-recovery/pricing), Digital & ICT Delivery, and Data, Analytics & Information — proportionate to a mid-sized regulator with own-source revenue.",
+  "strategic_priorities": [
+    {
+      "title": "Financial sustainability and efficiency of a cost-recovered agency",
+      "description": "The DG added 'efficiency' to Strategic Objective 1.1 and emphasises cost-effective service delivery, fee consistency under the Charging Framework, and managing exposure to filing-pattern volatility. Reducing IT cost and outsourcing (~$950k saving target in 2024-25) is explicit.",
+      "source_quote": "We have also added 'efficiency' in Strategic Objective 1.1 to demonstrate our strong focus on financial sustainability and cost-effective service delivery."
+    },
+    {
+      "title": "Contemporary digital and data-driven customer/staff services",
+      "description": "Strategic Objective 4.2 commits to innovative digital solutions, emerging technologies that automate services, and data-driven decision-making, governed by the ICT Strategy 2022-2025 (refreshed yearly) and the Data, Information and Analytics Strategy 2023-2026.",
+      "source_quote": "Create innovative contemporary digital and data driven customer services and staff experiences."
+    },
+    {
+      "title": "Responding to generative AI's impact on the IP system",
+      "description": "The plan states IP Australia is examining how generative AI is disrupting the IP rights system and how it should respond to remain fit-for-purpose while balancing rights owners and AI innovators — now the subject of a live ANAO audit of AI in examination.",
+      "source_quote": "IP Australia is examining how these generative AI technologies are already starting to disrupt or impact the IP rights system."
+    },
+    {
+      "title": "Workforce capability uplift under APS Reform",
+      "description": "People Strategy 2024-2027 focuses on flexibility, innovation, capability uplift and culture, alongside reducing outsourcing in core functions under the APS Strategic Commissioning Framework.",
+      "source_quote": "Continue to implement the 4 priorities of the APS Reform agenda through our People Strategy 2024-27."
+    },
+    {
+      "title": "Reforms to the regulated attorney profession and IP legislation",
+      "description": "Significant initiatives include delivering agreed reforms to the regulated attorney profession on behalf of the Australian and New Zealand governments, and evidence-based legislative improvements including Indigenous Knowledge protection.",
+      "source_quote": "Deliver agreed reforms to the regulated attorney profession on behalf of the Australian and New Zealand governments."
+    },
+    {
+      "title": "Indigenous Knowledge protection and awareness",
+      "description": "Building on the May 2024 WIPO Diplomatic Conference, IP Australia commits to further reforms to protect First Nations traditional knowledge and cultural expressions, domestically and internationally.",
+      "source_quote": "supporting the cultural integrity and economic potential of Indigenous Knowledge held by First Nations people."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Generative AI disrupting patent/trade mark examination and the broader IP rights system, now under live ANAO scrutiny",
+    "APS Reform agenda and APS Strategic Commissioning Framework driving insourcing of core roles (~$950k outsourcing reduction in 2024-25)",
+    "Cost-recovery model under the Australian Government Charging Framework exposing the agency to filing-volatility-driven financial sustainability risk",
+    "ICT Strategy 2022-2025 nearing end of cycle, requiring refresh; rolling ten-year capital investment plan",
+    "Data, Information and Analytics Strategy 2023-2026 maturing data governance and analytics capability",
+    "Agreed reforms to the Trans-Tasman regulated attorney profession",
+    "International IP reform momentum (WIPO traditional knowledge/genetic resources outcomes) requiring legislative and policy follow-through",
+    "New consolidated enterprise strategy and performance framework following a comprehensive review"
+  ],
+  "challenges_and_risks": [
+    "Financial sustainability tied to economic conditions and unpredictable IP filing patterns for a cost-recovered agency",
+    "Minimising overall IT and maintenance cost while continuing to modernise systems",
+    "Integrating AI/automated decision-making into examination without undermining quality, trust and accountability",
+    "Workforce capability and integrity risks while reducing reliance on highly specialised contractors",
+    "Maintaining high timeliness, quality (>85%) and online availability (>98%) commitments under cost pressure",
+    "Cyber/information and data security of customer-facing rights systems",
+    "Governance and assurance load across multiple committees (Audit, IIPC, Information and Data, People, Strategic Policy)"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [
+    {
+      "summary": "ANAO is conducting a performance audit, 'Artificial Intelligence use in IP Australia', assessing whether IP Australia's use of AI and automated decision-making in patent examination is effective; public contributions opened around 19 February 2026, indicating the audit is active and not yet reported.",
+      "implication": "A live audit of AI/ADM in core examination signals near-term demand for AI assurance, model governance, ADM accountability and remediation support — but engagements should anticipate findings not yet tabled.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/artificial-intelligence-use-ip-australia"
+    },
+    {
+      "summary": "ANAO maintains a performance-audit page on 'Cost recovery activities conducted by IP Australia'. The audit page was confirmed to exist but its findings/recommendations and current status could not be retrieved in the research session.",
+      "implication": "Cost-recovery scrutiny points to demand around fee modelling, Cost Recovery Implementation Statements (CRIS) and pricing/financial governance; verify status (proposed vs tabled) and findings before relying on it.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/cost-recovery-activities-conducted-ip-australia"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "AI and automated decision-making assurance in examination",
+      "agency_need": "Generative AI is disrupting examination and a live ANAO audit is assessing the effectiveness of IP Australia's AI/ADM use in patent examination, raising governance, accountability and quality-assurance pressure.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent health check / assurance review of AI and automated decision-making in examination — covering model governance, ADM accountability, quality controls and audit-readiness — positioned to help the agency prepare for, and respond to, ANAO findings.",
+      "rationale": "The plan explicitly states IP Australia is examining generative AI's disruption of the rights system, and the ANAO has an open audit on exactly this topic, creating clear, time-bound demand for independent assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cost-recovery, fee modelling and financial sustainability",
+      "agency_need": "As a fully cost-recovered agency exposed to filing-pattern volatility, IP Australia must keep fees consistent and cost-reflective under the Charging Framework while preserving long-term sustainability — and an ANAO cost-recovery audit exists.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and cost-recovery review: activity-based costing refresh, fee/pricing model validation and Cost Recovery Implementation Statement support to withstand ANAO and stakeholder scrutiny.",
+      "rationale": "The plan repeatedly stresses efficiency, financial sustainability and cost-reflective fees; the ANAO cost-recovery audit page strengthens the likelihood of remediation/uplift demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "ICT Strategy refresh and digital service modernisation",
+      "agency_need": "ICT Strategy 2022-2025 is nearing the end of its cycle; the agency wants contemporary digital/automated services while minimising IT and maintenance cost and maintaining >98% portal availability.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service-design support for the next ICT strategy cycle, plus business/process analysis to modernise customer-facing rights systems and reduce maintenance cost; build/integration support where legacy components are replaced.",
+      "rationale": "The plan names the ICT Strategy 2022-2025 (updated yearly) and Strategic Objective 4.2's automation ambitions, and flags a need to minimise overall IT cost — a clear modernisation runway.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data governance and analytics capability uplift",
+      "agency_need": "The Data, Information and Analytics Strategy 2023-2026 aims to improve data governance, quality, and the safe use/sharing of data to deliver economic insights to government, researchers and business.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "A data-governance and analytics maturity uplift supporting the Centre of Data Excellence — information strategy, data quality/governance frameworks and business intelligence to deliver economic insight products.",
+      "rationale": "The plan dedicates a capability section to the data strategy and Centre of Data Excellence, with analytics/economic insight a stated value driver across objectives 3.1, 3.2 and 4.2.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework redesign embedding",
+      "agency_need": "The agency completed a comprehensive review of its enterprise strategy and performance framework and consolidated objectives and measures; embedding and validating PGPA-compliant measures is ongoing.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short advisory to validate and bed down the refreshed PGPA-aligned performance framework — testing measure quality, target calibration and line-of-sight to purpose across the four-year outlook.",
+      "rationale": "The DG flags a comprehensive performance-framework review and multiple measure changes (e.g. removed legacy metrics, raised targets to 85%), a typical signal of a framework-maturation need.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce capability and insourcing transition",
+      "agency_need": "People Strategy 2024-2027 targets capability uplift while the APS Strategic Commissioning Framework drives reduction of contractor/outsourced roles in core functions.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability-uplift support to manage the transition from contractor reliance to APS-delivered core functions, including critical-role skills mapping for specialised/technical examination work.",
+      "rationale": "The plan commits to insourcing core roles (~$950k saving) and capability uplift under the People Strategy, but the work is general rather than a named program, limiting confidence.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the SES owner of examination/operations and the Information and Data Committee with an AI/ADM assurance proposition framed around the live ANAO audit.",
+      "priority": "High",
+      "rationale": "The open ANAO audit on AI in examination creates an immediate, time-bound need for independent assurance and audit-readiness — the single strongest external signal in the brief."
+    },
+    {
+      "action": "Offer the CFO and Investment, ICT and Property Committee a cost-recovery/fee-model and financial-sustainability review, referencing the ANAO cost-recovery audit page.",
+      "priority": "High",
+      "rationale": "Cost-recovery scrutiny plus the plan's explicit efficiency/sustainability focus make this a credible, well-funded prospect for a cost-recovered agency."
+    },
+    {
+      "action": "Prepare a capability statement on ICT strategy refresh and digital service modernisation for the IIPC ahead of the ICT Strategy 2022-2025 end-of-cycle.",
+      "priority": "Medium",
+      "rationale": "The strategy is due to roll over and the agency wants automation gains with lower IT cost — a natural window for discovery/service-design engagement."
+    },
+    {
+      "action": "Run a targeted follow-up research sweep (InnovationAus/Mandarin/AFR on IT and outages; ParlInfo Hansard for recent Senate Estimates) before finalising positioning.",
+      "priority": "Medium",
+      "rationale": "The external research was cut short by a rate limit; news and parliamentary categories are unverified gaps, not confirmed absences."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Financial Officer / Investment, ICT and Property Committee (cost recovery, capital investment, ICT strategy)",
+    "SES lead for IP rights administration / examination operations (AI and ADM in examination)",
+    "Chief Information Officer / ICT function (ICT Strategy 2022-2025 refresh, system modernisation)",
+    "Information and Data Committee and Centre of Data Excellence (data governance and analytics)",
+    "Audit Committee and internal audit function (assurance and ANAO response)",
+    "People Strategy Committee / HR (workforce capability and insourcing transition)"
+  ],
+  "talking_points": [
+    "A live ANAO audit of AI in patent examination means independent assurance of your AI/ADM governance and audit-readiness is valuable now, not after findings land.",
+    "As a fully cost-recovered agency exposed to filing volatility, a refreshed activity-based costing and fee model protects sustainability and stands up to cost-recovery scrutiny.",
+    "With ICT Strategy 2022-2025 ending, there's a clean window to design the next cycle around automation that lifts service while cutting maintenance cost.",
+    "Your Centre of Data Excellence and Data Strategy 2023-2026 ambitions are a strong base for a governance and BI uplift that turns IP data into economic-insight products.",
+    "The APS Strategic Commissioning shift away from contractors creates a structured workforce-transition and capability-mapping need for specialised examination roles."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The corporate plan is high-level and light on named programs, budgets or timeframes, so several opportunities are inferred from strategy documents (ICT, Data, People) referenced but not detailed. The two strongest signals (AI assurance, cost recovery) rest on ANAO audits that were confirmed to exist but whose status/findings were not fully retrieved — the AI audit is explicitly not yet tabled. News and parliamentary research were cut short by a search rate limit, so those sections are empty as unverified gaps rather than confirmed absences. Offerings are sized to a mid-budget cost-recovered regulator, not a large delivery agency."
+}

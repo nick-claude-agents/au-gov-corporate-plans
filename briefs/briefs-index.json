@@ -160,6 +160,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2023-24 to 2026-27 (Corporate Plan 2024-2027)",
       "overall_confidence": "Medium"
+    },
+    "ip-australia": {
+      "name": "IP Australia",
+      "portfolio": "Industry, Science and Resources",
+      "plan_url": "https://www.ipaustralia.gov.au/about-us/accountability-and-reporting/~/-/media/Project/IPA/IPAustralia/PDF/Strategic-Corporate-Plan-2024-25.pdf",
+      "generated_at": "2026-05-31",
+      "plan_period": "2024-25",
+      "overall_confidence": "Medium"
     }
   }
 }
