@@ -27,13 +27,21 @@ CONFIG = {
     "to_email":      "nick.chapman@parbery.com.au",
     "html_file":     Path("index.html"),
     "state_file":    Path("known-urls.json"),
+    "broken_state_file": Path("broken-streak.json"),
     "log_file":      Path("checker.log"),
     "project_id":    "80a82ed1-3e33-027b-b7e0-6493f97f18f8",
     "dashboard_url": "https://nick-claude-agents.github.io/au-gov-corporate-plans/",
 }
 
 GMAIL_APP_PASSWORD = os.environ.get("GMAIL_APP_PASSWORD", "")
-HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; CorporatePlanChecker/2.0)"}
+# Realistic browser-like headers: many gov sites return 403/406 or hang on a
+# bare bot UA, which previously produced false "broken" reports.
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                  "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept-Language": "en-AU,en;q=0.9",
+}
 
 # ── Logging ───────────────────────────────────────────────────────────────────
 logging.basicConfig(
@@ -77,19 +85,32 @@ def candidate_urls(url):
             seen[c] = True
     return list(seen.keys())
 
-def url_live(url, timeout=12):
-    try:
-        r = requests.head(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
-        if r.status_code < 400:
-            return True
-    except Exception:
-        pass
-    try:
-        r = requests.get(url, headers=HEADERS, timeout=15, stream=True)
-        r.close()
-        return r.status_code < 400
-    except Exception:
-        return False
+def url_live(url, timeout=25, attempts=3):
+    """Return True if the URL responds OK. Tries HEAD then a real GET, and
+    retries a few times with backoff so a slow/blocking server doesn't produce
+    a false 'broken' report. Treats 403/405/429 (bot-blocking) as live, since a
+    human browser can still open the page."""
+    SOFT_BLOCK = {403, 405, 429}
+    for attempt in range(attempts):
+        # HEAD first (cheap); some servers reject HEAD, so fall through to GET.
+        try:
+            r = requests.head(url, headers=HEADERS, timeout=timeout, allow_redirects=True)
+            if r.status_code < 400 or r.status_code in SOFT_BLOCK:
+                return True
+        except Exception:
+            pass
+        # GET (stream so we don't download the whole body).
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=timeout, allow_redirects=True, stream=True)
+            code = r.status_code
+            r.close()
+            if code < 400 or code in SOFT_BLOCK:
+                return True
+        except Exception:
+            pass
+        if attempt < attempts - 1:
+            time.sleep(2 * (attempt + 1))   # 2s, 4s backoff
+    return False
 
 # ── Transparency Portal API ───────────────────────────────────────────────────
 def get_portal_entities():
@@ -203,10 +224,21 @@ def main():
     if CONFIG["state_file"].exists():
         known_urls = json.loads(CONFIG["state_file"].read_text(encoding="utf-8-sig"))
 
+    # Per-agency consecutive-failure counters, persisted across runs. A link is
+    # only *reported* as broken once it has failed on BROKEN_RUNS consecutive
+    # runs, so one slow/blocked morning never emails a false alarm.
+    BROKEN_RUNS = 2
+    broken_streak = {}
+    if CONFIG["broken_state_file"].exists():
+        try:
+            broken_streak = json.loads(CONFIG["broken_state_file"].read_text(encoding="utf-8-sig"))
+        except Exception:
+            broken_streak = {}
+
     agencies = load_agencies()
     log.info(f"Starting check for {len(agencies)} agencies...")
 
-    updates, broken, unchanged = [], [], 0
+    updates, broken, flaky, unchanged = [], [], 0, 0
 
     for a in agencies:
         found_new = next((c for c in candidate_urls(a["url"]) if url_live(c)), None)
@@ -216,14 +248,25 @@ def main():
             log.info(f"UPDATE: {a['name']} -> {found_new}")
             updates.append({"name": a["name"], "portfolio": a["portfolio"], "old": a["url"], "new": found_new})
             known_urls[a["name"]] = found_new
+            broken_streak.pop(a["name"], None)
         elif not current_live:
-            log.info(f"BROKEN: {a['name']}")
-            broken.append({"name": a["name"], "portfolio": a["portfolio"], "url": a["url"]})
+            streak = broken_streak.get(a["name"], 0) + 1
+            broken_streak[a["name"]] = streak
+            if streak >= BROKEN_RUNS:
+                log.info(f"BROKEN ({streak} runs): {a['name']}")
+                broken.append({"name": a["name"], "portfolio": a["portfolio"], "url": a["url"]})
+            else:
+                log.info(f"FAILED 1st run (not yet reported): {a['name']}")
+                flaky += 1
         else:
             unchanged += 1
+            broken_streak.pop(a["name"], None)
         time.sleep(0.3)
 
-    log.info(f"URL check done. Updates={len(updates)} Broken={len(broken)} Unchanged={unchanged}")
+    CONFIG["broken_state_file"].write_text(
+        json.dumps(broken_streak, indent=2, ensure_ascii=False), encoding="utf-8")
+    log.info(f"URL check done. Updates={len(updates)} Broken={len(broken)} "
+             f"FailedOnce={flaky} Unchanged={unchanged}")
 
     # Discover new agencies
     log.info("Scanning Transparency Portal for new agencies...")
