@@ -176,6 +176,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2025-26 (4-year outlook)",
       "overall_confidence": "Low"
+    },
+    "national-indigenous-australians-agency-niaa": {
+      "name": "National Indigenous Australians Agency (NIAA)",
+      "portfolio": "Prime Minister and Cabinet",
+      "plan_url": "https://www.niaa.gov.au/niaa-corporate-plan-2024-25",
+      "generated_at": "2026-05-31",
+      "plan_period": "2024-25",
+      "overall_confidence": "Low"
     }
   }
 }
