@@ -189,3 +189,66 @@
 [2026-05-30 07:12:08] Portal returned 185 plans
 [2026-05-30 07:12:08] Discovery done. New=0
 [2026-05-30 07:12:10] Email sent: AU Gov Corporate Plans - 51 broken link(s) - Saturday 30 May 2026
+[2026-05-31 22:38:10] Starting check for 202 agencies...
+[2026-05-31 22:43:31] FAILED 1st run (not yet reported): Aged Care Quality and Safety Commission (ACQSC)
+[2026-05-31 22:46:15] FAILED 1st run (not yet reported): Attorney-General's Department
+[2026-05-31 22:46:27] UPDATE: Australian Centre for International Agricultural Research (ACIAR) -> https://www.aciar.gov.au/publication/corporate-publications/corporate-plan-2025-26
+[2026-05-31 22:51:43] FAILED 1st run (not yet reported): Australian Commission on Safety and Quality in Health Care (ACSQHC)
+[2026-05-31 22:56:57] FAILED 1st run (not yet reported): Australian Communications and Media Authority (ACMA)
+[2026-05-31 23:02:14] FAILED 1st run (not yet reported): Australian Criminal Intelligence Commission (ACIC)
+[2026-05-31 23:04:56] FAILED 1st run (not yet reported): Australian Energy Regulator (AER)
+[2026-05-31 23:07:37] FAILED 1st run (not yet reported): Australian Financial Security Authority (AFSA)
+[2026-05-31 23:07:40] UPDATE: Australian Human Rights Commission (AHRC) -> https://humanrights.gov.au/our-work/commission-general/publications/corporate-plan-2025-2026
+[2026-05-31 23:12:57] FAILED 1st run (not yet reported): Australian Institute of Criminology (AIC)
+[2026-05-31 23:15:41] FAILED 1st run (not yet reported): Australian National Audit Office (ANAO)
+[2026-05-31 23:18:22] FAILED 1st run (not yet reported): Australian Office of Financial Management (AOFM)
+[2026-05-31 23:21:03] FAILED 1st run (not yet reported): Australian Public Service Commission (APSC)
+[2026-05-31 23:23:40] FAILED 1st run (not yet reported): Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)
+[2026-05-31 23:26:20] FAILED 1st run (not yet reported): Australian Research Council (ARC)
+[2026-05-31 23:29:00] FAILED 1st run (not yet reported): Australian Signals Directorate (ASD)
+[2026-05-31 23:34:25] FAILED 1st run (not yet reported): Australian Skills Quality Authority (ASQA)
+[2026-05-31 23:37:08] FAILED 1st run (not yet reported): Australian Transaction Reports and Analysis Centre (AUSTRAC)
+[2026-05-31 23:42:33] FAILED 1st run (not yet reported): Civil Aviation Safety Authority (CASA)
+[2026-05-31 23:47:51] FAILED 1st run (not yet reported): Climate Change Authority
+[2026-05-31 23:48:21] FAILED 1st run (not yet reported): Creative Australia
+[2026-05-31 23:50:58] FAILED 1st run (not yet reported): Department of Agriculture, Fisheries and Forestry (DAFF)
+[2026-05-31 23:53:37] FAILED 1st run (not yet reported): Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+[2026-05-31 23:56:15] FAILED 1st run (not yet reported): Department of Defence
+[2026-05-31 23:58:53] FAILED 1st run (not yet reported): Department of Education
+[2026-06-01 00:04:09] FAILED 1st run (not yet reported): Department of Employment and Workplace Relations (DEWR)
+[2026-06-01 00:06:49] FAILED 1st run (not yet reported): Department of Finance
+[2026-06-01 00:09:26] FAILED 1st run (not yet reported): Department of Foreign Affairs and Trade (DFAT)
+[2026-06-01 00:12:05] FAILED 1st run (not yet reported): Department of Health, Disability and Ageing
+[2026-06-01 00:14:46] FAILED 1st run (not yet reported): Department of Industry, Science and Resources (DISR)
+[2026-06-01 00:20:04] FAILED 1st run (not yet reported): Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+[2026-06-01 00:25:22] FAILED 1st run (not yet reported): Department of Social Services (DSS)
+[2026-06-01 00:25:23] UPDATE: Department of the Prime Minister and Cabinet (PM&C) -> https://www.pmc.gov.au/sites/default/files/resource/download/corporate-plan-2025-26.pdf
+[2026-06-01 00:30:42] FAILED 1st run (not yet reported): Department of Veterans' Affairs (DVA)
+[2026-06-01 00:33:19] FAILED 1st run (not yet reported): Digital Transformation Agency (DTA)
+[2026-06-01 00:35:58] FAILED 1st run (not yet reported): eSafety Commissioner
+[2026-06-01 00:41:46] FAILED 1st run (not yet reported): Inspector-General of Intelligence and Security (IGIS)
+[2026-06-01 00:44:36] FAILED 1st run (not yet reported): ITC Technologies Pty Ltd
+[2026-06-01 00:50:59] FAILED 1st run (not yet reported): National Archives of Australia (NAA)
+[2026-06-01 00:53:38] FAILED 1st run (not yet reported): National Blood Authority (NBA)
+[2026-06-01 00:56:22] FAILED 1st run (not yet reported): National Health and Medical Research Council (NHMRC)
+[2026-06-01 00:56:45] UPDATE: National Museum of Australia (NMA) -> https://www.nma.gov.au/__data/assets/pdf_file/0005/811913/NMA_Corporate_Plan_2025-26-FINAL.pdf
+[2026-06-01 01:02:05] FAILED 1st run (not yet reported): NDIS Quality and Safeguards Commission
+[2026-06-01 01:02:14] UPDATE: Office of the Commonwealth Ombudsman -> https://www.ombudsman.gov.au/__data/assets/pdf_file/0024/304935/Corporate-Plan-2025-26.pdf
+[2026-06-01 01:07:30] FAILED 1st run (not yet reported): Office of the Fair Work Ombudsman (FWO)
+[2026-06-01 01:08:01] FAILED 1st run (not yet reported): Screen Australia
+[2026-06-01 01:10:41] FAILED 1st run (not yet reported): Services Australia
+[2026-06-01 01:13:23] FAILED 1st run (not yet reported): Tertiary Education Quality and Standards Agency (TEQSA)
+[2026-06-01 01:16:02] FAILED 1st run (not yet reported): Therapeutic Goods Administration (TGA)
+[2026-06-01 01:18:47] FAILED 1st run (not yet reported): Australian Centre for Disease Control
+[2026-06-01 01:21:27] FAILED 1st run (not yet reported): Australian Naval Nuclear Power Safety Regulator
+[2026-06-01 01:24:05] FAILED 1st run (not yet reported): Australian Secret Intelligence Service
+[2026-06-01 01:26:43] FAILED 1st run (not yet reported): Defence Housing Australia
+[2026-06-01 01:29:21] FAILED 1st run (not yet reported): Defence and Veterans? Services Commission
+[2026-06-01 01:32:02] FAILED 1st run (not yet reported): Office of National Intelligence
+[2026-06-01 01:34:39] FAILED 1st run (not yet reported): Royal Australian Air Force Veterans' Residences Trust Fund
+[2026-06-01 01:34:42] URL check done. Updates=5 Broken=0 FailedOnce=51 Unchanged=146
+[2026-06-01 01:34:42] Scanning Transparency Portal for new agencies...
+[2026-06-01 01:34:42] Querying Transparency Portal (FY codename: n2025_26)...
+[2026-06-01 01:34:42] Portal returned 185 plans
+[2026-06-01 01:34:42] Discovery done. New=0
+[2026-06-01 01:34:43] Email sent: AU Gov Corporate Plans - 5 plan update(s) - Monday 01 June 2026
