@@ -288,6 +288,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-financial-security-authority-afsa": {
+      "name": "Australian Financial Security Authority (AFSA)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.afsa.gov.au/about-us/corporate-information/corporate-plan",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

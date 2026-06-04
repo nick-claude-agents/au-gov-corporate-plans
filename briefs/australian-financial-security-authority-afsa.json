@@ -1,0 +1,166 @@
+{
+  "agency_name": "Australian Financial Security Authority (AFSA)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "AFSA is a small, expertise-heavy Treasury-portfolio regulator responsible for Australia's personal insolvency and personal property securities (PPSR) systems, plus criminal-asset management. Its 2025-26 agenda is dominated by a multi-year data and technology transformation (replacing legacy systems, building analytics/intelligence-led regulation and cyber resilience), workforce capability uplift, and a shift to a more visible, intelligence-led 'regulatory steward'. An ANAO performance audit into AFSA's management of conflicts of interest (Report No.4 2024-25) is a live governance/probity signal. Critically for BD, AFSA is explicitly cutting contractor/consultant use (over 40% in 2024-25, a further 1% target in 2025-26) under the APS Strategic Commissioning Framework, so opportunities must be specialist, time-bound and clearly non-core, with knowledge transfer built in.",
+  "strategic_priorities": [
+    {
+      "title": "Digital and data transformation",
+      "description": "Replace outdated core systems with modern, scalable platforms and become a more effective data-driven regulator, delivering a Technology Strategy and building data/analytics capability.",
+      "source_quote": "We are continuing our data and technology transformation to replace outdated systems with modern platforms... build the strong foundations for AFSA to be a more effective data-driven regulator."
+    },
+    {
+      "title": "Intelligence-led regulatory stewardship",
+      "description": "Strengthen and target the regulatory posture using data, insights and intelligence, including an annual Regulatory Action Statement and a PPSR misuse detection pilot.",
+      "source_quote": "We adopt a whole-of-system approach to regulation, using data and intelligence to prioritise where we focus our resources."
+    },
+    {
+      "title": "Workforce capability and culture",
+      "description": "Deliver the Workforce Strategy 2023-28: build regulatory expertise, data literacy, leadership capability and a learning culture, while rebuilding employee engagement after a census dip.",
+      "source_quote": "AFSA's Workforce Strategy identifies 3 key priorities: Capability, Culture, Capacity."
+    },
+    {
+      "title": "Cyber security resilience",
+      "description": "Continually improve protection of systems, data and people as digital delivery and cyber risks rise.",
+      "source_quote": "Strengthen cyber security... continually improve how we protect our systems, data, and people."
+    },
+    {
+      "title": "Vulnerability and access",
+      "description": "Deliver targeted initiatives under the Vulnerability Strategy 2025-28 and improve clarity, reach and timeliness of information for under-represented groups.",
+      "source_quote": "We will deliver targeted initiatives aligned to key objectives of the Vulnerability Strategy 2025-28."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Partnership with Treasury on reform proposals to keep the personal insolvency and PPSR systems fair and balanced",
+    "Ministerial Statement of Expectations and Statement of Intent shaping key activities",
+    "APS Strategic Commissioning Framework driving reduced reliance on contractors/consultants and APS-as-default for core work",
+    "Economic pressure (rising unemployment, modest growth, elevated credit risk) lifting personal insolvency volumes",
+    "Emerging technology and digital assets (AI, cryptocurrency, NFTs) reshaping the credit system and creating new regulatory and intelligence demands",
+    "Legacy system replacement and an enterprise-wide data/technology uplift",
+    "ANAO performance audit into management of conflicts of interest"
+  ],
+  "challenges_and_risks": [
+    "Funding sustainability named as an enterprise risk for a small agency with finite own-resourcing",
+    "Strategy and transformation risk - delivering the multi-year tech/data transformation",
+    "Employee engagement dipped (census index fell from 73 to 69 in 2024) requiring culture rebuild",
+    "Several performance measures are new or baseline-only (RAP1 baseline, ROE2 under development), signalling an immature outcomes-measurement framework for a regulator",
+    "Reliance on external platform managers (e.g. Fujitsu for PPSR) for critical register availability",
+    "Balancing regulating vulnerability against regulating misuse across competing stakeholder interests",
+    "Conflicts-of-interest governance under ANAO scrutiny"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "AFSA's Inspector-General in Bankruptcy took public enforcement action against a registered trustee (Gavin King, linked to the Paul Leroy matter), and separately put insolvency practitioners 'on notice' over system misuse (May 2025).",
+      "implication": "Confirms an active, public enforcement and integrity posture - latent demand for practitioner-oversight, investigations support and data-driven risk-targeting capability.",
+      "source": "AFSA (afsa.gov.au/news) and Accountants Daily (accountantsdaily.com.au/regulation/21278-afsa-puts-insolvency-practitioners-on-notice-over-system-misuse)"
+    },
+    {
+      "summary": "AFSA published its regulatory focus for 2025-26 addressing four key harms.",
+      "implication": "Provides the published priority 'harms' to align any analytics, compliance-framework or surveillance offering against.",
+      "source": "AFSA (afsa.gov.au/news/afsa-announces-its-regulatory-focus-2025-26)"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO conducted a dedicated performance audit, 'Management of Conflicts of Interest by the Australian Financial Security Authority' (Auditor-General Report No.4, 2024-25). The audit's specific conclusions and recommendations were not verified in the supplied research.",
+      "implication": "A COI-focused audit is a strong, specific governance/probity demand signal - likely follow-on need for COI framework and declaration-process uplift, probity advisory and independent assurance against any recommendations.",
+      "source": "ANAO (anao.gov.au/work/performance-audit/management-of-conflicts-of-interest-the-australian-financial-security-authority)"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Core system modernisation / Technology Strategy delivery",
+      "agency_need": "Replace outdated core business systems with modern, scalable platforms that support contemporary regulatory practice and a better client experience.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for legacy replacement, with business/process analysis and staged solution implementation/integration - scoped as a specialist, knowledge-transfer engagement complementing AFSA's APS delivery team.",
+      "rationale": "The plan explicitly commits to a data and technology transformation 'to replace outdated systems with modern platforms' and to deliver a Technology Strategy across 2025-29; the firm can build and implement, not just advise.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and analytics capability for intelligence-led regulation",
+      "agency_need": "Become a more effective data-driven regulator: invest in data/analytics capabilities, surveillance and detection tools, and a PPSR misuse pilot.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Build an analytics/risk-targeting capability - data management, business intelligence and a misuse-detection model supporting the ROE2 PPSR pilot and the annual Regulatory Action Statement.",
+      "rationale": "The plan commits to 'invest in data and analytics capabilities' and to a 2025-26 pilot to 'systematically detect and assess compliance of registrations'; AFSA's enforcement posture (practitioner 'on notice') reinforces demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Conflicts of interest / governance and probity uplift",
+      "agency_need": "Respond to ANAO scrutiny of conflicts-of-interest management and strengthen governance and accountability arrangements.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A COI and governance framework uplift - declaration processes, registers and committee/accountability arrangements - with independent assurance against any ANAO recommendations (secondary: Audit & Assurance; Procurement, Probity & Contracts for probity).",
+      "rationale": "ANAO Report No.4 2024-25 specifically audited AFSA's management of conflicts of interest; the plan also lists 'establish robust governance and accountability arrangements' as an action.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security resilience",
+      "agency_need": "Strengthen protection of systems, data and people against rising cyber and digital-delivery risks.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of core registers and case-management systems, plus cyber advisory aligned to the Technology Strategy.",
+      "rationale": "The plan names 'Strengthen cyber security' as a capability action and identifies 'increasing cybersecurity and digital delivery risks' in the CEO's foreword.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance measurement framework maturity",
+      "agency_need": "Several measures are new, baseline-only or 'under development' (ROE2, RAP1), reflecting an immature outcomes framework for a regulator that admits measuring public value is hard.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign for a regulator - converting output/baseline measures into robust effectiveness measures and benchmarks.",
+      "rationale": "The plan notes 'measuring performance is complex', sets baselines for RAP1 and flags ROE2 as developing toward a quantitative measure once benchmarks exist.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Funding sustainability / costing",
+      "agency_need": "Funding sustainability is a named enterprise risk for a small agency reliant on appropriations and register-based activity.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review or activity-based costing model linking regulatory/registry/criminal-asset activity to cost, supporting funding decisions.",
+      "rationale": "'Funding sustainability' is explicitly listed among AFSA's enterprise risks, and the criminal-assets efficiency measure shows an existing cost-to-value focus.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with AFSA's CIO/technology leadership to discuss the Technology Strategy and core system replacement, leading with a specialist, knowledge-transfer delivery model that respects the Strategic Commissioning Framework.",
+      "priority": "High",
+      "rationale": "System modernisation is the largest multi-year program in the plan, but AFSA is cutting consultants - the winning angle is specialist capability with built-in transfer to APS staff, not bums-on-seats."
+    },
+    {
+      "action": "Prepare a short capability note on COI/governance framework uplift and independent assurance, timed to AFSA's response to ANAO Report No.4 2024-25, and seek a conversation with the Chief Risk Officer / audit and risk committee.",
+      "priority": "High",
+      "rationale": "An ANAO COI audit creates time-bound, defensible demand for governance and probity work that is corporate/enabling and less politically sensitive."
+    },
+    {
+      "action": "Pull the ANAO audit's conclusions and recommendations verbatim before engaging, and watch aph.gov.au (Economics Legislation Committee Estimates) for AFSA appearances.",
+      "priority": "Medium",
+      "rationale": "The research confirmed the audit exists but not its findings; grounding the pitch in actual recommendations is essential and Estimates may reveal further pressure."
+    },
+    {
+      "action": "Develop an analytics/misuse-detection proposition aligned to AFSA's published four key harms and the ROE2 PPSR pilot, targeting the regulatory/intelligence function.",
+      "priority": "Medium",
+      "rationale": "AFSA's intelligence-led posture and active enforcement create demand for risk-targeting analytics, but the offer must map to its named harms to be credible."
+    },
+    {
+      "action": "Qualify the consultant-reduction constraint early in any approach and frame all offerings as specialist, time-bound and transfer-focused.",
+      "priority": "Medium",
+      "rationale": "AFSA has cut contractors by 40%+ and defaults to APS for core work; ignoring this will sink otherwise-good proposals."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive / Inspector-General in Bankruptcy (Tim Beresford) - for strategic transformation framing",
+    "Chief Information / Digital Officer or technology delivery lead - Technology Strategy and core system replacement",
+    "Chief Risk Officer and the Audit and Risk Committee - COI/governance response to ANAO",
+    "Chief Financial Officer / corporate enabling group - funding sustainability and costing",
+    "Head of regulatory operations / intelligence function - analytics and misuse-detection",
+    "Head of People / Workforce (Workforce Strategy 2023-28) - capability uplift (note consultant-reduction constraint)"
+  ],
+  "talking_points": [
+    "Your Technology Strategy commits to replacing outdated core systems - we can build and implement, not just advise, with a specialist team that transfers capability to your APS staff in line with the Strategic Commissioning Framework.",
+    "The ANAO conflicts-of-interest audit is an opportunity to get ahead: a tight governance/COI framework uplift plus independent assurance against the recommendations.",
+    "You've set out four key harms and an intelligence-led posture - we can stand up the analytics and misuse-detection capability (including the ROE2 PPSR pilot) to make that operational.",
+    "Funding sustainability is a named enterprise risk - an activity-based costing view of regulatory, registry and criminal-asset work can strengthen your funding case.",
+    "Several of your new measures are baseline-only - a PGPA-aligned redesign would give you defensible effectiveness measures for a regulator where public value is hard to show.",
+    "We understand you're reducing consultant reliance - everything we propose is specialist, time-bound and built around knowledge transfer."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a clear, well-structured plan but for a small regulator that is actively and explicitly reducing contractor/consultant spend (40%+ in 2024-25, default to APS for core work), which materially dampens BD prospects and caps engagement size - opportunities must be genuinely specialist, time-bound and transfer-focused. Most opportunities are inferred from capability/transformation language rather than named procurements, hence Medium/Low confidence. The external research was incomplete: the ANAO COI audit was confirmed but its specific findings/recommendations were not verified, and no parliamentary material was confirmed (a gap, not a confirmed absence). Some enforcement news reflects AFSA acting as regulator rather than controversies about AFSA itself."
+}
