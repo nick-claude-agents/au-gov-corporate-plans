@@ -17,7 +17,7 @@ on:
       backfill_limit:
         description: 'Max briefs to generate this run'
         required: false
-        default: '10'
+        default: '50'
 
 permissions:
   contents: write
@@ -57,7 +57,7 @@ jobs:
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         run: |
-          LIMIT="${{ github.event.inputs.backfill_limit || '10' }}"
+          LIMIT="${{ github.event.inputs.backfill_limit || '50' }}"
           python manage_briefs.py --all --curated --skip-existing \
             --limit "$LIMIT" --commit-each
 
