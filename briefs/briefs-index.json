@@ -256,6 +256,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "australian-centre-for-international-agricultural-research-aciar": {
+      "name": "Australian Centre for International Agricultural Research (ACIAR)",
+      "portfolio": "Foreign Affairs and Trade",
+      "plan_url": "https://www.aciar.gov.au/publication/corporate-publications/corporate-plan-2024-25",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

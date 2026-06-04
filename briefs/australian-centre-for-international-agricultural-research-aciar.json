@@ -1,0 +1,155 @@
+{
+  "agency_name": "Australian Centre for International Agricultural Research (ACIAR)",
+  "portfolio": "Foreign Affairs and Trade",
+  "plan_period": "2025-26",
+  "executive_summary": "ACIAR is a small (≈90 staff), expertise-heavy non-corporate Commonwealth entity that brokers and funds collaborative international agricultural research-for-development across the Indo-Pacific and Africa, funded predominantly from Australia's ODA appropriation. Its agenda for 2025-26 is steady-state in mission but carries genuine corporate-change signals: a first HQ relocation in 30 years (to Forrest, ACT, with a net-zero commitment), continued investment in its integrated ICT platform that unifies research/partnership/corporate/compliance data, and a named strategic risk around maintaining a sustainable funding model. With cybersecurity, people safety, relationship management and research disruption explicitly listed as enterprise risks, the most credible Consulting Firm openings are in enabling/corporate functions — ICT and data, cyber, governance/risk uplift, performance-measure design and financial sustainability — rather than large program delivery. Budgets are modest, so offerings must be right-sized to short advisory and framework engagements.",
+  "strategic_priorities": [
+    {
+      "title": "Climate-smart food security and resilience",
+      "description": "Concentrate investment in climate-smart agriculture and strengthening resilience across agriculture, fisheries and forestry systems in partner countries.",
+      "source_quote": "food security and nutrition, through climate-smart agriculture and strengthening resilience in agriculture, fisheries and forestry systems"
+    },
+    {
+      "title": "Capacity development through fellowships and local institutions",
+      "description": "Build scientific and policy capability via long-term partnerships, fellowships (JAF, JDF, MWF, PASS) and ACIAR Learn, and engage alumni networks.",
+      "source_quote": "capacity development, through long-term partnerships, fellowships and support for local research institutions"
+    },
+    {
+      "title": "Locally led, partner-driven investment",
+      "description": "Ensure investment decisions are locally led and co-designed through the in-country Country Network across 11 diplomatic-mission locations.",
+      "source_quote": "Our investment decisions are locally led to ensure we are supporting individual country and regional research and development priorities"
+    },
+    {
+      "title": "Science diplomacy and broadened partnerships",
+      "description": "Strengthen Australia's role as a trusted regional partner and broaden engagement with governments, private sector and development partners, including expansion into northern and western Africa.",
+      "source_quote": "science diplomacy, by strengthening regional collaboration and Australia's role as a trusted partner in agricultural innovation"
+    },
+    {
+      "title": "Strengthening strategic risk and business planning",
+      "description": "Enhance integration of strategic risk reporting into business planning and expand risk training and outreach across the organisation in 2025-26.",
+      "source_quote": "we will continue to strengthen the integration of strategic risk reporting by enhancing our business planning processes and expanding risk management training and outreach"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Headquarters relocation to new offices in Forrest, ACT — first move in 30 years — aligned to the Government's net zero commitment",
+    "Alignment of investments with Australia's International Development Policy and the UN 2030 SDGs",
+    "Named strategic risk: failure to maintain a sustainable funding model (ODA-dependent appropriation)",
+    "Continued build-out of an integrated ICT platform unifying research, partnership, corporate and compliance data",
+    "Operating under the ACIAR 10-Year Strategy 2018-2027, approaching its final years (likely strategy refresh ahead)",
+    "Geographic expansion into northern and western Africa, building on eastern/southern Africa partnerships"
+  ],
+  "challenges_and_risks": [
+    "Cybersecurity listed as a top strategic risk for a data- and partnership-intensive agency operating across many jurisdictions",
+    "Major failure(s) of ICT systems identified as a strategic risk",
+    "People safety risk across operational environments in fragile/conflict-affected regions",
+    "Disruption to research programs from global, national and local events",
+    "Failure to maintain a sustainable funding model given ODA appropriation dependence",
+    "Failure to engage key stakeholders/partnerships on government expectations and policies",
+    "Failure to have appropriate governance structures in place",
+    "Small workforce (≈90 staff) carrying a globally dispersed, complex portfolio — capability concentration risk"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Cyber resilience for a globally dispersed, data-rich agency",
+      "agency_need": "Cybersecurity is named as a top strategic risk for an agency with staff at 11 overseas mission locations and an integrated research/partnership/corporate data platform.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and cyber advisory engagement benchmarked against the Essential Eight/PSPF, covering the integrated ICT platform and remote/locally engaged staff access, with a prioritised remediation roadmap.",
+      "rationale": "Cybersecurity appears explicitly in both the 'at a glance' risk summary and the strategic risk register, and the agency depends on a single integrated platform shared with external research partners — a clear, named, time-bound demand signal proportionate to a small agency's budget.",
+      "confidence": "High"
+    },
+    {
+      "area": "ICT platform continuity and uplift",
+      "agency_need": "Major ICT system failure is a named strategic risk, and the agency is continuously developing an integrated platform that unifies research, partnership, corporate and compliance functions.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A business/systems and process analysis and service-resilience review of the integrated platform, with options for systems integration improvements and ongoing support and operations arrangements.",
+      "rationale": "The plan states the platform 'integrates research, partnership, corporate and compliance requirements into a single system' and lists ICT failure as a strategic risk — a single point of failure for a small agency, supporting a discrete advisory/build engagement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Strategic risk and business-planning integration",
+      "agency_need": "The agency commits in 2025-26 to strengthen integration of strategic risk reporting by enhancing business planning processes and expanding risk training.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework and business-planning integration piece: refresh the risk register linkage to planning, design strategic risk reporting for the Audit and Risk Committee, and develop risk-training materials.",
+      "rationale": "The plan explicitly names this as a 2025-26 action and identifies 'failure to have appropriate governance structures' as a strategic risk, giving a clear, agency-stated need that maps cleanly to a short framework engagement.",
+      "confidence": "High"
+    },
+    {
+      "area": "Risk training and capability outreach",
+      "agency_need": "The plan commits to expanding risk management training and outreach across all levels of the organisation.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Design and delivery of a tailored risk-awareness training and capability program for staff and locally engaged Country Network personnel.",
+      "rationale": "Directly stated commitment to 'expanding risk management training and outreach across all levels'; a small, proportionate L&D engagement for a 90-person agency.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework review",
+      "agency_need": "The plan emphasises 'an effective performance framework' and uses broad 'Satisfactory' band targets across its three key activities.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review to sharpen measures and targets and strengthen the line of sight from key activities to purpose and outcomes.",
+      "rationale": "Performance measures rely heavily on wide satisfactory bands (e.g. 50-90%) and self-attributed narratives; the plan's strong M&E culture suggests appetite for measure refinement, though no explicit redesign is named — hence inferred fit.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Funding model sustainability",
+      "agency_need": "'Failure to maintain a sustainable funding model' is a named strategic risk for an ODA-appropriation-dependent agency.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A short financial-sustainability review examining cost drivers, co-investment/partner contribution models and scenario options for a constrained ODA funding environment.",
+      "rationale": "The funding model is explicitly listed as a strategic risk; however the agency is small and appropriation-funded, so the engagement must be modest and the fit is inferred from a single risk line.",
+      "confidence": "Low"
+    },
+    {
+      "area": "HQ relocation transition support",
+      "agency_need": "ACIAR has relocated its headquarters to Forrest, ACT for the first time in 30 years with a net-zero design commitment.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Change-management and transition support for the relocation — staff transition, ways-of-working design for the new fit-out, and realisation of intended collaboration benefits.",
+      "rationale": "A named, significant operational change; the relocation appears largely complete per the CEO's message, so residual change/benefits work may be limited — modest opportunity.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Director Business Engagement and Assurance (named contact in the plan) and the Chief Risk Officer with a cyber-resilience and strategic-risk-integration proposition.",
+      "priority": "High",
+      "rationale": "These functions own the two strongest, explicitly-stated 2025-26 needs (cybersecurity risk and strengthening strategic risk reporting), and the Director Business Engagement and Assurance is the plan's nominated enquiry point — the most direct route in."
+    },
+    {
+      "action": "Prepare a concise capability statement on right-sized cyber assessment and ICT resilience for small, geographically dispersed Commonwealth agencies, referencing Essential Eight/PSPF.",
+      "priority": "High",
+      "rationale": "Cybersecurity and ICT system failure are both named strategic risks; a tailored, proportionate offer will resonate with a 90-person agency that cannot run large programs."
+    },
+    {
+      "action": "Offer a short briefing to the Corporate management line and Audit and Risk Committee on integrating strategic risk reporting into business planning.",
+      "priority": "Medium",
+      "rationale": "The plan commits to this exact action in 2025-26, making it a live, near-term piece of work with a clear internal sponsor."
+    },
+    {
+      "action": "Watch for an ACIAR 10-Year Strategy refresh (current strategy runs 2018-2027) and position early for strategy/performance-framework support.",
+      "priority": "Medium",
+      "rationale": "With the strategy nearing its end, a successor strategy and refreshed performance measures are likely to generate advisory demand over the outlook period."
+    },
+    {
+      "action": "Confirm the external research gaps (ANAO, Estimates, media) before any pitch, as the supplied research returned no verified items.",
+      "priority": "Medium",
+      "rationale": "The external research failed to capture results; checking ANAO and Estimates directly will avoid blind spots and may surface additional demand signals."
+    }
+  ],
+  "engagement_targets": [
+    "Director Business Engagement and Assurance (named plan enquiry contact)",
+    "Chief Risk Officer / CEO and Executive Team (risk oversight)",
+    "Corporate management line (one of ACIAR's three management lines)",
+    "ACIAR Audit and Risk Committee (independent assurance on risk, internal audit, reporting)",
+    "ICT/platform function within Corporate"
+  ],
+  "talking_points": [
+    "Your plan names cybersecurity and ICT system failure as top strategic risks for an agency with staff across 11 overseas missions sharing a single integrated platform — we can run a right-sized security assessment and resilience review.",
+    "You've committed in 2025-26 to integrate strategic risk reporting into business planning and expand risk training — we can deliver a focused risk-framework and reporting uplift plus training materials proportionate to a 90-person agency.",
+    "The integrated research/partnership/corporate/compliance platform is a single point of dependence; a short systems-and-process resilience review can de-risk it.",
+    "With the 10-Year Strategy 2018-2027 approaching its end, we can help shape a successor strategy and sharpen performance measures beyond broad satisfactory bands.",
+    "Funding model sustainability is on your risk register — we can provide a concise financial-sustainability and co-investment scenario review tailored to an ODA-funded agency."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "ACIAR is a small, expertise-heavy, ODA-appropriation-funded agency with a modest budget — opportunities are concentrated in enabling/corporate functions (cyber, ICT, risk/governance) and should be scoped as short advisory or framework engagements, not large delivery programs. The plan is brief and light on named initiatives beyond the HQ relocation and platform development, so several opportunities are inferred from risk lines and marked Low confidence. The external research returned no verified news, ANAO or parliamentary findings due to a tool failure, so those sections are empty; they should be re-run before engagement to avoid missing demand signals."
+}
