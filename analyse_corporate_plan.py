@@ -33,6 +33,7 @@ import io
 import json
 import logging
 import os
+import re
 import sys
 from pathlib import Path
 from typing import List, Literal, Optional
@@ -53,8 +54,15 @@ CONFIG = {
     "research_max_searches": 8,     # cap web searches per plan (cost control)
     "research_max_turns": 6,        # bounded pause_turn loop for the research call
     "max_retries": 8,               # SDK retries (rides out 429s on low tiers)
+    # Use a real browser User-Agent + Accept headers. Many gov sites time out or
+    # return 403 on a non-browser UA (e.g. one containing "Analyser"/"bot"),
+    # which was causing the backfill's plan downloads to fail.
     "http_headers": {
-        "User-Agent": "Mozilla/5.0 (compatible; ConsultingFirmPlanAnalyser/1.0)"
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,"
+                  "application/pdf,*/*;q=0.8",
+        "Accept-Language": "en-AU,en;q=0.9",
     },
 }
 
@@ -495,24 +503,95 @@ def build_models():
 
 
 # ── Plan retrieval & text extraction ───────────────────────────────────────────
-def fetch_plan_text(url: str) -> tuple[str, str]:
+def _norm_name(s: str) -> str:
+    s = re.sub(r"\(.*?\)", "", (s or "").lower())
+    s = re.sub(r"\b(the|department of|office of the|office of)\b", " ", s)
+    s = re.sub(r"[^a-z0-9 ]", " ", s)
+    return re.sub(r"\s+", " ", s).strip()
+
+
+def portal_plan_url(agency: str) -> Optional[str]:
+    """Find this agency's corporate-plan PDF on the Transparency Portal
+    (transparency.gov.au, backed by the Kontent.ai delivery API). The portal's
+    previewapi.transparency.gov.au asset host does NOT block cloud IPs, so it's a
+    reliable fallback when an agency's own website times out / 403s."""
+    pid = "80a82ed1-3e33-027b-b7e0-6493f97f18f8"
+    api = f"https://deliver.kontent.ai/{pid}/items"
+    target = _norm_name(agency)
+    skip = 0
+    candidates = []          # (year, asset_url) — prefer the most recent year
+    try:
+        while True:
+            r = requests.get(api, headers=CONFIG["http_headers"], timeout=30,
+                             params={"system.type": "corp_plan",
+                                     "limit": 100, "skip": skip, "depth": 0})
+            data = r.json()
+            for item in data.get("items", []):
+                raw = item["system"]["name"]
+                nm = re.sub(r"^\d{4}[-–/]\d{2,4}\s+", "", raw)
+                nm = re.sub(r"\s+Corporate Plan.*$", "", nm, flags=re.I).strip()
+                n = _norm_name(nm)
+                if not n:
+                    continue
+                if n == target or (len(n) >= 6 and (n in target or target in n)):
+                    pdfs = item["elements"].get("pdf_file", {}).get("value", [])
+                    if not pdfs:
+                        continue
+                    cdn = pdfs[0]["url"]
+                    m = re.search(r"[a-f0-9-]{36}/([a-f0-9-]{36})/(.+?)(?:\?|$)", cdn)
+                    asset = (f"https://previewapi.transparency.gov.au"
+                             f"/delivery/assets/{pid}/{m.group(1)}/{m.group(2)}"
+                             if m else cdn)
+                    ym = re.search(r"(20\d{2})", raw)          # year from the title
+                    year = int(ym.group(1)) if ym else 0
+                    candidates.append((year, asset))
+            if not data.get("pagination", {}).get("next_page", ""):
+                break
+            skip += 100
+    except Exception as e:                       # noqa: BLE001
+        LOG.warning("Portal lookup failed for %s: %s", agency, e)
+    if candidates:
+        candidates.sort(reverse=True)            # newest year first
+        return candidates[0][1]
+    return None
+
+
+def fetch_plan_text(url: str, agency: str = "") -> tuple[str, str]:
     """Download the plan and return (extracted_text, source_kind).
-    source_kind is 'pdf' or 'html'."""
+    source_kind is 'pdf' or 'html'. If the agency's own URL fails and an agency
+    name is supplied, fall back to its Transparency Portal PDF."""
+    def _download(u: str):
+        last_exc = None
+        for attempt in range(1, CONFIG["download_attempts"] + 1):
+            try:
+                r = requests.get(u, headers=CONFIG["http_headers"],
+                                 timeout=CONFIG["request_timeout"],
+                                 allow_redirects=True)
+                r.raise_for_status()
+                return r
+            except Exception as e:               # noqa: BLE001 (retry any)
+                last_exc = e
+                if attempt < CONFIG["download_attempts"]:
+                    LOG.warning("Download attempt %d/%d failed (%s); retrying...",
+                                attempt, CONFIG["download_attempts"], e)
+        raise last_exc
+
     LOG.info("Downloading plan: %s", url)
-    # Gov plan hosts are sometimes slow; retry on timeout/connection errors.
-    resp = None
-    for attempt in range(1, CONFIG["download_attempts"] + 1):
-        try:
-            resp = requests.get(url, headers=CONFIG["http_headers"],
-                                timeout=CONFIG["request_timeout"],
-                                allow_redirects=True)
-            resp.raise_for_status()
-            break
-        except (requests.Timeout, requests.ConnectionError) as e:
-            if attempt == CONFIG["download_attempts"]:
+    try:
+        resp = _download(url)
+    except Exception as primary_exc:             # noqa: BLE001
+        if agency:
+            LOG.warning("Primary URL failed (%s); trying Transparency Portal "
+                        "fallback for %s...", primary_exc, agency)
+            fb = portal_plan_url(agency)
+            if fb and fb != url:
+                LOG.info("Portal fallback URL: %s", fb)
+                resp = _download(fb)
+                url = fb
+            else:
                 raise
-            LOG.warning("Download attempt %d/%d failed (%s); retrying...",
-                        attempt, CONFIG["download_attempts"], e)
+        else:
+            raise
     content = resp.content
     content_type = resp.headers.get("Content-Type", "").lower()
 
@@ -890,7 +969,7 @@ def main() -> int:
     load_env_file()
 
     try:
-        plan_text, source_kind = fetch_plan_text(args.url)
+        plan_text, source_kind = fetch_plan_text(args.url, args.agency)
     except Exception as e:                       # noqa: BLE001 - report & exit
         LOG.error("Failed to retrieve/extract the plan: %s", e)
         return 1

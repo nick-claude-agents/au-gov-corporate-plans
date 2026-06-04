@@ -175,7 +175,7 @@ def generate_one(agency: str, portfolio: str, url: str, index: dict,
     Returns the analysis dict, or None on failure."""
     slug = slugify(agency)
     try:
-        plan_text, kind = core.fetch_plan_text(url)
+        plan_text, kind = core.fetch_plan_text(url, agency)
         analysis = core.analyse_with_claude(agency, portfolio, url, plan_text,
                                             kind, research=research)
     except SystemExit:
