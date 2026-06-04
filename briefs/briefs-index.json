@@ -280,6 +280,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-criminal-intelligence-commission-acic": {
+      "name": "Australian Criminal Intelligence Commission (ACIC)",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.acic.gov.au/sites/default/files/2024-08/australian_criminal_intelligence_commission_corporate_plan_2024-25.pdf",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }

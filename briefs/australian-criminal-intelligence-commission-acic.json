@@ -1,0 +1,216 @@
+{
+  "agency_name": "Australian Criminal Intelligence Commission (ACIC)",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "The ACIC is a Home Affairs portfolio statutory intelligence and information-sharing agency (security/intelligence/enforcement archetype) whose 2025-26 plan is dominated by the response to the 2024 Independent Review and the rollout of a new intelligence operating model. The agency is candid that it must replace legacy technology, uplift cyber posture, mature data governance, and stand up enterprise-wide data capability — all heavily ICT- and capability-driven demand. It is simultaneously bringing ICT and program/project management work in-house under the APS Strategic Commissioning Framework, which constrains some pure-staff-augmentation BD but leaves room for specialist design, assurance and build work. A history of high-profile ICT/program failure (Biometric Identification Services) and ongoing ANAO scrutiny (including a recent travel-compliance audit) create strong latent demand for independent program assurance, governance and internal-control uplift. The new performance framework (reduced from 11 to 6 measures) and a refreshed risk framework also signal evaluation and assurance opportunities, though clearance constraints and insourcing intent require realistic scoping.",
+  "strategic_priorities": [
+    {
+      "title": "Implement Independent Review recommendations and new operating model",
+      "description": "The agency's stated major focus is implementing the recommendations of the 2024 Independent Review and standing up a new intelligence operating model to deliver more timely and relevant intelligence, contingent on available funding.",
+      "source_quote": "Implementing these recommendations and our new intelligence operating model are a major focus for the agency over the coming year."
+    },
+    {
+      "title": "Modernise data, technology and ICT",
+      "description": "Replace legacy technology, implement new solutions to operate at pace and scale, enhance cyber security posture, and mature enterprise-wide data capability including data governance, tooling and data fluency.",
+      "source_quote": "We will enhance our cyber security posture, replace legacy technology and implement new solutions to support operating at pace and scale."
+    },
+    {
+      "title": "Evolve national policing information systems and NCIS",
+      "description": "Continue developing the National Criminal Intelligence System — adding datasets, improving intelligence exploitation functionality — and sustain the 17 interlinked national policing information systems serving 71,000+ users.",
+      "source_quote": "Capability enhancements planned for the National Criminal Intelligence System in 2025-26 focus on adding datasets, improving criminal intelligence exploitation functionality."
+    },
+    {
+      "title": "Strengthen regulation of the National Police Checking Service",
+      "description": "Operate as regulator of accredited bodies under a new access agreement (effective 1 January 2025) with stronger controls, and audit at least 10% of accredited bodies for compliance.",
+      "source_quote": "The new agreement introduces stronger controls governing the management of ACIC accredited bodies."
+    },
+    {
+      "title": "Workforce capability uplift and insourcing",
+      "description": "Address critical skills gaps in data analytics, AI and cyber, develop a 5-year strategic people plan, and reduce outsourcing of ICT Digital Solutions and Portfolio/Program/Project Management under the APS Strategic Commissioning Framework.",
+      "source_quote": "We expect our targets for 2025-26 to focus on reduced outsourcing of ICT Digital Solutions and Portfolio Program and Project Management."
+    },
+    {
+      "title": "Mature performance and risk frameworks",
+      "description": "Embed the updated risk management framework and mature risk culture, and bed down a streamlined performance framework reduced from 11 to 6 measures aligned to Review recommendations.",
+      "source_quote": "The number of measures has been reduced from 11 in 2024-25 to 6 in 2025-26, driven by ongoing internal changes influenced by the Independent Review."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "2024 Independent Review of the ACIC and associated Commonwealth law enforcement arrangements driving operating-model and legislative reform",
+    "Pending parliamentary approval of comprehensive legislative reform to functions, powers and legislation",
+    "New intelligence operating model implementation, iteratively dependent on funding",
+    "APS Strategic Commissioning Framework requiring insourcing of ICT and program/project management",
+    "New National Police Checking Service accredited-body access agreement (effective 1 Jan 2025) strengthening the regulator role",
+    "Rapidly evolving, technology-enabled serious and organised crime threat (estimated $68bn/year cost to the economy)",
+    "Updated risk management framework (ISO 31000:2018, Commonwealth Risk Management Policy) requiring embedding",
+    "Streamlined performance framework aligned to Review recommendations"
+  ],
+  "challenges_and_risks": [
+    "Technology and data enterprise risk: failure to implement, manage or secure data/services/systems/tools and stay ahead of emerging technology",
+    "Legacy technology requiring replacement and end-of-life system retirement",
+    "Security and integrity risk: protecting tradecraft, sensitive capabilities and against insider compromise",
+    "People and culture risk: national talent shortages and competition for data analytics, AI and cyber skills",
+    "Finance and resources risk: managing financial requirements, contracts, procurement and preventing fraud — with operating model implementation explicitly funding-dependent",
+    "Legal and ethical compliance risk with low risk appetite",
+    "Demonstrated history of major ICT/program failure (BIS) and ongoing ANAO scrutiny of governance and compliance"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "A 2024 independent review of the ACIC and associated Commonwealth law-enforcement arrangements called for the agency's remit to be narrowed, with commentary that more reform is still needed.",
+      "implication": "A government-commissioned review signals an imminent operating-model/strategy reset — an entry point for organisational design, target-operating-model and reform-implementation work.",
+      "source": "The Strategist (ASPI), 4 Dec 2024 — https://www.aspistrategist.org.au/review-calls-for-narrowing-australian-criminal-intelligence-commission-focus-but-more-needs-to-be-done/ ; APO, Nov 2024 — https://apo.org.au/node/329004 ; Dept of Home Affairs review page"
+    },
+    {
+      "summary": "The ACIC's ~$50m+ Biometric Identification Services (BIS) program was scrapped after running late and over budget, with about $26m spent on the dumped NEC system (2018-19; outside the 3-year window but the agency's defining ICT controversy).",
+      "implication": "A high-profile major-ICT-procurement failure means strong residual demand and political sensitivity around program assurance, vendor management, business-case rigour and gateway reviews.",
+      "source": "iTnews, 30 Nov 2018 — https://itnews.com.au/news/acic-spent-26m-on-dumped-biometrics-system-516291 ; Canberra Times, 24 Apr 2018; Computerworld"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Compliance with domestic and international travel requirements in the Australian Criminal Intelligence Commission'; contemporaneous reporting referred to public servants breaching travel rules over 200 times (recent, ~Jan 2026).",
+      "implication": "Fresh adverse audit findings on internal controls/compliance create near-term demand for internal-control uplift, policy remediation and independent assurance support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/compliance-domestic-and-international-travel-requirements-the-acic ; Canberra Times, 22 Jan 2026 (verify specific to ACIC)"
+    },
+    {
+      "summary": "ANAO performance audit on the ACIC's administration of the Biometric Identification Services project (2019; outside window) characterised the administration as 'deficient in almost every significant respect.'",
+      "implication": "Establishes ANAO's continued scrutiny of ACIC ICT/program governance — relevant for positioning around audit-readiness and major-project assurance.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/the-australian-criminal-intelligence-commission-administration-the-biometric-identification-services ; Canberra Times, Jan 2019"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Operating model design and Review implementation",
+      "agency_need": "The agency must implement Independent Review recommendations and stand up a new intelligence operating model — its stated major focus for the year.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Target operating model design and a Review-response implementation roadmap, defining functions, governance arrangements and transition sequencing, with governance redesign support.",
+      "rationale": "The plan explicitly names Review-recommendation implementation and a new operating model as the agency's primary focus; the ASPI/APO coverage confirms a government-commissioned reset is underway, creating clear time-bound demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of the operating-model and ICT reform program",
+      "agency_need": "Major reform plus a documented history of ICT/program failure (BIS) and ongoing ANAO scrutiny create demand for independent delivery assurance.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Gateway-style independent assurance and health checks at key milestones of the operating-model and legacy-replacement programs, plus delivery-confidence reviews.",
+      "rationale": "The BIS failure and ANAO's findings ('deficient in almost every significant respect') show heightened scrutiny of ACIC's major-project governance; independent assurance directly addresses this and the Technology and data enterprise risk.",
+      "confidence": "High"
+    },
+    {
+      "area": "Legacy technology replacement and NCIS enhancement",
+      "agency_need": "Replace legacy technology, implement new solutions to operate at pace and scale, and enhance the National Criminal Intelligence System (new datasets, intelligence exploitation functionality).",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design, business/systems/process analysis and solutions implementation for legacy replacement and NCIS enhancement, scoped to clearance constraints.",
+      "rationale": "The plan names specific ICT modernisation and NCIS capability enhancements for 2025-26; the firm can build and implement, not only advise. Note insourcing of ICT Digital Solutions may favour specialist design/build over augmentation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise data governance and analytics uplift",
+      "agency_need": "Enhance enterprise-wide data capabilities including data governance, tooling and data fluency for more efficient exploitation of agency and national data.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data governance framework design, data quality standards and an information management strategy, with analytics capability uplift aligned to the ICT and Data strategies.",
+      "rationale": "The plan repeatedly stresses data governance, data quality and analytics as core to the new operating model and lists 'Ensure quality data management across ACIC data systems' as a strategic objective.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cyber security posture uplift",
+      "agency_need": "Enhance cyber security posture and improve information protection as part of capability integration and the Security and integrity enterprise risk.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Cyber security assessment and assurance of critical national policing/intelligence systems and data, with an advisory uplift roadmap.",
+      "rationale": "The plan explicitly commits to 'enhance our cyber security posture' and names protection of sensitive capabilities and information security as an enterprise risk for a national intelligence agency.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce and capability strategy",
+      "agency_need": "Critical skills gaps in data analytics, AI and cyber; development of a 5-year strategic people plan and leadership pipelines amid talent shortages.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Strategic workforce planning and a capability uplift program design to support the 5-year people plan, including critical-skills and leadership pipeline strategies.",
+      "rationale": "The plan details critical skills gaps, an interim 2024-25 workforce plan and intent to develop a 5-year strategic people plan; however insourcing intent means design/advisory is a better fit than resourcing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework and evaluation",
+      "agency_need": "Newly streamlined performance framework (11 to 6 measures) aligned to Review recommendations, requiring maturation and validation.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure review and methodology validation, plus an evaluation of the new operating model's outcomes once implemented.",
+      "rationale": "The plan states measures were reduced and methodologies are reviewed annually for s16EA compliance; a materially revised framework benefits from independent validation and later evaluation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Risk framework embedding and governance",
+      "agency_need": "Embed the updated risk management framework, mature risk culture and integrate risk into planning processes.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Risk framework embedding support and risk-maturity assessment, with committee-effectiveness review for the Compliance and Risk and Audit and Risk Committees.",
+      "rationale": "The plan commits to embedding a new risk framework and maturing risk culture in 2025-26, with named governance committees — a credible governance advisory opportunity, though general rather than program-specific.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Internal control and compliance remediation",
+      "agency_need": "Recent ANAO travel-compliance findings and a low risk appetite for legal/compliance/integrity matters indicate internal-control pressure.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Internal-control health check and compliance remediation review addressing the travel-requirements findings and broader Finance and resources risk controls.",
+      "rationale": "The ANAO travel-compliance audit (over 200 breaches reported) and the Finance and resources enterprise risk (contracts, procurement, fraud) point to near-term internal-control uplift demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National Police Checking Service regulator support",
+      "agency_need": "Operate as regulator of accredited bodies under a new access agreement, auditing at least 10% of bodies for compliance.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Compliance audit methodology design and regulatory-assurance support for accredited-body audits aligned to RMG 128 Regulator Performance.",
+      "rationale": "Performance measure 6 commits the agency to auditing 10%+ of accredited bodies under a new (Jan 2025) agreement; methodology and assurance support is a credible, proportionate fit.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the executive owning operating-model/Review implementation (CEO office and the relevant Deputy/Group head) with a tailored target-operating-model and Review-response capability statement.",
+      "priority": "High",
+      "rationale": "Review implementation is the agency's stated top focus this year and is the largest, most time-bound opportunity; early positioning before scoping decisions is critical."
+    },
+    {
+      "action": "Prepare a major-program assurance pitch referencing the BIS lessons and recent ANAO scrutiny, targeting the Chief Risk Officer and the Audit and Risk Committee.",
+      "priority": "High",
+      "rationale": "ACIC's documented ICT-program failure and continued ANAO attention make independent gateway-style assurance an easy, lower-sensitivity sell that de-risks the funding-dependent reform program."
+    },
+    {
+      "action": "Develop a data governance and analytics uplift proposition aligned to the agency's ICT and Data strategies and engage the data/technology capability owner.",
+      "priority": "High",
+      "rationale": "Data governance, quality and analytics are named strategic objectives and enablers of the operating model — a clearly funded, repeatedly emphasised priority."
+    },
+    {
+      "action": "Scope offerings around design, assurance and specialist build rather than staff augmentation, given the APS Strategic Commissioning Framework insourcing of ICT and PPM.",
+      "priority": "Medium",
+      "rationale": "The plan explicitly targets reduced outsourcing of ICT Digital Solutions and Portfolio/Program/Project Management; mis-pitching augmentation would fail. Specialist design/build/assurance remains viable."
+    },
+    {
+      "action": "Monitor for the Government response to the 2024 Independent Review and any legislative reform (pending parliamentary approval) as procurement triggers.",
+      "priority": "Medium",
+      "rationale": "Implementation status of the Review and legislation will define the pipeline of reform-delivery and assurance work; watching these closes the parliamentary intelligence gap noted in research."
+    },
+    {
+      "action": "Prepare an internal-control/compliance remediation note referencing the ANAO travel-requirements audit for the COO/CFO function.",
+      "priority": "Low",
+      "rationale": "Fresh adverse compliance findings create near-term, proportionate remediation demand and a credible reason for a first meeting on corporate-enabling work."
+    }
+  ],
+  "engagement_targets": [
+    "CEO / accountable authority office (owner of Review implementation and operating model)",
+    "Deputy Secretary / Group head responsible for the new intelligence operating model",
+    "Chief Risk Officer (risk framework embedding, enterprise risk)",
+    "Audit and Risk Committee and Compliance and Risk Committee",
+    "Chief Information/Technology Officer or ICT & Data strategy owner (legacy replacement, NCIS, cyber, data governance)",
+    "Chief Operating Officer / CFO (Finance and resources risk, internal controls, ANAO travel-audit response)",
+    "Head of People/Workforce function (5-year strategic people plan, capability uplift)",
+    "National Police Checking Service regulatory function lead"
+  ],
+  "talking_points": [
+    "Implementing the Independent Review and a new operating model is your stated top priority — we design target operating models and Review-response roadmaps that translate recommendations into a sequenced, funding-staged transition.",
+    "Major reform plus the BIS history and recent ANAO findings make independent, gateway-style program assurance a low-regret investment that protects funding-dependent delivery.",
+    "Your strategic objectives put data quality and governance at the core of the new operating model — we can design the data governance framework, quality standards and analytics uplift that underpin it.",
+    "Legacy replacement and NCIS enhancement are named 2025-26 commitments — we can deliver discovery, service design and build, scoped to your clearance and insourcing constraints.",
+    "With ICT and PPM moving in-house under the Strategic Commissioning Framework, our value is specialist design, assurance and build — not augmentation — complementing your internal capability.",
+    "The streamlined 6-measure performance framework and refreshed risk framework would benefit from independent validation now, and outcome evaluation once the operating model lands."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The plan is unusually candid about reform, ICT modernisation and data needs, which supports several high-confidence opportunities. However, three factors temper BD optimism: (1) operating-model implementation is explicitly 'iteratively dependent upon available funding', so timing and scale are uncertain; (2) the APS Strategic Commissioning Framework targets reduced outsourcing of ICT Digital Solutions and Portfolio/Program/Project Management — exactly the firm's delivery zones — so offerings must emphasise specialist design, assurance and build over staff augmentation; and (3) as a national intelligence/enforcement agency, security clearance and access constraints will limit who can do sensitive work. Parliamentary research was incomplete (quota-limited) and the parliamentary_matters list is empty rather than exhausted — the ACIC is overseen by the PJC on Law Enforcement and targeted re-searching is advised. The recent ANAO travel-compliance audit should be verified as ACIC-specific before relying on it in conversation."
+}
