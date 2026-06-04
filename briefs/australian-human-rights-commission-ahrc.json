@@ -1,0 +1,215 @@
+{
+  "agency_name": "Australian Human Rights Commission (AHRC)",
+  "portfolio": "Attorney-General",
+  "plan_period": "2025-26 (covering 2025-2029)",
+  "executive_summary": "The AHRC is a small, independent corporate Commonwealth entity and 'A-status' national human rights institution operating under acknowledged funding constraint while carrying an expanding mandate — most notably its newer regulator role for the positive duty under the Sex Discrimination Act. The plan is candid about capability gaps: it is replacing its case-management system with a new cloud-based ECMS, undertaking a SharePoint/PowerSuite uplift, launching a new website, investing in cyber security and process automation, and implementing recommendations from an ANAO performance audit of its complaints-handling function. It is also maturing its evaluation, workforce-planning and risk functions. BD demand is concentrated in enabling/corporate areas (digital, assurance, evaluation, workforce, costing) rather than large program delivery, and must be right-sized to a constrained budget. Live external pressures — funding/accreditation concerns, a complaints backlog, and a stalled Human Rights Act agenda — reinforce the corporate-uplift opportunities.",
+  "strategic_priorities": [
+    {
+      "title": "Reduce complaint-handling times and uplift the complaints function",
+      "description": "With the backlog stabilised, the Commission is focused on reducing complaint-handling times and implementing ANAO recommendations to uplift complaints processes and infrastructure, underpinned by a new cloud-based ECMS.",
+      "source_quote": "While our complaints handling backlog has stabilised, this reporting period the Commission will continue to focus on the reduction of complaint handling times."
+    },
+    {
+      "title": "Strengthen Australia's Human Rights Framework",
+      "description": "Advocating for a National Human Rights Framework and Human Rights Act, discrimination-law reform (with a focus on disability discrimination), and the National Anti-Racism Framework.",
+      "source_quote": "The Commission will continue to advocate for national endorsement and implementation of a new National Human Rights Framework."
+    },
+    {
+      "title": "Operate the positive-duty regulator function",
+      "description": "Regulating the positive duty under the Sex Discrimination Act using risk-based, data-driven and best-practice regulatory approaches, ahead of an independent review of the function in 2026-27.",
+      "source_quote": "We continue to regulate the positive duty in the Sex Discrimination Act 1984 including its promotion, research and education."
+    },
+    {
+      "title": "Financial sustainability and secure funding",
+      "description": "Building on a 2025 capability review, the Commission is advocating for sustainable funding to preserve its independence and ability to deliver its mandate, including capital for cyber and automation.",
+      "source_quote": "Building on a capability review undertaken in early 2025, we will continue to advocate for sustainable funding to ensure our independence to deliver against our mandate."
+    },
+    {
+      "title": "Digital and information infrastructure modernisation",
+      "description": "Migrating to 100% cloud, deploying a new ECMS, uplifting SharePoint/PowerSuite for automation, and launching a new accessible website by end 2025.",
+      "source_quote": "We will invest in systems to support our regulatory and conciliation functions including implementing a new Cloud Based, Electronic Case Management System (ECMS)."
+    },
+    {
+      "title": "Build evaluation, MEAL and workforce capability",
+      "description": "Maturing monitoring/evaluation/learning capability (participated in the Australian Centre for Evaluation maturity pilot) and expanding workforce planning, talent and job-family mapping.",
+      "source_quote": "As part of this capability uplift... the Commission participated in the Australian Centre for Evaluation (ACE), Commonwealth Evaluation Maturity Model Pilot."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Free and Equal reforms — proposed Australian Human Rights Act, modernised anti-discrimination laws, and a national human rights education action plan",
+    "National Anti-Racism Framework and major racism research (universities study; Seen and Heard project)",
+    "New positive-duty regulator role under the Sex Discrimination Act, with an independent review of the function scheduled for 2026-27",
+    "Implementation of ANAO performance-audit recommendations on complaints handling",
+    "Sustained increase in FOI applications driving a new FOI policy and charging framework in late 2025",
+    "APS Strategic Commissioning Framework requiring in-house build of evaluation and graphic-design capability",
+    "Constrained funding environment and a 2025 capability review driving advocacy for sustainable funding",
+    "UN engagement milestones — Universal Periodic Review and Human Rights Council review in early 2026; GANHRI A-status accreditation maintenance"
+  ],
+  "challenges_and_risks": [
+    "Working within a constrained funding environment as a named key enterprise risk, threatening delivery of mandate",
+    "Complaint-handling timeliness pressure (target 85% finalised under 12 months) and historical backlog",
+    "Cyber security incident response listed as a topical risk; reliance on manual processes pending automation",
+    "New regulatory function risks — regulatory capture, jurisdictional challenges, conflicting legislation, and stakeholder resistance",
+    "Workforce wellbeing and psychosocial/vicarious-trauma risk given the nature of the work",
+    "Maintaining A-status NHRI accreditation and reputation as a strong independent institution",
+    "Records/information management and physical/information security compliance obligations",
+    "Complex, long-horizon impact measurement across eight statutory officeholder portfolios with limited resources"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Commentary aggregated by The Conversation states the Commission faces 'twin crises' of insufficient funding and threats to its global (A-status) standing, the latter linked to concerns over the merit/transparency of commissioner appointments.",
+      "implication": "A budget-constrained client with a live reform agenda — openings in governance, appointment-process design and accreditation-readiness/assurance, but tempered discretionary spend.",
+      "source": "The Conversation — https://theconversation.com/topics/australian-human-rights-commission-3537"
+    },
+    {
+      "summary": "The Commission's 2023-24 annual performance statement records a sharp rise in human-rights reports completed but acknowledges a complaints backlog, with October 2022 'backlog funding' delivering only a short-term staffing increase.",
+      "implication": "Clear demand for process improvement, triage and case-management/workforce-capacity work, but recurrent funding is uncertain — pitch scalable, efficiency-led solutions.",
+      "source": "Transparency.gov.au — AHRC Annual Report 2023-24 — https://www.transparency.gov.au/publications/attorney-general-s/australian-human-rights-commission/australian-human-rights-commission-annual-report-2023-2024/annual-performance-statement/statement-against-outcomes-"
+    },
+    {
+      "summary": "Academic critics in The Conversation argued the Commission's late-2024 Interim Report on Racism at Australian Universities 'fails', citing its quantitative/individualised framing and handling of contested terminology.",
+      "implication": "Reputational and methodology sensitivity around flagship racism work — research-design rigour and stakeholder-engagement support are defensible advisory areas.",
+      "source": "The Conversation — https://theconversation.com/the-human-rights-commission-has-handed-down-a-report-on-racism-at-australian-universities-heres-why-it-fails-246422"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "The plan references an ANAO performance audit of the Commission's complaints-handling function; the plan states no systemic deviations from legislation were identified, but recommendations to uplift some processes and infrastructure will be implemented. (No separate ANAO source was retrievable in the supplied research; coverage flagged as incomplete.)",
+      "implication": "An open set of audit recommendations on complaints handling is a direct demand signal for assurance, process uplift and supporting digital/case-management work.",
+      "source": "AHRC Corporate Plan 2025-26 (entity reference to ANAO performance audit); external ANAO search incomplete per research note"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "A 2024 Parliamentary Joint Committee on Human Rights report recommended a national Human Rights Act and framework — a central AHRC priority — but has not received a government response, with the President renewing the call.",
+      "implication": "The Commission's reform agenda is partly stalled on a political trigger; legislative-implementation-readiness work is contingent rather than imminent.",
+      "source": "Pearls and Irritations — https://johnmenadue.com/post/2026/05/australia-has-waited-21-years-for-a-human-rights-act-what-is-albanese-waiting-for/"
+    },
+    {
+      "summary": "Per AHRC annual reporting, the 2024 Senate inquiry into the Climate Change Amendment (Duty of Care and Intergenerational Equity) Bill recommended wider government use of the AHRC's Child Rights Impact Assessment (CRIA) Tool.",
+      "implication": "A parliamentary endorsement that could drive cross-government uptake of an AHRC product — possible adjacent demand for rollout, training and assessment support.",
+      "source": "Transparency.gov.au — AHRC Annual Report 2023-24 — https://www.transparency.gov.au/publications/attorney-general-s/australian-human-rights-commission/australian-human-rights-commission-annual-report-2023-2024/annual-performance-statement/statement-against-outcomes-"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "New cloud-based Electronic Case Management System (ECMS)",
+      "agency_need": "Replace legacy case management to record, collate and manage matters end-to-end and complete migration to 100% cloud, supporting regulatory and conciliation functions.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for the ECMS, followed by solutions implementation/integration and migration support, with business and process analysis to redesign conciliation/complaints workflows. Right-sized phased delivery for a small entity.",
+      "rationale": "The plan explicitly names implementation of a new cloud-based ECMS as a current investment and ties it to the migration to 100% cloud — a concrete, time-bound system rollout that maps cleanly to build-and-implement capability.",
+      "confidence": "High"
+    },
+    {
+      "area": "Complaints-handling uplift and ANAO recommendation implementation",
+      "agency_need": "Reduce complaint-handling times and implement ANAO performance-audit recommendations to uplift processes and infrastructure.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A process-improvement and change engagement to redesign triage/workflow, plus light PMO support to track ANAO recommendation closure — paired with the ECMS rollout above. Could include independent assurance of remediation (Audit & Assurance) as a secondary.",
+      "rationale": "The plan commits to reducing handling times and implementing ANAO recommendations, and external reporting confirms a backlog and short-term-only funding — strong, evidenced demand for efficiency-led delivery.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cyber security and process automation investment",
+      "agency_need": "Capital investment for enhanced cyber security and process automation; cyber-incident response is a named topical risk amid cloud migration.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A proportionate cyber security assessment and advisory aligned to cloud migration and the new ECMS/website — security assessment and assurance of systems and data, plus incident-response readiness review.",
+      "rationale": "The plan names capital investment for enhanced cyber security and lists responding to a cyber incident as a current/topical enterprise risk, directly during a cloud transition.",
+      "confidence": "High"
+    },
+    {
+      "area": "Monitoring, evaluation and learning (MEAL) maturity",
+      "agency_need": "Move evaluation capability from 'emerging' to 'maturing' (per the ACE maturity pilot) across organisational capacity, program design, and systems/technology, with complex multi-portfolio impact measurement.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A performance/evaluation framework uplift and evaluation-method design aligned to the Commonwealth Evaluation Maturity Model and PGPA performance measures; secondary Data, Analytics & Information support for outcome data and citation/analytics methods.",
+      "rationale": "The plan documents participation in the ACE maturity pilot and identifies specific capability-lift opportunities, plus a candidly complex impact-measurement challenge across eight statutory portfolios.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and costing",
+      "agency_need": "Demonstrate funding need and live within a constrained environment following a 2025 capability review; secure and transparently manage sustainable funding.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and activity-based costing of core functions (complaints, regulatory, statutory reporting) to underpin funding submissions and resource-allocation decisions.",
+      "rationale": "Constrained funding is a named key strategic risk and the plan references a capability review and sustained advocacy for funding; costing evidence directly supports that case for a corporate Commonwealth entity under pressure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "New website and digital content/accessibility",
+      "agency_need": "Launch a new, accessible, user-friendly website by end 2025 providing improved information about human rights.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "User-experience and service design plus build/implementation of the new website with accessibility (WCAG) conformance; secondary Communications & Engagement for content and publishing.",
+      "rationale": "The plan states the new website goes live towards the end of 2025 with an explicit accessibility and usability focus — a defined, near-term digital deliverable.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and psychosocial wellbeing",
+      "agency_need": "Mature workforce planning (talent register, job-family mapping, inclusive recruitment) and address psychosocial/vicarious-trauma risk in trauma-exposed work.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce-planning support (job-family/capability framework, talent and recruitment uplift) and a psychosocial-risk assessment program proportionate to a small workforce.",
+      "rationale": "The plan details expanding workforce-planning capability and an explicit focus on psychosocial risk assessment, wellbeing interventions and First Nations recruitment/retention.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "FOI policy and charging framework",
+      "agency_need": "Manage a sustained increase in FOI applications via a reviewed process and a new charging framework in late 2025.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short advisory to review the FOI process and design the charging framework and supporting administrative procedures.",
+      "rationale": "The plan names a late-2025 FOI process review and new charging framework responding to rising application volumes — a defined, small-scope advisory need.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Enterprise risk maturity and governance of the new regulatory function",
+      "agency_need": "Improve risk maturity through enterprise risk identification and controls, and manage novel regulatory risks (capture, jurisdictional, stakeholder resistance) ahead of the 2026-27 independent review of the positive-duty function.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and governance/controls assessment for the regulatory function; secondary Audit & Assurance health check to prepare for the 2026-27 independent review.",
+      "rationale": "The plan lists a dedicated set of regulatory risks and commits to improving risk maturity, and flags a scheduled independent review of the positive-duty function — credible governance/assurance demand.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Executive's office and the ICT/digital function with a right-sized ECMS and cloud-migration delivery proposition, bundling business-process analysis and cyber assurance.",
+      "priority": "High",
+      "rationale": "The ECMS, cloud migration and cyber investment are the most concrete, time-bound and funded initiatives in the plan and span the firm's build-and-implement strengths — a single integrated pitch is compelling."
+    },
+    {
+      "action": "Offer a complaints-handling efficiency and ANAO-remediation engagement to the conciliation/complaints leadership, with a clear focus on reducing handling times against the 85%/12-month target.",
+      "priority": "High",
+      "rationale": "The plan and external reporting both confirm timeliness pressure and ANAO recommendations; efficiency-led, scalable solutions suit a funding-constrained client and create a defensible entry point."
+    },
+    {
+      "action": "Prepare a concise capability statement on financial-sustainability reviews and activity-based costing tailored to small statutory authorities, and table it with the CFO/COO function.",
+      "priority": "Medium",
+      "rationale": "Constrained funding is a named enterprise risk and the entity is actively building a funding case off a 2025 capability review; costing evidence is a low-political-risk, high-value offering."
+    },
+    {
+      "action": "Engage the evaluation/MEAL lead with an offer to lift evaluation maturity in line with the ACE maturity model and refresh PGPA performance measures.",
+      "priority": "Medium",
+      "rationale": "The plan self-identifies as 'emerging-to-maturing' on evaluation and has already engaged the Australian Centre for Evaluation, signalling appetite and a clear baseline."
+    },
+    {
+      "action": "Watch for the 2026-27 independent review of the positive-duty regulator function and position early for governance/assurance and review-readiness support.",
+      "priority": "Low",
+      "rationale": "The plan names a scheduled independent review; early positioning on risk and assurance for the new regulatory function builds relationship ahead of demand."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive (Leanne Smith) and her office, as accountable for corporate operations and sustainability",
+    "ICT/Digital and Information Management function (owner of ECMS, cloud migration, SharePoint/PowerSuite, website)",
+    "Conciliation/complaints-handling leadership (National Information Service and Respect@Work Information Services)",
+    "Chief Finance Officer / corporate function (funding sustainability, costing)",
+    "Audit and Risk Committee and internal audit function (ANAO remediation, risk maturity)",
+    "Evaluation/MEAL capability lead (Monitoring, Evaluation, Accountability and Learning)",
+    "People & Culture / HR function (workforce planning, psychosocial risk)",
+    "Positive-duty regulatory function leadership (Sex Discrimination Commissioner's team)"
+  ],
+  "talking_points": [
+    "You're standing up a new cloud-based ECMS and finishing migration to 100% cloud — we can run discovery-to-build-and-integrate while redesigning the complaints workflow, so the system actually reduces handling times.",
+    "Your ANAO complaints-handling recommendations and the timeliness target are best tackled together: process redesign plus light assurance to evidence closure, sized for your budget.",
+    "Capital for cyber and automation during a cloud move is exactly when an independent security assessment pays off — we can assure the ECMS and new website before they go live.",
+    "With funding constraint a named enterprise risk, an activity-based costing of your core functions gives you defensible evidence to support funding submissions without adding overhead.",
+    "You've baselined evaluation maturity through the ACE pilot — we can lift you from emerging to maturing and tighten your PGPA performance measures across the eight portfolios.",
+    "Ahead of the 2026-27 independent review of the positive-duty function, getting the risk framework and governance review-ready now reduces later disruption."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a small, funding-constrained corporate Commonwealth entity (NHRI/regulator-advocacy archetype), so opportunities must be modest in scale — short advisories, framework pieces and phased digital delivery, not large embedded programs. The strongest, best-evidenced opportunities are digital/ICT (ECMS, cloud, website), cyber, and complaints-handling/ANAO remediation. The ANAO reference is drawn from the plan itself; the external research could not retrieve a standalone ANAO source and flagged its coverage as incomplete, so the audit detail should be verified. Costing, evaluation and workforce items are real but more general, and discretionary spend is genuinely limited given repeated funding-pressure signals. Several offerings depend on funding outcomes and political triggers (e.g. the stalled Human Rights Act) that are outside the entity's control."
+}

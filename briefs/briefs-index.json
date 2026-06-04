@@ -296,6 +296,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "australian-human-rights-commission-ahrc": {
+      "name": "Australian Human Rights Commission (AHRC)",
+      "portfolio": "Attorney-General",
+      "plan_url": "https://humanrights.gov.au/our-work/commission-general/publications/corporate-plan-2024-2025",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26 (covering 2025-2029)",
+      "overall_confidence": "Medium"
     }
   }
 }
