@@ -264,6 +264,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "australian-commission-on-safety-and-quality-in-health-care-acsqhc": {
+      "name": "Australian Commission on Safety and Quality in Health Care (ACSQHC)",
+      "portfolio": "Health",
+      "plan_url": "https://www.safetyandquality.gov.au/publications-and-resources/resource-library/australian-commission-safety-and-quality-health-care-corporate-plan-2024-25",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }

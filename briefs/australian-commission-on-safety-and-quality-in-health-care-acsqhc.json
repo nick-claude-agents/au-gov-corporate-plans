@@ -1,0 +1,153 @@
+{
+  "agency_name": "Australian Commission on Safety and Quality in Health Care (ACSQHC)",
+  "portfolio": "Health (Health, Disability and Ageing)",
+  "plan_period": "2025-26",
+  "executive_summary": "ACSQHC is a small, expertise-heavy statutory authority (regulator/standards-body archetype) that sets national health safety and quality standards, runs the NSQHS accreditation scheme, and publishes clinical guidance — funded on a cost-share basis by the Commonwealth and states/territories. Its 2025-26 plan signals several discrete, design-oriented pieces of work: a refreshed Strategic Plan 2025-30, an explicit review and redesign of its PGPA performance measures, development of a national quality measurement framework, an evaluation feeding the third edition of the NSQHS Standards, and a new Skill and Capability Framework. The catch for BD is real: the Commission is actively reducing outsourcing of core work under the APS Strategic Commissioning Framework (a ~$920,538 reduction target for 2025-26) and relies on the Department for shared services (finance, IT, payroll). Opportunities therefore exist but are modest, must be framed as specialist/one-off capability that genuinely cannot be insourced, and should be right-sized to a small entity. No ANAO findings, controversies or contentious parliamentary scrutiny surfaced — this is a stable, low-controversy body, so positioning should be capability-and-delivery, not crisis remediation.",
+  "strategic_priorities": [
+    {
+      "title": "High-quality care in an evolving environment",
+      "description": "Responding to system change — AI, new models of care, virtual care, climate — by harmonising standards and guidance across sectors, including work on integrated systems and transitions of care, primary care, and appropriate use of digitally enabled care.",
+      "source_quote": "The health system responds to the evolving environment including to the impact of artificial intelligence, new models of care and climate change."
+    },
+    {
+      "title": "Strong outcome-focused clinical governance",
+      "description": "Developing a national model for clinical governance and practical guidance for boards and health service organisations, and maintaining the NSQHS Standards (moving toward a third edition) and clinical care standards.",
+      "source_quote": "National leadership on clinical governance, and practical guidance for Boards and health service organisations to optimise their clinical governance systems."
+    },
+    {
+      "title": "Empowering patients, carers and communities",
+      "description": "Embedding patient, carer, consumer and community voice in healthcare design and clinical governance, including culturally safe care and First Nations health leadership.",
+      "source_quote": "All organisations have the systems and governance in place to integrate the patient, carer, consumer and community voice."
+    },
+    {
+      "title": "An improvement-driven workforce culture",
+      "description": "Building a quality measurement framework with clinical, patient-experience and outcomes measures, supporting reduction of unwarranted healthcare variation, and sustaining a patient safety culture.",
+      "source_quote": "A quality measurement framework, with clinical, patient experience and outcomes measures to support safe and high-quality care."
+    },
+    {
+      "title": "Performance measure redesign",
+      "description": "Reviewing and developing a new set of performance measures aligned to the Strategic Plan 2025-30 for future Portfolio Budget Statements and Corporate Plans, checked against PGPA Rule 16EA.",
+      "source_quote": "the Commission is reviewing its performance measures with a view to developing a new set of performance measures for inclusion in future Portfolio Budget Statements and Corporate Plans."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "New Strategic Plan 2025-30 and 2025-28 Work Plan driving a refresh of priorities and performance measures",
+    "Explicit review of PGPA performance measures against PGPA Rule 16EA",
+    "Development of a national quality measurement framework intended to become the architecture for future safety and quality reporting",
+    "Evaluation of NSQHS Standards impact commencing 2025-26 to inform the third edition",
+    "APS Strategic Commissioning Framework requiring reduction in outsourcing of core work (target reduction ~$920,538 for 2025-26)",
+    "Emergence of AI, virtual care and new models of care requiring new guidance and standards",
+    "Development of a new Skill and Capability Framework for staff",
+    "Innovate Reconciliation Action Plan 2025-27 implementation"
+  ],
+  "challenges_and_risks": [
+    "Financial sustainability of the organisation named as a key risk (cost-share funded entity)",
+    "ICT systems risk — system failures, data availability, security breaches and misuse of AI",
+    "Procurement and contractual decisions affecting quality of outcomes and use of public monies",
+    "Project management risk in delivering work plan deliverables",
+    "Recruitment of appropriately skilled/experienced specialist staff to avoid work plan delays",
+    "Unmanaged expectation gap with stakeholders over deliverables",
+    "Quality of deliverables affecting reputation",
+    "Reduced ability to outsource core work under the Strategic Commissioning Framework, increasing reliance on internal capability",
+    "Few national safety and quality measures currently reported, complicating performance demonstration"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "ACSQHC's annual report is examined within the routine scrutiny of Commonwealth entity annual reports by the Senate Community Affairs Legislation Committee; no dedicated inquiry, contentious Estimates exchange or critical question on notice was identified.",
+      "implication": "Engagement timing should be driven by the Commission's own work-program and standards cycles rather than parliamentary pressure; the lack of scrutiny signals a stable, non-politicised entity with no crisis hook.",
+      "source": "Parliament of Australia, Senate Community Affairs Legislation Committee, 'Annual reports (No. 1 of 2024)', Ch.3 — https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Annual_reports_No_1_of_2024/Chapter_3_-_Annual_reports_of_Commonwealth_entities_and_companies"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "PGPA performance measure redesign",
+      "agency_need": "The Commission states it is reviewing and developing a new set of performance measures aligned to the Strategic Plan 2025-30 and checked against PGPA Rule 16EA, acknowledging current measures don't cover its full scope.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short framework/design engagement to redesign the Commission's PGPA-aligned performance measures — mapping key activities to outcome-focused, measurable criteria for future PBS and Corporate Plans, with assurance they meet Rule 16EA.",
+      "rationale": "This is an explicitly stated, time-bound activity in the plan and a clean fit for a small advisory piece; performance-measurement redesign is the kind of specialist, one-off work an entity can justify outsourcing despite the Strategic Commissioning Framework.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National quality measurement framework / data architecture",
+      "agency_need": "The Commission is developing a national quality measurement framework across multiple quality domains, intended as the architecture for improved safety and quality data reporting, but notes few measures are reported nationally.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information-strategy and measurement support — defining indicator specifications, data sources and reporting architecture for the framework, plus business-intelligence design for national safety and quality reporting.",
+      "rationale": "A named, in-progress framework with an explicit gap in national reporting; data/measurement specialisation may exceed internal capacity. Tempered to Medium because measurement is arguably core work the Commission may keep in-house under the Commissioning Framework.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "NSQHS Standards third-edition impact evaluation",
+      "agency_need": "The Commission will undertake an impact evaluation commencing 2025-26 to inform development of the third edition of the NSQHS Standards, mirroring its earlier first-edition impact study.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An independent evaluation (evaluation plan then report) of the impact of the NSQHS Standards on systems for safety and quality and patient outcomes, to evidence the third-edition design.",
+      "rationale": "Explicitly named and time-bound; independent evaluation is a credible outsourced specialist task. Secondary fit with Data, Analytics & Information for the evidence base.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Skill and Capability Framework",
+      "agency_need": "The Commission has commenced development of a Skill and Capability Framework to identify current development needs and future skills/capability requirements, amid acknowledged recruitment challenges for specialist staff.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A capability/workforce framework design piece — defining role-based capability standards, skills gaps and a development pathway aligned to the work plan and APS Strategic Commissioning Framework requirements.",
+      "rationale": "Named in-progress activity plus a stated recruitment/retention risk; proportionate to a small entity. Note the Commissioning Framework may push them to do this internally, so frame as specialist methodology support.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability review",
+      "agency_need": "Financial sustainability of the organisation is the first-listed key enterprise risk for a cost-share funded body also reliant on project-specific funding from the Department.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A focused financial-sustainability review — modelling the cost-share and project-funding base, cost drivers and scenarios, with recommendations to strengthen the funding/financial framework.",
+      "rationale": "Financial sustainability is an explicitly named risk and a clean fit; cost-share funded entities under pressure are strong costing/sustainability prospects. Confidence tempered as the plan gives no detail of a specific funding shortfall.",
+      "confidence": "Low"
+    },
+    {
+      "area": "ICT / AI risk and security assurance",
+      "agency_need": "Key risks include ICT system failures, data availability and security breaches, and misuse of AI; the Commission also issues guidance on appropriate use of digitally enabled care.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A right-sized security assessment / cyber advisory covering data security, AI-use controls and assurance over systems and data holdings.",
+      "rationale": "ICT and AI-misuse risks are named, but the Commission's IT is delivered via the Department under shared services, so much of this likely sits with the Department rather than the Commission — hence low confidence.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Commission's executive/governance function (and the Audit and Risk Committee secretariat) with a concise capability statement on PGPA performance-measure redesign and program evaluation, timed to their stated review of measures for future PBS/Corporate Plans.",
+      "priority": "High",
+      "rationale": "The performance-measure review and the NSQHS third-edition evaluation are explicitly named, time-bound 2025-26 activities and the cleanest fits for the firm — both are specialist, one-off tasks defensible under the Strategic Commissioning Framework."
+    },
+    {
+      "action": "Prepare a short thought piece on building a national quality measurement framework and indicator architecture (data sources, BI, Rule 16EA alignment) and seek a meeting with the measurement/data and standards leads.",
+      "priority": "Medium",
+      "rationale": "The framework is in active development and addresses a stated national reporting gap; a credible, specific point of view differentiates the firm and opens a data/measurement conversation."
+    },
+    {
+      "action": "Test the boundary of the APS Strategic Commissioning Framework with the COO/finance function — clarify which discrete, specialist tasks (evaluation, framework design, capability methodology) remain outsourceable versus core work being insourced.",
+      "priority": "High",
+      "rationale": "The Commission is actively cutting outsourcing of core work; understanding what is in-scope versus off-limits is essential to avoid wasted pursuit and to pitch only genuinely defensible specialist work."
+    },
+    {
+      "action": "Monitor the Commission's procurement notices and AusTender for the NSQHS third-edition evaluation, quality measurement framework and capability framework, and watch for the next PBS to see the new performance measures land.",
+      "priority": "Medium",
+      "rationale": "These named initiatives may convert to small approaches to market during 2025-26; early visibility allows a prepared, fast response."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive Officer / Executive leadership (owns Strategic Plan 2025-30 and performance reporting)",
+    "Chief Operating Officer / corporate and finance function (financial sustainability, procurement, Strategic Commissioning Framework decisions)",
+    "Audit and Risk Committee (performance reporting, risk and internal controls)",
+    "Standards and clinical governance division (NSQHS third-edition evaluation, clinical governance model)",
+    "Measurement / data and reporting function (national quality measurement framework, indicators)",
+    "People/HR function (Skill and Capability Framework)"
+  ],
+  "talking_points": [
+    "You've committed to redesigning your performance measures for future PBS and Corporate Plans against PGPA Rule 16EA — we can design outcome-focused, measurable criteria that map cleanly to your Strategic Plan 2025-30 priorities.",
+    "The NSQHS third-edition evaluation starting this year is exactly the kind of independent, evidence-led work we deliver — an evaluation plan and impact report to underpin the next edition.",
+    "Your national quality measurement framework needs a reporting architecture and indicator specifications to close the gap that few safety and quality measures are reported nationally — we can help design the data and BI layer.",
+    "We understand the Strategic Commissioning Framework is reshaping what you outsource — our proposition is specialist, one-off capability (evaluation, measurement, framework design) that complements rather than substitutes your core APS workforce.",
+    "Financial sustainability is your first-listed enterprise risk as a cost-share funded body — a focused sustainability review can model your funding base and strengthen the financial framework.",
+    "Right-sized to your scale: short advisory and framework engagements, senior-led, with a clear artefact — not large embedded programs."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "This is a small, stable standards/regulator body and the plan offers limited, modest BD signals. The dominant constraint is the APS Strategic Commissioning Framework: the Commission is explicitly reducing outsourcing of core work (target ~$920,538 for 2025-26), and IT/finance/HR are delivered by the Department under shared services — both materially narrow the addressable opportunity. Several mapped opportunities (performance measures, measurement framework, evaluation) could be retained in-house, so confidence is mostly Medium/Low and offerings are deliberately right-sized. External research found no ANAO findings, no controversies and only routine parliamentary scrutiny, and that research was incomplete (search limit reached), so the absence of negative signals should be confirmed with a fuller pass before relying on it."
+}
