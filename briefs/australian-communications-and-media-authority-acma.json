@@ -1,0 +1,211 @@
+{
+  "agency_name": "Australian Communications and Media Authority (ACMA), including the eSafety Commissioner",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "ACMA is an expertise-heavy communications and media regulator whose remit is expanding fast — spectrum modernisation, scam/SMS sender-ID controls, telco consumer protections, and a wave of legislative-instrument remakes. Its attached eSafety Commissioner is the higher-growth, higher-pressure component: it is implementing the world-watched Social Media Minimum Age regime (effective mid-Dec 2025), running Phase 2 industry codes/standards, awaiting government response to a 67-recommendation Online Safety Act review (including a digital duty of care), and scaling data, AI and regulatory technology. Both bodies are building new digital platforms (a digital spectrum management platform by 2026; a Sender ID Registry; SMMA enabling technology) and refreshing data, cyber and workforce capability. A critical BD headwind: ACMA explicitly commits to the APS Strategic Commissioning Framework and is targeting reduced outsourcing of administration, data/research and ICT/digital work — so advisory framing must emphasise specialist capability and surge delivery the agency cannot resource in-house. The collapsed misinformation bill and a departmental functional review signal an unsettled regulatory-design agenda.",
+  "strategic_priorities": [
+    {
+      "title": "Modernise spectrum and numbering systems",
+      "description": "Deliver a new end-to-end digital spectrum management platform (online by 2026), maintain SPECTRA-based licensing, and prepare for WRC-2027 and demand for mid-band spectrum, D2D/LEOsat and 5G/6G.",
+      "source_quote": "We will improve services to the Australian public by implementing a new end-to-end digital spectrum management platform, scheduled to be online by 2026."
+    },
+    {
+      "title": "Scam, spam and consumer-protection enforcement",
+      "description": "Build and operate a Sender ID system to allow positive identification of SMS senders (in service December 2025), enforce new telco rules including domestic/family violence support and mobile number fraud.",
+      "source_quote": "A new system to better protect Australians from SMS scams, which allows positive identification of the sender, is being built to go into service in December 2025."
+    },
+    {
+      "title": "eSafety: implement the Social Media Minimum Age regime",
+      "description": "Stand up enabling technology, guidance on 'reasonable steps', evidence/evaluation (with a global Academic Advisory Group) and enforcement for the under-16 social media account ban effective mid-December 2025.",
+      "source_quote": "We will establish effective enabling technology solutions to support implementation of the Social Media Minimum Age requirements."
+    },
+    {
+      "title": "eSafety: industry codes/standards and duty of care",
+      "description": "Oversee Phase 2 industry codes/standards (class 2 material), Basic Online Safety Expectations transparency, and prepare for a legislated digital duty of care following the Online Safety Act review's 67 recommendations.",
+      "source_quote": "Supporting a legislated duty of care: We will work with the Australian Government on its commitment to introduce this new obligation."
+    },
+    {
+      "title": "Data-driven regulation and responsible AI",
+      "description": "Grow data maturity (centralised Data Platform, catalogues, advanced/geospatial analytics) and embed AI governance across both ACMA and eSafety to regulate more efficiently and understand AI use by regulated entities.",
+      "source_quote": "We'll do this by making our data more discoverable, usable and secure, as well as prioritising efforts to improve our advanced analytics including geospatial capabilities."
+    },
+    {
+      "title": "Cost recovery and charging reform",
+      "description": "Implement new cost recovery arrangements (including for the Sender ID Registry) and refine cost-attribution efficiency under the Australian Government Charging Framework.",
+      "source_quote": "our focus will be on implementing new cost recovery arrangements as approved by the government, including for the Sender ID Registry, and continuing to refine the efficiency of cost attribution processes."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Online Safety Act independent review (Rickard, Oct 2024) — 67 recommendations including a digital duty of care, awaiting government response",
+    "Online Safety Amendment (Social Media Minimum Age) Act 2024 — mandatory under-16 account restriction effective mid-December 2025",
+    "Phase 2 industry codes/standards for class 2 material; penalties for breaches raised to nearly $50m",
+    "Universal Outdoor Mobile Obligation (UOMO) and Universal Service Obligation reform",
+    "Statement of Expectations (Dec 2024) and ACMA Statement of Intent (Mar 2025) emphasising proactive, risk-based regulation",
+    "Approximately 25 legislative instruments sunsetting in 2025-26 requiring review, consultation and remaking",
+    "WRC-2027 spectrum preparation and harmonisation; D2D/LEOsat regulatory adaptation",
+    "APS Strategic Commissioning Framework — targeted reductions in outsourcing of admin, data/research and ICT/digital work",
+    "Whole-of-government AI safety/ethics agenda and National Anti-Corruption Commission / APS Integrity Action Plan",
+    "New cost recovery arrangements including the Sender ID Registry"
+  ],
+  "challenges_and_risks": [
+    "Named enterprise risk: inadequate resources to meet objectives, with eSafety explicitly citing 'insufficient resources to meet increasing regulatory responsibilities'",
+    "Named enterprise risk: loss or degradation of critical ICT infrastructure — driving cyber and disaster-recovery investment",
+    "Named enterprise risk: reduction in public confidence in regulated communications/media services",
+    "Delivery risk on multiple concurrent platform builds (spectrum platform, Sender ID, SMMA enabling tech) under tight statutory deadlines",
+    "Psychosocial/vicarious-trauma risk to eSafety staff handling distressing content",
+    "Reliance on outsourced operators (ZOAK numbering, Dataworks NSER, IVE DNCR) with availability-based performance measures",
+    "Unsettled regulatory-design agenda after the collapse of the misinformation/disinformation bill",
+    "Strategic Commissioning Framework constrains the type of work that can be outsourced — narrowing some advisory opportunities"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The Combatting Misinformation and Disinformation Bill 2024, which would have substantially expanded ACMA's platform-oversight, code-approval and standard-making powers, was introduced in September 2024 and abandoned in November 2024 amid free-speech and 'government overreach' concerns.",
+      "implication": "ACMA's digital-platform regulatory expansion is stalled and will likely be reset — creating latent demand for regulatory/policy redesign, proportionality and stakeholder-consultation support if the agenda is revived.",
+      "source": "Griffith Law Review (Taylor & Francis) https://www.tandfonline.com/doi/full/10.1080/10383441.2025.2522564 ; SBS News https://www.sbs.com.au/news/article/what-is-the-misinformation-bill-and-why-has-it-triggered-worries-about-freedom-of-speech/4n3ijebde"
+    },
+    {
+      "summary": "The Department of Infrastructure is running a review of ACMA's legislated functions, mapping its statutory powers across the Telecommunications Act 1997, Broadcasting Services Act 1992 and ACMA Act 2005.",
+      "implication": "A live functional review often precedes operating-model or remit change — an opening for operating-model, governance and legislative-mapping advisory work.",
+      "source": "Department of Infrastructure https://www.infrastructure.gov.au/media-technology-communications/media-laws-regulation/acma-legislated-functions"
+    },
+    {
+      "summary": "ACMA's 2024-25 annual report records more than $12m in Spam Act penalties (including $7.5m against Commonwealth Bank, $4m Tabcorp, $1.6m Telstra for ID-check failures) and 1,200+ illegal offshore gambling sites blocked since 2019.",
+      "implication": "ACMA is in an active enforcement phase across spam, gambling and telco ID/scam compliance — signalling appetite for compliance-monitoring, investigations and data-handling capability.",
+      "source": "ACMA & eSafety Commissioner Annual Report 2024-25 https://www.esafety.gov.au/sites/default/files/2025-10/ACMA-eSafety-annual-report-2024-25.pdf"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "The Combatting Misinformation and Disinformation Bill 2024, centred on expanded ACMA powers, was the subject of Senate committee scrutiny, with evidence taken before the Bill was abandoned.",
+      "implication": "Parliamentary processes around ACMA's remit are an active arena; regulatory-impact, evidence-base and consultation support are plausible engagement points when the agenda re-emerges.",
+      "source": "Human Rights Law Centre https://www.hrlc.org.au/submissions/2024/11/8/submission-combatting-misinformation ; Australian Human Rights Commission https://humanrights.gov.au/our-work/legal/submission/combatting-misinformation-and-disinformation-bill-2024"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Social Media Minimum Age delivery and assurance",
+      "agency_need": "eSafety must stand up enabling technology, guidance and enforcement for the under-16 account regime by mid-December 2025 — a fixed statutory deadline with global scrutiny.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "An embedded delivery/PMO lead plus independent delivery assurance across the SMMA program — milestone gating, dependency management between guidance, enabling technology and enforcement workstreams, and readiness assessment ahead of the December 2025 go-live.",
+      "rationale": "The plan names a hard-deadline, high-profile statutory program ('age restriction requirements will take effect by mid-December 2025') under an explicit resourcing risk, and notes a new measure 3.1.3 tracking implementation. World-watched scrutiny raises the value of independent assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Spectrum platform and Sender ID system delivery",
+      "agency_need": "ACMA is building a new end-to-end digital spectrum management platform (online by 2026) and a Sender ID anti-scam system (in service December 2025).",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Systems development, integration and service-transition support for the spectrum platform and Sender ID Registry, including business/process analysis and migration from SPECTRA — scoped as specialist surge capability the agency cannot resource in-house.",
+      "rationale": "Two named, time-bound system builds with statutory dependencies. The firm's ability to build and implement (not just advise) fits; framing must respect the Strategic Commissioning Framework's in-housing of routine ICT.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cost recovery and charging model uplift",
+      "agency_need": "ACMA must implement new cost recovery arrangements (including for the Sender ID Registry) and refine cost-attribution efficiency under the Charging Framework.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "An activity-based costing and cost-attribution review aligned to the Australian Government Charging Framework, designing a defensible cost model for the Sender ID Registry and refining existing levy/fee attribution.",
+      "rationale": "The plan explicitly commits to implementing new cost recovery and 'refine the efficiency of cost attribution processes' — a discrete, low-political-sensitivity financial engagement.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-measure and evaluation framework",
+      "agency_need": "Both bodies have revised numerous performance measures and committed to evidence/evaluation (SMMA evaluation, grants program evaluation, age-assurance evidence).",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure and evaluation design review, plus a process/outcome evaluation of the SMMA intervention and the Preventing Tech-based Abuse of Women grants program (the latter explicitly committing each project to evaluation).",
+      "rationale": "Multiple measures were revised in 2024-25 and the plan repeatedly references building the evidence base and evaluation, including a global Academic Advisory Group for SMMA — clear evaluation demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data platform, analytics and AI governance",
+      "agency_need": "Both bodies are growing data maturity (centralised Data Platform, catalogues, advanced/geospatial analytics) and embedding AI governance via an AI Steering Committee and AI Transparency Statement.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information-management and analytics uplift — data governance framework embedding, geospatial/advanced analytics capability build, and decision-ready business intelligence for risk-based compliance targeting.",
+      "rationale": "The plan details a Data Strategy and Governance Framework and 'high appetite to use data and information systems for improved operational efficiency and decision making'; eSafety commits to embedding a centralised Data Platform in 2025-26.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security and secure-by-design uplift",
+      "agency_need": "Critical-ICT degradation is a named enterprise risk; eSafety commits to maturing cyber security so systems are secure-by-design.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance review of new and existing platforms (spectrum platform, Sender ID, SMMA enabling technology) against Essential Eight/whole-of-government controls, with secure-by-design advisory.",
+      "rationale": "Plan states 'maintaining cyber security enhancements to meet essential government controls' and eSafety's commitment to secure-by-design; multiple new builds heighten exposure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Online Safety Act reform and operating-model design",
+      "agency_need": "eSafety awaits government response to 67 review recommendations (incl. a digital duty of care); ACMA faces a departmental functional review and a reset regulatory-design agenda after the misinformation bill collapse.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Regulatory-design and target operating model support — translating duty-of-care obligations into operational processes, regulatory guidance development, and an operating-model response to the functional review.",
+      "rationale": "The plan flags 'Supporting a legislated duty of care' as a key focus; external research confirms a live departmental functional review and an unsettled regulatory agenda — strong drivers, though timing depends on government decisions.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning for a scaling regulator",
+      "agency_need": "eSafety is growing in scale/complexity and developing a strategic HR workplan (succession, retention, digital-regulator skills); ACMA is undertaking workforce planning amid skills gaps in regulatory, digital, data and engineering.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan and capability framework for digital-regulator skills, including critical-role succession and a surge-capacity model — designed to complement, not breach, the Strategic Commissioning Framework's in-housing intent.",
+      "rationale": "Both plans commit to workforce planning maturity and name specific skills gaps; eSafety links resourcing to a top enterprise risk.",
+      "confidence": "Low"
+    },
+    {
+      "area": "SMMA and regulatory public communications",
+      "agency_need": "eSafety must deliver clear, age-appropriate guidance and campaigns for children, parents, carers and educators ahead of the SMMA go-live and to support its expanding regulatory remit.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Stakeholder engagement and content/campaign support for SMMA roll-out — co-designed, accessible resources for diverse audiences and an industry-supervision communications package.",
+      "rationale": "The plan dedicates a 'strategic communications capability' section to supporting SMMA and regulatory measures; clear public-facing change with consultation needs.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the eSafety executive (Chief Operating function and the SMMA program owner) to pitch independent delivery assurance and embedded PMO support ahead of the mid-December 2025 go-live.",
+      "priority": "High",
+      "rationale": "A fixed statutory deadline, global scrutiny and an explicit resourcing risk make this the most time-critical, defensible opportunity in the plan."
+    },
+    {
+      "action": "Prepare a costing/charging capability statement for ACMA's CFO/Corporate and Research Division covering the Sender ID Registry cost model and cost-attribution refinement under the Charging Framework.",
+      "priority": "High",
+      "rationale": "The plan names this work as an active 2025-26 focus; it is discrete, low-political-sensitivity and aligns to Financial & Accounting strengths."
+    },
+    {
+      "action": "Develop a short thought piece on 'operationalising a digital duty of care' and on regulatory-design lessons from the misinformation bill, and share with eSafety policy leads and ACMA's strategy function.",
+      "priority": "Medium",
+      "rationale": "Positions the firm ahead of the government's response to the Online Safety Act review and the departmental functional review, both unresolved but high-impact."
+    },
+    {
+      "action": "Engage the Enterprise Project Group / Divisional Digital Boards regarding specialist surge delivery and assurance for the spectrum platform and Sender ID builds, explicitly framed around the Strategic Commissioning Framework.",
+      "priority": "Medium",
+      "rationale": "Two named system builds are underway, but the in-housing commitment means the offer must be pitched as specialist capability the agency cannot reasonably resource itself."
+    },
+    {
+      "action": "Offer a scoping conversation on evaluation of the SMMA intervention and the Preventing Tech-based Abuse of Women grants program with the eSafety research/evaluation function.",
+      "priority": "Medium",
+      "rationale": "The plan commits to evaluation and an Academic Advisory Group; an independent evaluation partner complements that academic evidence work."
+    },
+    {
+      "action": "Watch for the government's response to the 67 Online Safety Act review recommendations and any procurement following the departmental ACMA functional review.",
+      "priority": "Low",
+      "rationale": "These will likely trigger larger operating-model and regulatory-design engagements; early positioning improves win odds."
+    }
+  ],
+  "engagement_targets": [
+    "eSafety Commissioner's executive / Senior Executive Group (SMMA program owner)",
+    "ACMA General Manager, Corporate and Research Division (CFO function, cost recovery, workforce, data)",
+    "Enterprise Project Group (EPG) and Divisional Digital Boards (digital/ICT investment prioritisation)",
+    "AI Steering Committee (chaired by an Authority Member) for AI governance work",
+    "eSafety research and evaluation function / Academic Advisory Group liaison",
+    "ACMA Spectrum Committee and spectrum platform project board",
+    "Chief Information/technology and cyber security leads across ACMA and eSafety",
+    "Audit and Risk Committee (chair Ian McPhee AO) for assurance and risk-framework engagement"
+  ],
+  "talking_points": [
+    "The Social Media Minimum Age regime is a fixed-deadline, world-watched program under an admitted resourcing risk — independent delivery assurance protects the go-live and the agency's reputation.",
+    "Implementing the Sender ID Registry cost recovery and refining cost attribution is a discrete, low-risk financial engagement we can scope quickly under the Charging Framework.",
+    "You are building three platforms at once (spectrum, Sender ID, SMMA enabling tech) on statutory timeframes — we provide specialist build and assurance surge capacity that complements your Strategic Commissioning in-housing.",
+    "With the duty-of-care reforms and a departmental functional review in play, we can help translate policy intent into operating models and regulatory guidance when government decides.",
+    "Many of your performance measures were revised this year and you've committed to evaluating SMMA and the tech-abuse grants — we can strengthen the PGPA-aligned measurement and run independent evaluations.",
+    "Your data and AI ambitions (centralised Data Platform, geospatial analytics, AI governance) need governance and capability we can stand up without displacing in-house roles."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a content-rich plan and signals are well evidenced, but two structural caveats temper the opportunity. First, ACMA explicitly commits to the APS Strategic Commissioning Framework and is targeting reduced outsourcing of administration, data/research and ICT/digital work — a direct headwind for several mappings, so offerings must be framed as specialist/surge capability rather than routine resourcing. Second, several of the largest opportunities (duty of care, functional-review operating model, revived platform-regulation agenda) depend on government decisions not yet made, so timing is uncertain. ANAO research was incomplete due to tool rate limits — absence of ANAO findings here is not confirmation none exist, and a follow-up search is recommended. Budgets are modest for a regulator (eSafety ~$71.7m, 242 staff in 2025-26), so engagements should be right-sized. No individuals beyond named office-holders should be approached cold."
+}

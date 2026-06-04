@@ -272,6 +272,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "australian-communications-and-media-authority-acma": {
+      "name": "Australian Communications and Media Authority (ACMA)",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://www.acma.gov.au/publications/2024-08/plan/corporate-plan-2024-25",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
