@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-31",
+  "generated": "2026-06-04",
   "briefs": {
     "geoscience-australia": {
       "name": "Geoscience Australia",
@@ -240,6 +240,14 @@
       "generated_at": "2026-05-31",
       "plan_period": "2025-26 to 2028-29",
       "overall_confidence": "Low"
+    },
+    "aged-care-quality-and-safety-commission-acqsc": {
+      "name": "Aged Care Quality and Safety Commission (ACQSC)",
+      "portfolio": "Health",
+      "plan_url": "https://www.agedcarequality.gov.au/sites/default/files/media/2024-25-acqsc-corporate-plan.pdf",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

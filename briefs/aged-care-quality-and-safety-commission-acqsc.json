@@ -1,0 +1,226 @@
+{
+  "agency_name": "Aged Care Quality and Safety Commission (ACQSC)",
+  "portfolio": "Health (Health, Disability and Ageing)",
+  "plan_period": "2025-26",
+  "executive_summary": "The ACQSC is a non-corporate Commonwealth regulator (regulator archetype) entering its most significant transition since establishment: the Aged Care Act 2024 commences 1 November 2025, introducing a new rights-based regulatory model, a new provider registration function, a statutory Complaints Commissioner, and re-baselined performance measures. The plan is dominated by implementation, capability uplift, new systems (the ACRES case management platform), a new Digital and Data Strategy, a new Enterprise Risk Management Framework, and governance/quality-assurance maturation. This is fertile ground for change delivery, assurance, governance, data and digital work. However, the plan explicitly commits to reducing outsourcing under the APS Strategic Commissioning Framework (a ~$4.5m cut targeted at digital and policy work) and to insourcing digital capability — a material headwind that pushes the credible Consulting Firm opportunities toward assurance, independent verification, costing, change and specialist surge support rather than core delivery.",
+  "strategic_priorities": [
+    {
+      "title": "Stand up the new Aged Care Act 2024 regulatory framework",
+      "description": "The entire 2025-26 agenda centres on operationalising the new rights-based Act from 1 November 2025 — embedding a new regulatory model, transitioning the sector (including first-time-regulated providers), and realising reform benefits.",
+      "source_quote": "Throughout 2025-26 our priority is putting into effect the new regulatory framework established to support implementation of the new Aged Care Act."
+    },
+    {
+      "title": "Launch the provider registration function",
+      "description": "From November 2025 the Commission commences a new function of registering, renewing and revoking provider registrations — a new operational capability requiring processes, systems and decision-making at statutory timeframes.",
+      "source_quote": "From November 2025, we will commence our new function of registering aged care providers, along with renewing or — where necessary — revoking those registrations."
+    },
+    {
+      "title": "Introduce the statutory Complaints Commissioner",
+      "description": "A new statutory Complaints Commissioner is being established (subject to appointment), requiring a comprehensive engagement and communication strategy to introduce the role to the sector and empower older people.",
+      "source_quote": "We will roll out a comprehensive engagement and communication strategy to introduce the Complaints Commissioner to the sector and explain their role."
+    },
+    {
+      "title": "Digital, data and case-management uplift",
+      "description": "Embedding the new Aged Care Regulated Entity System (ACRES), delivering a new Digital and Data Strategy, enhancing case management and data platforms, cyber maturity and enterprise architecture — while insourcing capability.",
+      "source_quote": "Key initiatives during 2025-26 include embedding the new case management system — Aged Care Regulated Entity System (ACRES)... enhancing cybersecurity maturity."
+    },
+    {
+      "title": "Strengthen enterprise risk, governance and quality assurance",
+      "description": "A new Enterprise Risk Management Framework, tiered risk governance, a Quality Assurance Framework, and integrated governance/privacy/'complaints about us' arrangements are being embedded to mature the Commission as a 'best practice regulator'.",
+      "source_quote": "During 2025-26 we are enhancing and further integrating arrangements relating to governance, quality assurance, risk management, privacy and 'Complaints about us'."
+    },
+    {
+      "title": "Re-baseline and uplift the performance framework",
+      "description": "Most performance measures are re-baselined to align with the Aged Care Act 2024, with several new baselines (provider/recipient confidence, non-compliance by cohort, home care assurance) to establish and evaluate.",
+      "source_quote": "A number of the Commission's performance measure targets have been updated to reflect the impact of changes under the Aged Care Act 2024."
+    },
+    {
+      "title": "Strengthen the Advisory Council per the 2023 Capability Review",
+      "description": "Responding to the 2023 Independent Capability Review, the Advisory Council's independence, accountability and oversight role is being reformed and expanded under the new Act.",
+      "source_quote": "the Advisory Council 'be strengthened to provide stronger independence, accountability and oversight'."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Aged Care Act 2024 and Aged Care Rules commencing 1 November 2025 — a once-in-a-generation legislative overhaul superseding the 2018 Act",
+    "Royal Commission into Aged Care Quality and Safety recommendations continuing to drive reform",
+    "2023 Independent Capability Review of the Commission (Advisory Council and broader capability uplift)",
+    "Statement of Expectations (28 May 2025) from the Minister and the Commission's Statement of Intent (11 June 2025)",
+    "New provider registration function and statutory Complaints Commissioner",
+    "APS Strategic Commissioning Framework — commitment to reduce outsourcing (~$4.5m, targeting digital solutions and policy work) and insource capability",
+    "Ageing population, rising demand for home and palliative care, and growth in dementia/complex care needs",
+    "Constrained aged care workforce supply, especially outside urban areas"
+  ],
+  "challenges_and_risks": [
+    "Delivering regulatory outcomes within statutory timeframes from day one of a brand-new legislative regime (enterprise risk 4)",
+    "Attracting and retaining high-performing workforce capability amid rapid expansion (enterprise risk 1)",
+    "Governance arrangements and decision-making (delegations, timeliness, consistency, evidence base) not fit for purpose under the new Act (enterprise risk 6)",
+    "Information management, security and systems (including cyber, data integrity and usability) not fit for purpose, risking privacy/data breach (enterprise risk 8)",
+    "Effective financial resource management, including any changes to funding mechanisms (enterprise risk 9)",
+    "Business continuity / inability to manage disruption to critical functions (enterprise risk 10)",
+    "Stakeholder engagement and education not adequately disseminating key information during a high-change transition (enterprise risk 3)",
+    "Establishing credible baselines for new performance measures while a break in time-series occurs at Act commencement",
+    "Tension between needing transition support and the mandated reduction in outsourcing under the APS Strategic Commissioning Framework"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Reporting indicated that audits conducted by the Commission's contracted aged-care assessors had to be rewritten after initially failing to meet the regulator's own standards.",
+      "implication": "Signals quality-control gaps in the outsourced assessment workforce — an opening for assessor QA frameworks, audit-methodology assurance and quality management support (delivered consistently with the Commission's insourcing posture).",
+      "source": "The Weekly Source, 16 Nov 2023 — https://www.theweeklysource.com.au/government-policy/audits-by-contracted-aged-care-assessors-had-to-be-rewritten-after-initially-failing-to-meet-regulators-standards"
+    },
+    {
+      "summary": "The Commission's workforce reportedly grew by around 50% over three years.",
+      "implication": "Rapid headcount growth creates onboarding, capability-uplift and operating-cost scrutiny risks — potential demand for workforce planning, capability development and organisational design (mindful of the insourcing of core work).",
+      "source": "The Weekly Source, 13 Mar 2025 — https://www.theweeklysource.com.au/government-policy/aged-care-quality-and-safety-commissions-workforce-soars-50-in-three-years"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "The ANAO maintains performance-audit activity specific to the Aged Care Quality and Safety Commission and related work on the design and early implementation of residential aged care reforms.",
+      "implication": "Active/recurring audit scrutiny of the regulator means demand for audit-readiness, assurance mapping and support implementing audit recommendations.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/aged-care-quality-and-safety-commission ; https://www.anao.gov.au/work/performance-audit/design-and-early-implementation-residential-aged-care-reforms"
+    },
+    {
+      "summary": "A recent Auditor-General performance-audit report (No. 31, 2025-26) was published in the Health/Aged Care domain; the specific subject could not be confirmed as the Commission.",
+      "implication": "Fresh in-portfolio audit findings are a lead-generator for remediation and assurance advisory, but the relevance to the Commission specifically remains unverified.",
+      "source": "ANAO — https://www.anao.gov.au/sites/default/files/2026-05/Auditor-General_Report_2025-26_31.pdf"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "A Senate Community Affairs Committee inquiry examined the effectiveness of the aged-care quality assessment and accreditation framework for protecting residents and ensuring clinical-care standards.",
+      "implication": "Parliamentary scrutiny of the Commission's core regulatory function reinforces reform pressure — supports demand for regulatory-design, clinical-governance and performance-framework advisory.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/AgedCareQuality/Report"
+    },
+    {
+      "summary": "Recent Senate Estimates hearings covered aged and home care matters within the portfolio.",
+      "implication": "Estimates exchanges are a live source of emerging issues and ministerial/agency commitments that can be translated into advisory scope.",
+      "source": "The Weekly Source (Estimates round-up) — https://www.theweeklysource.com.au/senate-estimates-the-key-aged-care-takeaways/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Independent assurance of the Aged Care Act 2024 transition",
+      "agency_need": "Delivering a brand-new regulatory model and registration function from 1 Nov 2025 at statutory timeframes, with enterprise risk that regulatory services are not delivered in accordance with legislated obligations (risk 4).",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style assurance / health-check of the Act 2024 implementation and registration program — readiness reviews at commencement and at post-go-live milestones, reporting to the Commission Management Committee and Risk and Audit Committee.",
+      "rationale": "A named, time-bound, once-in-a-generation reform with a stated risk of legislative non-compliance; assurance is independent of delivery and is not affected by the insourcing of 'core work'. Reinforced by ANAO performance-audit interest in the Commission and reform implementation.",
+      "confidence": "High"
+    },
+    {
+      "area": "Home care provider assurance strategy",
+      "agency_need": "Performance Measure 2.6 commits to establishing, baselining, implementing and evaluating an assurance strategy ensuring home care providers have adequate incident management systems and governance.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Design of the home care assurance strategy and baseline methodology, aligned to best-practice assurance/evaluation, with an implementation and evaluation roadmap across the four-year measure horizon.",
+      "rationale": "The plan explicitly sets this as a new, multi-year deliverable with discrete annual stages — a direct, traceable mandate for assurance design work.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent verification of risk-profiling methodologies",
+      "agency_need": "Performance Measure 6.2 commits to an annual review/evaluation of risk-profiling methodologies and explicitly to engaging an independent vendor for external verification.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Independent external verification and statistical validation of the Commission's risk-profiling models, including accuracy testing, methodology review and documented improvement recommendations.",
+      "rationale": "The plan literally states the Commission will 'engage an independent vendor for external verification' — a stated procurement need that maps cleanly and survives the insourcing posture.",
+      "confidence": "High"
+    },
+    {
+      "area": "Enterprise risk and governance framework embedding",
+      "agency_need": "A new Enterprise Risk Management Framework, tiered risk governance and integrated governance/quality-assurance arrangements are being embedded amid risk that governance and decision-making are not fit for purpose (risk 6).",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Governance maturity assessment and risk-framework embedding support — delegations and decision-making review, committee effectiveness uplift, and enterprise risk register/control health-check (secondary: Audit & Assurance).",
+      "rationale": "Plan names new ERM framework, three-tier risk committees and governance enhancement as 2025-26 priorities, with governance fit-for-purpose listed as a higher-profile enterprise risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measure baselining and evaluation",
+      "agency_need": "Multiple measures are re-baselined for the new Act, with several new baselines (provider/recipient confidence surveys, non-compliance by cohort) to establish and later evaluate, plus a break in time-series.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA- and RMG128-aligned performance-measure and baseline design, plus an evaluation approach for the new confidence/trust and compliance measures.",
+      "rationale": "The plan flags extensive re-baselining and new measures aligned to RMG128 Regulator Performance; baselining methodology is a defined near-term need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Complaints Commissioner launch and sector communications",
+      "agency_need": "A new statutory Complaints Commissioner requires a comprehensive engagement and communication strategy to introduce the role and empower older people, including diverse cohorts (First Nations, CALD, LGBTIQ+).",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Community and stakeholder engagement and campaign support for the Complaints Commissioner launch and Statement of Rights, including accessible content for diverse audiences.",
+      "rationale": "Plan names a comprehensive engagement/communication strategy rollout and a strong diverse-audience engagement focus; risk 3 highlights engagement/education as a higher-profile risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber maturity uplift assurance",
+      "agency_need": "Enhancing cybersecurity maturity is a named digital initiative, with enterprise risk 8 covering information security, data integrity and unauthorised access during a major systems transition (ACRES).",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of new and transitioning systems (e.g. ACRES and data platforms), and cyber-maturity advisory against whole-of-government expectations.",
+      "rationale": "Cyber maturity is explicitly listed as a 2025-26 initiative and a named enterprise risk; assurance of in-house-built systems is consistent with the insourcing posture.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and costing under new funding model",
+      "agency_need": "References to a 'funding model', enterprise risk 9 on financial resource management including changes to funding mechanisms, and pressure to evidence cost-effectiveness amid workforce growth.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability / activity-based costing review linking the new regulatory functions (registration, supervision) to resourcing and the funding model.",
+      "rationale": "Plan links workforce planning to a 'funding model' and lists financial resource management as a higher-profile enterprise risk; external reporting notes 50% workforce growth raising cost scrutiny.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce planning and regulatory capability pathways",
+      "agency_need": "Embedding a Strategic Workforce Plan, improving recruitment/retention, and finalising Regulatory People Capability Development Pathways amid risk of being unable to attract/retain capability (risk 1).",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning support and capability-framework design for regulatory roles (advisory and tooling, knowledge-transfer to APS staff to comply with the Strategic Commissioning Framework).",
+      "rationale": "Workforce capability is a named priority and the top enterprise risk; however the APS Strategic Commissioning Framework deliberately insources core/policy work, limiting scope to surge/specialist advisory.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy Commissioner Corporate and the Chief Risk Officer / governance function with an independent transition-assurance proposition timed to the 1 Nov 2025 commencement and immediate post-go-live period.",
+      "priority": "High",
+      "rationale": "The Act 2024 transition is the single largest, most time-bound risk in the plan; independent assurance is defensible against the insourcing agenda and aligns with Risk and Audit Committee expectations and ANAO interest."
+    },
+    {
+      "action": "Pitch to the Data, Analytics and Intelligence group for the independent external verification of risk-profiling methodologies (PM 6.2) and the home care assurance strategy (PM 2.6).",
+      "priority": "High",
+      "rationale": "These are explicitly stated needs — one literally specifies an independent vendor — so they are near-certain procurements with clear scope and a clean service fit."
+    },
+    {
+      "action": "Prepare a concise capability statement positioning assurance, governance and independent-verification offerings as Strategic Commissioning Framework-compliant (knowledge transfer to APS, non-core, independence required).",
+      "priority": "High",
+      "rationale": "The plan's ~$4.5m outsourcing reduction is a real headwind; framing offerings as work the APS cannot or should not do in-house is essential to win and to avoid wasted pursuit."
+    },
+    {
+      "action": "Offer the Deputy Commissioner Sector Capability and Regulatory Strategy a performance-measure baselining and evaluation approach for the new confidence/trust and compliance measures.",
+      "priority": "Medium",
+      "rationale": "Most measures are re-baselined with a time-series break and new baselines to set — a discrete, near-term methodology need aligned to RMG128."
+    },
+    {
+      "action": "Engage the engagement/communications function on the Complaints Commissioner launch and Statement of Rights campaign, with emphasis on diverse-audience accessibility.",
+      "priority": "Medium",
+      "rationale": "A named, deadline-driven communications deliverable tied to the new statutory role and a stated enterprise risk on engagement effectiveness."
+    },
+    {
+      "action": "Watch for ANAO performance-audit reports on the Commission and aged care reform implementation, and for Senate Community Affairs / Estimates follow-ups, to time remediation and assurance offers.",
+      "priority": "Medium",
+      "rationale": "Audit and parliamentary scrutiny are confirmed live; published findings typically convert directly into assurance and recommendation-implementation work."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Commissioner Corporate (enabling functions, finance, digital, governance)",
+    "Deputy Commissioner Sector Capability and Regulatory Strategy (Regulatory Strategy, performance, engagement/education)",
+    "Deputy Commissioner Regulatory Operations (registration, supervision, complaints operations)",
+    "Chief Risk Officer / enterprise risk function and the Risk and Audit Committee",
+    "Data, Analytics and Intelligence group (risk profiling, data governance, PM data)",
+    "Communications / Stakeholder Engagement function (Complaints Commissioner launch, Statement of Rights)",
+    "Office supporting the incoming Complaints Commissioner",
+    "Knowledge management and digital teams (ACRES, Digital and Data Strategy, cyber)"
+  ],
+  "talking_points": [
+    "You are standing up an entirely new regulatory regime on 1 November 2025 with a stated risk of not delivering regulatory services to legislated obligations — independent, gateway-style assurance at and after go-live de-risks the transition without displacing your own people.",
+    "Two of your published performance measures (home care assurance strategy 2.6 and external verification of risk profiling 6.2) name assurance and independent verification work that we can deliver immediately and credibly.",
+    "We understand the APS Strategic Commissioning Framework — our offer is deliberately scoped to independent assurance, verification and knowledge-transfer that should not sit in-house, not to core regulatory work you are insourcing.",
+    "With most measures re-baselined and a time-series break at Act commencement, a robust RMG128-aligned baselining and evaluation approach protects your Annual Performance Statements.",
+    "The new Enterprise Risk Management Framework and tiered risk committees are only as strong as their delegations, decision quality and control evidence — a focused governance and risk health-check addresses enterprise risk 6 directly.",
+    "ANAO and Senate Community Affairs scrutiny of the quality-assessment framework means audit-readiness and recommendation-implementation support is a prudent, low-regret investment this year."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a detailed plan with strong, traceable signals, but two factors temper the BD outlook. First, the plan explicitly commits to reducing outsourcing under the APS Strategic Commissioning Framework (~$4.5m, targeting digital and policy work) and to insourcing digital and core capability — a direct headwind that makes digital build, policy and core regulatory work hard to win; the most credible opportunities are therefore independence-requiring assurance, verification, costing and surge advisory. Second, as a relatively small non-corporate regulator, engagements should be right-sized (short advisory/review and framework/design pieces, plus rolling assurance), not large embedded delivery. External research was headline-level only: the ANAO and parliamentary items are confirmed at title/URL level but specific findings were not verifiable, and Auditor-General Report No. 31 (2025-26) could not be confirmed as concerning the Commission. Lower-confidence opportunities (workforce, financial sustainability) are inferred from risk statements rather than named initiatives."
+}
