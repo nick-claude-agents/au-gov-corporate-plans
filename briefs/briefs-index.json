@@ -248,6 +248,14 @@
       "generated_at": "2026-06-04",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "attorney-general-s-department": {
+      "name": "Attorney-General's Department",
+      "portfolio": "Attorney-General",
+      "plan_url": "https://www.ag.gov.au/about-us/publications/attorney-generals-department-corporate-plan-2025-26",
+      "generated_at": "2026-06-04",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
