@@ -504,6 +504,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "High"
+    },
+    "digital-transformation-agency-dta": {
+      "name": "Digital Transformation Agency (DTA)",
+      "portfolio": "Finance",
+      "plan_url": "https://www.dta.gov.au/corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2024-25 (plan text supplied covers 2024-25 to 2027-28; source URL references 2025-26)",
+      "overall_confidence": "Medium"
     }
   }
 }

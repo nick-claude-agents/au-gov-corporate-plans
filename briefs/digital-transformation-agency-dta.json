@@ -1,0 +1,186 @@
+{
+  "agency_name": "Digital Transformation Agency (DTA)",
+  "portfolio": "Finance",
+  "plan_period": "2024-25 (plan text supplied covers 2024-25 to 2027-28; source URL references 2025-26)",
+  "executive_summary": "The DTA is a small, expertise-heavy oversight and policy body in the Finance portfolio — it coordinates whole-of-government digital transformation but explicitly does not deliver it. Its agenda centres on co-delivering the Data and Digital Government Strategy, running the Investment Oversight Framework (IOF) and digital/ICT assurance, managing strategic sourcing through BuyICT/Digital Marketplace, leading AI assurance policy, and building its own workforce capability. The plan openly flags longer-term financial sustainability as a significant risk and the need for an improved operating model. Crucially, the DTA is committed to the APS Strategic Commissioning Framework and is actively reducing outsourcing of core work (including program/project management, accounting/finance and communications) — a genuine headwind for traditional consulting. The strongest external pressure is procurement: successive ANAO audits found its ICT procurement ineffective and its reform response only 'partly effective', keeping it under JCPAA and media scrutiny. BD should therefore concentrate on specialised, defensible niches — procurement assurance/remediation, financial-sustainability advice and cyber — rather than broad advisory.",
+  "strategic_priorities": [
+    {
+      "title": "Lead the Data and Digital Government Strategy",
+      "description": "Co-deliver the DDGS and its Implementation Plan to 2030, providing policy design, strategy, advice and whole-of-government architecture, including realising the new Digital Experience (DX) Policy and standards.",
+      "source_quote": "Lead government's digital transformation strategy through our co-delivery of the Data and Digital Government Strategy and Implementation Plan."
+    },
+    {
+      "title": "Oversee the digital and ICT investment portfolio via the IOF",
+      "description": "Run the Investment Oversight Framework across its six states (strategic planning, prioritisation, contestability, assurance, sourcing, operations), including assurance plans for in-scope investments and support to at-risk projects.",
+      "source_quote": "Oversee the short, medium, and long-term whole-of-government digital and ICT investment portfolio."
+    },
+    {
+      "title": "Manage whole-of-government strategic sourcing and BuyICT",
+      "description": "Operate and improve the BuyICT platform and Digital Marketplace, including standing up Digital Marketplace Panel 2 and a new ERP category, and pre-negotiating contract terms for buyers and sellers.",
+      "source_quote": "Manage whole-of-government digital and ICT strategic sourcing and contracts."
+    },
+    {
+      "title": "Lead safe and responsible AI in government",
+      "description": "Drive the National framework for the assurance of AI in government and the policy for responsible use of AI, mandatory for APS agencies from 1 September 2024, transitioning AI Taskforce functions into the DTA's strategy, policy, sourcing and assurance responsibilities.",
+      "source_quote": "The National framework for the assurance of artificial intelligence in government... sets the foundations for a nationally consistent approach to AI assurance."
+    },
+    {
+      "title": "Be a valued employer and build workforce capability",
+      "description": "Develop a 3-year Workforce Plan to identify skills gaps and a path to a fit-for-purpose future state, while managing funding pressures and the agency's own digital transformation.",
+      "source_quote": "Be a valued employer with the expertise to achieve our purpose."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Data and Digital Government Strategy (2023) and its 2030 vision of 'simple, secure and connected public services' driving whole-of-government uplift",
+    "New Digital Experience (DX) Policy and standards mandating requirements on agencies",
+    "Mandatory policy for responsible use of AI in government from 1 September 2024 and the National AI assurance framework",
+    "Investment Oversight Framework (IOF) and an expanded DTA role in advising on and assuring digital projects across government",
+    "APS Strategic Commissioning Framework requiring reduced outsourcing of core work (~$0.8m reduction targeted in 2024-25)",
+    "Establishment of Digital Marketplace Panel 2 (October 2024) and a new ERP marketplace category",
+    "Sustained ANAO and JCPAA scrutiny of DTA procurement compliance and reform implementation"
+  ],
+  "challenges_and_risks": [
+    "Longer-term financial sustainability explicitly named as a significant risk; no sustainable funding/resource model to fully meet the mandate",
+    "Short-term funding pressures requiring enhanced financial management, forecasting and reporting",
+    "Risk that BuyICT and whole-of-government sourcing arrangements are not seen as delivering value for buyers and sellers",
+    "Risk the DTA's advice/IOF is not seen as relevant to effective digital and ICT investment decisions",
+    "Need to identify and implement an improved operating model and ways of working",
+    "Workforce/skills risk — building digital capability while reducing reliance on contractors under the Strategic Commissioning Framework",
+    "Persistent, externally documented procurement-compliance and value-for-money weaknesses (ANAO)"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "InnovationAus reported the DTA was criticised over ~$55m of ICT spending, with the audit citing conflicts of interest, suppliers given unfair advantages, above-market rates, duplicate payments, disregard of fraud warnings and poor records across nine procurements.",
+      "implication": "Heightened procurement scrutiny means any engagement faces strict CPR-compliance and value-for-money tests — and signals demand for procurement governance and probity uplift.",
+      "source": "InnovationAus — https://www.innovationaus.com/dta-slammed-for-breaking-procurement-rules-in-55m-ict-spend/"
+    },
+    {
+      "summary": "The DTA launched a review of all significant procurements after the audit, having bypassed the Commonwealth Procurement Rules by sourcing directly from suppliers, including for the myGov upgrade contract.",
+      "implication": "Direct/sole-source routes are now politically risky; expect more competitive, panel-based processes and demand for procurement strategy support.",
+      "source": "InnovationAus — https://www.innovationaus.com/dta-reviews-all-significant-procurements-after-shocker-audit/"
+    },
+    {
+      "summary": "A follow-up audit (Oct 2025) found the DTA's procurement-reform attempts only 'partly effective', still failing to demonstrate value for money and meet CPR obligations.",
+      "implication": "Procurement governance remains an unresolved, reputationally sensitive issue — a credible opportunity for procurement assurance, risk and capability uplift.",
+      "source": "InnovationAus — https://www.innovationaus.com/dta-procurement-reforms-fall-short-in-follow-up-audit/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "Auditor-General Report No. 5 of 2022-23 found the DTA's procurement of ICT-related services 'ineffective'; none of nine procurements ($54.5m) fully complied with the CPRs, one directly-sourced contract increased ~40-fold with major scope changes, and nine recommendations were made.",
+      "implication": "Foundational document for any BD approach — named gaps (risk management, contract variation discipline, value-for-money) map directly to procurement and assurance service lines.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/digital-transformation-agency-procurement-ict-related-services"
+    },
+    {
+      "summary": "Auditor-General Report No. 3 of 2025-26 assessed implementation of 11 JCPAA/Auditor-General recommendations and concluded the DTA has been only 'partly effective'; improvements are not embedded and processes do not yet fully comply with the CPRs.",
+      "implication": "A standing, audited remediation backlog signals near-term demand for reform implementation, monitoring frameworks and recommendation-closure support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/implementation-of-procurement-reforms-dta-finance"
+    },
+    {
+      "summary": "The ANAO forward work program lists planned/active audits touching the DTA, including administration of frameworks for emerging technologies in the public sector and digital identity / Digital ID Program reforms.",
+      "implication": "Emerging-tech governance and Digital ID are flagged for future audit — areas where pre-emptive assurance and compliance advice will be valued.",
+      "source": "ANAO work program — https://www.anao.gov.au/work-program/portfolio/quick"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Joint Committee of Public Accounts and Audit (JCPAA) conducted a procurement inquiry that considered the 2022-23 Auditor-General report on the DTA and recommended the follow-up audit that became Report No. 3 of 2025-26.",
+      "implication": "Sustained parliamentary committee interest keeps DTA procurement under oversight, reinforcing demand for demonstrable compliance and reform delivery.",
+      "source": "ANAO (describing the JCPAA inquiry) — https://www.anao.gov.au/work/performance-audit/implementation-of-procurement-reforms-dta-finance"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Procurement reform remediation and recommendation closure",
+      "agency_need": "Successive ANAO audits found DTA procurement ineffective and its reforms only 'partly effective', with open recommendations and unembedded processes under JCPAA scrutiny.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "A procurement-reform implementation and recommendation-closure engagement: remediate CPR-compliance gaps, embed contract-variation and value-for-money discipline, and stand up a probity and documentation regime for significant procurements (e.g. Digital Marketplace Panel 2).",
+      "rationale": "Directly grounded in ANAO Report No. 5 of 2022-23 and Report No. 3 of 2025-26 plus JCPAA interest; the plan's own SO3 risk flags BuyICT/sourcing value concerns. Demand is time-bound and reputationally urgent.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of procurement reform and emerging-tech/AI frameworks",
+      "agency_need": "The DTA must demonstrate to the ANAO and JCPAA that reforms are embedded, and faces forward audits on emerging-tech and Digital ID frameworks it administers.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent health check / gateway-style assurance of the procurement-reform program against the audit recommendations, plus pre-audit readiness review of AI assurance and emerging-tech governance frameworks.",
+      "rationale": "The plan already frames assurance as core (measures 2, 7) and internal-audit closure (measure 12); external ANAO pressure makes independent verification valuable. Non-legal assurance fits the firm's positioning.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial sustainability and funding model",
+      "agency_need": "The plan names longer-term financial sustainability as 'a significant risk' and the absence of a sustainable funding/resource model to meet its mandate.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and costing of the DTA's mandate/operating functions, with options for a sustainable funding/cost-recovery model and uplift to internal forecasting and reporting.",
+      "rationale": "Explicit SO4 strategic risk plus stated need for 'enhanced financial management, internal forecasting and reporting'. Note: accounting/finance is a Strategic Commissioning reduction target, so position as specialised, time-limited advice.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Operating model redesign",
+      "agency_need": "The plan commits to 'identification and implementation of an improved DTA operating model and ways of working' to remain relevant to government's investment decisions.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model design aligning the DTA's strategy, policy, IOF oversight and sourcing functions to its expanded mandate and constrained resources, with implementation roadmap.",
+      "rationale": "Named mitigating strategy under SO2 and linked to the financial-sustainability risk; an operating model piece is proportionate to a small agency.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital workforce capability and 3-year Workforce Plan",
+      "agency_need": "The DTA is developing a 3-year Workforce Plan to identify skills gaps and build digital capability while reducing contractor reliance.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Support to develop the 3-year Workforce Plan: current-state capability assessment, future-state skills mapping for digital governance/sourcing/assurance roles, and targeted capability-uplift strategies.",
+      "rationale": "Explicitly committed to in the plan with named deliverables (measure 10). Tempered by the Strategic Commissioning Framework's drive to insource — fit is real but the agency may prefer to do this in-house.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Cybersecurity of internal systems",
+      "agency_need": "Cybersecurity is named 'a top priority', with commitment to safeguarding infrastructure, systems and data while supporting secure innovation.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A targeted security assessment and assurance of the DTA's platforms and data, balancing security and usability as the agency positions itself as a 'digital-exemplar'.",
+      "rationale": "Stated priority, but no named breach or program — a general commitment rather than evidenced demand, so confidence is low.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the DTA's procurement/strategic sourcing leadership (head of digital sourcing and contracts) and the COO with a tailored procurement-reform remediation and assurance proposition referencing ANAO Reports 5 (2022-23) and 3 (2025-26).",
+      "priority": "High",
+      "rationale": "This is the clearest, most urgent and externally validated demand signal; the agency must demonstrate embedded reform to the ANAO and JCPAA, and is reputationally exposed.\""
+    },
+    {
+      "action": "Prepare a short capability statement on independent, non-legal procurement assurance and recommendation-closure frameworks, and offer a pre-audit readiness review ahead of forward ANAO emerging-tech/Digital ID audits.",
+      "priority": "High",
+      "rationale": "Forward ANAO work and ongoing JCPAA interest mean readiness work is timely and defensible; positions the firm as independent verifier."
+    },
+    {
+      "action": "Engage the CFO/COO on a financial-sustainability and funding-model review, framed as specialised, time-limited advice consistent with the Strategic Commissioning Framework.",
+      "priority": "Medium",
+      "rationale": "The plan names financial sustainability as a significant risk; framing matters because accounting/finance is an insourcing target."
+    },
+    {
+      "action": "Brief the Audit and Risk Committee / Chief Risk Officer on independent assurance over the operating-model and internal-audit-closure agenda (measure 12).",
+      "priority": "Medium",
+      "rationale": "Risk-committee sponsorship is the easiest route to win independent assurance work on a politically sensitive agency."
+    },
+    {
+      "action": "Monitor the establishment of Digital Marketplace Panel 2 and any DTA approach to market for procurement-reform support, and watch aph.gov.au for JCPAA/Estimates follow-up.",
+      "priority": "Medium",
+      "rationale": "A procurement vehicle and potential RFQs may flow directly from the reform program; early sight enables a competitive, compliant bid."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive Officer (Chris Fechner) — accountable authority",
+    "Chief Operating Officer / CFO — financial sustainability, operating model, enabling services",
+    "Head of Digital Sourcing, Contracts and Procurement — procurement reform and BuyICT/Panel 2",
+    "Head of Investment Oversight (IOF) and Assurance function",
+    "Chief Risk Officer and the Audit and Risk Committee",
+    "Head of People/HR — 3-year Workforce Plan"
+  ],
+  "talking_points": [
+    "Two ANAO audits and a JCPAA inquiry have left DTA procurement reform judged only 'partly effective' — independent, non-legal assurance and remediation support can help you demonstrate embedded compliance and value for money.",
+    "Your plan names longer-term financial sustainability as a significant risk with no sustainable funding model — a focused costing and funding-options review can be done in a way that respects the Strategic Commissioning Framework.",
+    "The commitment to an 'improved operating model and ways of working' is a chance to align strategy, IOF oversight and sourcing to your expanded mandate within tight resources.",
+    "Forward ANAO audits on emerging-tech and Digital ID frameworks make pre-audit readiness reviews timely — we can stress-test your AI assurance and emerging-tech governance before they are examined.",
+    "We understand the DTA insources core work; our offer is deliberately specialised, time-limited and assurance-focused, complementing your APS capability rather than displacing it."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The supplied plan is the 2024-25 edition (the URL references 2025-26), so priorities may have shifted slightly. The DTA is a small oversight/policy agency, not a delivery body, and explicitly commits to the APS Strategic Commissioning Framework — actively reducing outsourcing of program/project management, accounting/finance and communications — which materially constrains traditional consulting demand and lowers confidence on workforce and finance opportunities. The strongest, best-evidenced opportunity (procurement assurance/remediation) rests on external ANAO/JCPAA findings and largely single-outlet (InnovationAus) news; corroboration against a second masthead and a follow-up aph.gov.au search (Estimates, QoN, JCPAA report) is recommended. Cyber and workforce opportunities are inferred from general commitments rather than named programs."
+}
