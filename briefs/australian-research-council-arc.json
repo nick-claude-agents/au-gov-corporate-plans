@@ -1,0 +1,224 @@
+{
+  "agency_name": "Australian Research Council (ARC)",
+  "portfolio": "Education",
+  "plan_period": "2025-26",
+  "executive_summary": "The ARC is a small, expertise-heavy non-corporate Commonwealth entity that administers the ~$1bn/year National Competitive Grants Program (NCGP) and provides research policy advice. FY2025-26 is a once-in-a-generation reform year: the Board is redesigning the entire NCGP off the back of its Policy Review, building a new 10-year ARC Strategy, and developing a new data-driven National Research Evaluation and Impact Framework in response to the Universities Accord. This reform agenda touches every stage of the funding cycle (assessment, post-award, evaluation) and is underpinned by data/analytics uplift, the RMS platform, a new information management system, cyber and privacy improvements, and an office relocation. The agency also operates under live external pressure — recurring ministerial-veto/research-security controversy, ANAO interest in grants administration, and the new governance regime following the ARC Act amendments — making independent assurance, program delivery and data work credible (if modestly sized) BD prospects. Note the plan was supplied as the 2025-26 plan despite a 2024-25 source URL.",
+  "strategic_priorities": [
+    {
+      "title": "Redesign and implement a revitalised NCGP",
+      "description": "Provide government with recommendations for a simpler NCGP and then transition to a new model from 2026, rethinking the assessment model, post-award grant management and evaluation across the whole funding cycle.",
+      "source_quote": "The bold reforms will require rethinking all stages of the funding cycle including the assessment model, post-award grant management and evaluation."
+    },
+    {
+      "title": "Deliver a 10-year ARC Strategy",
+      "description": "Develop a long-term strategy to guide the ~$1bn annual NCGP investment, align with national priorities and provide stewardship for a diverse, thriving research sector.",
+      "source_quote": "we will develop a 10-year ARC Strategy to guide the significant $1 billion annual investment made in early stage research through the NCGP."
+    },
+    {
+      "title": "Build a National Research Evaluation and Impact Framework",
+      "description": "Develop a modern, data-driven framework to assess the excellence, impact and depth of university research, responding to the Universities Accord recommendation for intelligent-technology-based evaluation; FY2025-26 deliverable is a proposal.",
+      "source_quote": "the ARC is working to move to a modern, data-driven National Research Evaluation and Impact Framework."
+    },
+    {
+      "title": "Strengthen research integrity and security",
+      "description": "Continue work with the Department of Education, NHMRC and national security agencies to safeguard research integrity and protect Australian research from foreign interference risks.",
+      "source_quote": "Continuing to work with the Department of Education, national security agencies and other stakeholders to further strengthen processes to protect the security of Australian research from foreign interference risks."
+    },
+    {
+      "title": "Develop enhanced data, analytics and communication capabilities",
+      "description": "Build data/analytics capability to better understand the research landscape, evaluate NCGP performance and tell the story of ARC-funded research; uplift data literacy per the ARC Data Strategy.",
+      "source_quote": "Developing enhanced data, analytics and communication capabilities that offer greater insight into the Australian research landscape."
+    },
+    {
+      "title": "Modernise technology and corporate infrastructure",
+      "description": "Maintain and adapt RMS, implement a new information management system, optimise the website, improve cyber security, uplift privacy maturity, and relocate to new premises.",
+      "source_quote": "Implement a new information management system to improve the management of the ARC's records and information holdings."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "NCGP Policy Review final report due to government Q3 2025, with progressive transition to a new funding model from 2026",
+    "Australian Universities Accord Final Report response driving a new, data-driven research evaluation approach",
+    "Revised Australian Research Council Act 2001 and new ARC Board/governance arrangements (post ARC Act amendment legislation)",
+    "Establishment of the Australian Tertiary Education Commission and the Strategic Examination of Research and Development reshaping the sector",
+    "Heightened foreign-interference and research-security risk environment",
+    "Growth of AI creating new opportunities and risks for ARC operations and the research sector",
+    "APS Strategic Commissioning Framework pressure to reduce outsourcing of core program/project management work"
+  ],
+  "challenges_and_risks": [
+    "Small agency with 'big ambition' delivering a major multi-year reform with constrained resources, requiring reprioritisation",
+    "Reported job cuts (Dec 2025) potentially reducing internal delivery capacity at the height of reform",
+    "Strategic risk of failing to provide strong leadership on research strategy",
+    "Strategic risk that ARC fails to comply with legislative requirements and key government policies",
+    "Strategic risk of not engaging effectively with diverse stakeholders",
+    "Legacy/critical dependence on the RMS platform that must be adapted to support a redesigned NCGP",
+    "Privacy maturity and cyber security explicitly flagged as needing uplift",
+    "APS Strategic Commissioning Framework limits reliance on contractors for core program/project management — a constraint on certain engagement types"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Ministerial veto of six peer-reviewed ARC grants on 'national interest' grounds (Dec 2021) triggered sustained sector backlash and College of Experts resignations, with fallout continuing into late 2024.",
+      "implication": "Grant-integrity, governance and independent process-assurance work is a live demand area; lead with independence and probity credibility.",
+      "source": "InnovationAus; The Conversation; The Mandarin — https://www.innovationaus.com/minister-rejects-six-peer-reviewed-arc-research-grants-on-national-interest-grounds/"
+    },
+    {
+      "summary": "In 2025 a Labor minister again declined/vetoed ARC grants on national-security grounds, reportedly causing confusion and delays despite reform; ARC issued an 'Update on Research Security'.",
+      "implication": "National-interest/security screening of research is an active operational pain point — scope for due-diligence and process-design advisory around research security frameworks.",
+      "source": "Times Higher Education; Research Professional News; ARC — https://www.arc.gov.au/news-and-publications/media/update-research-security"
+    },
+    {
+      "summary": "Australian Research Council job cuts reported on 4 December 2025.",
+      "implication": "Workforce reduction during a major reform may increase reliance on external delivery and assurance support, or signal tighter external spend — clarify early in any approach.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/9127079/australian-research-council-job-cuts-revealed/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit on the ARC's administration of the National Competitive Grants Program (flagship grants program); specific findings not confirmed in research and date may predate the 3-year window.",
+      "implication": "Standing ANAO interest in grants administration points to recurring assurance, controls and process-improvement needs as the NCGP is redesigned.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/australian-research-council-administration-the-national-competitive-grants-program"
+    },
+    {
+      "summary": "ANAO performance audit on the ARC's management of research grants (grant lifecycle); findings/date to be verified.",
+      "implication": "Grant lifecycle management is an audited risk area — opportunity for grant-management framework and compliance support during transition to a new model.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/the-australian-research-councils-management-research-grants"
+    },
+    {
+      "summary": "ANAO audit requests on ARC's administration of funding application processes and administration of grants (listed Sept 2021).",
+      "implication": "Funding-application process integrity has been flagged to ANAO; process-design and assurance work is relevant as assessment models are reformed.",
+      "source": "ANAO — https://www.anao.gov.au/work/request/australian-research-councils-administration-funding-application-processes"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Senate Education and Employment Legislation Committee examined the Australian Research Council Amendment (Review Response) Bill 2023, responding to the independent ARC Act review and reforming the ministerial grant-approval (veto) power.",
+      "implication": "A recent legislative/governance reset means new operating frameworks, transition arrangements and implementation support — a timely entry point for governance and program advisory.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Education_and_Employment/ARCReviewResponse"
+    },
+    {
+      "summary": "Government framed the reforms as 'Ending the days of political interference in the Australian Research Council' (Minister Clare, March 2024), tying the legislative process to the veto controversy.",
+      "implication": "Reform is a ministerial priority with political ownership; engagement should align to the stated independence/governance agenda.",
+      "source": "Ministers' Media Centre — https://ministers.education.gov.au/clare/ending-days-political-interference-australian-research-council"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "NCGP redesign delivery and transition",
+      "agency_need": "Implement a new NCGP model from 2026 across assessment, post-award management and evaluation — a large, multi-year change for a small agency facing job cuts.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A program/PMO setup and embedded delivery support for the NCGP transition, with a benefits-management framework and staged delivery planning — sized to ARC's capacity and mindful of the APS Strategic Commissioning Framework's limits on core PM outsourcing.",
+      "rationale": "The plan explicitly names a long-term reform requiring rethinking of all funding-cycle stages, with progressive rollout from 2026; recurring ANAO interest in grants administration strengthens the case for disciplined delivery.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of the NCGP reform and grants administration",
+      "agency_need": "Maintain integrity and compliance of grants administration through a high-profile reform amid veto controversy and ANAO scrutiny.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent gateway-style assurance / health checks of the NCGP redesign at key stages, plus a grants-administration controls review aligned to the Commonwealth Grant Rules and Principles.",
+      "rationale": "The plan commits to reviewing grant administration to maintain compliance; ANAO has repeatedly examined ARC grants administration and the veto issue keeps integrity in the spotlight.",
+      "confidence": "High"
+    },
+    {
+      "area": "National Research Evaluation and Impact Framework design",
+      "agency_need": "Develop a new data-driven framework to assess university research excellence, impact and depth, replacing ERA per the Universities Accord.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A design engagement for the evaluation framework — methodology, performance logic and consultation support — delivered with a small senior team, complemented by data expertise for the evidence base.",
+      "rationale": "Performance measure 10 commits the ARC to produce a proposal for a new framework in 2025-26, responding directly to the Accord recommendation for intelligent-technology-based evaluation.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data and analytics capability uplift",
+      "agency_need": "Harvest and analyse research data, evaluate NCGP performance, and improve accessibility/reliability of ARC data holdings per the ARC Data Strategy.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and analytics uplift — implementing tooling to harvest and analyse research-system data, build business intelligence on NCGP performance, and improve data literacy and holdings management.",
+      "rationale": "The plan names enhanced data/analytics as a key priority and details data, harvesting and data-literacy commitments under Capabilities.",
+      "confidence": "High"
+    },
+    {
+      "area": "RMS adaptation and new information management system",
+      "agency_need": "Adapt the core RMS platform to support a redesigned NCGP and implement a new information/records management system.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Business and process analysis, service design and solutions implementation to evolve RMS for new schemes and to stand up the new information management system, including integration and transition support.",
+      "rationale": "Technology priorities explicitly include maintaining/adapting RMS and implementing a new information management system; both are directly tied to the NCGP reform.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Research security and foreign-interference processes",
+      "agency_need": "Strengthen processes to protect Australian research from foreign-interference risk, working with national security agencies.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A research-security framework and process-design review aligning ARC grant processes with whole-of-government foreign-interference frameworks; secondary scope for assurance of the controls.",
+      "rationale": "Named as a key priority and reinforced by 2025 national-security veto controversy and ARC's own research-security update; note clearance/access constraints when scoping.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework refresh",
+      "agency_need": "Review and update ARC performance frameworks to align with new strategic and policy directions and new evaluation methodologies.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign linking the new 10-year Strategy and NCGP objectives to a coherent measurement framework.",
+      "rationale": "The plan commits to reviewing/updating performance frameworks and establishing new NCGP evaluation methodologies; several measures were newly adjusted this year.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security and privacy maturity uplift",
+      "agency_need": "Improve cyber security to protect ARC and stakeholder data, and uplift privacy maturity, policies and procedures.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment of ARC systems (notably RMS) and a privacy-maturity uplift advisory, producing a prioritised remediation roadmap.",
+      "rationale": "Technology and process priorities explicitly commit to improving cyber security measures and uplifting the agency's privacy maturity rating.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Stakeholder engagement and communications plan",
+      "agency_need": "Deliver a new ARC Communications and Engagement Plan and rebuild stakeholder trust across universities, researchers and government.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Stakeholder engagement strategy and communications support for the NCGP redesign and evaluation-framework consultations, including content to 'tell the story' of ARC-funded research.",
+      "rationale": "The plan names a new Communications and Engagement Plan and identifies ineffective stakeholder engagement as a strategic risk; trust has been strained by the veto controversy.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy CEO and the reform/program leadership owning the NCGP redesign with a tailored capability statement on program delivery plus independent assurance, sized to a small agency and respectful of APS Strategic Commissioning Framework limits.",
+      "priority": "High",
+      "rationale": "The NCGP redesign and 2026 transition is the largest, most time-bound demand in the plan and the clearest fit for delivery and assurance work."
+    },
+    {
+      "action": "Prepare a short thought piece on data-driven research evaluation frameworks and offer a scoping conversation with the team developing the National Research Evaluation and Impact Framework, given the 2025-26 proposal deliverable.",
+      "priority": "High",
+      "rationale": "Performance measure 10 creates a concrete, dated deliverable that maps cleanly to Strategy, Policy & Governance and Data, Analytics & Information."
+    },
+    {
+      "action": "Engage the Chief Risk Officer function / ARC Audit and Risk Committee secretariat with a grants-administration assurance and controls offering, referencing ANAO's recurring interest in NCGP administration.",
+      "priority": "Medium",
+      "rationale": "Reform plus ANAO and parliamentary scrutiny make independent assurance an easy-to-justify, lower-political-risk engagement."
+    },
+    {
+      "action": "Monitor for procurements linked to RMS adaptation, the new information management system, and data/analytics tooling as the NCGP model is finalised after the Q3 2025 report to government.",
+      "priority": "Medium",
+      "rationale": "These ICT/data builds will be triggered by the reform timetable and represent the firm's ability to build and implement, not just advise."
+    },
+    {
+      "action": "Clarify the impact of the December 2025 job cuts on external delivery appetite early in any engagement.",
+      "priority": "Medium",
+      "rationale": "Workforce reductions during peak reform can either expand or contract external spend; understanding this shapes which engagement shapes are viable."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy CEO (oversees grant policy/administration, program design and delivery, and reform)",
+    "NCGP reform / Program Implementation Committee leadership",
+    "Director, Governance and Corporate Reporting (corporate plan contact, governance/assurance entry point)",
+    "ARC Audit and Risk Committee and Chief Risk Officer function",
+    "Data Strategy / analytics capability lead",
+    "CIO / technology function owning RMS and the new information management system",
+    "Academic Directors and the team developing the National Research Evaluation and Impact Framework",
+    "Communications and Engagement function (new Communications and Engagement Plan)"
+  ],
+  "talking_points": [
+    "The NCGP redesign touches every stage of the funding cycle and rolls out from 2026 — how is delivery being resourced, and where would independent program assurance add the most value given ANAO's recurring interest in grants administration?",
+    "With a 2025-26 proposal due for the National Research Evaluation and Impact Framework, we can bring evaluation methodology and data-driven design support that meets the Accord's intelligent-technology expectations.",
+    "As a small agency facing reported job cuts while delivering once-in-a-generation reform, right-sized embedded delivery and assurance can de-risk the transition without overbuilding.",
+    "Your data and analytics ambitions — harvesting research-system data and uplifting holdings and literacy — map directly to an information and BI capability we can both design and build.",
+    "Research security and national-interest screening remain operationally contested; we can help design defensible, whole-of-government-aligned processes (non-legal).",
+    "RMS adaptation and the new information management system are reform-critical builds where we can deliver discovery through implementation, not just advice."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is clear and reform-rich, giving high confidence on the strategic direction; however, the ARC is a small agency with modest budget, so engagements must be right-sized (short advisory, framework design, targeted delivery/assurance) rather than large transformation programs. The APS Strategic Commissioning Framework explicitly constrains outsourcing of core program/project management work, which limits some Programs, Projects & Change scope. The supplied document is the FY2025-26 plan despite a 2024-25 source URL. External research relied on headline/source-level metadata; several ANAO audits may predate the 3-year window and their specific findings were not confirmed — verify before client use. Cyber, privacy and ICT opportunities are real but lightly described, hence Medium confidence."
+}

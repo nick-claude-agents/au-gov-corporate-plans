@@ -352,6 +352,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-research-council-arc": {
+      "name": "Australian Research Council (ARC)",
+      "portfolio": "Education",
+      "plan_url": "https://www.arc.gov.au/sites/default/files/2024-08/ARC%20Corporate%20Plan%20FY%202024%E2%80%9325.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "High"
     }
   }
 }
