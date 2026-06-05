@@ -1,0 +1,182 @@
+{
+  "agency_name": "Department of Health, Disability and Ageing",
+  "portfolio": "Health",
+  "plan_period": "2021-22 (the supplied text is the Department of Health Corporate Plan 2021–22, despite the 2025-26 source URL/title)",
+  "executive_summary": "The supplied document is actually the Department of Health Corporate Plan 2021–22 (covering 2021–25), not the 2025–26 plan implied by the title. It describes a hybrid policy-and-service-delivery department managing the largest reform agenda in its history: a $17.7bn aged care reform response to the Royal Commission (five pillars), a $2.3bn National Mental Health and Suicide Prevention Plan, the COVID-19 vaccine rollout (Operation COVID Shield), and major digital/data modernisation. The plan openly flags capability gaps in data, digital, ICT financial sustainability, workforce and performance measurement. These named, time-bound, multi-year reforms — each with new funding models, new legislation, new assessment workforces and new IT platforms — are strong, traceable sources of program-delivery, assurance, financial, workforce, data and digital demand. Note the document is several years old, so live procurement relevance must be re-validated against the current 2025–26 plan and machinery-of-government changes (the department now includes Disability and Ageing).",
+  "strategic_priorities": [
+    {
+      "title": "Aged care generational reform",
+      "description": "Implement the Government's $17.7bn, 5-year response to the Royal Commission into Aged Care Quality and Safety across five pillars (home care, residential services & sustainability, quality & safety, workforce, governance), including a new AN-ACC funding model from Oct 2022, a single assessment workforce from July 2023, star ratings, a new Aged Care Act, and a new prudential/financial monitoring framework.",
+      "source_quote": "the Australian Government is delivering a $17.7 billion aged care reform package ... a once in a generation reform of aged care."
+    },
+    {
+      "title": "Mental health and suicide prevention reform",
+      "description": "Deliver the $2.3bn National Mental Health and Suicide Prevention Plan — a new National Agreement and bilateral agreements with states, new Head to Health and headspace centres, a National Suicide Prevention Office, and a National Mental Health Workforce Strategy.",
+      "source_quote": "the single largest mental health and suicide prevention investment in Australia's history ... $2.3 billion over 4 years."
+    },
+    {
+      "title": "Digital health and platform modernisation",
+      "description": "Transform regulatory and subsidisation platforms (Health Products Portal), support the national digital health agenda and My Health Record, rationalise the aged care application landscape, and stand up a new Chief Technology Officer function to make technology platforms fit-for-purpose, financially sustainable and secure.",
+      "source_quote": "The digital transformation of our regulatory and subsidisation programs continues building on the initial implementation of the Health Products Portal."
+    },
+    {
+      "title": "Data, evaluation and performance uplift",
+      "description": "Deliver a consistent departmental data policy and governance framework, lift data literacy, link key datasets, embed a whole-of-department evaluation strategy, and complete a Performance Reporting Continuous Improvement Project to redesign PGPA performance measures.",
+      "source_quote": "a need for further improvement to our performance framework, and in response a Performance Reporting Continuous Improvement Project (the Project) commenced."
+    },
+    {
+      "title": "Workforce strategy and New Ways of Working",
+      "description": "Develop a new departmental workforce strategy, roll out the New Ways of Working program (workplace, technology and change), and build named health workforce strategies (National Medical Workforce Strategy, Nursing/NP plans, aged care workforce).",
+      "source_quote": "we are developing a workforce strategy to better articulate how we will attract and develop the skills, capabilities, culture and locations the organisation requires."
+    },
+    {
+      "title": "Financial sustainability and prudential oversight",
+      "description": "Manage more than $115bn (19.5% of Commonwealth expenses) under a strengthened financial framework (Finance Strategy 2020–24), and build new prudential monitoring/compliance to identify and support aged care providers at financial risk.",
+      "source_quote": "a new financial and prudential monitoring, compliance and intervention framework for aged care providers ... enhance our capability to identify providers at financial risk."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Royal Commission into Aged Care Quality and Safety — $17.7bn response with legislated timelines through 2025",
+    "Productivity Commission Inquiry into Mental Health and National Suicide Prevention Adviser reports driving the National Mental Health and Suicide Prevention Plan",
+    "New Australian National Aged Care Classification (AN-ACC) funding model from 1 October 2022",
+    "New Aged Care Act and new independent regulatory authority (governance pillar)",
+    "Single aged care assessment workforce replacing ACAT/RAS from July 2023; new single care-at-home program from July 2023",
+    "Alignment of regulation across aged care, NDIS/disability and veterans' care",
+    "COVID-19 vaccine rollout (Operation COVID Shield) and pandemic preparedness",
+    "Updated PGPA Rule s16EA performance-reporting requirements (March 2020) driving measure redesign",
+    "ICT Strategy and a new Chief Technology Officer role; Essential 8 cyber controls rollout"
+  ],
+  "challenges_and_risks": [
+    "Named enterprise risks include insufficient data/IT capability and skilled staff to deliver health, ageing and sport services",
+    "Policy risk that health system strategy is insufficient to mitigate growth in outlays (cost/sustainability pressure on a $115bn+ portfolio)",
+    "Delivery risk: coordination across the department and external partners (states, providers) insufficient, with adverse budgetary effect",
+    "Aged care provider financial failure risk requiring prudential monitoring and market intervention",
+    "Failure to learn through measuring and evaluating policies, programs and service outcomes",
+    "Workforce attraction/retention and capability gaps across data, digital and HR",
+    "Newly introduced and immature performance measures (many baselines 'to be confirmed')",
+    "Stakeholder/delivery complexity of reforms requiring agreement with states and territories"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Aged care reform delivery and assurance",
+      "agency_need": "Implement a five-pillar, multi-year, $17.7bn reform with new funding model, new assessment workforce, star ratings and new legislation, while managing provider transition risk",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery leads and a benefits-management framework for one or more pillars (e.g. AN-ACC funding model transition, single assessment workforce stand-up), plus stage-gate delivery assurance",
+      "rationale": "The plan names a specific, funded, time-bound reform with detailed annual milestones to 2025 and explicit delivery/market-transition risk — the strongest, most sustained delivery opportunity in the document",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of reform programs",
+      "agency_need": "Demonstrate that high-risk Royal Commission response programs are delivering as intended, with the Investment and Implementation Board seeking independent project assurance",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Gateway-style independent assurance / health checks on the aged care and mental health reform programs reporting to the Program Assurance Committee and Investment and Implementation Board",
+      "rationale": "The plan explicitly cites 'independent project assurance' and a Program Assurance Committee driving excellence across new programs — direct latent demand for assurance",
+      "confidence": "High"
+    },
+    {
+      "area": "Aged care provider financial-risk and prudential monitoring",
+      "agency_need": "Build capability to identify providers at financial risk, run up to 500 HCP provider assurance reviews per year, and deliver a new prudential/financial monitoring framework",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability assessment model and provider financial-risk diagnostic toolkit, plus support to the Financial Monitoring Program and Structural Adjustment Program",
+      "rationale": "The plan commits to a new financial/prudential monitoring framework and annual assurance reviews of hundreds of providers — a clear costing/financial-assessment fit",
+      "confidence": "High"
+    },
+    {
+      "area": "PGPA performance-measure redesign and evaluation",
+      "agency_need": "Complete the Performance Reporting Continuous Improvement Project and embed a whole-of-department evaluation strategy; many measures are new with unconfirmed baselines",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA s16EA-aligned performance-measure redesign and a program evaluation framework, with selected process/outcome evaluations of reform initiatives",
+      "rationale": "The plan states a need for further performance-framework improvement and an ongoing improvement project, plus a commitment to embed evaluation capability — explicit demand",
+      "confidence": "High"
+    },
+    {
+      "area": "Digital platform build (Health Products Portal, aged care apps)",
+      "agency_need": "Digitise PBS listing stages, modernise/rationalise the aged care application landscape, and standardise enterprise design patterns for provider/consumer interfaces",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery, service design and build/integration of the next Health Products Portal stages (evaluation, negotiation, publication) and aged care application consolidation, with business/process analysis",
+      "rationale": "The plan details continued HPP development across PBS listing stages and aged care application rationalisation — a concrete, named build opportunity the firm can deliver, not just advise",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data governance, linkage and analytics uplift",
+      "agency_need": "Deliver a consistent departmental data policy and governance framework, link key datasets (AIR, MADIP), lift data literacy and enable safe data sharing under heightened demand",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data governance framework, dataset-linkage support and a data-literacy/analytics capability uplift program",
+      "rationale": "The plan repeatedly cites a data governance framework, data linkage and 'lifting data literacy', and names data/IT capability as an enterprise risk",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce strategy and New Ways of Working change",
+      "agency_need": "Develop a new departmental workforce strategy and deliver the New Ways of Working program (workplace, technology, culture, learning) including a Sirius pilot evaluation and rollout",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability uplift design, plus change management to scale the NWOW pilot across the department",
+      "rationale": "The plan names a workforce strategy in development and a NWOW program with a pilot to be evaluated and rolled out — clear organisational-change demand",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber and protective security maturity uplift",
+      "agency_need": "Uplift protective and cyber security maturity and continue Essential 8 controls rollout to protect systems and personal health data",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment against Essential 8 / protective security framework and assurance of critical health systems and data",
+      "rationale": "The plan explicitly commits to uplifting cyber security maturity and Essential 8 rollout, and names inadequate IT/security as an enterprise (Information) risk",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Stakeholder engagement for reform and vaccine confidence",
+      "agency_need": "Major public-facing change requiring consultation with senior Australians, providers, states and communities, and building public confidence in the vaccine rollout",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Community and stakeholder engagement and consultation support for aged care/home care program co-design and reform communications",
+      "rationale": "The plan describes extensive consultation/co-design for the support-at-home program and public-confidence messaging for Operation COVID Shield",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and analyse the current 2025–26 Department of Health, Disability and Ageing corporate plan before pitching, to re-baseline priorities and reflect the machinery-of-government inclusion of Disability and Ageing",
+      "priority": "High",
+      "rationale": "The supplied document is the 2021–22 plan; opportunities must be confirmed against the live plan, current funding and the new department structure to avoid pitching stale programs"
+    },
+    {
+      "action": "Approach the Ageing and Aged Care Group (and Reform Implementation function) with a delivery + assurance proposition for the aged care reform pillars",
+      "priority": "High",
+      "rationale": "The largest, most funded and most time-bound reform in the portfolio, with explicit delivery and provider-transition risk and a standing Program Assurance Committee"
+    },
+    {
+      "action": "Prepare a financial-sustainability/prudential-monitoring capability statement for the CFO function and aged care prudential branch",
+      "priority": "High",
+      "rationale": "The plan commits to a new provider financial-risk framework and hundreds of annual assurance reviews — a well-defined, less politically sensitive entry point"
+    },
+    {
+      "action": "Offer a short PGPA performance-measure and evaluation health check to the Performance Reporting Section / Strategic Policy area",
+      "priority": "Medium",
+      "rationale": "An explicitly named continuous-improvement project with immature, baseline-pending measures gives a low-barrier first engagement that can seed larger work"
+    },
+    {
+      "action": "Engage the Chief Technology Officer / Digital Health and Information Technology area on Health Products Portal build stages and aged care application rationalisation",
+      "priority": "Medium",
+      "rationale": "The plan names continued platform builds the firm can deliver and implement, differentiating from advisory-only competitors"
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Secretary, Ageing and Aged Care Group (and Reform Implementation function)",
+    "Deputy Secretary / Group lead, Mental Health (Primary and Community Care)",
+    "Chief Operating Officer / Corporate Operations Group (workforce strategy, NWOW)",
+    "Chief Financial Officer / Financial Strategic Management (and aged care prudential/financial monitoring branch)",
+    "Chief Technology Officer and Digital Health / Information Technology area",
+    "Performance Reporting Section and Strategic Policy / Evaluation function",
+    "Chief Risk Officer and the Audit and Risk Committee / Program Assurance Committee / Investment and Implementation Board"
+  ],
+  "talking_points": [
+    "The five-pillar aged care reform is a multi-year program with hard legislated milestones (AN-ACC Oct 2022, single assessment workforce July 2023, new Aged Care Act) — independent delivery management and gateway assurance reduce the risk the Investment and Implementation Board is explicitly tracking.",
+    "Your new prudential/financial-monitoring framework and up to 500 provider assurance reviews a year need a repeatable financial-risk diagnostic — we can design the model and toolkit.",
+    "Your Performance Reporting Continuous Improvement Project and whole-of-department evaluation strategy align directly to a PGPA s16EA measure redesign and outcome evaluations we deliver routinely.",
+    "Unlike advisory-only firms, we can build and implement — the next Health Products Portal stages and aged care application consolidation are delivery work, not just design.",
+    "Data/IT capability is a named enterprise risk; a data-governance framework, dataset linkage and data-literacy uplift turn that risk into measurable capability.",
+    "We should ground any proposal in your current 2025–26 plan — we have read the reform trajectory closely and want to map our offer to where the programs are today."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The supplied text is the Department of Health Corporate Plan 2021–22 (covering 2021–25), not the 2025–26 plan named in the request, and predates the machinery-of-government change that added Disability and Ageing to the department's title. Several flagship programs (vaccine rollout, AN-ACC introduction, initial reform tranches) are now historical or completed, so live procurement relevance must be re-validated against the current plan and budget. Opportunity confidence reflects the clarity of the plan's signals, not confirmation that the demand is still open. No external research (news, ANAO, Parliament) was supplied, so those sections are intentionally empty; given this department's high public profile and the aged care Royal Commission, targeted ANAO/Estimates research would likely strengthen the assurance and financial-sustainability opportunities."
+}

@@ -464,6 +464,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "department-of-health-disability-and-ageing": {
+      "name": "Department of Health, Disability and Ageing",
+      "portfolio": "Health",
+      "plan_url": "https://www.health.gov.au/resources/publications/corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2021-22 (the supplied text is the Department of Health Corporate Plan 2021–22, despite the 2025-26 source URL/title)",
+      "overall_confidence": "Medium"
     }
   }
 }
