@@ -576,6 +576,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "High"
+    },
+    "office-of-the-commonwealth-ombudsman": {
+      "name": "Office of the Commonwealth Ombudsman",
+      "portfolio": "Attorney-General",
+      "plan_url": "https://www.ombudsman.gov.au/__data/assets/pdf_file/0024/304935/Corporate-Plan-2024-25.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }

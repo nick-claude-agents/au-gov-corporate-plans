@@ -1,0 +1,187 @@
+{
+  "agency_name": "Office of the Commonwealth Ombudsman",
+  "portfolio": "Attorney-General",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "The Office of the Commonwealth Ombudsman is a small, expertise-heavy integrity and oversight entity (regulator/oversight archetype) carrying 20 separate statutory functions. This year is dominated by two transformation pressures: replacing its ageing case management/CRM system (expected to roll out in 2025-26) and standing up and embedding the new National Student Ombudsman function (commenced 1 Feb 2025), which has driven significant expansion and new capability needs including alternative dispute resolution. It is doing this against a stated 'reducing funding envelope' and a Strategic Commissioning Framework that explicitly seeks to reduce outsourcing of core work, so BD must target enabling/corporate uplift (technology, workforce, governance, assurance, performance) rather than core complaint handling. The most actionable opportunities are the CRM build/change rollout, NSO establishment support, the Quality Management Framework and risk roadmap, workforce capability uplift, and the externally commissioned satisfaction research.",
+  "strategic_priorities": [
+    {
+      "title": "Improve individual complaint-handling performance",
+      "description": "The Office openly admits complaint-handling performance is an area for improvement and has made improving its individual complaints service the central strategic priority for the year, including earlier resolution and expanded conciliation/restorative engagement.",
+      "source_quote": "This year we are focussing on improving our complaint handling service... there are areas for improvement, including our complaint handling performance."
+    },
+    {
+      "title": "Replace the ageing case management / CRM system",
+      "description": "A significant, complex project commenced in 2024-25 to replace the legacy case management system that is integrated across all complaint-handling processes, with rollout anticipated in 2025-26 to enable more efficient handling and better complainant communication.",
+      "source_quote": "In 2024-25 we commenced a project to replace our aging case management system... We anticipate the new system will be rolled out in 2025-26."
+    },
+    {
+      "title": "Establish and embed the National Student Ombudsman (NSO)",
+      "description": "The NSO commenced 1 Feb 2025, providing 1.5 million higher education students an escalated complaints mechanism. It has required significant expansion, new internal capability, new ADR powers, and stakeholder/advisory group establishment, and will remain a major focus.",
+      "source_quote": "The NSO will continue to be a significant focus as we look to expand our activities, visibility and influence in the higher education sector."
+    },
+    {
+      "title": "Embed the Quality Management Framework (QMF)",
+      "description": "The Office is embedding its Quality Management Framework within all branches, working to fully implement it by early 2026.",
+      "source_quote": "This year we are embedding our Quality Management Framework (QMF) within all branches, working to fully implement the framework by early 2026."
+    },
+    {
+      "title": "Respond to AI and automated decision-making",
+      "description": "AI/ADM is named as the key environmental factor, both as an oversight responsibility over agencies and as a tool the Office itself wants to harness, balanced against the risks of emerging technology.",
+      "source_quote": "The rapid expansion of the use of artificial intelligence (AI) and automated decision-making will continue to have far-reaching impacts."
+    },
+    {
+      "title": "Grow people and capability",
+      "description": "Delivery of the 2024-28 Workforce Plan, including capability profiles by job family, career pathways, a succession planning framework, a Manager Essentials Development Program, an Employee Value Proposition and a Diversity, Inclusion and Belonging Strategy 2025-27.",
+      "source_quote": "Growing our collective capability through strong people strategies is a focus for 2025-26."
+    },
+    {
+      "title": "Develop a risk roadmap",
+      "description": "Following a review of its Risk Management Policy and Framework, the Office will develop a risk roadmap in 2025-26 to guide investment and enhance risk culture.",
+      "source_quote": "In 2025-26 the Office will develop a risk roadmap to guide our investment and ensure the deployment of activities aligns with our desire to continue to enhance our risk culture."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Commencement of the National Student Ombudsman function (1 Feb 2025) with 1.5 million students in scope and new ADR powers",
+    "Legislative change imposing a statutory duty on secretaries/CEOs to assist Ombudsman investigations, plus new powers to access agency information systems",
+    "Rapid expansion of AI and automated decision-making across the APS, creating both oversight demand and internal adoption questions",
+    "Replacement of the legacy case management/CRM system",
+    "Strategic Commissioning Framework requiring reduced outsourcing of core work (labour hire at 11% vs a 5% target)",
+    "Reducing funding envelope identified as a strategic risk",
+    "Robodebt Royal Commission recommendation already influencing practice (communications log for Own Motion Investigations)",
+    "OPCAT/National Preventive Mechanism coordination obligations across jurisdictions"
+  ],
+  "challenges_and_risks": [
+    "Admitted underperformance in complaint handling and ambitious timeliness sub-measures (e.g. 50% of complaints finalised in 30 working days)",
+    "Operating model and systems may not keep pace with AI, reducing service effectiveness (Strategic Risk 3)",
+    "Inability to deliver legislative obligations within a reducing funding envelope (Strategic Risk 5)",
+    "Breadth of 20 functions described as 'both an opportunity and a challenge' — stretched capacity",
+    "Workforce capacity/capability gaps; reliance on labour hire above target while recruiting; up to 3 months to make some roles operationally effective",
+    "Risk to impartiality, reputation and stakeholder confidence (Strategic Risks 1 and 2)",
+    "Cyber and data security of sensitive complaint information during system transition",
+    "Strategic Commissioning Framework constrains use of external providers for core work"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Case management / CRM system replacement and rollout",
+      "agency_need": "Deliver and implement a new case management/CRM system that underpins all complaint-handling processes, with rollout in 2025-26, while maintaining cyber security and complainant communication.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Solutions implementation, integration and process analysis to support delivery of the new CRM — including business/process analysis, data migration assurance from the legacy system, service transition and post-go-live support and operations. The firm can build/implement, not only advise.",
+      "rationale": "The plan names a specific, complex, in-flight system replacement integrated across all processes with a 2025-26 rollout — a clear, time-bound demand with cyber and migration risk explicitly flagged.",
+      "confidence": "High"
+    },
+    {
+      "area": "Change management for the system rollout",
+      "agency_need": "Ensure staff adoption and process improvement as the new CRM is implemented across all complaint-handling teams.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A business change implementation package — change management plan, stakeholder communications, training development and adoption tracking — to harness the system to genuinely improve complaint-handling processes.",
+      "rationale": "The plan states 'our technology changes will be supported by effective change management, and we will develop timely and meaningful training for staff,' and stresses staff engagement to fully harness the system.",
+      "confidence": "High"
+    },
+    {
+      "area": "National Student Ombudsman establishment and embedding",
+      "agency_need": "Stand up a brand-new statutory function at scale (1.5m students), build internal capability and new ADR processes, and establish stakeholder/advisory groups.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "PMO/establishment support or an embedded delivery lead for the NSO build-out — operating model and process design for conciliation/ADR workflows, plus benefits and milestone tracking. Note Strategic Commissioning Framework may push toward advisory/setup rather than ongoing core delivery.",
+      "rationale": "The NSO is a newly commenced function described as a significant ongoing focus requiring significant expansion and new capability — the largest reform in the plan.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Quality Management Framework embedding and assurance",
+      "agency_need": "Fully implement the QMF across all branches by early 2026 and verify it is operating effectively given admitted complaint-handling weaknesses.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A short health-check / quality review of complaint-handling against the QMF, or independent assurance of QMF implementation across branches with findings-and-recommendations report.",
+      "rationale": "The plan commits to embedding the QMF by early 2026 and lists quality-assurance compliance sub-measures (90% targets); the Office concedes complaint-handling performance needs improvement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Risk roadmap and risk framework refresh",
+      "agency_need": "Develop a risk roadmap in 2025-26 following review of the Risk Management Policy and Framework, to guide investment and enhance risk culture.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and risk-roadmap design engagement (6-12 weeks), aligning enterprise risks to investment decisions and uplifting risk culture, delivered with the Audit and Risk Committee.",
+      "rationale": "The plan explicitly states a risk roadmap will be developed in 2025-26 off the back of a completed framework review — a discrete, named, near-term piece.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce capability uplift",
+      "agency_need": "Deliver 2024-28 Workforce Plan initiatives: capability profiles by job family, career pathways, succession planning framework, Manager Essentials Development Program and Employee Value Proposition.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability design support — building capability/job-family profiles, a succession-planning framework, and design/facilitation of the Manager Essentials Development Program; plus strengthening workforce analytics.",
+      "rationale": "The plan lists these as specific, named 2025-26 deliverables and flags reliance on labour hire above target and recruitment lead-times, indicating real capability pressure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Complainant satisfaction and experience research",
+      "agency_need": "Continue externally commissioned complainant satisfaction research that underpins multiple performance measures; arrangements for 2025-26 are still being decided.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Survey and qualitative research delivery — designing and running the complainant satisfaction/accessibility research and interviews that feed PCM-1b, 1c and 3c, with analytics and reporting.",
+      "rationale": "The plan states the Office commissioned an external provider for this research and is 'currently considering how these arrangements will be developed for 2025-26' — an explicit, recurring outsourced need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance measurement framework strengthening",
+      "agency_need": "Several measures (PCM-2a, 3a, 4a) carry no targets and are count-only, and the framework was just revised to fold in the NSO.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review to convert count-only measures into meaningful targets and integrate NSO outcomes, strengthening the line of sight from activities to purpose.",
+      "rationale": "The plan shows multiple 'no target' count measures and a recently changed framework; this is a recognised weak-measure signal, though the Office may prefer to self-manage given its oversight expertise.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Cyber security uplift during system transition",
+      "agency_need": "Provide robust, reliable, resilient ICT and protect sensitive complaint data, in line with whole-of-government cyber strengthening, especially through the CRM migration.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of the new CRM/data environment — cyber advisory aligned to whole-of-government expectations and protective security governance.",
+      "rationale": "Cyber security and reliability is the first-listed technology focus and recurs in the risk register; the system transition heightens exposure.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Operating Officer / Corporate branch and the IT & Information Governance Committee about CRM delivery, integration, data migration assurance and change/training support.",
+      "priority": "High",
+      "rationale": "The CRM replacement is the single largest, time-bound initiative with a 2025-26 rollout; delivery, migration and change support are where an implementation-capable firm wins, and the corporate/enabling angle sidesteps the Strategic Commissioning Framework's core-work restriction."
+    },
+    {
+      "action": "Engage the First Assistant Ombudsman (NSO) and NSO branch on establishment support — operating model, ADR/conciliation process design and PMO setup.",
+      "priority": "High",
+      "rationale": "The NSO is a brand-new at-scale function still embedding, with admitted capability-building needs; early advisory/design positioning can convert into broader delivery as the function matures."
+    },
+    {
+      "action": "Offer the Audit and Risk Committee / Governance team a proposal on the risk roadmap and QMF implementation assurance.",
+      "priority": "Medium",
+      "rationale": "Both are explicit, named 2025-26 deliverables with near-term deadlines (QMF by early 2026), and assurance/governance work is the easiest independent-advisory win for an integrity body that prizes impartiality."
+    },
+    {
+      "action": "Prepare a capability statement for the complainant satisfaction research recommission, targeting the Strategic Insights function.",
+      "priority": "Medium",
+      "rationale": "The Office has explicitly stated it is deciding how the externally commissioned research will be arranged for 2025-26 — a discrete, recurring procurement with a clear external precedent."
+    },
+    {
+      "action": "Watch for procurement notices on AusTender related to the CRM build, satisfaction research and any workforce/capability programs; verify the Office's funding position via Estimates and Budget papers.",
+      "priority": "Medium",
+      "rationale": "The 'reducing funding envelope' risk and Strategic Commissioning Framework mean spend will be selective and contestable; timing approaches to live procurements is essential."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer (Corporate branch — Finance, Security, Integrity; ICT and Information Management)",
+    "Senior Assistant Ombudsman, Corporate",
+    "First Assistant Ombudsman, National Student Ombudsman (and NSO branch leads)",
+    "Information and Technology Governance Committee",
+    "Audit and Risk Committee / Governance function",
+    "Strategic Insights team (research and performance)",
+    "Human Resources / Workforce Planning function",
+    "Senior Assistant Ombudsman, Policy and Assurance (QMF and risk)"
+  ],
+  "talking_points": [
+    "You're rolling out a new case management/CRM in 2025-26 that touches every complaint process — we can deliver the build, data migration assurance, integration and the change/training to make adoption stick, not just advise on it.",
+    "The National Student Ombudsman is a major new function still embedding new ADR capability — we can provide establishment/PMO and operating-model support sized to a small office.",
+    "With the QMF due to be fully implemented by early 2026 and complaint-handling performance flagged for improvement, an independent quality health-check could validate the framework is genuinely lifting outcomes.",
+    "Your risk roadmap for 2025-26 is a discrete piece we can turn around quickly with the Audit and Risk Committee, linking enterprise risks to investment decisions.",
+    "We can take the complainant satisfaction research off your hands as you redesign those arrangements for 2025-26 — protecting the integrity of PCM-1b, 1c and 3c.",
+    "We understand the Strategic Commissioning Framework — our focus is enabling and corporate uplift (technology, governance, workforce, assurance), not displacing your APS core complaint-handling staff."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a thin, small-entity plan with no dollar figures, so opportunity sizing is inferred. Two material headwinds temper the brief: (1) the Strategic Commissioning Framework explicitly seeks to reduce outsourcing of core work, so anything touching front-line complaint handling is constrained — opportunities are deliberately scoped to enabling/corporate functions; and (2) a stated 'reducing funding envelope' limits discretionary spend. As an integrity/oversight body that prizes impartiality and produces its own assurance and performance expertise, the Office may self-deliver governance, risk and performance work it would buy elsewhere — hence several Medium/Low confidence ratings. The external research returned nothing credible about the Office itself (news, ANAO, Parliament); the ANAO- and Parliament-specific searches did not complete, so those empty lists should not be read as definitive — a follow-up search of anao.gov.au and Legal and Constitutional Affairs Estimates Hansard is recommended."
+}
