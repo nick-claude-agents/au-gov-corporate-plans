@@ -544,6 +544,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 to 2028-29",
       "overall_confidence": "Medium"
+    },
+    "national-gallery-of-australia-nga": {
+      "name": "National Gallery of Australia (NGA)",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://nga.gov.au/media/dd/documents/NGA_CorporatePlan25-26.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Low"
     }
   }
 }

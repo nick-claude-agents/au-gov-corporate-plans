@@ -1,0 +1,164 @@
+{
+  "agency_name": "National Gallery of Australia (NGA) — NOTE: plan text supplied is the National Portrait Gallery's Corporate Plan 2025–26",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "The corporate plan supplied is the National Portrait Gallery's (NPG) 2025-26 plan, not the National Gallery of Australia's, despite the brief naming the NGA. The NPG is a small (~55 FTE) corporate Commonwealth cultural institution dedicated to portraiture, balancing government appropriation with own-source revenue (philanthropy, commercial, partnerships) and explicitly stating it must find efficiency savings or grow non-government revenue every year to stay in balance. Its deliberate agenda for the year is a national audience-engagement push (touring, digital and offsite reach beyond Canberra), continued digitisation and digital/AR/AI uplift, collection growth with a First Nations focus, and workforce/succession resilience. BD fit is real but proportionate to a small budget — strongest in financial sustainability, digital/data uplift, cyber assurance, and workforce planning. The externally supplied research relates to the NGA (a separate entity with a well-publicised leaky-building funding crisis), so those signals should not be conflated with the NPG plan analysed here.",
+  "strategic_priorities": [
+    {
+      "title": "Enrich the collection (First Nations–led)",
+      "description": "Grow the National Portrait Collection through acquisitions and commissions, elevating First Nations voices, and make works accessible through digital content, accessibility resources and interactive/AR experiences.",
+      "source_quote": "Through its acquisitions and commissions program, the Gallery will continue to grow the National Portrait Collection and capture the diversity of Australian stories."
+    },
+    {
+      "title": "Inspire a national audience",
+      "description": "Increase access beyond Canberra through new touring models, partnerships with peer national cultural institutions, continued digitisation (target 98% collection digitised) and digital learning, after reduced interstate visitation in 2024-25 underlined the need for a national engagement strategy.",
+      "source_quote": "Reduced interstate visitation to Canberra in 2024-25 has reinforced the importance of a vibrant national engagement strategy."
+    },
+    {
+      "title": "Create connection (philanthropy & partnerships)",
+      "description": "Grow private giving to the Foundation and maintain high-value commercial partnerships to diversify revenue and build financial resilience.",
+      "source_quote": "Growth in private giving and partnerships ... Maintain 4 high-value commercial partnerships."
+    },
+    {
+      "title": "Financial sustainability",
+      "description": "Maintain budget balance through ongoing efficiency savings or growth in non-government revenue every year, in an environment of rising operating costs and constrained corporate/private support.",
+      "source_quote": "To maintain budget balance, ongoing efficiency savings or growth in non-government revenue will be required each year."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "National Cultural Policy 'Revive' and the Minister's 2024 Statement of Expectations driving the five-pillar agenda (First Nations first, a place for every story, centrality of the artist, strong cultural infrastructure, engaging the audience)",
+    "Shift to national/offsite reach via new touring models after reduced interstate visitation to Canberra",
+    "Digital uplift: continued investment in digital infrastructure and personnel, AR onsite activations, and active exploration of AI (e.g. Portrait Stories app, 'Mission to Mars' interactive)",
+    "Financial model dependent on growing own-source revenue (philanthropy, commercial partnerships, Foundation investment earnings) amid rising operating costs",
+    "Workforce pressure: succession planning for critical roles and competition for talent, particularly First Nations talent",
+    "Lifecycle capital works program to maintain the building, restored by 2023-24 Budget funding"
+  ],
+  "challenges_and_risks": [
+    "Funding and resources risk: insufficient funds to fulfil legislative function or strategic priorities due to rising operating costs and constrained private/government support",
+    "Reputation risk from confronting/challenging content or gaps in governance practices (donor and curatorial-independence sensitivities)",
+    "Physical infrastructure risk including cyber-attack, environmental events and disruptions affecting audience access",
+    "Collection damage from accidental/deliberate interference, transport, installation or environmental conditions",
+    "Workforce risk: inability to attract/retain talent, particularly First Nations talent, and capacity/capability gaps",
+    "Cyber security: acknowledged increased threat environment requiring ongoing penetration/intrusion testing"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The National Gallery of Australia warned in its annual report of 'rolling temporary closures' and a backlog of partially-funded building failures including a leaking roof; the 2023-24 Budget included $42.4m for NGA capital works.",
+      "implication": "Strong demand for capital-works planning, asset/condition management and funding business cases — but note this concerns the NGA, a separate entity to the National Portrait Gallery whose plan is analysed here.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/9104428/national-gallery-of-australia-faces-funding-hurdles-amid-leaks/"
+    },
+    {
+      "summary": "Gina Rinehart demanded the NGA remove a Vincent Namatjira portrait of her; the gallery declined. Sponsor-linked bodies also lobbied for removal.",
+      "implication": "Highlights donor/sponsor-relations and curatorial-independence governance sensitivities relevant across collecting institutions; again concerns the NGA, not the NPG.",
+      "source": "The Art Newspaper — https://www.theartnewspaper.com/2024/05/17/australias-richest-woman-gina-rinehart-at-centre-of-portrait-controversy"
+    },
+    {
+      "summary": "The NGA's 'Ngura Pulka' APY Art Centre Collective exhibition was postponed amid allegations of interference in First Nations artworks; an ACCC investigation found no consumer-law breach and an NGA-commissioned review cleared 28 works, but a $1.4m acquisition fell through.",
+      "implication": "Demonstrates First Nations cultural-authenticity, provenance and ethical-sourcing risk in the sector — relevant context for cultural-engagement and governance advisory, though it concerns the NGA.",
+      "source": "AAP News — https://aapnews.aap.com.au/news/art-controversy-in-court-and-on-national-gallery-walls"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "The NGA's annual report, tabled in Parliament, warned of rolling closures and partially-funded building rectification; Senator David Pocock called the partial funding 'worrying' and Finance Minister Katy Gallagher confirmed repeated meetings with the NGA on repairs.",
+      "implication": "Active senatorial/ministerial scrutiny of NGA capital funding creates a window for funding-strategy and business-case support — but this relates to the NGA, not the NPG plan analysed.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/9104428/national-gallery-of-australia-faces-funding-hurdles-amid-leaks/"
+    },
+    {
+      "summary": "Senate Estimates heard the NGA was processing a self-portrait gift from Gina Rinehart and negotiating display conditions attached to the gift.",
+      "implication": "Gifts/acquisition policy and display conditions are an area of parliamentary interest in collecting institutions; secondary sourcing, recommend verifying against primary Hansard.",
+      "source": "Guardian Australia (secondary) — recommend verifying via aph.gov.au Senate Estimates Hansard"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Financial sustainability review",
+      "agency_need": "The plan states efficiency savings or non-government revenue growth are required every year to maintain budget balance amid rising operating costs.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A short (4-8 week) financial-sustainability review modelling the government/own-source revenue mix, cost pressures and savings options, with a costed pathway to balance over the forward estimates — right-sized to a small institution.",
+      "rationale": "Financial sustainability is named explicitly as an ongoing pressure and enterprise risk; the funding-and-resources risk control list points to a real need for independent financial advice.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital, AR and AI programming uplift",
+      "agency_need": "Continued investment in digital infrastructure, AR onsite activations, digitisation (98% target) and active exploration of AI to enhance audience experience and national reach.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service-design plus build support for digital/AR audience experiences and digitisation workflow, scaled to the Gallery's existing managed-IT environment.",
+      "rationale": "The plan commits to ongoing strategic investment in digital personnel and infrastructure, AR activations and AI use cases (Portrait Stories, Mission to Mars), signalling implementation demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security assessment and assurance",
+      "agency_need": "Acknowledged increased cyber threat environment; cyber-attack is a named enterprise risk with controls limited to regular penetration/intrusion testing.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A proportionate security assessment of the Gallery's managed IT environment and public-facing digital channels, with an uplift roadmap.",
+      "rationale": "The plan repeatedly cites cyber threats and lists cyber-attack as a risk to audience access; suits a focused advisory engagement for a small entity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National audience engagement & touring strategy",
+      "agency_need": "Reduced interstate visitation has driven the need for a national engagement strategy and new touring/partnership models.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Stakeholder/partnership engagement support and a national audience engagement strategy to expand suburban, regional and remote reach with peer institutions.",
+      "rationale": "The plan explicitly elevates a 'vibrant national engagement strategy' and new touring models as a strategic response to falling Canberra visitation.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce and succession planning",
+      "agency_need": "The Gallery is developing its succession-planning approach to safeguard critical roles and faces labour-market competition, especially for First Nations talent.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce/succession-planning piece building on the Gallery's existing workforce analytics, identifying critical-role risk and capability pathways.",
+      "rationale": "Succession planning is named as in-development and people/staff is a listed enterprise risk; proportionate to a ~55 FTE organisation.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Governance and reputation-risk framework",
+      "agency_need": "Reputation and governance risks from donor relations, curatorial independence and confronting content; controls rely on policy review and internal audit.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance/policy-register and reputation-risk health check covering gifts/acquisition conditions, donor relations and curatorial-independence safeguards.",
+      "rationale": "Reputation and policies/processes are explicit enterprise risks; sector experience (NGA donor and APY controversies) shows the genuine exposure, though those events were at a different entity.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Confirm whether the target is the National Gallery of Australia or the National Portrait Gallery before any approach, and tailor the brief accordingly.",
+      "priority": "High",
+      "rationale": "The supplied plan is the NPG's while the brief names the NGA and the external research is about the NGA's building/funding crisis — pitching to the wrong entity or with mismatched evidence would damage credibility."
+    },
+    {
+      "action": "Approach the NPG's CFO/COO with a proportionate financial-sustainability review offer, leading on the plan's stated need for annual savings or revenue growth.",
+      "priority": "Medium",
+      "rationale": "Financial sustainability is the clearest, plan-grounded need and an enabling (less politically sensitive) area where independent advisory is easiest to win."
+    },
+    {
+      "action": "Prepare a short capability statement on digital/AR/AI delivery and cyber assessment tailored to small cultural institutions, and request a meeting with the Head of Digital/ICT.",
+      "priority": "Medium",
+      "rationale": "The plan commits to ongoing digital investment and flags cyber threats; a single combined conversation suits a small entity's procurement appetite."
+    },
+    {
+      "action": "If the true target is the NGA, build a separate brief around its partially-funded capital-works backlog (business case, asset/condition management) — note this is a large, politically visible program under senatorial scrutiny.",
+      "priority": "Medium",
+      "rationale": "The NGA's leaky-building funding gap is well-evidenced in news and Parliament and represents a materially larger opportunity than anything in the NPG plan."
+    }
+  ],
+  "engagement_targets": [
+    "Director / Chief Operating Officer (accountable for financial sustainability and operations)",
+    "Chief Financial Officer / finance function",
+    "Head of Digital / ICT (digital infrastructure, AR/AI, cyber)",
+    "Head of Development / Foundation (philanthropy and partnerships growth)",
+    "HR / People function (workforce and succession planning)",
+    "Audit Committee chair (governance, risk and internal audit)"
+  ],
+  "talking_points": [
+    "Your plan commits to finding efficiency savings or non-government revenue growth every year — we can model a costed pathway to budget balance proportionate to your size.",
+    "You're investing in digital, AR and AI to reach audiences beyond Canberra — we can help design and build those experiences and digitisation workflows.",
+    "Cyber-attack is a named enterprise risk affecting audience access — a focused security assessment can validate your current testing and set an uplift roadmap.",
+    "Succession planning for critical roles is in development — we can build on your workforce analytics to map critical-role risk.",
+    "Reputation and governance risks around gifts, donor relations and curatorial independence are live across the sector — a governance health check can strengthen your safeguards.",
+    "We right-size engagements to small cultural institutions — short advisory and design pieces rather than large programs."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "Significant entity mismatch: the brief names the National Gallery of Australia, but the corporate plan text supplied is the National Portrait Gallery's 2025-26 plan, while the external research relates to the NGA (a separate institution with its own leaky-building/funding crisis, Rinehart portrait dispute and APY exhibition controversy). The plan analysis above is grounded in the National Portrait Gallery plan; the news/parliamentary items concern the NGA and must not be conflated. This discrepancy must be resolved before any approach. The NPG is a small (~55 FTE) institution, so all opportunities are deliberately right-sized; most map to enabling needs (finance, digital, cyber, workforce) with Low-to-Medium confidence because the plan names pressures rather than specific procurements. ANAO and Parliament research was incomplete due to a search-tool limit and should be re-run for both entities."
+}
