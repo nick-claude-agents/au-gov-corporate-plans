@@ -416,6 +416,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-29",
       "overall_confidence": "Medium"
+    },
+    "department-of-agriculture-fisheries-and-forestry-daff": {
+      "name": "Department of Agriculture, Fisheries and Forestry (DAFF)",
+      "portfolio": "Agriculture, Fisheries and Forestry",
+      "plan_url": "https://www.agriculture.gov.au/sites/default/files/documents/daff-corporate-plan-2025-26.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covers 2025-26 to 2028-29)",
+      "overall_confidence": "High"
     }
   }
 }

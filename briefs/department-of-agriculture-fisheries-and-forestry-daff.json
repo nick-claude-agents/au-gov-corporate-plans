@@ -1,0 +1,229 @@
+{
+  "agency_name": "Department of Agriculture, Fisheries and Forestry (DAFF)",
+  "portfolio": "Agriculture, Fisheries and Forestry",
+  "plan_period": "2025-26 (covers 2025-26 to 2028-29)",
+  "executive_summary": "DAFF is a large, regionally-distributed (6,900 staff, 159 offices) policy-and-regulatory department operating as a hybrid of policy department and national regulator (biosecurity, exports, levies). Its 2025-26 agenda is dominated by three strategic objectives — sector growth/trade, sector resilience and sustainability, and national biosecurity — underpinned by a multi-year Transformation Action Plan (TAP) and a 10-year digital investment roadmap that includes two flagship system modernisations (Simplified Targeting and Enhanced Processing System; Digital Services to Take Farmers to Markets) plus a 4-year ICT/security/asset refresh. Significant latent demand sits in digital/ICT delivery, regulatory maturity, program evaluation, data analytics, cost-recovery/financial management uplift, and emergency-management capability — several of which are reinforced by external pressure (an ANAO cost-recovery audit, an ANAO cultural-reform audit, industry calls for an independent audit of DAFF expenses, and a biosecurity levy controversy). Recent Secretary turnover adds strategic-direction uncertainty. The APS Strategic Commissioning Framework will constrain core-work outsourcing, so the firm should pitch specialised, time-bound advisory, assurance and build/implementation work rather than bodies-in-seats.",
+  "strategic_priorities": [
+    {
+      "title": "Modernising trade and biosecurity ICT systems",
+      "description": "DAFF is delivering two flagship digital programs — the Simplified Targeting and Enhanced Processing System and Digital Services to Take Farmers to Markets — plus a 4-year security, technology and asset refresh, all under a 10-year digital investment and sustainment roadmap to address ICT technical debt and cyber risk.",
+      "source_quote": "We are modernising Australia's import and export systems through 2 flagship programs... underpinned by a strengthened enterprise data capability."
+    },
+    {
+      "title": "Improving regulatory service delivery and maturity",
+      "description": "A TAP priority for 2025-26 is to improve regulatory service delivery, lift enterprise regulatory maturity under RMG 128, and strengthen regulatory capability and culture across exports, biosecurity, imported food and levies.",
+      "source_quote": "improving our regulatory service delivery to stakeholders"
+    },
+    {
+      "title": "Embedding an enterprise approach to program evaluation",
+      "description": "DAFF is embedding an enterprise-wide program evaluation approach, with monitoring/evaluation/learning explicitly noted as 'underway' for major programs such as the Future Drought Fund and Climate-Smart Agriculture Program.",
+      "source_quote": "embedding an enterprise approach to program evaluation"
+    },
+    {
+      "title": "Strengthening data analytics and enterprise data maturity",
+      "description": "Continuing to uplift data maturity through a new enterprise data strategy to support intelligence-led biosecurity, export operations and trade market access, and to improve corporate insight and performance.",
+      "source_quote": "continuing to uplift our data maturity through our new enterprise data strategy"
+    },
+    {
+      "title": "Biosecurity 2030 and emergency-management preparedness",
+      "description": "Implementing the DAFF Biosecurity 2030 Roadmap and National Biosecurity Strategy, becoming intelligence-led, and strengthening emergency-management capability (e.g. H5 bird flu preparedness) against a measured maturity baseline.",
+      "source_quote": "The DAFF Biosecurity 2030 Roadmap outlines our vision for a stronger and more integrated biosecurity system."
+    },
+    {
+      "title": "Enterprise financial management reform",
+      "description": "A TAP priority 'in progress' to develop an enterprise-wide approach to financial management, uplift budget maturity via a forward-looking strategic roadmap, and manage cost-recovery arrangements under the Charging Framework.",
+      "source_quote": "Develop an enterprise-wide approach to financial management (in progress)."
+    },
+    {
+      "title": "Climate-smart agriculture and net-zero transition",
+      "description": "Delivering the $302.1m Climate-Smart Agriculture Program, the Future Drought Fund, and the Agriculture and Land Sector Plan, with international engagement on emissions-reduction pathways.",
+      "source_quote": "We are supporting the adoption of climate-smart and sustainable agricultural practices through the $302.1 million Climate-Smart Agriculture Program."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "APS Reform agenda and the Transformation Action Plan (TAP) published Dec 2023, with 2025-26 focus on strategic policy, regulatory service delivery, evaluation and data maturity",
+    "APS Strategic Commissioning Framework requiring reduced outsourcing of core work in administration, accounting/finance, data/research, ICT/digital and program/project management",
+    "10-year digital investment and sustainment roadmap plus 4-year security, technology and asset refresh, governed by a PMO with reporting to Finance and the DTA",
+    "Cost-recovery and charging pressure under the Australian Government Charging Framework (enterprise risk 5; consolidated levies measure SG-02)",
+    "Biosecurity 2030 Roadmap and National Biosecurity Strategy Action Plan 2024 driving intelligence-led, technology-enabled biosecurity",
+    "Climate risk: whole-of-government Climate Risk and Opportunity Management Program and annual Commonwealth climate disclosure",
+    "Geopolitical/trade volatility (new US tariffs, shifting global trade policy) affecting export market access",
+    "Emerging biosecurity threats (e.g. H5 highly pathogenic avian influenza) increasing emergency-management demands",
+    "Workforce attrition, ageing workforce and competitive labour market driving Workforce and Recruitment Strategies 2024-27"
+  ],
+  "challenges_and_risks": [
+    "Nine enterprise risks named, including digital service-delivery capability, financial resources, regulatory obligations/outcomes, workforce capability, and security/critical infrastructure (cyber)",
+    "ICT technical debt and risk of system failures, explicitly driving the asset/security refresh",
+    "Cost-recovery sustainability and transparency, with industry distrust externally evident",
+    "Reliance on co-design and external delivery partners (states, RDCs, universities, NGOs) creating program-timing and expenditure risk for FDF and Climate-Smart programs",
+    "Weak/maturing performance measures: several measures newly introduced, qualitative, or flagged as 'to be reviewed', and a stated intent to develop outcome-oriented measures",
+    "Constraint on outsourcing core work under the Strategic Commissioning Framework, narrowing the kinds of engagements the firm can win",
+    "Leadership transition (Secretary departure reported externally) creating strategic-direction uncertainty",
+    "Cyber, data and personnel security risks under the Protective Security Policy Framework"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "DAFF's proposed importer-/producer-funded biosecurity (protection) levy became a significant sectoral controversy, with industry funding arrangements under active scrutiny by an agriculture panel.",
+      "implication": "Biosecurity funding redesign, cost-recovery modelling and contested stakeholder engagement is a live workstream — advisory opportunity, though politically sensitive.",
+      "source": "North Queensland Register (Jun 2024) — https://www.northqueenslandregister.com.au/story/8673780/agriculture-panel-explores-funding-amid-biosecurity-levy-controversy/"
+    },
+    {
+      "summary": "The Australian Meat Industry Council (AMIC) publicly called for an independent audit of DAFF's expenses, signalling industry distrust of the department's cost-recovery/charging.",
+      "implication": "Cost-recovery transparency and charging methodology is a pressure point — scope for independent financial review and stakeholder-confidence work.",
+      "source": "Beef Central — https://www.beefcentral.com/news/amic-calls-for-independent-audit-of-daff-expenses/"
+    },
+    {
+      "summary": "Reporting indicates DAFF Secretary Adam Fennessy departed the role, with a substantial (~$900k) payout reported.",
+      "implication": "Leadership turnover at the top creates strategic-direction uncertainty and potential re-prioritisation that the firm should track for engagement timing.",
+      "source": "Farmonline (Oct 2025) — https://www.farmonline.com.au/story/9083798/adam-fennessys-900k-golden-handshake-revealed/"
+    },
+    {
+      "summary": "DAFF was reported as not having been consulted by Treasury before the Federal Budget's agriculture changes, indicating a coordination/policy-ownership tension.",
+      "implication": "Policy fragmentation between Treasury and the portfolio creates gaps where impact-analysis and implementation-readiness advice is valuable.",
+      "source": "Sheep Central — https://www.sheepcentral.com/daff-not-consulted-by-treasury-on-federal-budgets-ag-changes/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Cost recovery in the Department of Agriculture, Fisheries and Forestry' (2024) examined DAFF's cost-recovery arrangements (specific findings not verified in research).",
+      "implication": "Directly reinforces industry distrust of charging; likely recommendations on charging transparency and financial management — strong demand signal for financial-sustainability review and assurance.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/cost-recovery-the-department-of-agriculture-fisheries-and-forestry-2024"
+    },
+    {
+      "summary": "ANAO performance audit on DAFF's cultural reform program (specific findings not verified in research).",
+      "implication": "Signals governance/culture remediation; opportunity in change management, governance uplift and workforce reform.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/department-agriculture-fisheries-and-forestrys-cultural-reform"
+    },
+    {
+      "summary": "ANAO performance audit on compliance with domestic and international travel requirements in DAFF (specific findings not verified in research).",
+      "implication": "Points to internal-controls/probity scrutiny; scope for compliance and assurance support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/compliance-domestic-and-international-travel-requirements-the-department-of-agriculture-fisheries"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Delivery and assurance of flagship trade/biosecurity systems",
+      "agency_need": "Two named flagship programs (Simplified Targeting and Enhanced Processing System; Digital Services to Take Farmers to Markets) plus a 4-year ICT refresh must modernise import/export systems and reduce technical debt.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design, systems development/integration and implementation support for the export/biosecurity platforms, scaled to each program; coupled with business and process analysis to streamline regulatory workflows.",
+      "rationale": "The plan explicitly names both programs, a 10-year digital roadmap and a dedicated PMO reporting to Finance and the DTA — clear, funded, time-bound demand. Enterprise risk 7 (digital service-delivery capability) reinforces this. The firm can build, not just advise.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of major digital/ICT program delivery",
+      "agency_need": "Large, multi-year digital programs governed by a PMO and project board carry delivery and benefits-realisation risk.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent gateway-style delivery assurance and program health checks at key stages, plus a benefits-management framework, for the flagship system programs and the asset/security refresh.",
+      "rationale": "Robust governance is explicitly cited as critical to the refresh program; enterprise risk 7 and the scale of the digital roadmap make independent assurance credible. Pairs with the Digital & ICT delivery opportunity.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cost-recovery and financial-sustainability review",
+      "agency_need": "Cost-recovery arrangements are under industry and ANAO scrutiny; an enterprise approach to financial management and budget-maturity uplift is a TAP priority 'in progress'.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "Activity-based costing model refresh and a financial-sustainability/charging review across export, biosecurity and levies cost-recovery, aligned to the Charging Framework, with transparent methodology to rebuild stakeholder confidence.",
+      "rationale": "Enterprise risk 5 and SG-02 (levies cost recovery, target under review in 2026-27) speak directly to this; an ANAO cost-recovery audit (2024) and AMIC's call for an independent audit of expenses are strong external demand signals.",
+      "confidence": "High"
+    },
+    {
+      "area": "Enterprise program evaluation framework",
+      "agency_need": "DAFF is embedding an enterprise approach to program evaluation, with MEL 'underway' for FDF and Climate-Smart Agriculture and several measures flagged as not yet outcome-oriented.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design of a PGPA-aligned enterprise evaluation framework plus targeted process/outcome evaluations of major programs (FDF, Climate-Smart Agriculture, emissions-reduction measures).",
+      "rationale": "Explicit TAP priority; the plan repeatedly notes measures will be revised toward outcomes and that MEL work is underway — clear, named demand across multiple large programs.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-measure redesign",
+      "agency_need": "DAFF consolidated key activities from 21 to 8 and reworked measures; several are newly introduced, qualitative, proxy, or 'to be reviewed/confirmed', with a stated aim for a balanced, outcome-oriented mix.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review to strengthen effectiveness/efficiency measures and develop outcome-oriented indicators, with supporting data-source assessment.",
+      "rationale": "The plan's own materiality policy, measure changes and explicit intent to develop outcome-oriented measures (e.g. RS-04, BI-05) signal a live framework-uplift need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise data analytics capability uplift",
+      "agency_need": "Strengthening data analytics is a TAP priority 'in progress' under a new enterprise data strategy, supporting intelligence-led biosecurity, trade and corporate performance.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information/data strategy support, business intelligence build, and analytics capability uplift to support intelligence-led biosecurity targeting (CBIS) and trade market intelligence.",
+      "rationale": "Named TAP priority and enterprise data strategy; intelligence-led biosecurity and CBIS (BI-04) rely on data and statistical modelling, supporting credible analytics demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Emergency-management capability development",
+      "agency_need": "DAFF is the Australian Government coordinating agency for domestic biosecurity crises and runs a 3-year Emergency Management Capability Development Program targeting maturity uplift from a 2023-24 baseline.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Support to design and run training, exercises and lessons-management under the capability development program, and facilitate the annual capability maturity assessment against the Australian Disaster Preparedness Framework.",
+      "rationale": "BI-08 sets explicit maturity-increase targets and the plan cites H5 bird flu preparedness; the program is named and time-bound. Note APS Commissioning Framework may limit some delivery.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber and protective-security uplift",
+      "agency_need": "The 4-year security, technology and asset refresh aims to reduce cybersecurity threats; enterprise risk 9 covers cyber, data and critical-infrastructure security under the PSPF.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of critical export/biosecurity systems and data as part of the refresh, aligned to the PSPF, plus cyber advisory on technical-debt remediation.",
+      "rationale": "The refresh explicitly targets cybersecurity risk reduction and enterprise risk 9 names cyber expertise as a mitigation — credible but not yet a named procurement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Governance and culture reform support",
+      "agency_need": "An ANAO audit examined DAFF's cultural reform; the TAP includes governance enhancement and operating-model updates.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Change management and organisational-development support for cultural reform, plus workforce planning aligned to the Workforce and Recruitment Strategies 2024-27.",
+      "rationale": "ANAO cultural-reform audit and TAP workforce/culture actions ('in progress') signal demand; however the Strategic Commissioning Framework and in-house preference temper the opportunity.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Data and Digital Committee / CIO area and the PMO governing the digital roadmap with a tailored capability statement on systems delivery plus independent delivery assurance for the two flagship programs and the asset/security refresh.",
+      "priority": "High",
+      "rationale": "These are named, funded, multi-year programs with explicit governance and DTA/Finance reporting — the largest and most time-bound opportunities, and the firm can both build and assure."
+    },
+    {
+      "action": "Prepare a short thought piece on transparent, defensible cost-recovery/charging and offer a financial-sustainability/ABC review to the CFO and Finance and Performance Committee.",
+      "priority": "High",
+      "rationale": "The 2024 ANAO cost-recovery audit, AMIC's call for an independent audit, and SG-02's 2026-27 review window converge into a clear near-term need to rebuild stakeholder confidence."
+    },
+    {
+      "action": "Pitch an enterprise evaluation framework plus a flagship evaluation (FDF or Climate-Smart Agriculture) to the strategic-policy/evaluation function leading the TAP evaluation action.",
+      "priority": "High",
+      "rationale": "Embedding enterprise evaluation is an explicit 2025-26 TAP priority with MEL work already underway on named, large programs — a well-defined entry point."
+    },
+    {
+      "action": "Track the ANAO portfolio audit pipeline, the biosecurity levy legislation's status, and Senate Estimates (Rural & Regional Affairs and Transport) for emerging assurance and review triggers.",
+      "priority": "Medium",
+      "rationale": "External pressure (levy controversy, cost-recovery, culture, travel-compliance audits) often crystallises into procurements; monitoring lets the firm time approaches."
+    },
+    {
+      "action": "Monitor the Secretary transition and any resulting re-prioritisation before committing senior relationship effort.",
+      "priority": "Medium",
+      "rationale": "Leadership turnover can reset priorities; aligning pitches to the incoming leadership's agenda improves conversion."
+    },
+    {
+      "action": "Offer a PGPA-aligned performance-measure health check to the Finance and Performance Committee / enterprise performance team.",
+      "priority": "Medium",
+      "rationale": "The major measure consolidation and several provisional/qualitative measures signal a low-cost, high-credibility entry engagement."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Information Officer / Data and Digital Committee and the digital roadmap PMO",
+    "Chief Financial Officer and the Finance and Performance Committee (cost recovery, financial-management reform)",
+    "Chief Risk Officer and the Audit and Risk Committee (assurance, enterprise risk)",
+    "Strategic policy / enterprise performance and evaluation function leading the TAP evaluation and performance actions",
+    "Biosecurity group leadership and the Emergency Management Capability Development Program owners",
+    "Trade and International Division (export systems, market access, eCert)",
+    "People and Culture Committee (workforce strategy, cultural reform)"
+  ],
+  "talking_points": [
+    "You have two named flagship system programs and a 4-year ICT refresh under a 10-year roadmap — we can both build the systems and provide independent, gateway-style delivery assurance to de-risk them.",
+    "With an ANAO cost-recovery audit and industry calling for an independent review of expenses, a transparent activity-based costing and financial-sustainability review can rebuild stakeholder confidence ahead of your 2026-27 levies-cost review.",
+    "Embedding enterprise evaluation is a 2025-26 priority — we can design a PGPA-aligned framework and evaluate flagship programs like the Future Drought Fund and Climate-Smart Agriculture.",
+    "Several of your measures are new, qualitative or 'to be reviewed' — a focused performance-measure redesign can move you toward the balanced, outcome-oriented mix your plan commits to.",
+    "Intelligence-led biosecurity and CBIS depend on data — we can accelerate your enterprise data strategy with BI and analytics capability uplift.",
+    "We understand the Strategic Commissioning Framework limits core-work outsourcing, so our offers are specialised, time-bound advisory, assurance and build engagements that lift in-house capability rather than replace it."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is detailed and rich in signals, giving high confidence on the digital, cost-recovery and evaluation opportunities. External research was constrained by a search-tool limit: ANAO items are confirmed audit titles only (specific findings/recommendations not verified), and no parliamentary items were confirmed — both warrant a deeper pass. The APS Strategic Commissioning Framework explicitly targets reduced outsourcing in ICT, finance, data/research and program management, which is a material constraint on several mapped opportunities; offers should be positioned as specialised, capability-building and time-bound. Secretary turnover (per external reporting) adds near-term strategic-direction uncertainty."
+}
