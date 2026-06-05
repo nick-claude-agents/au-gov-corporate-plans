@@ -1,0 +1,179 @@
+{
+  "agency_name": "National Blood Authority (NBA)",
+  "portfolio": "Health",
+  "plan_period": "2025-26 to 2028-29",
+  "executive_summary": "The NBA is a small (75 staff, ~$15m departmental) statutory agency that coordinates Australia's national blood arrangements and manages ~$2.2b in administered product supply contracts on behalf of all governments. Its archetype is a specialised regulator/coordinator: expertise-heavy, contract- and data-intensive, with limited large-scale delivery but several time-bound, high-value reform points over the plan period. The strongest latent demand sits in ICT/data modernisation (the blood sector systems are explicitly at or near end-of-life), a wave of major procurements (NaFAA expiry Dec 2026, a new Lifeblood Deed, commercial supplier contracts), and a live Commonwealth-initiated Review of the National Blood Arrangements that will drive governance and implementation change. Leadership transition (a new Chief Executive after nine years) and a refreshed ICT and Data Strategy create natural entry points. BD should right-size offerings to a small-budget agency while recognising the redevelopment of blood sector systems could sustain multi-year digital delivery if government funding is secured.",
+  "strategic_priorities": [
+    {
+      "title": "Modernise end-of-life blood sector ICT systems",
+      "description": "The NBA states its blood sector ICT systems (e.g. BloodNet, ABDR, authorisations) are at or near end-of-life with complex architecture. It will implement a refreshed ICT Strategy, complete the cloud transition, and commence development of the next generation of blood sector systems while sustaining existing ones.",
+      "source_quote": "The blood sector information and communications technology (ICT) systems that the NBA operates are at or near end-of-life. Their structure is complex, which increases the time and cost to improve them."
+    },
+    {
+      "title": "Major contract renewals and procurements",
+      "description": "Several critical national agreements expire or are being renegotiated: the NaFAA with CSL Behring (expires 31 Dec 2026), a new Lifeblood Deed of Agreement (current Deed ends 30 June 2028, development commencing), revised Red Cell Diagnostic Products arrangements, plus ongoing modernised commercial supplier contracts.",
+      "source_quote": "Planning is also underway to prepare for the expiry of the NaFAA on 31 December 2026... Commence development of new Deed of Agreement with Lifeblood."
+    },
+    {
+      "title": "Data strategy and demand/inventory analytics uplift",
+      "description": "The NBA will finalise the NBA Data Strategy 2025-28, run a Data Improvement Program, develop data management/analysis/visualisation solutions, pursue hospital-level data access and supplier data sharing, and improve demand forecasting and inventory management.",
+      "source_quote": "Finalise the NBA Data Strategy 2025-28 to identify potential improvements for data capture, standards and governance frameworks."
+    },
+    {
+      "title": "Respond to the Commonwealth Review of National Blood Arrangements",
+      "description": "The NBA will continue contributing to a Commonwealth-initiated review of the national blood arrangements through 2025-26 and prepare to implement its outcomes to keep the arrangements modern and fit for purpose.",
+      "source_quote": "Support a Commonwealth initiated review of the national blood arrangements to ensure they are modern and fit for purpose."
+    },
+    {
+      "title": "Strengthen supply contingency and risk management",
+      "description": "The NBA is reviewing and updating the National Blood Supply Contingency Plan, planning sector-wide exercises and simulations, and reviewing national blood sector risk management arrangements.",
+      "source_quote": "Review and update the National Blood Supply Contingency Plan (NBSCP), including simulation exercises."
+    },
+    {
+      "title": "Workforce capability and corporate modernisation",
+      "description": "Having converted contractor roles to APS roles, the NBA will strengthen leadership, contract management, procurement, digital and data capabilities, modernise corporate digital/business systems, and update records management.",
+      "source_quote": "continuing to invest in strengthening our capabilities, including our leadership, contract management and procurement, digital and data capabilities."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Commonwealth-initiated Review of the National Blood Arrangements running through 2025-26 with outcomes to be implemented in later years",
+    "Expiry of the National Fractionation Agreement for Australia (NaFAA) on 31 December 2026 requiring renegotiation of a critical plasma manufacturing arrangement",
+    "New Lifeblood Deed of Agreement to be developed (current Deed ends 30 June 2028)",
+    "Blood sector ICT systems at or near end-of-life requiring significant investment and redevelopment",
+    "Plasma Pathway (launched July 2025) and transition to Gender-Neutral Assessments changing donor eligibility and supply dynamics",
+    "Leadership transition — the Chief Executive is departing after nine years",
+    "APS Strategic Commissioning Framework driving reduction of external resources and conversion to APS roles",
+    "Rising global demand, supply pressures and immunoglobulin demand growth (8-9% per year) increasing cost and forecasting pressure"
+  ],
+  "challenges_and_risks": [
+    "End-of-life ICT systems with complex architecture; securing government funding to modernise/redevelop is itself flagged as a risk",
+    "Volatile blood inventory levels and significant variability in product usage creating demand and cost uncertainty",
+    "Tight global market for immunoglobulin and imported products affecting price and availability",
+    "Changing donor behaviour affecting donor panel size and donations",
+    "Need for better information, data and analysis to support demand forecasting and supply decisions",
+    "Complexity of managing multiple suppliers for imported products",
+    "Enterprise risks named in the plan: interruption of supply, unsustainable supply costs, loss of confidence/reputation, major system compromise/failure, insufficient resources",
+    "APS Strategic Commissioning Framework constrains use of external resources — a headwind for any consulting engagement that must be navigated carefully"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "In January 2025 the Commonwealth, on behalf of all Australian governments, engaged an independent reviewer to examine the governance frameworks and administrative processes underpinning the national blood arrangements.",
+      "implication": "A live, government-commissioned governance/administrative review signals likely structural or process change at the NBA — a near-term opening for governance redesign, implementation and change-management work, and worth tracking for the review's recommendations and resulting procurement.",
+      "source": "Department of Health, Disability and Ageing — https://www.health.gov.au/topics/blood-and-blood-products/what-were-doing-about-blood-and-blood-products"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Next-generation blood sector systems redevelopment",
+      "agency_need": "Core blood sector ICT systems (ordering, authorisations, registries) are at or near end-of-life with complex architecture; the NBA plans to design and build the next generation while sustaining existing systems and completing cloud transition.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A discovery and service-design engagement to define target architecture and a phased build roadmap, followed by systems development, integration (including LIS interfaces) and ongoing support — scaled to funding as it is secured. The firm's ability to build and implement, not just advise, is the key differentiator here.",
+      "rationale": "The plan explicitly names end-of-life systems, a refreshed ICT Strategy with timeframes to commence next-generation development, and multi-year activities to 'implement new blood sector systems'. This is the single largest, most time-bound demand signal in the plan.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data strategy, analytics and demand/inventory forecasting",
+      "agency_need": "The NBA needs better data capture, standards, governance, visualisation and forecasting to manage volatile inventory, growing Ig demand and supply planning across jurisdictions.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Support to finalise and operationalise the NBA Data Strategy 2025-28, build the Data Improvement Program, and deliver a data management/analysis/visualisation solution feeding demand forecasting and the Demand and Inventory Management Improvement Project — with business intelligence dashboards for utilisation review.",
+      "rationale": "The plan commits to finalising the Data Strategy, a Data Improvement Program, developing visualisation solutions, hospital-level data access and supplier data sharing — all explicit, funded activities across the four years.",
+      "confidence": "High"
+    },
+    {
+      "area": "Major procurement and contract renewals (NaFAA, Lifeblood Deed, suppliers)",
+      "agency_need": "A cluster of critical agreements must be renegotiated under modern Commonwealth procurement standards: NaFAA (expires Dec 2026), a new Lifeblood Deed, RCDP arrangements, and ongoing commercial supplier contracts worth ~$2.2b administered.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Procurement strategy and approach-to-market support, plus independent (non-legal) probity advisory and probity auditing for the NaFAA and Lifeblood Deed processes, and contract-management uplift for the modernised supplier agreements.",
+      "rationale": "The plan repeatedly schedules procurement and contract development/management activity each year and notes new agreements were 'modernised to meet current Commonwealth procurement standards'. High-value, sensitive negotiations are strong probity and procurement-advisory candidates.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Implementation of the National Blood Arrangements Review outcomes",
+      "agency_need": "A Commonwealth-initiated review of the national blood arrangements is live; the NBA will contribute through 2025-26 and implement outcomes, which may reshape governance and administrative processes.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Governance and operating-model advisory to translate review recommendations into implementable changes, with a secondary independent assurance role over the implementation program. Position early as a trusted, independent pair of hands for the post-review change agenda.",
+      "rationale": "Both the plan ('Support a Commonwealth initiated review... Implement outcomes') and external research (the Jan 2025 independent governance review) confirm a live review with implementation to follow — a classic post-review demand signal.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National Blood Supply Contingency Plan refresh and exercises",
+      "agency_need": "The NBSCP is being reviewed and updated post-COVID, with sector-wide simulation exercises planned and standard operating procedures to be updated.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Design and facilitation of sector-wide contingency simulation exercises, plus program support to update the NBSCP, annexes and SOPs and capture lessons into business continuity arrangements.",
+      "rationale": "The plan schedules NBSCP review, publication, SOP updates and 'run simulation exercises' across multiple years — a defined, recurring body of work suited to facilitation and program support.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Corporate ICT and records modernisation",
+      "agency_need": "The NBA is transitioning corporate systems to cloud, exploiting M365, updating records management and digitising internal workflows.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A short, right-sized engagement to deliver M365-based workflow digitisation and a modernised records management capability, including business/process analysis of internal corporate workflows.",
+      "rationale": "The plan lists cloud transition, M365 uptake, records management update and workflow digitisation as explicit corporate modernisation activities — small but concrete enabling work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber resilience uplift",
+      "agency_need": "The NBA commits to continued monitoring and enhancement of protective security and cyber resilience of ICT systems, and names 'major system compromise or failure' as an enterprise risk.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of the NBA's ICT environment and new/redeveloped blood sector systems, aligned to its cloud migration and Business Continuity Plan.",
+      "rationale": "The plan repeatedly references cyber resilience as an ongoing strategic activity and an enterprise risk; cyber assurance naturally accompanies the systems redevelopment and cloud transition.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Workforce capability uplift in contract management, procurement and data",
+      "agency_need": "Having converted contractors to APS roles, the NBA wants to strengthen leadership, contract management, procurement, digital and data capabilities to match its enduring functions.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A targeted capability uplift / training program in contract management, procurement and data skills, plus workforce planning to embed the new APS operating model. Frame carefully given the agency's stated intent to limit external resourcing.",
+      "rationale": "The plan names these capability investments explicitly, but the APS Strategic Commissioning Framework and stated intent to reduce external reliance make this a constrained, lower-confidence opportunity.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request an introductory meeting with the Chief Information Officer (CIO) and Deputy CIO on the next-generation blood sector systems and ICT Strategy roadmap, leading with discovery/service-design and build-and-implement credentials.",
+      "priority": "High",
+      "rationale": "End-of-life systems and a refreshed ICT Strategy with timeframes to commence development are the clearest, largest and most time-bound demand in the plan; early positioning before funding/procurement matters."
+    },
+    {
+      "action": "Prepare a concise capability statement on data strategy operationalisation and demand/inventory analytics, targeted at the Data & Blood Services function, referencing the NBA Data Strategy 2025-28 and Demand and Inventory Management Improvement Project.",
+      "priority": "High",
+      "rationale": "The data agenda is explicit, funded across four years and adjacent to the systems work — a credible second entry point that can pull through analytics delivery."
+    },
+    {
+      "action": "Track the Commonwealth Review of the National Blood Arrangements and signal availability for independent governance/implementation support to the Deputy Chief Executive (Commercial Blood Products & Business Services) and General Counsel/Special Adviser.",
+      "priority": "Medium",
+      "rationale": "The review is live (confirmed by external research) and the plan commits to implementing its outcomes; recommendations typically generate governance redesign and implementation procurements."
+    },
+    {
+      "action": "Offer a non-legal probity and procurement-advisory briefing ahead of the NaFAA renegotiation (expiry Dec 2026) and new Lifeblood Deed development, to the CFO/Finance and Commercial Blood Products directors.",
+      "priority": "Medium",
+      "rationale": "These are high-value, sensitive, government-funded negotiations on a tight timeline where independent probity and procurement support is commonly engaged."
+    },
+    {
+      "action": "Note the APS Strategic Commissioning Framework constraint in all approaches and frame offerings as capability-transfer and assurance rather than ongoing outsourcing.",
+      "priority": "Medium",
+      "rationale": "The plan explicitly commits to limiting external resources; positioning that respects this stance materially improves win probability for a small agency."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Information Officer (CIO) / Chief Information Security Officer and Deputy CIO — Information Technology Services",
+    "Data & Blood Services function (Senior Adviser) — for data strategy and analytics",
+    "Deputy Chief Executive, Commercial Blood Products & Business Services — procurement and contract renewals",
+    "Chief Finance Officer (Finance and Business Services) — financial/procurement and corporate modernisation",
+    "General Counsel & Special Adviser / Legal Services Senior Adviser — review implementation and probity coordination (non-legal probity offered by the firm)",
+    "Audit and Risk Committee (independent members) — assurance and risk-framework matters",
+    "Incoming Chief Executive — strategic relationship as leadership transitions"
+  ],
+  "talking_points": [
+    "Your blood sector systems are flagged as end-of-life — we can take you from discovery and service design through to building, integrating and supporting the next generation, not just advising on it.",
+    "The NBA Data Strategy 2025-28 and demand/inventory forecasting needs map directly to our data analytics and BI delivery; we can help turn the strategy into operating dashboards and forecasting tools.",
+    "With NaFAA expiring December 2026 and a new Lifeblood Deed to develop, we offer independent (non-legal) probity and procurement-strategy support for these high-value, sensitive negotiations.",
+    "As the Commonwealth review of the national blood arrangements reports, we can help translate recommendations into an implementable governance and operating-model change program with independent assurance.",
+    "We can design and facilitate the sector-wide NBSCP simulation exercises and refresh the contingency plan and SOPs you have scheduled across the plan.",
+    "We understand the APS Strategic Commissioning Framework — our offers are built around capability transfer and independent assurance, not ongoing outsourcing."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a small agency ($15m departmental, 75 staff) that explicitly intends to limit external resourcing under the APS Strategic Commissioning Framework, which constrains advisory spend even though it administers ~$2.2b. The strongest opportunities (systems redevelopment, data) depend on the NBA securing government investment funding, which the plan itself flags as a risk — so timing is uncertain. External research was incomplete: only one item (the Jan 2025 governance review) was verified, and ANAO and Parliamentary searches were not completed, so those sections are empty rather than confirmed clear. Several opportunities are inferred from scheduled activities rather than named procurements; offerings should be right-sized to a small-budget agency, with the systems build being the only opportunity capable of sustaining multi-year delivery."
+}

@@ -536,6 +536,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "national-blood-authority-nba": {
+      "name": "National Blood Authority (NBA)",
+      "portfolio": "Health",
+      "plan_url": "https://www.blood.gov.au/about-nba",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 to 2028-29",
+      "overall_confidence": "Medium"
     }
   }
 }
