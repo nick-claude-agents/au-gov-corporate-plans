@@ -624,6 +624,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "defence-and-veterans-services-commission": {
+      "name": "Defence and Veterans? Services Commission",
+      "portfolio": "Defence",
+      "plan_url": "https://www.dvsc.gov.au/",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025–29 (analysis based on the Department of Defence Corporate Plan 2025–29; DVSC has no published corporate plan of its own yet)",
+      "overall_confidence": "Low"
     }
   }
 }
