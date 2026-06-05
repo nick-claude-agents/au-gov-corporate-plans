@@ -1,0 +1,178 @@
+{
+  "agency_name": "Department of Foreign Affairs and Trade (DFAT)",
+  "portfolio": "Foreign Affairs and Trade",
+  "plan_period": "2025-26",
+  "executive_summary": "DFAT is a large, globally distributed policy and service-delivery department operating 115 posts across 86 countries in an environment it describes as more contested and unstable than ever. For 2025-26 it is pursuing workforce capability uplift under the APS Strategic Commissioning Framework (having cut its contracted workforce 17% since 2023), a continued ICT/AI modernisation agenda, regulatory maturity across sanctions and foreign arrangements, and management of a substantial overseas property estate and security/cyber footprint. It also runs an ~1,000-investment development program and high-volume consular and passport services already subject to ANAO scrutiny. The Strategic Commissioning Framework's emphasis on insourcing tempers consulting demand, so the strongest, most defensible opportunities sit in specialised assurance, costing, digital/cyber delivery and property/program areas where internal APS capacity is genuinely constrained.",
+  "strategic_priorities": [
+    {
+      "title": "Workforce capability uplift and reduced contractor reliance",
+      "description": "DFAT is implementing the APS Strategic Commissioning Framework, building internal APS capability through workforce planning, learning, streamlined recruitment and deployment, having already reduced its contracted workforce by 17% since 2023.",
+      "source_quote": "Since 2023, DFAT has reduced its contracted workforce by 17% and will continue to focus on strengthening internal APS capability and capacity through workforce management initiatives."
+    },
+    {
+      "title": "Secure, modern global ICT network and responsible AI",
+      "description": "DFAT will continue enhancing its ICT capability over four years to deliver a reliable, secure, sustainable global network, including the transparent and safe use of AI to lift productivity.",
+      "source_quote": "DFAT will continue to focus on implementing new and emerging technologies to improve our ICT capability and ensure our systems are fit for purpose and secure. This includes the transparent and safe use of AI..."
+    },
+    {
+      "title": "Regulatory best practice across sanctions and foreign arrangements",
+      "description": "DFAT is formalising regulator best-practice principles across three regulatory functions (ASNO, the Australian Sanctions Office and the Foreign Arrangements Branch), including a new 2025-26 performance measure on regulator effectiveness.",
+      "source_quote": "DFAT's sanctions and foreign arrangements functions demonstrate the principles of regulator best practice."
+    },
+    {
+      "title": "Overseas security and cyber resilience",
+      "description": "DFAT is protecting government staff, information and assets overseas through risk-focused security measures and rolling out the Overseas Resilience to Cyber Activities program to 80% of risk-selected posts, with a new target added for ICT infrastructure at posts.",
+      "source_quote": "DFAT delivers the Overseas Resilience to Cyber Activities program to 80% of posts selected through its annual risk-based planning process."
+    },
+    {
+      "title": "Overseas property estate sustainability and reinvestment",
+      "description": "DFAT manages the Commonwealth's owned overseas property estate via the Overseas Property Office and a contracted service provider, committing to a minimum 2% annual reinvestment and 90% completion of preventative maintenance.",
+      "source_quote": "Annual reinvestment in the DFAT portfolio of a minimum of 2% of the building asset value."
+    },
+    {
+      "title": "Consular and passport service performance",
+      "description": "DFAT delivers high-volume passport and consular services with tightened efficiency targets, including a new fast-track passport service, following an ANAO efficiency audit.",
+      "source_quote": "This measure was revised for 2025-26 following recommendations made in the ANAO's audit report on the efficiency of the Australian Passport Office."
+    },
+    {
+      "title": "Performance framework and APS performance statement maturity",
+      "description": "DFAT commits to 13 performance measures (one new, five amended) and to improving performance reporting by incorporating lessons from ANAO audits of its annual performance statements.",
+      "source_quote": "DFAT will continue to improve its performance reporting, including by incorporating lessons learned from the audits of our annual performance statements, carried out by the ANAO."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "APS Strategic Commissioning Framework driving insourcing and reduction of contracted workforce (down 17% since 2023)",
+    "Deteriorating geopolitical environment - authoritarianism, conflict, economic coercion and erosion of the rules-based trading system",
+    "Global reductions in development and humanitarian assistance forcing prioritisation and search for alternative delivery mechanisms",
+    "New regulator best-practice requirements (Finance RMG 128) and Statements of Expectations/Intent for sanctions, foreign arrangements and non-proliferation functions",
+    "ANAO audit of Australian Passport Office efficiency prompting revised passport performance measures and a new fast-track service",
+    "Adoption of AI and emerging technologies across a global, secure ICT network",
+    "AUKUS naval nuclear propulsion program creating new safeguards/verification obligations under the IAEA Comprehensive Safeguards Agreement",
+    "Ongoing maturation of enterprise risk reporting and performance-statement framework"
+  ],
+  "challenges_and_risks": [
+    "Named enterprise risks: delivery, people, capability and capacity, enabling services, staff health/safety/wellbeing, financial management, and trust",
+    "Workforce capability and capacity gaps amid contractor reduction and reliance on the graduate pipeline and locally engaged staff",
+    "Maintaining a secure, sustainable global ICT network and managing cyber threats across 115 dispersed posts",
+    "Sustaining an ageing overseas property estate under fixed reinvestment targets and budget constraints",
+    "Operating in high-risk, volatile overseas environments that routinely exceed normal risk tolerance",
+    "Demand volatility in passport processing (5- and 10-year renewal cycles) complicating workforce planning",
+    "Integrity and conduct risks across a dispersed workforce including contractors and locally engaged staff",
+    "Measuring intangible diplomatic 'influence' credibly within the PGPA performance framework"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Overseas Resilience to Cyber Activities program delivery",
+      "agency_need": "Roll the cyber resilience program out to 80% of risk-selected posts and stand up new ICT infrastructure at posts across a dispersed, high-threat global network.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance support for the Overseas Resilience to Cyber Activities program - post-level cyber risk assessments, control validation and remediation prioritisation aligned to DFAT's annual risk-based planning.",
+      "rationale": "The plan names a specific, targeted cyber program with a measurable 80%-of-posts target and a new ICT-infrastructure performance target, indicating funded, time-bound activity where specialised security expertise is scarce internally.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Overseas property estate maintenance and reinvestment assurance",
+      "agency_need": "Demonstrate effective maintenance, 2% reinvestment of building asset value and 90% completion of the preventative maintenance program across the owned overseas estate managed via an outsourced provider.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent assurance/health check of the Overseas Property Office's outsourced provider performance and the reinvestment and preventative-maintenance programs, validating satisfaction, reinvestment and completion targets.",
+      "rationale": "The plan sets explicit quantitative property targets reliant on a single contracted service provider, creating a clear case for independent assurance of contractor performance and asset reinvestment.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Costing and financial sustainability of the overseas property and reinvestment program",
+      "agency_need": "Justify and optimise a minimum 2% annual reinvestment against a 50-year building life and manage estate financial sustainability under budget constraints.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "Asset reinvestment and financial-sustainability review - lifecycle costing model linking reinvestment rates, depreciation and maintenance to whole-of-life estate cost projections.",
+      "rationale": "The plan ties the 2% reinvestment target directly to depreciation and asset life, signalling a costing/financial-modelling need; defensible because financial management is a named enterprise risk.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Passport Office efficiency and service-design uplift",
+      "agency_need": "Sustain tightened passport processing targets, embed the new fast-track service and respond to ANAO efficiency recommendations amid cyclical demand volatility.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Business and process analysis plus service-design review of passport processing workflows and demand-modelling, identifying efficiency and customer-experience improvements across the IT platforms and Australia Post channel.",
+      "rationale": "The plan explicitly revised passport measures following an ANAO efficiency audit and introduced a fast-track service, and references demand modelling and IT-platform data - a concrete process-improvement opportunity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Regulator performance framework for sanctions and foreign arrangements",
+      "agency_need": "Demonstrate regulator best-practice principles (Finance RMG 128) across new and amended performance measures for the Australian Sanctions Office and Foreign Arrangements Branch.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Regulator best-practice framework and performance-measure design - mapping ASO/FAB functions to the three regulator principles, building evidence-based effectiveness measures and a self-assessment/reporting approach.",
+      "rationale": "A brand-new 2025-26 regulator performance measure plus formal Statements of Intent indicate an immature, evolving regulatory performance framework where governance/measure-design help is credible.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and capability uplift under Strategic Commissioning",
+      "agency_need": "Strengthen internal APS capability and workforce planning while reducing contractor reliance and identifying critical-skill availability.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability-mapping engagement to identify critical skills gaps, deployment readiness and learning pathways supporting the Strategic Commissioning Framework transition.",
+      "rationale": "The plan explicitly commits to workforce planning, capability development and critical-skill targets - but the Strategic Commissioning Framework's insourcing intent limits appetite for external delivery, lowering confidence.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Performance statement and PGPA measure maturity",
+      "agency_need": "Improve performance reporting and strengthen alignment of measures to the PGPA Rule, incorporating ANAO audit lessons; several measures rely on subjective case-study/evaluation methods.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure review and evaluation-methodology uplift, strengthening the qualitative case-study approach and addressing ANAO audit findings on the annual performance statements.",
+      "rationale": "The plan openly references ANAO audits of its performance statements and ongoing measure revision, and uses evaluative case studies to measure 'influence' - a credible governance/evaluation need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Development program evaluation and monitoring",
+      "agency_need": "Assess effectiveness and efficiency across ~1,000 investments via the IMR/HIMR/FIMR process while prioritising amid global aid reductions.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and reporting support for the investment monitoring framework - improving the analysis and aggregation of IMR/HIMR/FIMR ratings feeding the Performance of Australian Development Cooperation Report.",
+      "rationale": "The plan describes a mature, embedded monitoring system across a large investment portfolio with established reporting; demand for external help is plausible but the system is already well-embedded, lowering confidence.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Information Officer / ICT division and overseas security function with a targeted Cybersecurity capability statement focused on post-level security assessment and assurance for the Overseas Resilience to Cyber Activities program.",
+      "priority": "High",
+      "rationale": "This is a named, funded, target-bound program (80% of posts) with a new ICT-infrastructure measure, in a domain where specialised security expertise is genuinely hard to insource."
+    },
+    {
+      "action": "Engage the Overseas Property Office and the COO/CFO area with a proposal for independent assurance of outsourced property-provider performance and the reinvestment/preventative-maintenance program.",
+      "priority": "Medium",
+      "rationale": "The plan sets explicit, externally-verifiable property targets dependent on a single contractor, making independent assurance attractive and proportionate to a large estate."
+    },
+    {
+      "action": "Offer the Australian Passport Office a short process-and-service-design diagnostic responding to the ANAO efficiency audit and the new fast-track service.",
+      "priority": "Medium",
+      "rationale": "The measure changes were ANAO-driven and a new service launched 1 July 2024 - a live efficiency agenda with tangible process and IT touchpoints."
+    },
+    {
+      "action": "Prepare a concise thought piece on PGPA-aligned regulator and influence performance measurement, and share with the Governance, Risk and Performance Branch (Executive Division) and the regulatory function heads.",
+      "priority": "Medium",
+      "rationale": "A new regulator measure, five amended measures and acknowledged ANAO performance-statement lessons signal an evolving framework where independent methodology advice is welcomed and politically low-risk."
+    },
+    {
+      "action": "Map and monitor DFAT's posture under the APS Strategic Commissioning Framework before pitching workforce or advisory work; lead with specialised assurance/costing/digital rather than generic advisory.",
+      "priority": "High",
+      "rationale": "DFAT has cut contractors 17% and is explicitly insourcing, so generic consulting will face resistance - BD effort should concentrate on niche, hard-to-insource capabilities."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Information Officer / ICT capability division (overseas network security and AI)",
+    "Overseas security function and the Overseas Resilience to Cyber Activities program owners",
+    "Overseas Property Office (OPO) and Chief Operating Officer / CFO area",
+    "Australian Passport Office (Outcome 2 service delivery leadership)",
+    "Governance, Risk and Performance Branch, Executive Division (performance framework, ANAO lessons)",
+    "Heads of the Australian Sanctions Office and Foreign Arrangements Branch (regulator performance)",
+    "Chief People Officer (workforce planning under Strategic Commissioning)",
+    "Audit and Risk Committee / Chief Risk Officer (enterprise risk and assurance)"
+  ],
+  "talking_points": [
+    "DFAT's Overseas Resilience to Cyber Activities program and new ICT-infrastructure target create a clear, post-by-post security assurance need across a dispersed, high-threat network - we can assess and assure, not just advise.",
+    "The overseas property estate runs on hard targets (2% reinvestment, 90% maintenance completion) delivered through a single outsourced provider - independent assurance protects DFAT's confidence in contractor performance.",
+    "The ANAO-driven passport measure changes and the new fast-track service open a focused process- and service-design opportunity in a high-volume, demand-volatile service.",
+    "A brand-new regulator performance measure plus acknowledged ANAO performance-statement lessons point to an evolving framework where independent, PGPA-aligned measure and evaluation design adds real value.",
+    "We understand the Strategic Commissioning Framework constraint - our pitch is deliberately narrow, targeting specialised assurance, cyber, costing and digital delivery that are genuinely hard to insource."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This analysis is based solely on the corporate plan; no external research (news, ANAO, parliamentary) was supplied, so those sections are empty despite the plan itself referencing an ANAO Passport Office efficiency audit and ANAO performance-statement audits worth verifying. The plan is high-level and signal-light on procurement intentions. Critically, DFAT's explicit adoption of the APS Strategic Commissioning Framework and its 17% contractor reduction signal a deliberate insourcing posture that materially dampens consulting demand - several opportunities are rated Low/Medium for this reason. The strongest fits are specialised, hard-to-insource areas (cyber, property assurance, costing, regulator performance design). Security clearance and access constraints will apply to overseas security and ICT work. Offerings should be right-sized and avoid generic advisory framing."
+}

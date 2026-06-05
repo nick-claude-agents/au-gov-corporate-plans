@@ -456,6 +456,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "department-of-foreign-affairs-and-trade-dfat": {
+      "name": "Department of Foreign Affairs and Trade (DFAT)",
+      "portfolio": "Foreign Affairs and Trade",
+      "plan_url": "https://www.dfat.gov.au/about-us/publications/corporate/dfat-corporate-plan",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
