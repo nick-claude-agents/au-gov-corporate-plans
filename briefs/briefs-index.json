@@ -616,6 +616,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "defence-housing-australia": {
+      "name": "Defence Housing Australia",
+      "portfolio": "Defence",
+      "plan_url": "http://www.dha.gov.au",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
