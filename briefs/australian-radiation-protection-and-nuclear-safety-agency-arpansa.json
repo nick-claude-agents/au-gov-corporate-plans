@@ -1,0 +1,165 @@
+{
+  "agency_name": "Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)",
+  "portfolio": "Health",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "ARPANSA is a small (~178 ASL), expertise-heavy Commonwealth regulator in the Health portfolio undergoing a period of unusual change driven by AUKUS, a growing nuclear footprint and digital modernisation. The dominant near-term event is the transfer of nuclear-powered submarine regulatory responsibility to the new Australian Naval Nuclear Power Safety Regulator (ANNPSR) from 1 November 2025, alongside an expanded national emergency-coordination role and a heavier ANSTO waste-facility licensing workload. The plan names several concrete, budgeted projects — replacing the ageing Cobalt-60 source and upgrading the Primary Standards Dosimetry Laboratory, the ANRDR/dose-register and customer-portal rebuilds, a laboratory information management system, a new website, and a cybersecurity-maturity uplift. The critical BD constraint is that ARPANSA explicitly states it has minimal consultant/contractor use and is committed to delivering work in-house under the APS Strategic Commissioning Framework, so opportunities are realistic only where specialist capacity or independent assurance is genuinely unavailable internally (notably digital build, cyber, costing and one-off project assurance).",
+  "strategic_priorities": [
+    {
+      "title": "Transfer of submarine regulation to ANNPSR",
+      "description": "Facilitate the orderly transfer of regulatory control of Australia's nuclear-powered submarine enterprise and capability lifecycle to the new ANNPSR from 1 November 2025, including information-sharing, defining ongoing roles/interfaces, and continuing scientific and technical support.",
+      "source_quote": "Facilitating the transfer of regulatory control of Australia's nuclear-powered submarine enterprise and capability lifecycle to the new ANNPSR."
+    },
+    {
+      "title": "Cobalt-60 source replacement and dosimetry lab upgrade",
+      "description": "Purchase, install and commission a replacement Cobalt-60 teletherapy source (funded in the 2025-26 Budget) and upgrade the Primary Standards Dosimetry Laboratory to maintain Australia's sovereign calibration capability for radiotherapy.",
+      "source_quote": "Finalising the purchase, installation and commissioning of a replacement Cobalt-60 source... critical to Australia's sovereign capability to provide dose surety."
+    },
+    {
+      "title": "Risk-informed regulatory uplift on RAD",
+      "description": "Build on the new Regulatory Administration Database (RAD) to uplift inspection processes using a risk-informed graded approach, and expand regulatory-performance KPIs under RMG 128 (now 13 measures).",
+      "source_quote": "Building upon the foundation established by the new Regulatory Administration Database (RAD), the agency will continue to uplift inspection processes using a risk-informed graded approach."
+    },
+    {
+      "title": "Radiological/nuclear emergency coordination (AUSRNEPLAN)",
+      "description": "Develop the Australian Government Radiological and Nuclear Events Plan and fulfil the expanded role as Australian Government Coordinating Agency for radiological and nuclear incidents.",
+      "source_quote": "Developing the Australian Government Radiological and Nuclear Events Plan (AUSRNEPLAN) and fulfilling our expanded role as the Australian Government Coordinating Agency."
+    },
+    {
+      "title": "Radioactive waste management and national uniformity",
+      "description": "Support licensing of three new ANSTO waste facilities (SyMo, ILWCI, NMMF), work with ARWA and state/territory regulators, and update the Radiation Protection Series to close regulatory gaps and promote national uniformity.",
+      "source_quote": "Working with broader Commonwealth Government and state and territory radiation safety regulators to ensure a robust approach to radioactive waste management, including updates to the Radiation Protection Series."
+    },
+    {
+      "title": "Workforce strategy refresh and digital modernisation",
+      "description": "Revise the Workforce Strategy and develop a Knowledge and Learning Management Plan to counter knowledge loss and skills competition, while modernising digital foundations (cloud, cybersecurity, key systems).",
+      "source_quote": "Revising the Workforce Strategy to support a dynamic and resilient workforce."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "AUKUS optimal pathway and the standing-up of ANNPSR within Defence, increasing Australia's core radiation/nuclear regulators to 10",
+    "Australian Naval Nuclear Power Safety Act 2024 and draft Australian Naval Nuclear Power Safety Regulations requiring new frameworks and harmonisation",
+    "Decommissioning of end-of-life nuclear facilities and ARWA-led low/intermediate-level waste pathways, plus three new ANSTO facilities requiring licensing",
+    "ARPANSA's new designation as sector lead/Coordinating Agency for domestic nuclear/radiological emergency response",
+    "Whole-of-government digital and AI mandates (DTA guidance, PSPF, ISM) and a structured Microsoft Copilot adoption",
+    "2025-26 Budget funding for the Cobalt-60 source replacement and capital infrastructure works across Miranda and Yallambie sites",
+    "Updates to the Radiation Protection Series following a completed national standards gap analysis",
+    "APS Strategic Commissioning Framework driving in-house delivery and tighter control of consultant/contractor use"
+  ],
+  "challenges_and_risks": [
+    "Significant resourcing and operational pressure from acting as the sole submarine nuclear safety regulator until ANNPSR is operational, plus ongoing technical support thereafter",
+    "Increased workload absorbing ANSTO waste-facility licence assessments (SyMo, ILWCI, NMMF) on top of BAU",
+    "Failure to recruit, retain and support a highly specialised scientific/regulatory/corporate workforce amid competition from a growing nuclear sector and knowledge loss through retirements",
+    "Long-term financial sustainability risk to commercial service revenue and ability to meet mandated objectives",
+    "Cyber/security event risk and pressure to maintain PSPF and ISM compliance as a small agency",
+    "Regulatory capture risk and loss of confidence in ARPANSA as regulator",
+    "Compliance overhead disproportionately burdening a small agency (Privacy Act, PSPF updates)",
+    "Ageing scientific infrastructure and end-of-life assets across both sites"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Independent assurance of the Cobalt-60 source replacement and dosimetry lab upgrade",
+      "agency_need": "A budgeted, sovereign-critical, multi-stage project (international procurement, installation, commissioning, then PSDL upgrade) running across 2025-28 with significant patient-safety and reputational stakes.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A light-touch independent delivery-assurance / gateway-style review at key milestones (procurement, install, commissioning) plus a benefits/risk tracking framework, sized to a small agency and reported monthly to the Executive Group.",
+      "rationale": "The plan names this as a funded, critical sovereign capability with monthly EG project reporting (CP Measure 10 and a new Primary Standard water calorimeter). Independent assurance fits where internal project-management depth is thin in a 178-person agency.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Digital systems build and modernisation",
+      "agency_need": "Multiple named system projects: ANRDR upgrade, redevelopment of the national radiation dose register and customer portal, a laboratory information management system across critical labs, a PRMS customer portal and API, a new website, and library/content-management software upgrades.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design followed by build/integration for the dose-register/customer-portal and LIMS, and a fit-for-purpose website rebuild with API integration to dose-management applications — delivered as discrete, panel-based work packages.",
+      "rationale": "These are explicitly named, in-flight projects in Key Activities 2 and 4 and the Digital Technology Plan. Specialist build capacity is the kind of work even an in-house-focused small agency typically sources externally.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cybersecurity maturity uplift",
+      "agency_need": "A committed defence-in-depth cyber uplift aligned to PSPF and ISM, with the plan acknowledging that without sustained investment and dedicated roles it risks degraded performance, non-compliance and increased exposure.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A PSPF/ISM-aligned security assessment and maturity uplift roadmap, plus security assurance of the new cloud platforms and the dose-register/portal systems being built.",
+      "rationale": "The plan repeatedly names cyber-maturity uplift, cloud migration and a 'security event' as a key enterprise risk; the DIAG explicitly oversees cybersecurity coordination. Strong, explicit demand signal.",
+      "confidence": "High"
+    },
+    {
+      "area": "Workforce strategy refresh and knowledge retention",
+      "agency_need": "Revise the Workforce Strategy and develop a Knowledge and Learning Management Plan to counter retirements, knowledge loss and competition for scarce nuclear/radiation skills.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce-planning and capability piece supporting the strategy refresh, with a succession/knowledge-transfer framework and a learning-management plan for critical specialist roles.",
+      "rationale": "CP Measure 14 names delivery of the revised Workforce Strategy and a Knowledge and Learning Management Plan; 'failure to recruit, retain and support a skilled workforce' is a named enterprise risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise risk maturity uplift",
+      "agency_need": "ARPANSA is maturing its risk management to align with ISO 31000:2018, the PGPA Act and the Commonwealth Risk Management Policy, and uplifting risk maturity to manage a changing risk profile.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and risk-maturity assessment against ISO 31000 and the Commonwealth Risk Management Policy, with updated architecture, registers and committee reporting support for the Audit and Risk Committee.",
+      "rationale": "The plan explicitly states the agency is 'maturing its risk management approach' and 'uplifting risk maturity'; a short advisory fits a small agency proportionately.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and cost-recovery review",
+      "agency_need": "Long-term financial sustainability is a named enterprise risk, with reliance on commercial service revenue and a licence cost-recovery model whose charge changes flow to major licence holders.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and activity-based costing refresh of commercial services and the regulatory cost-recovery model, identifying margin and pricing risks across the four-year outlook.",
+      "rationale": "The risk section names 'long-term financial sustainability' and a cost-recovery model; CP12 references licence charge changes from the cost recovery model. Costing is a strong fit for a corporate Commonwealth entity under revenue pressure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Regulatory performance framework / RMG 128",
+      "agency_need": "CP12 has been expanded to 13 quantitative and qualitative KPIs to be more outcome-focused and aligned to RMG 128, with an annual review of regulator performance.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A performance-measure design and independent review of the regulator-performance KPI set against RMG 128, ensuring measures are outcome-oriented and defensibly evidenced.",
+      "rationale": "The plan documents a recently expanded RMG 128 measure set and an annual regulatory-performance review; fit is real but general and the agency may run this internally.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Lead with Digital & ICT Delivery and Cybersecurity: request a meeting with the CIO function / Digital Information Advisory Group (DIAG) to map the named system builds (ANRDR, dose register/portal, LIMS, website, API) and PSPF/ISM cyber uplift to deliverable work packages.",
+      "priority": "High",
+      "rationale": "These are the clearest, explicitly named projects with budget and timeframe, and are the categories most likely to be externally sourced despite the in-house delivery preference."
+    },
+    {
+      "action": "Prepare a tightly scoped, small-agency capability statement on independent project/delivery assurance for the Cobalt-60 source replacement and PSDL upgrade, addressed to the Executive Group / project sponsor.",
+      "priority": "Medium",
+      "rationale": "It is a funded, sovereign-critical project with monthly EG reporting where an external assurer can add value without large cost — proportionate to a 178-person agency."
+    },
+    {
+      "action": "Watch for and qualify procurement signals around the internationally supplied Cobalt-60 source, the LIMS and dose-register rebuilds, and cyber tooling; confirm relevant Commonwealth panels and approach-to-market timing.",
+      "priority": "Medium",
+      "rationale": "The plan flags these as 2025-26 activities; early positioning on the right panel matters given the agency's tight procurement governance under the PGPA Act and CPRs."
+    },
+    {
+      "action": "Develop a short thought piece on workforce/knowledge-retention and risk-maturity uplift for small specialist regulators, tailored to ARPANSA's Workforce Strategy refresh and ISO 31000 alignment, for the COO/HR and Chief Risk functions.",
+      "priority": "Low",
+      "rationale": "Builds relationship credibility on lower-sensitivity enabling priorities, but the agency may deliver much of this in-house under the Strategic Commissioning Framework."
+    },
+    {
+      "action": "Before finalising any pursuit, re-run targeted searches on ANAO (Health portfolio/ARPANSA), Senate Community Affairs Legislation Committee Estimates and QoN, and mainstream media for 2023-2025, given the external research was truncated.",
+      "priority": "Medium",
+      "rationale": "The supplied research was partial and returned no recent named findings; confirming a genuine 'nil' avoids missing a demand signal (e.g. ANSTO safety-review oversight)."
+    }
+  ],
+  "engagement_targets": [
+    "CEO / accountable authority (Dr Gillian Hirth AO) and the Executive Group",
+    "Chief Information Officer function and the Digital Information Advisory Group (DIAG) — digital, data governance and cybersecurity",
+    "CFO / corporate function — financial sustainability and cost recovery",
+    "Regulatory Services Branch — RAD, inspections and RMG 128 performance",
+    "COO / People & HR function — Workforce Strategy and Knowledge and Learning Management Plan",
+    "Chief Risk function and the Audit and Risk Committee — risk-maturity uplift and independent assurance",
+    "Project sponsor for the Cobalt-60 / Primary Standards Dosimetry Laboratory program"
+  ],
+  "talking_points": [
+    "You have a stack of named, in-flight system builds — ANRDR, the national dose register and customer portal, a LIMS, an API and a new website — where we can take projects from discovery and design through build and integration on a Commonwealth digital panel.",
+    "Your cyber-maturity uplift is explicitly at risk without dedicated capacity; we can run a PSPF/ISM-aligned security assessment and assure the new cloud platforms and dose-register systems as they're built.",
+    "The Cobalt-60 replacement and dosimetry-lab upgrade is sovereign-critical and budgeted — a light, milestone-based independent assurance role protects the EG without adding overhead.",
+    "With long-term financial sustainability flagged as an enterprise risk, an activity-based costing refresh of your commercial services and licence cost-recovery model would sharpen the four-year outlook.",
+    "We understand the Strategic Commissioning Framework constraint — our pitch is specialist capacity and independent assurance where in-house depth is genuinely thin, not generic advisory.",
+    "On the Workforce Strategy refresh and ISO 31000 risk-maturity uplift, we can provide a proportionate, small-agency framework and knowledge-transfer plan for your critical specialist roles."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The single biggest dampener is ARPANSA's explicit commitment to in-house delivery under the APS Strategic Commissioning Framework and its statement that it has 'minimal work delivered through consultants and contractors' — this materially narrows realistic BD prospects to specialist digital build, cyber, costing and one-off independent assurance. It is a small (~178 ASL) corporate-style regulator, so all offerings must be proportionate and modestly sized. Several opportunities (workforce, risk maturity, RMG 128) are real needs but may well be delivered internally, hence Low/Medium confidence. The AUKUS/ANNPSR transition is significant but largely a government-to-government regulatory handover with limited obvious consulting entry. The external research was truncated and returned no credible recent news, ANAO findings or parliamentary matters, so those sections are empty by discipline rather than because nothing exists — a dedicated re-search is recommended before finalising."
+}

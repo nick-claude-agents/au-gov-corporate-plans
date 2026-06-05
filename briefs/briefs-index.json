@@ -344,6 +344,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-29 (budget year 2025-26)",
       "overall_confidence": "Medium"
+    },
+    "australian-radiation-protection-and-nuclear-safety-agency-arpansa": {
+      "name": "Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)",
+      "portfolio": "Health",
+      "plan_url": "https://www.arpansa.gov.au/about-us/corporate-publications/corporate-plan/corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
