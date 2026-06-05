@@ -608,6 +608,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (5-year plan to 30 June 2030)",
       "overall_confidence": "Medium"
+    },
+    "tertiary-education-quality-and-standards-agency-teqsa": {
+      "name": "Tertiary Education Quality and Standards Agency (TEQSA)",
+      "portfolio": "Education",
+      "plan_url": "https://www.teqsa.gov.au/about-us/reporting-and-accountability/corporate-plan",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }

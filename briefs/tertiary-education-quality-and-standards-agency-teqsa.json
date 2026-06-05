@@ -1,0 +1,134 @@
+{
+  "agency_name": "Tertiary Education Quality and Standards Agency (TEQSA)",
+  "portfolio": "Education",
+  "plan_period": "2025-26",
+  "executive_summary": "Important caveat up front: the document supplied is the Department of Education Corporate Plan 2025-26, NOT TEQSA's own corporate plan. TEQSA appears only as a named portfolio entity ('the independent national quality assurance and regulatory agency for the higher education system'). This brief therefore reads TEQSA's likely demand signals from the department's reform agenda that directly reshapes TEQSA's operating context, rather than from TEQSA's own stated priorities. The standout signals affecting TEQSA are: the establishment of the Australian Tertiary Education Commission (ATEC) as higher-education steward from 1 July 2025 (interim) and 1 January 2026 (permanent); a new standalone regulatory framework on provider responses to gender-based violence; a new framework to lift the quality and integrity of international education; and counter-foreign-interference work in the university sector. TEQSA is a classic expertise-heavy regulator: demand will centre on regulatory-framework design, data/intelligence capability, and assurance of regulatory effectiveness — not large delivery programs. Confidence is necessarily low because TEQSA's own plan was not analysed.",
+  "strategic_priorities": [
+    {
+      "title": "Establishment of ATEC and reshaping the higher education regulatory architecture",
+      "description": "The government is standing up the Australian Tertiary Education Commission as steward of higher education, interim from 1 July 2025 and permanently (subject to legislation) from 1 January 2026. This redraws the institutional landscape around TEQSA and creates questions about role boundaries, data sharing and operating model alignment between TEQSA, ATEC and the department.",
+      "source_quote": "establish the Australian Tertiary Education Commission (ATEC) as steward of the higher education sector in an interim capacity from 1 July 2025, and permanently (subject to the passage of legislation) from 1 January 2026"
+    },
+    {
+      "title": "New standalone regulatory framework on gender-based violence in higher education",
+      "description": "The department will establish a new standalone regulatory framework requiring higher education providers to meet best-practice standards to prevent and respond to gender-based violence. As the higher-education regulator, TEQSA is the likely administrator of new provider obligations, requiring new regulatory processes, guidance and monitoring.",
+      "source_quote": "ensure higher education providers are meeting best practice standards and requirements to effectively prevent and respond to gender-based violence ... through establishing a new standalone regulatory framework, subject to the passage of legislation"
+    },
+    {
+      "title": "Integrity and sustainability of international education",
+      "description": "A new framework will improve the quality and integrity of international education, with continued work to strengthen and make the sector more sustainable. This places fresh regulatory and intelligence demands on TEQSA in relation to provider integrity and student outcomes.",
+      "source_quote": "There will also be a new framework to improve the quality and integrity of international education"
+    },
+    {
+      "title": "Countering foreign interference in the university sector",
+      "description": "The department will work with the sector to implement the Guidelines to counter foreign interference in the Australian university sector — an area where TEQSA's regulatory and assurance posture intersects with security expectations.",
+      "source_quote": "Strengthen the integrity of Australia's education and research efforts by working with the sector to implement the Guidelines to counter foreign interference in the Australian university sector"
+    },
+    {
+      "title": "Closer integration of higher education and VET",
+      "description": "The government intends to bring higher education and vocational training closer together, which over the plan period will affect qualification recognition, provider regulation and TEQSA's regulatory perimeter.",
+      "source_quote": "help bring higher education and vocational training closer together"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Australian Universities Accord implementation reshaping higher education funding, equity and quality settings",
+    "Establishment of ATEC as a new steward body, altering institutional roles around TEQSA",
+    "New standalone gender-based violence regulatory framework for higher education providers (subject to legislation)",
+    "New international education quality and integrity framework, plus sustainability pressures on the sector",
+    "Guidelines to counter foreign interference in the university sector",
+    "Tertiary harmonisation — bringing higher education and VET closer together",
+    "Regulator Performance principles (RMG 128) and a published Statement of Expectations / Regulatory Statement of Intent governing how regulation is delivered",
+    "Rapid evolution of AI affecting academic integrity and the regulated population"
+  ],
+  "challenges_and_risks": [
+    "Document mismatch: TEQSA's own enterprise risks and capability gaps are not visible in this department plan, limiting confidence",
+    "Regulatory boundary and operating-model ambiguity as ATEC stands up alongside TEQSA",
+    "Standing up new regulatory functions (gender-based violence, international integrity) without clear lead time before legislation passes",
+    "Data and intelligence demands of risk-based regulation across a large, diverse provider population",
+    "Maintaining regulatory effectiveness and public trust under RMG 128 best-practice principles",
+    "International education sustainability pressures increasing provider-integrity caseload"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Operating-model alignment for the TEQSA–ATEC regulatory landscape",
+      "agency_need": "The creation of ATEC as higher-education steward changes role boundaries, decision rights and data flows around TEQSA; the regulator will need clarity on its target operating model and governance interfaces.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model and governance-interface review defining TEQSA's role, decision rights and information-sharing arrangements relative to ATEC and the department, with an implementation roadmap.",
+      "rationale": "The plan explicitly establishes ATEC from 1 July 2025 (interim) and 1 January 2026 (permanent) as steward of higher education, which inevitably reshapes TEQSA's operating context. Fit is inferred, not stated in a TEQSA plan.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Design and stand-up of the new gender-based violence regulatory framework",
+      "agency_need": "A new standalone regulatory framework will require new provider obligations, monitoring processes, guidance and compliance approaches that the higher-education regulator would administer.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Regulatory-framework design support: obligation mapping, a risk-based monitoring and compliance approach, provider guidance, and a regulatory operating process aligned to RMG 128 best-practice principles.",
+      "rationale": "The plan commits to 'establishing a new standalone regulatory framework' for provider responses to gender-based violence; as the higher-education regulator TEQSA is the probable administrator. Fit is inferred from the department's plan.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Data and intelligence capability for risk-based regulation",
+      "agency_need": "Risk-based, data-driven regulation across international education integrity, foreign interference and provider quality requires stronger analytics and intelligence capability.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/intelligence strategy and analytics uplift: data-source mapping across providers, risk-indicator models for provider integrity, and business-intelligence tooling to support risk-based regulatory triage.",
+      "rationale": "The plan repeatedly invokes 'risk based and data driven' regulation (RMG 128) and an international education integrity framework — patterns that map to regulator data/intelligence needs. Inferred, as TEQSA's own data plans were not supplied.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Assurance of regulatory effectiveness and performance measures",
+      "agency_need": "Regulators must demonstrate effectiveness and continuous improvement against RMG 128, and develop credible performance measures for new functions.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent regulator-performance review / health check against the three RMG 128 best-practice principles, plus support to design PGPA-aligned performance measures for new regulatory functions.",
+      "rationale": "The department plan stresses RMG 128 best-practice principles, independent assurance and verification of performance measures — a recognised demand area for regulators. Confidence limited by document mismatch.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Evaluation of new international education integrity measures",
+      "agency_need": "New frameworks for international education quality and integrity will need credible evaluation of whether they are working and for whom.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An evaluation plan and process/outcome evaluation of new international-education integrity measures, aligned to the department's Evaluation Strategy 2025-2027 approach.",
+      "rationale": "The plan flags a new international education integrity framework and a strong evaluation focus. Whether this sits with TEQSA or the department is unclear from the document.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Obtain and analyse TEQSA's own Corporate Plan 2025-26 and Regulatory Statement of Intent before any approach",
+      "priority": "High",
+      "rationale": "The supplied document is the Department of Education's plan, not TEQSA's. A credible BD position requires TEQSA's own stated priorities, enterprise risks and capability gaps — none of which are reliably visible here."
+    },
+    {
+      "action": "Develop a regulator-focused capability statement covering operating-model design, regulatory-framework design, regulatory data/intelligence and RMG 128 performance assurance",
+      "priority": "Medium",
+      "rationale": "These map to the clearest demand signals affecting TEQSA (ATEC stand-up, new GBV and international integrity frameworks) and to the regulator archetype, positioning the firm before legislation passes."
+    },
+    {
+      "action": "Monitor the passage of legislation establishing ATEC permanently and the standalone gender-based violence framework",
+      "priority": "Medium",
+      "rationale": "Both are 'subject to the passage of legislation' with timelines around January 2026; their passage will trigger time-bound demand for framework design, operating-model work and performance measures."
+    },
+    {
+      "action": "Engage TEQSA's strategy/regulatory operations and data functions with a short thought piece on standing up new regulatory functions under RMG 128",
+      "priority": "Low",
+      "rationale": "A targeted, low-commitment artefact opens a conversation while TEQSA-specific intelligence is gathered, avoiding overreach on an unverified need."
+    }
+  ],
+  "engagement_targets": [
+    "TEQSA Chief Executive Officer / Commission",
+    "TEQSA executive responsible for regulatory operations and quality assurance",
+    "TEQSA function leading data, intelligence and analytics",
+    "TEQSA Chief Risk Officer / governance and audit-and-risk committee",
+    "Department of Education higher education group leading ATEC establishment and the international education integrity framework"
+  ],
+  "talking_points": [
+    "We recognise ATEC's establishment reshapes the higher-education landscape around TEQSA — we help regulators clarify operating models, decision rights and data-sharing interfaces during structural change.",
+    "New standalone frameworks (gender-based violence; international education integrity) need risk-based, RMG 128-aligned regulatory processes designed and stood up quickly once legislation passes — we design these end to end.",
+    "Risk-based, data-driven regulation depends on intelligence capability; we can uplift provider risk indicators, analytics and business intelligence to sharpen regulatory triage.",
+    "Independent assurance of regulatory effectiveness and credible new performance measures help TEQSA demonstrate trust and continuous improvement under RMG 128.",
+    "We are independent and Commonwealth-focused, and can both advise on and help implement regulatory and data capability — not just write reports."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "Major caveat: the supplied document is the Department of Education Corporate Plan 2025-26, not TEQSA's own corporate plan. TEQSA is referenced only as a portfolio entity. All opportunities here are inferred from departmental reforms that affect TEQSA's operating context (ATEC, gender-based violence framework, international education integrity, foreign interference, tertiary harmonisation) and from the regulator archetype — none are drawn from TEQSA's own stated priorities, enterprise risks, capability gaps or performance measures. Confidence is therefore low across the board and every opportunity should be re-tested against TEQSA's actual corporate plan before pursuit. Separately, the external research run failed (search tool quota), so news, ANAO and parliamentary sections are empty by design rather than because nothing exists; a fresh research pass is needed."
+}
