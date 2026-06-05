@@ -568,6 +568,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "ndis-quality-and-safeguards-commission": {
+      "name": "NDIS Quality and Safeguards Commission",
+      "portfolio": "Health",
+      "plan_url": "https://www.ndiscommission.gov.au/sites/default/files/2024-09/Corporate-Plan-2024-2025.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "High"
     }
   }
 }

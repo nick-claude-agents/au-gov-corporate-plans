@@ -1,0 +1,245 @@
+{
+  "agency_name": "NDIS Quality and Safeguards Commission",
+  "portfolio": "Health, Disability and Ageing",
+  "plan_period": "2025-26",
+  "executive_summary": "The NDIS Commission is a relatively young, expertise-heavy regulator (archetype: regulator) overseeing ~263,000 providers and ~717,000 participants in a high-growth, high-scrutiny market. Its 2025-26 plan is dominated by three time-bound, multi-year change agendas: the $160.7m four-year Data and Regulatory Transformation (DART) program, a risk-based regulatory model to be fully implemented by end of 2025-26, and a significant regulatory reform package (mandatory registration for SIL/platform/support-coordination providers, Practice Standards review). The Commission is also under real pressure on culture (two independent culture/psychosocial reviews in 2024-25), capability/workforce confidence, financial sustainability, and external accountability (an ANAO performance audit of its regulatory functions tabled Sept 2025 and a Joint Standing Committee report with a government response). These combine to create credible, traceable demand across program delivery, assurance, data/ICT, workforce and governance — sized to a mid-small regulator budget rather than a large delivery agency.",
+  "strategic_priorities": [
+    {
+      "title": "Become a 'formidable' risk-based regulator",
+      "description": "Shift from reactive case handling to a proactive, intelligence-led model. The Commission will fully implement its Risk-based Regulatory Model before end of 2025-26, referring more low/moderate-risk matters to providers and concentrating effort on serious/systemic risk.",
+      "source_quote": "We anticipate fully implementing this model before the end of 2025-26."
+    },
+    {
+      "title": "Deliver the DART transformation",
+      "description": "Replace outdated systems and uplift data and intelligence capability through a four-year program funded by a $160.7m allocation in the 2024-25 Budget, starting with a registration portal, complaints process streamlining and a single view of providers.",
+      "source_quote": "DART is critical to giving us real-time data, tools and systems, as well as better ways of working."
+    },
+    {
+      "title": "Regulatory reform of provider registration",
+      "description": "Progress mandatory registration changes for supported independent living (SIL), platform providers and support coordinators, plan-manager requirements, and a review of NDIS Rules and Practice Standards to strengthen who enters and exits the market.",
+      "source_quote": "Progress changes to provider regulation to improve the quality and safety of support being delivered to NDIS participants."
+    },
+    {
+      "title": "Reduce and eliminate restrictive practices",
+      "description": "A standing regulatory priority backed by reworked performance measures (BSP quality, URP timeframes, reductions across plans), working with states and territories on authorisation.",
+      "source_quote": "The reduction and elimination of regulated restrictive practices (RRP)."
+    },
+    {
+      "title": "Rebuild internal culture and workforce capability",
+      "description": "Respond to an independent Culture Review (final report Aug 2025) and the Comcare Psychosocial Inspection (report expected late 2025) via a Culture Roadmap, Workforce Plan, capability uplift, and a Disability Action Plan.",
+      "source_quote": "rebuild a culture grounded in care, accountability and inclusion."
+    },
+    {
+      "title": "Lift engagement and accessibility",
+      "description": "Refresh website/intranet, deliver a contact centre upgrade (phase II) and publish a Markets Insights Report to be more accessible to participants, providers and the community.",
+      "source_quote": "Uplifting engagement (including all online environments)."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "First tranche of NDIS Act reforms (Getting the NDIS Back on Track No. 1 Act 2024) — new Commissioner rule-making powers over approved quality auditors and greater delegation of compliance/enforcement powers.",
+    "Machinery-of-government change (May 2025) moving the Commission into the Department of Health, Disability and Ageing, plus two new responsible ministers.",
+    "Responses to the Disability Royal Commission and the NDIS Review (both late 2023) on fraud, scheme cost and violence/abuse/neglect/exploitation.",
+    "NDIS Provider and Worker Registration Taskforce advising on a risk-proportionate regulatory model.",
+    "Care and support economy growth ($21bn projected investment increase to 2028) and a regulatory harmonisation agenda across disability, aged care, early childhood and veterans' care.",
+    "$160.7m DART funding driving a four-year systems and data modernisation program.",
+    "Financial sustainability risk — the Commission flags it may not be appropriated at a sustainable level (enterprise risk R3).",
+    "APS Strategic Commissioning Framework — conversion of labour hire to APS staff, with a <10% labour-hire target but a short-term DART-driven increase in external technical expertise."
+  ],
+  "challenges_and_risks": [
+    "Regulatory effectiveness risk (R1) — that regulatory functions fail to shape a ~263,000-provider market with ~717,000 participants.",
+    "People/culture risk (R2) — immaturity in structures, policies and WHS systems supporting an engaged workforce, compounded by two independent culture/psychosocial reviews.",
+    "Financial sustainability risk (R3) — uncertain, possibly insufficient appropriation against a growing remit.",
+    "Fragmented ICT (R4) — legacy systems creating data blind spots and cyber/legislative-breach exposure, mitigated by DART.",
+    "Enterprise reform risk (R5) — strategic projects and reform not effectively coordinated, with poor change management and stakeholder confusion.",
+    "Shared risk (R6) — dependencies on DHDA and NDIA as co-stewards where external risk owners may not adequately oversee shared responsibilities.",
+    "New/immature performance measures — measure 6.3 is only baselining in 2025-26, and several restrictive-practice measures were redefined, signalling an evolving and unproven performance framework."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The NDIS Commission was reported as 'completely broken' and 'truly dysfunctional' following weak staff census results.",
+      "implication": "Documented culture and workforce-confidence problems support demand for change management, organisational development and workforce uplift — reinforced by the two independent reviews named in the plan.",
+      "source": "The Canberra Times — https://www.canberratimes.com.au/story/7985135/truly-dysfunctional-siren-sounded-on-ndis-watchdog/"
+    },
+    {
+      "summary": "Directors of provider Integrity Care were charged in connection with a participant death, a case bearing on the Commission's provider-oversight remit.",
+      "implication": "High-profile safeguarding failures intensify scrutiny of provider regulation, supporting demand for risk, compliance and safeguarding-assurance work.",
+      "source": "National Disability Services — https://nds.org.au/component/content/article/news-flash-directors-of-integrity-care-charged-over-death?catid=8&Itemid=101"
+    },
+    {
+      "summary": "Government ministers issued releases on jail terms for NDIS fraudsters following Fraud Fusion Taskforce investigations, framed as a crackdown on NDIS fraud.",
+      "implication": "A sustained integrity/fraud-control agenda signals demand for data-analytics and fraud-detection capability across the NDIS oversight ecosystem.",
+      "source": "Department of Health, Disability and Ageing — https://www.health.gov.au/ministers/senator-the-hon-jenny-mcallister/media/jail-time-imposed-as-albanese-government-cracks-down-on-ndis-fraud"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Effectiveness of the NDIS Quality and Safeguards Commission's Regulatory Functions' (Auditor-General Report 2025-26 No. 2), which the Commission publicly welcomed in September 2025. The plan itself confirms the audit began May 2024 and was expected to table September 2025.",
+      "implication": "A fresh Auditor-General review of core regulatory effectiveness typically generates recommendations and remediation programs — a direct entry point for implementation support and independent assurance of the response.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/effectiveness-the-ndis-quality-and-safeguards-commissions-regulatory-functions-2025"
+    },
+    {
+      "summary": "ANAO performance audit on the Commission's management of restrictive practices.",
+      "implication": "Restrictive practices is a high-risk, high-scrutiny domain aligned to a standing regulatory priority — scope for compliance-systems, authorisation-process and evaluation advisory.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/ndis-quality-and-safeguards-commissions-management-of-restrictive-practices"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Joint Standing Committee on the NDIS produced a report specifically on the NDIS Quality and Safeguards Commission, with an Australian Government response published (via DSS) dated July 2025.",
+      "implication": "A parliamentary review plus a formal government response usually commits the entity to defined reform actions — discrete work packages for delivery and assurance advisers.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/National_Disability_Insurance_Scheme/QS_Commission/Report"
+    },
+    {
+      "summary": "The Joint Committee of Public Accounts and Audit established an inquiry into the administration of the NDIS, intersecting with the Commission's oversight responsibilities.",
+      "implication": "PAA-level scrutiny signals ongoing accountability pressure and potential audit-driven remediation work.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Committees/Joint/Public_Accounts_and_Audit/Inquiry_into_the_administration_of_the_National_Disability_Insurance_Scheme"
+    },
+    {
+      "summary": "The Senate Community Affairs Committee is the relevant Estimates forum where Commission funding, performance and incident-handling are tested.",
+      "implication": "Estimates is the recurring venue to track emerging pain points and time proposals to scrutiny cycles.",
+      "source": "Parliament of Australia — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "DART program delivery and assurance",
+      "agency_need": "A complex four-year, $160.7m systems and data transformation (registration portal, complaints process, single view of providers) with explicit enterprise risk (R5) that reform is not effectively coordinated.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Independent delivery assurance / gateway-style health checks of DART work packages, plus PMO and benefits-management support to the program board; an embedded delivery lead if capacity is short.",
+      "rationale": "The plan names a funded multi-year program, a dedicated program management office and R5 as the coordination/change-management risk — clean fit and time-bound demand. The ANAO regulatory-effectiveness audit raises the stakes on demonstrable delivery.",
+      "confidence": "High"
+    },
+    {
+      "area": "DART build and integration",
+      "agency_need": "Replacing 'outdated technology systems' and a 'fragmented technology suite' (R4) with purpose-built portals, analytics and case management.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for the registration portal and complaints workflow, systems development/integration, and business/process analysis to embed the risk-based prioritisation model into the new platforms.",
+      "rationale": "The plan explicitly describes new portal, analytics and case-management builds; the firm can build and implement, not just advise. R4 ties fragmentation to cyber/legislative-breach risk.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data strategy and market intelligence",
+      "agency_need": "DART aims to 'harness data and analytics' for a 'single view of providers', sharper insights and a Markets Insights Report; data governance is a named R4 mitigation.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data strategy and data-governance uplift, business intelligence/analytics for provider risk profiling and market monitoring, and support for the Markets Insights Report and fraud/integrity analytics.",
+      "rationale": "The plan commits to a data strategy, single provider view and market intelligence; the fraud-control agenda in the external research reinforces analytics demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Risk-based regulatory model implementation",
+      "agency_need": "Full implementation of the Risk-based Regulatory Model by end 2025-26, including new prioritisation criteria and referral of lower-risk matters.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Implementation and business-change support to operationalise the model — process redesign, change management for staff, and embedding the prioritisation criteria into BAU workflows.",
+      "rationale": "A named, time-bound operating-model change still being tested and iterated; R5 flags change-management risk explicitly.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of ANAO and committee response",
+      "agency_need": "An ANAO performance audit of regulatory functions (tabled Sept 2025) and a Joint Standing Committee report with a government response will generate remediation commitments.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent assurance / health check of the Commission's remediation program against ANAO and committee recommendations, with gateway reviews at milestones.",
+      "rationale": "External research confirms both the ANAO audit and the parliamentary report/response; remediation programs are strong, defined demand signals for independent assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Culture and workforce uplift",
+      "agency_need": "Two independent reviews (Culture Review Aug 2025; Comcare Psychosocial Inspection due late 2025), a People enterprise risk (R2), a Culture Roadmap, Workforce Plan and capability uplift project.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability uplift program, organisational/culture-roadmap implementation support, and design of WHS/psychosocial management practices flowing from the review recommendations.",
+      "rationale": "R2 plus two named independent reviews with recommendations create concrete people/capability demand; the 2022 media criticism reinforces a sustained culture problem.",
+      "confidence": "High"
+    },
+    {
+      "area": "Regulatory reform program — registration changes",
+      "agency_need": "Mandatory registration changes for SIL, platform and support-coordination providers, plan-manager requirements, and a Practice Standards/Rules review requiring consultation and design.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Policy design and implementation-planning support for the registration reform package, including options analysis, regulatory-burden/harmonisation assessment and consultation design.",
+      "rationale": "The plan details a named reform package and a care-and-support-economy harmonisation agenda; reform of this scope generates design and implementation work.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework maturation",
+      "agency_need": "Measure 6.3 is only baselining in 2025-26 and several restrictive-practice measures were redefined; the framework is evolving and partly unproven.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure review and redesign, plus an evaluation of the risk-based model's regulatory impact once baseline data is collected.",
+      "rationale": "The plan shows newly introduced/redefined measures and explicit baselining — a recognised signal of performance-framework and evaluation need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability review",
+      "agency_need": "Enterprise risk R3 flags uncertainty over whether the Commission is appropriated at a sustainable level, with a need to prioritise 'what we will cease to do'.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and activity-based costing review to evidence resourcing needs in budget submissions and support prioritisation decisions.",
+      "rationale": "R3 explicitly names appropriation sustainability and the need to demonstrate value/cost trade-offs; a costing/sustainability review fits directly.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber resilience of new systems",
+      "agency_need": "R4 links fragmented technology to potential cybersecurity breaches; the Commission references the ISM and ASD Essential Eight.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of DART-delivered systems and data against the Essential Eight, integrated into the build lifecycle.",
+      "rationale": "R4 names cyber breach risk and the plan cites the Essential Eight and ISM; assurance demand is real but the plan gives no named cyber program.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Contact centre and engagement upgrade",
+      "agency_need": "A named contact centre upgrade (phase II) and website/intranet refresh to improve accessibility for participants and providers.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Service design and process analysis for the contact centre upgrade and accessible web/intranet delivery, with universal-design alignment to the Disability Action Plan.",
+      "rationale": "Named activities under 'Uplifting engagement', though smaller in scale than DART; fit is good but budget likely modest.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Data and Regulatory Transformation (DART) program — program board and the Regulatory Transformation Enabling Service lead — with a delivery-assurance and PMO capability statement tied to R5.",
+      "priority": "High",
+      "rationale": "DART is the largest, funded, multi-year opportunity and the plan explicitly names a PMO and coordination risk; engaging now positions the firm before further work packages are scoped."
+    },
+    {
+      "action": "Prepare a remediation-assurance offer keyed to the ANAO regulatory-effectiveness audit (Report 2025-26 No. 2) and the Joint Standing Committee report response, and request a meeting with the Office of the Commissioner / Audit and Risk Committee.",
+      "priority": "High",
+      "rationale": "Both external accountability processes are confirmed and recent; agencies typically stand up remediation programs within months, creating a narrow, well-timed assurance window."
+    },
+    {
+      "action": "Engage the People & Culture function with a workforce/capability and culture-roadmap implementation offer, referencing the Culture Review and Comcare findings.",
+      "priority": "High",
+      "rationale": "Two named reviews with recommendations land in 2025, R2 is an enterprise risk, and there is documented media history of culture problems — strong, credible demand."
+    },
+    {
+      "action": "Develop a data-strategy and provider-risk-analytics thought piece for the Data and Insights / Data, Analytics & Information teams, linking to the Markets Insights Report and fraud-control agenda.",
+      "priority": "Medium",
+      "rationale": "Data capability is central to the risk-based model and fraud agenda; a tailored point of view differentiates from generic ICT vendors."
+    },
+    {
+      "action": "Offer a short financial-sustainability/costing review to the CFO/COO function ahead of the next budget process.",
+      "priority": "Medium",
+      "rationale": "R3 signals appropriation pressure and a need to evidence value and prioritisation — a discrete, low-political-risk advisory entry point."
+    },
+    {
+      "action": "Monitor Senate Community Affairs Estimates and the JCPAA NDIS administration inquiry for emerging pain points to time follow-up proposals.",
+      "priority": "Low",
+      "rationale": "Estimates and committee scrutiny surface specific weaknesses that can be converted into targeted offers."
+    }
+  ],
+  "engagement_targets": [
+    "DART program board / Regulatory Transformation Enabling Service lead",
+    "Office of the Commissioner and Associate Commissioner",
+    "Assistant Commissioner — People & Culture",
+    "Chief Financial Officer / Chief Operating Officer function",
+    "Data and Insights team / head of Data, Analytics & Information",
+    "Audit and Risk Committee",
+    "Regulatory Insights, Policy and Review group (for reform and performance measures)",
+    "Assistant Commissioner — Communications, Education and Engagement (engagement/contact centre uplift)"
+  ],
+  "talking_points": [
+    "DART is a $160.7m four-year build with an explicit enterprise risk that reform won't be coordinated — independent delivery assurance plus PMO support directly de-risks the program board.",
+    "The ANAO regulatory-effectiveness audit and the Joint Standing Committee report give the Commission a defined remediation agenda; independent, gateway-style assurance shows Parliament and the minister the response is on track.",
+    "Two independent reviews (Culture and Comcare psychosocial) will produce recommendations in 2025 — a workforce and culture-roadmap implementation partner turns findings into delivered change.",
+    "A single view of providers and the Markets Insights Report need a data strategy and analytics backbone — we can build the platforms and the intelligence layer, not just advise.",
+    "Several performance measures are new or only baselining in 2025-26; a PGPA-aligned measure redesign and an evaluation of the risk-based model would strengthen the next annual performance statement.",
+    "Financial-sustainability risk (R3) and prioritisation decisions can be evidenced with a costing/sustainability review to support the budget process."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is rich in named, time-bound initiatives (DART, risk-based model, reform package, culture reviews) giving strong traceability, so confidence is high for those opportunities. However, this is a mid-small regulator with a constrained departmental budget and an APS Strategic Commissioning Framework commitment to keep outsourcing low (labour-hire target <10%) — engagements must be right-sized and the firm should expect competition from in-house APS conversion. External research confirmed the ANAO audit and parliamentary report exist but specific findings/recommendations were not retrieved, so assurance opportunities are inferred from their existence rather than detailed content. Some opportunities (cyber, contact centre, financial sustainability) are credible but less prominent in the plan and marked Medium accordingly."
+}
