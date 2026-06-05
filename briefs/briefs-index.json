@@ -408,6 +408,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Low"
+    },
+    "creative-australia": {
+      "name": "Creative Australia",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://creative.gov.au/wp-content/uploads/2024/09/Corporate-Plan-2024%E2%80%9328.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-29",
+      "overall_confidence": "Medium"
     }
   }
 }

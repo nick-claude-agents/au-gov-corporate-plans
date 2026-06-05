@@ -1,0 +1,210 @@
+{
+  "agency_name": "Creative Australia",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-29",
+  "executive_summary": "Creative Australia is the Commonwealth's expanded arts investment and development agency (formerly the Australia Council), reshaped under the Revive National Cultural Policy and the Creative Australia Act 2023. It is a grant-dominated corporate entity — c.$267m of its ~$318m expense base is grants — undergoing intensive organisational transformation to stand up new functions (First Nations First, Writing Australia, Creative Workplaces, the Creative Futures Fund) while admitting workforce strain, cyber/AI risk and a need to mature governance and risk. The 2025 Venice Biennale crisis, an independent governance review with nine recommendations, an ANAO fraud-and-corruption-control audit and Senate Estimates scrutiny make governance, risk, assurance and change the sharpest near-term demand signals. As a smaller, custodial institution with modest own-source revenue, opportunities should be right-sized to advisory, framework-design, evaluation and assurance work rather than large delivery programs.",
+  "strategic_priorities": [
+    {
+      "title": "Embed First Nations self-determination (First Nations First)",
+      "description": "Finalise and begin implementing the First Nations Arts and Culture Strategic Plan 2026-30, expand First Nations peer/advisor panels, deliver the remit of the new First Nations Board and First Nations Arts unit, and develop a First Nations creative workforce strategy.",
+      "source_quote": "Review and finalise Creative Australia's First Nations Arts and Culture Strategic Plan 2026-30; Review activities and processes to deliver the remit of First Nations First."
+    },
+    {
+      "title": "Implement the Revive expanded remit",
+      "description": "Stand up and bed down new functions and an expanded investment portfolio under Revive — including Writing Australia, the Creative Futures Fund and Creative Workplaces — coherently across new and existing programs.",
+      "source_quote": "Implementation of Creative Australia's new functions and expanded remit does not achieve an optimal, coherent and efficient portfolio of investments across new and existing investment programs."
+    },
+    {
+      "title": "Sustainable creative careers and IP protection",
+      "description": "Build skills/talent pipelines, deliver the Fair, Safe and Respectful Creative Workplaces Framework and a national workplaces survey baseline, and support artists to protect creative IP amid GenAI threats.",
+      "source_quote": "The Fair, Safe and Respectful Creative Workplaces Framework is finalised and supported by web-based resources... the creative workplaces survey is completed, and delivers a comprehensive national baseline measure."
+    },
+    {
+      "title": "Grow philanthropic and private investment",
+      "description": "Maximise impact by facilitating private giving (target $11m), building fundraising capability across the sector, and combining philanthropic, commercial and public funding.",
+      "source_quote": "Private investment (Target: $11 million) directly facilitated through Creative Australia platforms and incentives."
+    },
+    {
+      "title": "Research, evaluation and influence",
+      "description": "Use research, insights and evaluation to influence whole-of-government policy, build the evidence base for the value of arts and culture, and report against new and largely qualitative performance measures.",
+      "source_quote": "Deliver research and evaluation that builds the evidence base around the value of arts and culture."
+    },
+    {
+      "title": "Technology, data and cyber capability uplift",
+      "description": "Improve cloud platforms, develop a robust cyber security framework aligned to government policy, manage cyber supply-chain and AI risk, and extend data-sharing (Data Hubs) and analytics for funded organisations.",
+      "source_quote": "A strategic focus area is developing a robust cyber security framework aligned with government policies. Key drivers include managing risk associated with cyber supply chains and emerging technologies such as AI."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Revive National Cultural Policy and the Creative Australia Act 2023 driving an expanded, modernised remit and new statutory functions",
+    "Establishment of new bodies/functions: First Nations First and First Nations Board (2024), Writing Australia, Creative Workplaces, the Creative Futures Fund",
+    "Proliferation of generative AI raising copyright, consent and remuneration concerns for artists, requiring policy and IP responses",
+    "Cost-of-living and operating-cost pressures (printing, insurance, freight, touring) eroding sector revenue streams",
+    "Workforce and skills shortages in the creative sector not replenished since the pandemic",
+    "New and largely qualitative PGPA performance measures introduced alongside the new objectives",
+    "Net zero by 2030 commitment and Environmental Action Plan obligations"
+  ],
+  "challenges_and_risks": [
+    "Risk that the Revive expanded remit fails to deliver a coherent, efficient investment portfolio across new and existing programs",
+    "Sustained strain on staff and workload during the intensive implementation period impacting service delivery",
+    "Achievement of legislated functions impacted by increasing demand (quantum and diversity) against limited resources",
+    "IT infrastructure compromised through unauthorised access to data and information assets (cyber)",
+    "Reputational risk that Creative Australia is perceived as not serving diverse stakeholders — acutely realised in the 2025 Venice Biennale crisis",
+    "Financial sustainability: thin own-source revenue (falling from ~$17m to ~$6m), grant-timing deficits, and future surpluses fully offset by office-lease cash losses",
+    "Newly introduced, largely qualitative performance measures that may be hard to evidence and report against",
+    "Fraud and corruption control adequacy across investment/funding programs (subject of an ANAO audit)"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "In February 2025 Creative Australia's board rescinded its appointment of artist Khaled Sabsabi and curator Michael Dagostino as Australia's 2026 Venice Biennale representatives days after announcing them, following media and political backlash over earlier works, triggering a major reputational crisis.",
+      "implication": "Acute, current demand for crisis management, board governance reform, risk-assessment frameworks and reputation rebuilding — a clear advisory entry point.",
+      "source": "The Conversation — https://theconversation.com/creative-australias-backflip-on-venice-biennale-representatives-exposes-deep-governance-failures-260402 ; ARTnews — https://www.artnews.com/art-news/news/khaled-sabsabi-australian-pavilion-venice-biennale-controversy-resignations-creative-australia-1234732471/"
+    },
+    {
+      "summary": "The reversal prompted resignations of senior staff (Head of Visual Arts Mikala Tai, program manager Tahmina Maskinyar), the departure of board member Lindy Lee, and the withdrawal of major donor and former Venice commissioner Simon Mordant.",
+      "implication": "Loss of internal capability and philanthropic relationships creates openings for interim resourcing, donor/stakeholder re-engagement strategy and program continuity support.",
+      "source": "The Conversation — https://theconversation.com/creative-australias-backflip-on-venice-biennale-representatives-exposes-deep-governance-failures-260402"
+    },
+    {
+      "summary": "An independent review by Blackhall & Pearl (released ~July 2025) found systemic governance failings — no formal risk-assessment process, no crisis plan, no escalation mechanism — found no political interference, and made nine recommendations including stronger governance frameworks and board training.",
+      "implication": "A documented nine-recommendation remediation list is a concrete pipeline for governance, risk-framework and board-capability implementation work.",
+      "source": "The Conversation — https://theconversation.com/creative-australias-backflip-on-venice-biennale-representatives-exposes-deep-governance-failures-260402 ; Artsy — https://www.artsy.net/article/artsy-editorial-khaled-sabsabi-reselected-represent-australia-2026-venice-biennale-controversy"
+    },
+    {
+      "summary": "On 2 July 2025 the board reinstated Sabsabi and Dagostino after the review, with Wesley Enoch as acting chair and Mordant reappointed as global ambassador; chair Robert Morgan retired in May 2025 while CEO Adrian Collette remained and apologised.",
+      "implication": "Leadership transition plus a CEO committed to rebuilding trust signals appetite for external transformation, change-management and culture support.",
+      "source": "Global Voices Advox — https://advox.globalvoices.org/2025/07/23/creative-australia-restores-representatives-for-the-2026-venice-biennale-in-a-win-for-freedom-of-expression/ ; Artsy — https://www.artsy.net/article/artsy-editorial-khaled-sabsabi-reselected-represent-australia-2026-venice-biennale-controversy"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "The ANAO has a performance audit titled 'Fraud and Corruption Control Arrangements in Creative Australia' (page dated June 2025). Existence and subject confirmed, but detailed findings/recommendations text was not retrieved and should be verified directly.",
+      "implication": "An audit of fraud/corruption controls typically generates remediation requirements (control design, integrity frameworks, assurance) — a probable source of compliance and integrity advisory work; confirm specific recommendations before pitching.",
+      "source": "Australian National Audit Office — https://www.anao.gov.au/work/performance-audit/fraud-and-corruption-control-arrangements-creative-australia"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "Creative Australia executives, including CEO Adrian Collette and chair Robert Morgan, faced Senate Estimates in late February 2025 over the Sabsabi/Venice decision, in a hearing widely reported as tense and defensive.",
+      "implication": "Sustained parliamentary scrutiny raises demand for estimates/QON preparation, briefing and parliamentary-engagement support.",
+      "source": "Crikey — https://www.crikey.com.au/2025/02/26/adrian-collette-khaled-sabsabi-creative-australia/ ; Pedestrian.TV — https://www.pedestrian.tv/news/creative-australia-senate-venice-biennale/"
+    },
+    {
+      "summary": "In August 2025 the Australian Greens publicly called for an urgent parliamentary inquiry into alleged political interference at Creative Australia. (Media-level confirmation; no specific aph.gov.au committee report or Hansard retrieved.)",
+      "implication": "A potential formal inquiry means continued reputational/political risk and ongoing need for governance and submission-support advisory services.",
+      "source": "Australian Greens — https://greens.org.au/news/media-release/urgent-inquiry-needed-political-interference-creative-australia"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Governance and board capability uplift post-Venice review",
+      "agency_need": "The plan names reputational and business-decision risk; the independent review found no formal risk process, crisis plan or escalation mechanism and made nine recommendations including governance frameworks and board training.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance framework and board/committee effectiveness uplift implementing the independent review's recommendations — decision-rights and escalation protocols, board induction/training, and a refreshed governance operating model. 8-16 week design piece with rollout support.",
+      "rationale": "Directly grounded in the plan's reputational and decision-making risks and strongly reinforced by the Blackhall & Pearl review's nine recommendations and leadership turnover. The agency has publicly committed to rebuilding trust.",
+      "confidence": "High"
+    },
+    {
+      "area": "Enterprise risk and crisis-management framework refresh",
+      "agency_need": "Plan commits to maturing risk and uses the Lighthouse risk system; the external review found the absence of formal risk-assessment and crisis processes was central to the Venice failure.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A risk-framework refresh and crisis/issues-management playbook — risk-appetite recalibration for high-profile artistic and investment decisions, escalation triggers, and a tested crisis-response plan; paired with a health-check of the Audit and Risk Committee's assurance coverage.",
+      "rationale": "The plan lists reputational, business-planning and IT risks under Audit and Risk Committee oversight; the review explicitly faulted missing risk and crisis processes, creating clear, time-bound demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Fraud and corruption control remediation",
+      "agency_need": "An ANAO performance audit on fraud and corruption control arrangements is underway; the plan references a Fraud and Corruption Control Policy and financial/governance risk in investment and funding programs.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A fraud and corruption control health-check and remediation roadmap aligned to any ANAO recommendations — control design across grant/investment programs, integrity assurance, and an implementation tracker. Secondary: Procurement, Probity & Contracts for probity over funding decisions.",
+      "rationale": "Confirmed ANAO audit subject plus the plan's named financial/governance risk in funding programs make this a credible, soon-to-be-mandated remediation need (verify the audit's specific recommendations first).",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Revive transformation delivery and change management",
+      "agency_need": "Standing up new functions (First Nations First, Writing Australia, Creative Workplaces, Creative Futures Fund) coherently; plan names risk that the expanded portfolio is not optimal/efficient and that staff are strained during implementation.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "An implementation PMO and change-management support for the Revive expanded remit — integrated delivery roadmap, benefits/portfolio coherence framework across new and existing investment programs, and change support to ease workforce strain.",
+      "rationale": "The plan explicitly identifies implementation of Revive and workforce strain as key enterprise risks, indicating real multi-year change demand; right-sized to a small embedded team given budget.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measure and evaluation framework",
+      "agency_need": "New objectives carry many newly introduced and largely qualitative measures ('qualitative assessment', 'measure/s to be determined'); plan commits to deliver research and evaluation that builds the evidence base.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign and evaluation plan — converting qualitative placeholders into robust, reportable measures with logic models for the new programs (Creative Futures Fund, First Nations plan), plus an outcome-evaluation approach. Secondary: Data, Analytics & Information for the evidence base.",
+      "rationale": "Several measures are vague or 'to be determined when plan finalised', a recognised signal of latent performance-framework demand; aligns with the agency's stated research/evaluation ambition.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security framework and AI/supply-chain risk",
+      "agency_need": "Plan names developing a robust cyber security framework aligned to government policy, managing cyber supply-chain and AI risk, and lists IT compromise as a key risk.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A cyber security framework development and security assessment aligned to the PSPF/Essential Eight — supply-chain and AI risk assessment, control gap analysis and an uplift roadmap for cloud platforms and the Data Hubs environment.",
+      "rationale": "Explicitly stated as a strategic focus area and a named enterprise risk, making it a direct, current need; scope to a focused advisory and assessment given the agency's size.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and culture review",
+      "agency_need": "Plan flags developing workforce planning as a priority, notes an organisational culture review commenced February 2025, and cites sustained staff strain during implementation.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan and organisational-design review for the post-Revive structure, plus support to complete the culture review — capability mapping (cultural competency, inclusive design), and an action plan to manage implementation strain.",
+      "rationale": "The plan names workforce planning as a priority and an in-progress culture review, with staff strain as an enterprise risk; a proportionate advisory engagement fits.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability review",
+      "agency_need": "Own-source revenue falls sharply (~$17m to ~$6m), a 2024-25 deficit from grant timing, and future surpluses are fully offset by office-lease cash losses.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review focused on the lease-driven cash losses, own-source revenue strategy and grant-timing/donations-reserve management, with options to strengthen the financial framework.",
+      "rationale": "The financial statements and footnotes reveal genuine cash-loss and revenue-decline pressures, but the plan does not flag this as a strategic priority, so demand is inferred rather than stated.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the Chief Operating Officer / corporate group and the Chief Risk Officer to discuss implementation of the independent governance review's nine recommendations and a risk/crisis-framework refresh.",
+      "priority": "High",
+      "rationale": "The Venice review, leadership change and CEO's public 'rebuild trust' commitment create a rare, time-limited window where independent governance and risk help is actively wanted.."
+    },
+    {
+      "action": "Pull the full ANAO report 'Fraud and Corruption Control Arrangements in Creative Australia' and prepare a short remediation-support proposition mapped to its recommendations for the Audit and Risk Committee secretariat.",
+      "priority": "High",
+      "rationale": "A confirmed ANAO audit typically mandates remediation; arriving with a recommendation-aligned offer ahead of competitors is decisive, but the specific findings must be verified first."
+    },
+    {
+      "action": "Develop a concise thought piece on performance-measure design for cultural agencies under PGPA, using the plan's qualitative/TBD measures as the hook, and share with the strategy/research function.",
+      "priority": "Medium",
+      "rationale": "Several new measures are placeholders, and a credible evidence-led artefact opens a low-sensitivity, enabling-function conversation."
+    },
+    {
+      "action": "Offer a cyber framework and security assessment briefing to the ICT lead, framed around government policy alignment, cyber supply-chain and AI risk.",
+      "priority": "Medium",
+      "rationale": "Cyber framework development is a named strategic focus and enterprise risk, and is a politically low-risk procurement that a smaller agency can fund."
+    },
+    {
+      "action": "Watch for any formal parliamentary inquiry into political interference and for the next Senate Estimates round; prepare estimates/governance briefing support offers if an inquiry is announced.",
+      "priority": "Low",
+      "rationale": "The Greens have called for an inquiry; a formal referral would sharply increase demand for governance and submission support."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / corporate services group (governance, risk, finance, ICT)",
+    "Chief Risk Officer and the Audit and Risk Committee secretariat",
+    "Acting Chair / Board and Company Secretary (governance review implementation)",
+    "CEO's office (transformation and trust-rebuilding agenda)",
+    "ICT / data function lead (cyber framework and Data Hubs)",
+    "Head of People and Culture (workforce planning and culture review)",
+    "First Nations First leadership (First Nations strategic plan implementation)"
+  ],
+  "talking_points": [
+    "The independent review's nine governance recommendations are a ready-made remediation roadmap — we can help design and embed the risk, escalation and crisis processes the review found missing, and uplift board capability.",
+    "With an ANAO fraud-and-corruption audit in train, an early, recommendation-aligned control health-check positions Creative Australia to respond credibly rather than reactively.",
+    "Standing up Revive's new functions coherently while staff are stretched is exactly where an embedded PMO and change support de-risks delivery without adding permanent headcount.",
+    "Several of your new performance measures are still qualitative or 'to be determined' — we can convert them into robust, reportable PGPA-aligned measures with evaluation logic for the Creative Futures Fund and First Nations plan.",
+    "Your stated cyber focus — supply-chain and AI risk plus a government-aligned framework — is a contained, fundable piece we can scope to your size.",
+    "We are an independent, Commonwealth-focused firm that can both advise and build, and our probity and assurance work is non-legal — useful for an agency rebuilding trust under public scrutiny."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a relatively high-level corporate plan from a small, grant-dominated cultural institution, so most program-level demand is modest and offerings must be right-sized to advisory, framework and assurance work rather than large delivery. The strongest, highest-confidence signals come from external research (the Venice Biennale governance crisis, independent review and ANAO audit) rather than the plan text itself, which is largely strategic and aspirational. The full ANAO findings and primary parliamentary documents were not retrieved and should be verified directly before any pitch. Financial-sustainability and some workforce opportunities are inferred from the statements and operating context rather than stated priorities, hence lower confidence."
+}
