@@ -520,6 +520,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Low"
+    },
+    "national-archives-of-australia-naa": {
+      "name": "National Archives of Australia (NAA)",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://www.naa.gov.au/about-us/who-we-are/accountability-and-reporting/our-corporate-plans/corporate-plan-2024-25-2027-28",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 to 2028-29",
+      "overall_confidence": "Medium"
     }
   }
 }

@@ -1,0 +1,209 @@
+{
+  "agency_name": "National Archives of Australia (NAA)",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-26 to 2028-29",
+  "executive_summary": "The National Archives is a medium-sized (~390 staff), non-corporate Commonwealth entity undertaking a strategy-driven transformation (Strategy 2025-2030: Evolving National Archives) centred on becoming a 'digital-first' archive. Its dominant pressures are the explosion of born-digital records, an ageing at-risk physical/AV collection requiring urgent digitisation, legacy manual workflows, cyber threat, and a tight fiscal position where the plan openly states expenses 'appear likely to exceed available appropriations'. The agency is also pursuing modernisation of the Archives Act 1983 and leads whole-of-government information management through the 'Building trust in the public record' policy. For BD purposes this is principally a Digital & ICT Delivery, Data/Information and Financial-Sustainability story, sized to a smaller cultural/data agency rather than large-scale program delivery. Note the plan is dated 2025-26 to 2028-29 despite the source URL referencing the 2024-25-2027-28 plan.",
+  "strategic_priorities": [
+    {
+      "title": "Build a digital-first, end-to-end archive",
+      "description": "Transition all aspects of work to digital, accelerate development of a digital-first archive, streamline ingestion of born-digital records, integrate legacy systems and automate manual workflows.",
+      "source_quote": "National Archives is transitioning to a digital-first approach in all aspects of our work... integrating our existing systems and creating digital workflows that increase effectiveness and efficiency."
+    },
+    {
+      "title": "Preserve and digitise at-risk collections",
+      "description": "Prioritise digitisation and preservation of records at risk of loss or deterioration (chemically unstable, obsolete physical and digital formats), with a focus on First Nations material; meet targets of 20%+ of at-risk physical items digitised and 95%+ of digital items in low-risk stable formats.",
+      "source_quote": "identify and prioritise the digitisation of records that are at risk of loss or damage, in particular records of importance to First Nations peoples"
+    },
+    {
+      "title": "Lead whole-of-government information management",
+      "description": "Drive uptake of the 'Building trust in the public record' policy and lift information management maturity across agencies via the annual Check-up survey and targeted agency engagement; redevelop Agency Engagement and Digital Archiving Service models.",
+      "source_quote": "strengthening our leadership in Australian Government information management... support the effective implementation of the Building trust in the public record policy"
+    },
+    {
+      "title": "Modernise the Archives Act 1983",
+      "description": "Pursue amendments to the Archives Act, a Revive deliverable, to reflect the digital age and resolve ambiguities; the Act currently lacks any enforcement power over agency compliance.",
+      "source_quote": "pursue amendments to the Archives Act 1983... that reflect the complexities of the digital age"
+    },
+    {
+      "title": "Improve access, search and discovery",
+      "description": "Deliver improvements in public search, external identity management, payment processing and content delivery; uplift metadata management and reparative/culturally appropriate description, including for First Nations collections.",
+      "source_quote": "deliver improvements in our public search, external identity management, payment processing and content delivery"
+    },
+    {
+      "title": "Financial sustainability",
+      "description": "Manage a structural gap where ongoing expenses are likely to exceed appropriations; pursue efficiencies, consolidate repositories, scale storage and review the state/territory service-delivery model.",
+      "source_quote": "expenses appear likely to exceed available appropriations. We continue to look for efficiencies and reduce our costs."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Strategy 2025-2030: Evolving National Archives, driving an organisation-wide transformation",
+    "'Building trust in the public record' whole-of-government information management policy",
+    "National Cultural Policy (Revive) commitments, including 'First Nations first' and Archives Act reform",
+    "Archives Act 1983 modernisation agenda (no current enforcement power over agency compliance)",
+    "Shift to digital-by-default across government producing ever-growing volumes of born-digital records",
+    "Functional and Efficiency Review (Tune Review) and Government response implementation",
+    "Tight fiscal environment with expenses likely to exceed appropriations",
+    "APS Strategic Commissioning Framework targets to reduce outsourcing of Information and Knowledge Management work",
+    "Redevelopment of Agency Engagement and Digital Archiving Service models (reflected in revised PBS targets)"
+  ],
+  "challenges_and_risks": [
+    "Digital archiving systems and practice not keeping pace with rapid technological change",
+    "Archival material lost or destroyed through obsolescence, resource limitations, neglect or hostile action",
+    "Agencies not meeting Archives Act / information management obligations (a shared risk, with no enforcement lever)",
+    "Delayed public access to the collection due to manual processes and limited resources",
+    "Failure to connect with audiences, particularly First Nations and diverse communities",
+    "Agency capability (people, processes, technology) not meeting operational requirements, especially digital-first workforce",
+    "Cyber security threat landscape evolving as threat-actor capability grows",
+    "Financial sustainability: structural gap between growing demand/costs and appropriations",
+    "Expanding storage needs (physical and digital) for a continually growing collection"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Commentary framing the National Archives as being in 'crisis', focused on funding pressure and deteriorating at-risk records and magnetic-media digitisation.",
+      "implication": "A live preservation/digitisation backlog signals demand for digitisation, data-migration and program-delivery support, within a scrutinised, constrained budget.",
+      "source": "The Conversation, 'Our history up in flames? Why the crisis at the National Archives must be urgently addressed' — https://theconversation.com/our-history-up-in-flames-why-the-crisis-at-the-national-archives-must-be-urgently-addressed-159804"
+    },
+    {
+      "summary": "Arts-sector advocacy calling for the National Archives to be protected/saved amid continuing concern over capacity and resourcing.",
+      "implication": "Ongoing external pressure on capacity suggests appetite for capability uplift; engagements should be framed around public-value outcomes given reputational sensitivity.",
+      "source": "ArtsHub, 'Why we need to save the National Archives of Australia' (22 Nov 2023) — https://www.artshub.com.au/news/opinions-analysis/why-we-need-to-save-the-national-archives-of-australia-262437-2370815/"
+    },
+    {
+      "summary": "Trade-press reporting (tied to annual reporting) that the National Archives had 'struggled to fulfil its mandate'.",
+      "implication": "Documented performance/mandate gaps underpin a value proposition around operating-model, performance and delivery improvement.",
+      "source": "The Mandarin, 'National Archives struggled to fulfil its mandate' (18 Oct 2024) — https://www.themandarin.com.au/151501-national-archives-struggled-to-fulfil-its-mandate/"
+    },
+    {
+      "summary": "The NAA was subject to a Functional and Efficiency Review (the Tune Review), with a published Australian Government response.",
+      "implication": "A formal review plus government response typically generates an implementation/reform program — a natural entry point for advisory, PMO and change-delivery work.",
+      "source": "National Archives of Australia, 'Tune Review of the National Archives of Australia' — https://www.naa.gov.au/about-us/tune-review ; Attorney-General's Department response — https://www.ag.gov.au/rights-and-protections/publications/australian-government-response-tune-review"
+    },
+    {
+      "summary": "The NAA maintains a dedicated 'Defend the Past, Protect the Future' program page addressing preservation/digitisation of at-risk records.",
+      "implication": "A named, funded program is a concrete vehicle through which digitisation/preservation services may be procured.",
+      "source": "National Archives of Australia — https://www.naa.gov.au/about-us/who-we-are/accountability-and-reporting/defend-past-protect-future-program"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Digital-first archive build and systems integration",
+      "agency_need": "Legacy processes are largely manual; the agency wants to integrate existing systems, create automated digital workflows, and streamline born-digital ingestion at scale.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A discovery-to-delivery engagement: business/process analysis of ingestion and access workflows, service design, and systems integration/automation to build the digital-first ingestion and workflow pipeline. The firm's ability to build (not just advise) is the differentiator.",
+      "rationale": "The plan explicitly names integrating systems, automating manual processes and accelerating a digital-first archive as core to Strategy 2025-2030 and a key strategic risk. The 'Defend the Past, Protect the Future' program and a digital-first mandate provide a concrete vehicle.",
+      "confidence": "High"
+    },
+    {
+      "area": "At-risk records digitisation and digital preservation",
+      "agency_need": "Large backlog of at-risk physical, film and magnetic-media records requiring digitisation, plus migration of digital items into low-risk stable formats and obsolescence management.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Scaled digitisation and format-migration delivery: automated workflows and integration to lift at-risk physical digitisation (target >=20%) and move digital items into stable formats (target >=95%), with obsolescence-management tooling.",
+      "rationale": "Performance measures S2.1-S2.3 set explicit, recurring digitisation and preservation targets; external commentary flags a digitisation/preservation 'crisis'. This is a measurable, funded need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Metadata, search and discovery uplift",
+      "agency_need": "Discoverability depends on rich metadata and effective public search; the agency plans to improve public search, external identity management, payment processing and content delivery, and to apply emerging tech to metadata at scale.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/metadata strategy and management engagement: design of a scalable metadata model, automated metadata capture/enrichment, and search-and-discovery improvement (with Digital & ICT Delivery as secondary for build).",
+      "rationale": "The plan dedicates a section to metadata management and search/discovery, and removed the prior item-description target while it considers 'new approaches and technology' — an open signal for data/information capability help.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial sustainability review",
+      "agency_need": "Expenses are likely to exceed appropriations over the long term; the agency is seeking efficiencies, repository consolidation and storage scaling under fiscal pressure.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and activity-based costing of core functions (storage, digitisation, access examination, state/territory offices) to identify efficiencies and inform funding/repository-consolidation decisions.",
+      "rationale": "The plan explicitly states expenses appear likely to exceed appropriations and names cost reduction and repository consolidation as priorities; the Tune Review context reinforces an efficiency focus.",
+      "confidence": "High"
+    },
+    {
+      "area": "Service-delivery operating model review",
+      "agency_need": "The agency commits to reviewing the model for state/territory service and program delivery and redeveloping Agency Engagement and Digital Archiving Service models.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A target operating model / functional review of the state-and-territory service-delivery footprint and the Agency Engagement and Digital Archiving Service models, with change management support (Organisation, Workforce & People secondary).",
+      "rationale": "The plan states it will review the model for service and program delivery and is actively redeveloping two service models (cited as the reason PBS targets were revised down) — a clear, named operating-model need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Transformation delivery and project management capability",
+      "agency_need": "Strategy 2025-2030 transformation requires robust project management; the plan admits a need to uplift project management capability for timely, resource-optimised delivery.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "PMO setup and delivery assurance for the Strategy 2025-2030 portfolio, plus a project-management capability uplift, with embedded delivery support where APS Strategic Commissioning constraints allow.",
+      "rationale": "The plan names project management as a capability to build and lists agency capability as a strategic risk; a strategy-wide transformation needs delivery structure. Note Strategic Commissioning Framework may favour capability transfer over long embedded resourcing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber security uplift",
+      "agency_need": "Evolving cyber threat landscape; agency commits to proactively uplift controls aligned to ACSC guidance, the ISM and PSPF.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of digital archiving systems and the collection against ISM/PSPF controls, with a prioritised uplift roadmap.",
+      "rationale": "The plan flags cyber as an operating-context challenge and embeds 'cyber secure technology' in its preservation risk control; a digital-first archive raises the stakes for securing the collection.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Tune Review / Archives Act reform implementation",
+      "agency_need": "Implementing the Functional and Efficiency Review response and preparing for Archives Act amendments will require policy, governance and implementation support.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Implementation and governance support for the Tune Review response and Archives Act modernisation readiness — governance framework, implementation roadmap and policy advisory.",
+      "rationale": "A published government response to the Tune Review and a stated Revive commitment to amend the Archives Act create a multi-year reform agenda; the Act's lack of enforcement power is a named structural risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Whole-of-government information management maturity and evaluation",
+      "agency_need": "The agency drives information management maturity across agencies via the Check-up survey and 'Building trust in the public record' policy, and analyses results to build capability.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Analytics and reporting uplift for the annual Check-up survey — improved maturity-index analytics, benchmarking dashboards and insight reporting to target agency engagement (Strategy, Policy & Governance secondary for evaluation).",
+      "rationale": "Performance measures E1.1/E1.2 rely on Check-up survey data and maturity indices; the agency commits to analysing and using results to build capability across the Commonwealth.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the executive owner of Strategy 2025-2030 / Digital Archiving Service (likely the Assistant Director-General for digital/collection and the Director-General's office) with a tailored capability statement on digital-first archive delivery, integration and at-risk digitisation.",
+      "priority": "High",
+      "rationale": "Digital-first transformation and at-risk digitisation are the clearest, target-backed, funded needs in the plan and align with the firm's build-and-implement differentiator."
+    },
+    {
+      "action": "Prepare a short financial-sustainability / costing thought piece for the CFO / Chief Operating Officer that links the 'expenses likely to exceed appropriations' admission to an activity-based costing and efficiency approach.",
+      "priority": "High",
+      "rationale": "The plan openly concedes a structural funding gap and prioritises efficiencies and repository consolidation; this is a credible, lower-political-sensitivity entry point."
+    },
+    {
+      "action": "Request a meeting on the state/territory service-delivery model review and Agency Engagement / Digital Archiving Service model redevelopment, leading with a target-operating-model offering.",
+      "priority": "Medium",
+      "rationale": "These reviews are explicitly named and were the stated reason PBS targets were revised down — indicating active, near-term work."
+    },
+    {
+      "action": "Re-run ANAO and Parliamentary research (site:anao.gov.au and site:aph.gov.au for 'National Archives of Australia', Senate Estimates, Environment and Communications committee) before any client-facing pitch.",
+      "priority": "Medium",
+      "rationale": "External research was cut short; ANAO and Parliamentary signals are likely (recordkeeping audits, Estimates on funding/preservation) and would materially strengthen the assurance and financial value propositions."
+    },
+    {
+      "action": "Develop a cyber and metadata/search position paper for the digital/ICT leadership, mindful of APS Strategic Commissioning Framework limits on outsourcing core Information and Knowledge Management work.",
+      "priority": "Low",
+      "rationale": "Both are real needs but the Commissioning Framework explicitly targets reduced outsourcing of IKM work, so offerings should emphasise capability transfer and specialised build rather than ongoing managed services."
+    }
+  ],
+  "engagement_targets": [
+    "Director-General's office (accountable authority, Simon Froude) — owner of Strategy 2025-2030",
+    "Assistant Director-General / division head responsible for Digital Archiving Service and collection management",
+    "Chief Information Officer / digital and ICT capability lead",
+    "Chief Financial Officer / Chief Operating Officer (financial sustainability, repository consolidation)",
+    "Chief Risk Officer / Risk Management Framework owner and the Advisory Council / audit and risk committee",
+    "Branch responsible for Agency Engagement and the 'Building trust in the public record' policy / Check-up survey",
+    "Aboriginal and Torres Strait Islander Engagement team (First Nations description and access work)"
+  ],
+  "talking_points": [
+    "Your plan commits to a digital-first, end-to-end archive but admits legacy processes are 'largely manual' — we build and integrate the ingestion and workflow automation, not just advise on it.",
+    "The at-risk digitisation and format-migration targets (>=20% physical, >=95% stable digital) are measurable and recurring — we can deliver scaled digitisation and migration against them.",
+    "You state expenses 'appear likely to exceed available appropriations' — an activity-based costing and financial-sustainability review can quantify efficiencies and support repository-consolidation decisions.",
+    "You're reviewing the state/territory service model and redeveloping the Agency Engagement and Digital Archiving Service models — a target operating model and change plan can de-risk that.",
+    "Metadata, search and discovery sit at the centre of your access mandate, and you've removed the old description target while you consider 'new approaches and technology' — a metadata strategy and search uplift addresses that directly.",
+    "With the Tune Review response and Archives Act modernisation underway, independent implementation and governance support can keep a multi-year reform on track under fiscal and Strategic Commissioning constraints."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The plan is clear and rich in operational detail, giving high confidence on the digital, data, costing and operating-model opportunities; however, NAA is a smaller cultural/data agency under explicit fiscal pressure, so engagements must be right-sized (short advisories and framework/build pieces, not large embedded programs). The APS Strategic Commissioning Framework explicitly targets reduced outsourcing of Information and Knowledge Management work, which may constrain some ICT/IKM offerings toward capability transfer. There is a date discrepancy: the source URL references the 2024-25-2027-28 plan but the text is the 2025-26-2028-29 plan. External research was truncated by a tool limit: news items are headline-level only (full text not verified), and the ANAO and Parliamentary categories could not be searched — both should be re-run before client use, as the empty lists reflect incomplete searching, not confirmed absence of material."
+}
