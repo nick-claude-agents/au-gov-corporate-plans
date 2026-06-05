@@ -1,0 +1,198 @@
+{
+  "agency_name": "Office of the Fair Work Ombudsman (FWO)",
+  "portfolio": "Employment and Workplace Relations",
+  "plan_period": "2025-26",
+  "executive_summary": "The FWO is a ~1,000-person workplace regulator (regulator archetype) with a 2025-26 operating budget of $179.6m, rising to $194.5m by 2028-29. Its dominant story this year is becoming a dual civil-and-criminal regulator: from 1 January 2025 intentional wage underpayment is a criminal offence and the FWO has stood up a new Criminal Investigations Branch, new operating procedures, and supporting technology and physical infrastructure. It is simultaneously building 'strategic enforcement' (data-driven prioritisation), enhancing data/analytics and predictive capability, and responding to an ANAO performance audit that found risk-management and regulatory-oversight maturity needs improvement. KPI 5 ('serious and/or systemic non-compliance is detected and addressed') remains under development with an external provider engaged, signalling an open performance-measurement and evidence-base need. The combination of a high-profile new criminal jurisdiction under parliamentary scrutiny, an ANAO-flagged risk uplift, data ambitions and a new People Strategy creates several credible, time-bound advisory opportunities — tempered by the agency's in-house-first Strategic Commissioning Framework posture.",
+  "strategic_priorities": [
+    {
+      "title": "Operationalise the new criminal wage-underpayment jurisdiction",
+      "description": "Embed the new Criminal Investigations Branch and end-to-end processes for investigating the new intentional-underpayment Offence and referring matters to the CDPP/AFP, while educating the community and administering safe-harbour mechanisms (Voluntary Small Business Wage Compliance Code and Cooperation Agreements).",
+      "source_quote": "From 1 January 2025, new criminal wage underpayment laws came into effect and the FWO has an important new responsibility to investigate and refer appropriate matters for potential prosecution... we reviewed and adjusted our organisational structure, and implemented the required physical and technology infrastructure, capabilities, processes and policies to support the FWO's new role as a dual regulator."
+    },
+    {
+      "title": "Strategic enforcement and data-driven prioritisation",
+      "description": "Implement the new Compliance and Enforcement Policy built on prioritisation, deterrence, sustainability and system-wide effect, using data analytics, predictive analytics and behavioural economics to target limited enforcement resources for maximum impact.",
+      "source_quote": "This year we developed a new Compliance and Enforcement Policy based on the principles of strategic enforcement... Strategic enforcement uses prioritisation and triage as the basis of decision-making."
+    },
+    {
+      "title": "Strengthen risk management and regulatory oversight (ANAO response)",
+      "description": "Mature the Risk Management Framework, refresh the strategic risk register, and improve governance support for a risk-based approach, explicitly in response to the ANAO audit of the FWO's regulatory functions.",
+      "source_quote": "We know we need to improve and further embed our approach to risk management, which was highlighted in the Australian National Audit Office Effectiveness of the Office of the Fair Work Ombudsman's Regulatory Functions report."
+    },
+    {
+      "title": "Develop a measure of regulatory effectiveness (KPI 5)",
+      "description": "Build a meaningful performance measure for detecting and addressing serious and/or systemic non-compliance, including enhancing the Regulatory Compliance Risk Model and scoping a survey of compliance rates across the regulated economy.",
+      "source_quote": "The FWO has engaged an external provider to deliver relevant input to the FWO's considerations towards the development of KPI 5... assessment of the FWO's Regulatory Compliance Risk Model and planning for enhancements, together with initial scoping for a survey to assess compliance rates across the regulated economy."
+    },
+    {
+      "title": "Technology consolidation, data value and cyber resilience",
+      "description": "Deliver the Technology Strategy and Data Strategy: consolidate and simplify the technology landscape, safeguard core systems against cyber threats, explore AI, and derive value from data while integrating with whole-of-government digital transformation.",
+      "source_quote": "Consolidating and simplifying our technology landscape to enhance efficiency, reduce complexity, and streamline operations through investments in system upgrades and integration."
+    },
+    {
+      "title": "Workforce capability and the new People Strategy",
+      "description": "Launch the FWO People Strategy and build regulatory/investigative capability (Certificate IV and new Diploma in Government Investigations, SES Performance Leadership Framework) to staff the dual jurisdiction and address psychosocial risk.",
+      "source_quote": "In 2025 we will launch the FWO People Strategy which will provide a structured approach to aligning our people functions with the agency's objectives."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Fair Work Legislation Amendment (Closing Loopholes) Act 2023 introducing the criminal Offence for intentional underpayment from 1 January 2025, creating a dual civil/criminal jurisdiction.",
+    "New Compliance and Enforcement Policy (effective 1 January 2025) based on strategic-enforcement principles.",
+    "Minister's Statement of Expectations (13 December 2024) and the FWO's Statement of Intent (January 2025) refreshing expectations on regulatory effectiveness and continuous improvement.",
+    "ANAO performance audit (Report No. 30 of 2024-25) flagging risk-management and regulatory-oversight maturity gaps.",
+    "Establishment of a standing tripartite Advisory Group (peak employers and ACTU) plus sector reference groups requiring co-design and stakeholder engagement.",
+    "Whole-of-government digital transformation agenda and cyber-security expectations.",
+    "APS reform, Strategic Commissioning Framework (core work kept in-house), and the SES Performance Leadership Framework.",
+    "Budget growth to $194.5m by 2028-29 subject to efficiency dividends, funding new activities and technology investment."
+  ],
+  "challenges_and_risks": [
+    "Standing up criminal-standard investigation capability, evidence handling and CDPP/AFP referral processes under intense external scrutiny over the absence of prosecutions.",
+    "ANAO-identified deficiency in strategic oversight of resourcing and impacts when monitoring annual regulatory priorities.",
+    "KPI 5 (regulatory effectiveness) remains undeveloped, leaving a gap in demonstrating impact of serious/systemic non-compliance work.",
+    "Risk of regulatory capture and the need for impartial, accountable decision-making (named strategic risk).",
+    "Data and information risk: generating, governing, protecting and deriving value from data (named strategic risk).",
+    "Technology risk: failing to create and maintain fit-for-purpose technology amid consolidation and AI exploration (named strategic risk).",
+    "Workforce capability and retention risk in a changing environment, plus psychosocial hazard management.",
+    "Strategic Commissioning Framework limits outsourcing of core regulatory work, constraining the scope of external advisory engagements to enabling/corporate functions."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Intentional wage underpayment became a criminal offence on 1 January 2025, but reporting in 2026 notes no prosecutions had yet occurred, prompting two inquiries to seek explanations from the FWO as the responsible regulator/referral body.",
+      "implication": "A live demand signal for investigation capability uplift, referral-process design, criminal-standard evidence handling and independent program assurance to operationalise the regime and withstand inquiry scrutiny.",
+      "source": "The Conversation — https://theconversation.com/no-one-has-been-prosecuted-for-wage-theft-since-it-became-a-crime-2-inquiries-want-answers-280578"
+    },
+    {
+      "summary": "The FWO issued a public statement on the CFMEU in July 2024 amid the broader union-misconduct controversy, placing its enforcement role in the construction sector under heightened attention.",
+      "implication": "Potential surge demand around enforcement strategy, intelligence and casework support in a high-profile, politically charged sector.",
+      "source": "Office of the Fair Work Ombudsman — https://www.fairwork.gov.au/newsroom/media-releases/2024-media-releases/july-2024/20240718/FWO-statement-on-CFMEU-media-release"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO Auditor-General Report No. 30 of 2024-25 found the OFWO largely effective in exercising its regulatory functions but identified a strategic-oversight gap — its understanding of resourcing and impacts when monitoring annual regulatory priorities was deficient. Three recommendations were made and all agreed.",
+      "implication": "A clear, recommendation-led work pipeline for designing/uplifting regulatory-priority monitoring, resourcing-and-impact measurement, and tracking implementation of agreed recommendations.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/effectiveness-of-the-office-of-the-fair-work-ombudsmans-regulatory-functions"
+    },
+    {
+      "summary": "An earlier ANAO audit (Report No. 14, 2012-13) found the FWO did not apply a structured risk-management approach to identifying/responding to key workplace-relations issues — a theme echoed in the 2024-25 audit's maturity gaps.",
+      "implication": "Risk-management framework maturity has been a recurring ANAO concern, suggesting durable demand for enterprise risk and assurance uplift.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/delivery-workplace-relations-services-the-office-the-fair-work-ombudsman"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "Two parliamentary inquiries are reported (2026) to be examining why no prosecutions have followed the criminalisation of intentional wage theft — directly engaging the FWO's role, capability and performance. Specific committee names/terms of reference to be confirmed on aph.gov.au.",
+      "implication": "Inquiry and Estimates exposure typically triggers demand for evidence preparation, independent program reviews and remediation/assurance support.",
+      "source": "The Conversation — https://theconversation.com/no-one-has-been-prosecuted-for-wage-theft-since-it-became-a-crime-2-inquiries-want-answers-280578"
+    },
+    {
+      "summary": "The FWO is a regular Senate Estimates witness; secondary coverage of the November 2024 Estimates round noted matters arising from FWO/workplace-relations testimony.",
+      "implication": "Estimates questions on notice are a reliable forward indicator of ministerial/parliamentary priorities and likely program reviews.",
+      "source": "The Koala News — https://thekoalanews.com/what-we-learned-from-senate-estimates/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Assurance of the new criminal investigations function",
+      "agency_need": "Operationalise a brand-new criminal jurisdiction (Criminal Investigations Branch, referral processes to CDPP/AFP) under parliamentary scrutiny over the absence of prosecutions.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "An independent, gateway-style assurance/health-check of the criminal investigations operating model — covering process maturity, evidence-handling, referral pathways and readiness — delivered as a short review with findings and recommendations, repeatable at key milestones.",
+      "rationale": "The plan confirms a newly stood-up Criminal Investigations Branch and new procedures; external research shows two inquiries probing the lack of prosecutions, making independent assurance a credible, time-bound need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Risk-management framework and regulatory-oversight uplift (ANAO response)",
+      "agency_need": "Address ANAO findings on risk-management maturity and the strategic-oversight gap in monitoring regulatory priorities (resourcing and impacts).",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and governance/oversight redesign: refresh the strategic risk register and controls, and design a structured approach to monitoring regulatory priorities with resourcing-and-impact visibility, mapped to the three agreed ANAO recommendations. Secondary: Audit & Assurance for implementation tracking.",
+      "rationale": "The plan explicitly cites the ANAO audit and commits to maturing risk management and governance support for a risk-based approach; ANAO research confirms three agreed recommendations.",
+      "confidence": "High"
+    },
+    {
+      "area": "Regulatory-effectiveness performance measure (KPI 5)",
+      "agency_need": "Develop a meaningful, statistically robust measure of detecting/addressing serious and/or systemic non-compliance, including enhancing the Regulatory Compliance Risk Model and a compliance-rate survey.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure design for KPI 5 plus a compliance-rate baseline survey methodology, with the Regulatory Compliance Risk Model enhancement. Secondary: Data, Analytics & Information for the evidence base and survey analytics.",
+      "rationale": "The plan states KPI 5 is under development and an external provider is already engaged on the Risk Model and survey scoping — a confirmed open procurement-adjacent need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data analytics and predictive intelligence capability",
+      "agency_need": "Enhance data-driven analytics, predictive analytics and a Data Strategy to identify risks, target enforcement and derive value from large datasets.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "A data analytics and business-intelligence engagement to operationalise predictive risk-detection from case-management data (CNet, Titan, Data Warehouse), plus support to implement the FWO Data Strategy and information-management uplift.",
+      "rationale": "Multiple plan activities call for data-driven analytics, predictive analytics, behavioural economics and a FWO Data Strategy; named strategic risk 5 reinforces the demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Technology consolidation and integration",
+      "agency_need": "Consolidate and simplify the technology landscape, upgrade and integrate core systems, and support the dual-jurisdiction technology requirements.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and business/process analysis for system consolidation and integration, scaled to support the Technology Strategy — including service design for customer-facing tools and integration of case-management systems.",
+      "rationale": "The plan commits to 'consolidating and simplifying our technology landscape... through investments in system upgrades and integration' and flags significant technology investment, though Strategic Commissioning may limit core build.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber-security assurance of core systems",
+      "agency_need": "Safeguard core systems against evolving cyber threats and implement government best-practice for IT systems, named as an ongoing work program and strategic risk.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance of core regulatory systems and data holdings, benchmarked against government best practice (e.g. Essential Eight), with a prioritised remediation roadmap.",
+      "rationale": "The plan repeatedly emphasises cyber security in its Technology Strategy and names technology/data as strategic risks with an 'ongoing cyber security work program'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "People Strategy and workforce capability",
+      "agency_need": "Launch and operationalise the FWO People Strategy and build regulatory/investigative capability for the dual jurisdiction, including leadership capability.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability-uplift support aligned to the People Strategy's four themes, including building investigative capability for the criminal jurisdiction and embedding the SES Performance Leadership Framework.",
+      "rationale": "The plan commits to launching the People Strategy in 2025 and building capability for new functions under Closing Loopholes, though the Strategic Commissioning Framework favours in-house delivery.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the branch owning the Criminal Investigations function and the Enforcement Board secretariat, leading with an independent assurance/health-check offer for the new criminal jurisdiction.",
+      "priority": "High",
+      "rationale": "The criminal regime is the agency's flagship change and is under active parliamentary scrutiny over the absence of prosecutions — a time-bound, high-visibility need where independent assurance is defensible and valuable."
+    },
+    {
+      "action": "Prepare a tailored capability statement on ANAO-recommendation remediation (risk framework refresh + regulatory-priority oversight) and approach the Chief Risk Officer / governance team and Audit and Risk Committee secretariat.",
+      "priority": "High",
+      "rationale": "The plan explicitly commits to acting on the ANAO audit; three agreed recommendations create a clear, near-term scope with executive sponsorship."
+    },
+    {
+      "action": "Engage the performance/strategy team on KPI 5 development and the compliance-rate survey, positioning a PGPA-aligned measure-design and Regulatory Compliance Risk Model enhancement offering.",
+      "priority": "High",
+      "rationale": "KPI 5 is openly 'under development' with an external provider already engaged — a live, recurring need likely to extend across the 2025-26 and 2026-27 plans."
+    },
+    {
+      "action": "Confirm the specific parliamentary inquiry titles and terms of reference on aph.gov.au and monitor for any technology or services procurements tied to the criminal jurisdiction and Data Strategy.",
+      "priority": "Medium",
+      "rationale": "Verifying the inquiries sharpens the assurance pitch and watching procurement signals positions the firm ahead of competitive approaches to market."
+    },
+    {
+      "action": "Develop a short thought piece on data-driven 'strategic enforcement' and predictive risk-detection for regulators, and share with the data/intelligence function.",
+      "priority": "Medium",
+      "rationale": "The plan's heavy emphasis on data-driven prioritisation and a Data Strategy makes a credibility-building thought piece an efficient door-opener for analytics work."
+    }
+  ],
+  "engagement_targets": [
+    "Branch head responsible for the Criminal Investigations Branch",
+    "Chief Risk Officer / risk and governance function and the Audit and Risk Committee secretariat",
+    "Performance and strategy team owning KPI development and the Regulatory Compliance Risk Model",
+    "Chief Information Officer / technology function (Business Investment Sub-Committee owns ICT investment prioritisation)",
+    "Chief Operating Officer / corporate enabling functions (finance, people)",
+    "Head of People / HR function owning the FWO People Strategy",
+    "Enforcement Board secretariat (strategic oversight of regulatory activities)"
+  ],
+  "talking_points": [
+    "You've stood up a criminal investigations function fast and it's now under parliamentary scrutiny over the absence of prosecutions — independent, gateway-style assurance of the operating model and referral pathways protects both performance and reputation.",
+    "The ANAO flagged a strategic-oversight gap in how you monitor regulatory priorities against resourcing and impact — we can design that monitoring approach and refresh the risk framework against the three agreed recommendations.",
+    "KPI 5 is still under development; we can bring PGPA-aligned measure design and a robust compliance-rate baseline survey to close the gap on demonstrating regulatory effectiveness.",
+    "Your strategic-enforcement model depends on data and predictive analytics — we can help operationalise predictive risk-detection from your case-management and data-warehouse holdings.",
+    "With a Technology Strategy focused on consolidation, integration and cyber resilience, we can run discovery and a security assessment to de-risk your system upgrades.",
+    "We understand your Strategic Commissioning Framework keeps core regulatory work in-house — our focus is the enabling, assurance and capability functions where independent support adds the most value."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a regulator that deliberately keeps core regulatory work in-house under the Strategic Commissioning Framework, which constrains the addressable opportunity to enabling/corporate, assurance, performance and technology functions rather than frontline delivery. Several opportunities (KPI 5, ANAO response) are strongly evidenced and time-bound; others (People Strategy, technology build) are inferred and rated lower because the plan signals intent without naming external delivery and an external provider is already engaged on KPI 5. The agency's budget is modest for advisory spend, so offerings should be right-sized to short reviews, framework design and targeted assurance. Parliamentary inquiry specifics are drawn from a single secondary source and should be verified on aph.gov.au before use."
+}

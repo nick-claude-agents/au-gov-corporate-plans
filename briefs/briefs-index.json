@@ -584,6 +584,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "office-of-the-fair-work-ombudsman-fwo": {
+      "name": "Office of the Fair Work Ombudsman (FWO)",
+      "portfolio": "Employment and Workplace Relations",
+      "plan_url": "https://www.fairwork.gov.au/sites/default/files/2024-08/office-of-the-fair-work-ombudsman-2024-25-corporate-plan.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
