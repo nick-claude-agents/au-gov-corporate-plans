@@ -1,0 +1,197 @@
+{
+  "agency_name": "Department of Social Services (DSS)",
+  "portfolio": "Social Services",
+  "plan_period": "2025-26 (covering FY2025-26 to 2028-29)",
+  "executive_summary": "DSS is a policy and program-stewardship department (~3,000 staff, non-corporate Commonwealth entity) that designs social security and family payments and policy, with delivery executed largely through Services Australia and a large grants-funded community sector via the Community Grants Hub ($11.7bn, 32,034 grants in 2024-25). The clearest, most time-bound demand is the launch of Inclusive Employment Australia (IEA) on 1 November 2025 — replacing DES, run through an open tender and built on a new digital platform. Multiple multi-year reforms generate sustained latent demand: the National Plan to End Violence against Women and Children (with several named evaluations), Closing the Gap Priority Reform 3 (a Portfolio Transformation Plan), the Early Years Strategy, Paid Parental Leave expansion, and a backlog-pressured National Redress Scheme. New Data & Analytics and Evaluation Strategies (2025-27), DATA Scheme accreditation, admitted data/digital skills shortages, and heavy reliance on weakly-assured third-party performance data round out the picture. A critical BD constraint: DSS operates under the Strategic Commissioning Framework with a 90% APS-staffing target, so core policy work is kept in-house — specialist digital, data, program-assurance, evaluation and probity work is the realistic entry point.",
+  "strategic_priorities": [
+    {
+      "title": "Launch Inclusive Employment Australia (IEA)",
+      "description": "Stand up a new specialist disability employment program from 1 November 2025 to replace DES, sourced via open tender and supported by a new digital platform and a refined performance framework, plus the new Centre for Inclusive Employment.",
+      "source_quote": "Inclusive Employment Australia... will commence on 1 November 2025... Providers for IEA will be sourced through an open tender process. Implementation includes moving to a new digital platform."
+    },
+    {
+      "title": "Steward the National Plan to End Violence against Women and Children 2022-2032",
+      "description": "Provide governance, coordination and delivery across 14 Commonwealth and 60+ jurisdictional agencies, run national initiatives (1800RESPECT, Our Watch, DV-alert, ANROWS, Stop it at the Start, KWSITH, Leaving Violence Payment) and report against six long-term outcomes.",
+      "source_quote": "The department provides governance, oversight and strong coordination across the system as well as engagement with stakeholders."
+    },
+    {
+      "title": "Contribute to Closing the Gap Priority Reforms",
+      "description": "Develop a Portfolio Transformation Plan for Priority Reform 3 and deliver Safe and Supported to reduce over-representation of First Nations children in out-of-home care, including Indigenous data governance.",
+      "source_quote": "working across the Commonwealth agencies to develop a Portfolio Transformation Plan for Priority Reform 3."
+    },
+    {
+      "title": "Implement the Early Years Strategy and Paid Parental Leave expansion",
+      "description": "Deliver action plans under the Early Years Strategy 2024-2034 and administer expanded Paid Parental Leave (24 weeks from July 2025, 26 from July 2026, plus 12% superannuation contributions).",
+      "source_quote": null
+    },
+    {
+      "title": "Strengthen data, evidence and evaluation capability",
+      "description": "Implement the new Data and Analytics Strategy 2025-27 and Evaluation Strategy 2025-27, move from interim to final DATA Scheme accreditation, and address admitted skills shortages in data and digital.",
+      "source_quote": "a particular focus on skills shortages within data and digital capabilities."
+    },
+    {
+      "title": "Process National Redress Scheme applications with quality and timeliness",
+      "description": "Manage a large increase in applications while meeting new staged timeliness targets (25%/50%/75% within 6/9/12 months) and 95% decision quality, and maximise institution participation.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "IEA replacing DES from 1 November 2025 — open tender for providers plus a new digital platform build",
+    "Machinery of Government changes (revised AAOs, 13 May) transferring disability/NDIS, carers, social housing and homelessness functions to Health/Disability/Ageing and Treasury — a reshaped operating model",
+    "New Data and Analytics Strategy 2025-27 and Evaluation Strategy 2025-27; DATA Scheme accreditation transition under the Data Availability and Transparency Act 2022",
+    "National Plan to End Violence: multiple named independent evaluations (e.g. Our Watch PPAP over 2025-26/2026-27) and new outcome-based performance measures to develop",
+    "Closing the Gap Priority Reform 3 Portfolio Transformation Plan and Indigenous data governance commitments",
+    "Paid Parental Leave expansion (superannuation contributions, staged weeks increase)",
+    "Commonwealth Climate Disclosure requirements (governance, strategy, risk, metrics) and Net Zero in Government Operations by 2030",
+    "Strategic Commissioning Framework with a 90% APS-staffing target constraining outsourcing of core work",
+    "APS Reform Agenda, APS Integrity Taskforce recommendations and NACC obligations",
+    "Participation in the APS Capability Review Program"
+  ],
+  "challenges_and_risks": [
+    "Heavy reliance on third-party delivery-partner data for performance reporting, with explicitly acknowledged 'minimal mechanisms' to assure some data — a clear assurance gap",
+    "Admitted skills shortages in data and digital capability",
+    "National Redress Scheme processing times lengthening amid a large increase in applications",
+    "Strategic risks named: Policy Development & Delivery, Integrity, Our People, Partnerships, and Systems and Data Integrity",
+    "Complex multi-jurisdictional coordination (14 Commonwealth + 60+ jurisdictional agencies under the National Plan) creating delivery and governance risk",
+    "Fraud and corruption exposure across payments, schemes and grants ($11.7bn through the Grants Hub)",
+    "Operating-model disruption following Machinery of Government transfers",
+    "Several newly-introduced or 'TBD' performance measures (e.g. National Plan outcomes, Our Watch, FWC 2.1.5-1B) signalling an immature measurement framework"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Inclusive Employment Australia delivery and transition",
+      "agency_need": "Stand up a new national program by 1 November 2025, transition providers from DES via open tender, and stabilise delivery against a refined performance framework",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery and transition-management support for IEA stand-up, including a benefits/transition plan and delivery assurance through go-live and stabilisation",
+      "rationale": "The plan names a specific program, a hard commencement date (1 Nov 2025) and a defined departmental role (manage current grants, run assurance/compliance, manage the performance framework, implement IEA) — a clean, time-bound delivery opportunity. Note the Strategic Commissioning Framework may favour specialist delivery-assurance over embedded core roles.",
+      "confidence": "High"
+    },
+    {
+      "area": "IEA digital platform build",
+      "agency_need": "Deliver a new digital platform with essential features ready for IEA commencement on 1 November 2025",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery-to-delivery support for the IEA platform: service design, systems development/integration and post-go-live support and operations of essential features",
+      "rationale": "The plan explicitly states implementation 'includes moving to a new digital platform with a focus on delivery of essential features for program commencement.' DSS admits data/digital skills shortages, strengthening the case for external build/implementation capacity.",
+      "confidence": "High"
+    },
+    {
+      "area": "Probity for the IEA open tender",
+      "agency_need": "Run a defensible open-tender procurement to source IEA providers",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Independent (non-legal) probity advisory and probity audit across the IEA approach-to-market and evaluation, plus procurement and evaluation support",
+      "rationale": "The plan states 'Providers for IEA will be sourced through an open tender process' — a high-value, high-scrutiny procurement that routinely requires independent probity.",
+      "confidence": "High"
+    },
+    {
+      "area": "Assurance of third-party performance data",
+      "agency_need": "Improve reliability and verifiability of performance data sourced from delivery partners where the department admits minimal assurance",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A targeted assurance/health-check over high-risk third-party data feeds (Data Exchange, contracted-provider data) against PGPA reliable-and-verifiable requirements, with recommendations to strengthen controls",
+      "rationale": "Part Three explicitly discloses that some third-party data has 'minimal mechanisms by which to assure' it, and flags data limitations — a direct, plan-stated assurance gap.",
+      "confidence": "High"
+    },
+    {
+      "area": "Program and impact evaluations",
+      "agency_need": "Deliver the Evaluation Strategy 2025-27 and named independent evaluations across the family-safety and family-support portfolio",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Independent process/outcome evaluations (e.g. of National Plan initiatives, Financial Wellbeing & Capability, supported employment reforms) and design of PGPA-aligned outcome performance measures",
+      "rationale": "The plan names a new Evaluation Strategy and specific evaluations (e.g. Our Watch PPAP over 2025-26/2026-27) plus multiple 'TBD' outcome measures still to be developed, including new corporate measures emerging from evaluations.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data & Analytics Strategy implementation and DATA Scheme accreditation",
+      "agency_need": "Implement the Data and Analytics Strategy 2025-27, achieve final DATA Scheme accreditation, support sharing requests and Indigenous data governance",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data governance and information-management uplift to support final Accredited Data Service Provider/User status, plus analytics capability and culturally-appropriate Indigenous data governance support",
+      "rationale": "The plan commits to moving from interim to final accreditation under the DATA Scheme, implementing the new strategy and delivering the Framework for Governance of Indigenous Data, against admitted data skills shortages.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "National Redress Scheme processing improvement",
+      "agency_need": "Meet new staged timeliness targets and maintain decision quality amid a large increase in applications",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A processing/throughput improvement and case-management review to lift timeliness against the 6/9/12-month targets while protecting the 95% decision-quality measure",
+      "rationale": "The plan states Scheme processes 'have grown in duration' under a 'large increase in the number of applications received', and introduces new staged timeliness targets — a tangible delivery-performance pressure.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Closing the Gap Priority Reform 3 transformation",
+      "agency_need": "Develop and operationalise a Portfolio Transformation Plan to change how the department works with First Nations communities",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Support to design the Portfolio Transformation Plan and associated governance/shared-decision-making arrangements, with a culturally-informed engagement approach",
+      "rationale": "The plan commits to 'develop a Portfolio Transformation Plan for Priority Reform 3' and to strengthen data governance — but core policy work is constrained by the Strategic Commissioning Framework, so this is best pitched as a design/facilitation piece.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Community Grants Hub assurance and contract management",
+      "agency_need": "Maintain compliant, high-quality grants administration across $11.7bn and improve grantee experience",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Grants-administration assurance and contract-management advisory aligned to the Commonwealth Grants Rules and Principles 2024, plus user-experience improvement to lift the >70% satisfaction measure",
+      "rationale": "The Hub manages 32,034 grants worth $11.7bn with stated assurance mechanisms and a satisfaction performance measure — a scaled, compliance-sensitive operation where independent assurance and CX support fit.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Operating-model reset after Machinery of Government changes",
+      "agency_need": "Reconfigure functions, appropriations and governance after transfers to Treasury and Health/Disability/Ageing",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short operating-model/governance review to confirm functional boundaries, accountabilities and committee structures post-AAO changes",
+      "rationale": "The plan documents significant function transfers (disability/NDIS, carers, housing/homelessness) and states the department 'has considered its functions and appropriations' — a natural trigger for an operating-model check. Inferred rather than explicitly requested.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy Secretary / Group responsible for employment and the IEA implementation branch with a combined delivery-assurance and platform-build proposition ahead of and through the 1 November 2025 go-live.",
+      "priority": "High",
+      "rationale": "IEA is the single most time-bound, named opportunity in the plan, spanning program delivery, a new digital platform and provider transition — and DSS admits data/digital skills shortages."
+    },
+    {
+      "action": "Register interest and prepare a probity capability statement for the IEA open tender, positioning independent (non-legal) probity advisory and audit.",
+      "priority": "High",
+      "rationale": "The open-tender process is explicitly named; probity engagements are typically locked in early and are low-friction under the Strategic Commissioning Framework."
+    },
+    {
+      "action": "Offer the Chief Risk Officer and Audit and Risk Committee a scoped assurance health-check over weakly-assured third-party performance data feeds.",
+      "priority": "High",
+      "rationale": "The plan itself discloses 'minimal mechanisms' to assure some third-party data — a rare, self-identified assurance gap that maps cleanly to PGPA requirements."
+    },
+    {
+      "action": "Engage the data/evaluation function with a thought piece on operationalising the Evaluation Strategy 2025-27 and developing the many 'TBD' outcome measures into PGPA-compliant indicators.",
+      "priority": "Medium",
+      "rationale": "Multiple named evaluations and immature/placeholder measures create a multi-year pipeline of independent evaluation and performance-framework work."
+    },
+    {
+      "action": "Brief the National Redress Scheme branch on a processing-throughput and quality-preservation review aligned to the new staged timeliness targets.",
+      "priority": "Medium",
+      "rationale": "The plan acknowledges lengthening processing times under rising application volumes, with new staged targets to meet."
+    },
+    {
+      "action": "Confirm the practical reach of the Strategic Commissioning Framework / 90% APS target with the COO or Finance and Information Services Group before pitching any embedded or core-policy work.",
+      "priority": "Medium",
+      "rationale": "The framework explicitly limits outsourcing of core work; understanding the carve-outs prevents wasted effort and sharpens proposals toward specialist digital, data, assurance and probity work."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Secretary / Group responsible for employment services and the IEA implementation branch",
+    "IEA digital platform / technology delivery area",
+    "Chief Data Officer or head of the data and evaluation function (Data and Analytics Strategy, DATA Scheme, evaluations)",
+    "Chief Risk Officer and the Audit and Risk Committee (third-party data assurance, strategic risks)",
+    "Chief Finance Officer / Finance and Information Services Group (Strategic Commissioning Framework, climate disclosure, budget)",
+    "National Redress Scheme branch",
+    "Community Grants Hub leadership and Funding Arrangement Manager network",
+    "Family Safety / National Plan stewardship branch (evaluations, coordination)"
+  ],
+  "talking_points": [
+    "IEA's 1 November 2025 go-live needs delivery, transition and a new digital platform simultaneously — we can bring program-delivery assurance and build capacity that complements your in-house teams under the Strategic Commissioning Framework.",
+    "Your plan candidly flags 'minimal' assurance over some third-party performance data — we can run a targeted, PGPA-aligned assurance health-check that strengthens reliability without disrupting partners.",
+    "The IEA open tender is a high-scrutiny procurement; independent probity advisory and audit protects the process and the decision.",
+    "Your new Evaluation Strategy and the many 'TBD' outcome measures point to a multi-year evaluation and performance-framework program — we can help convert outcomes into verifiable PGPA measures.",
+    "The National Redress Scheme's lengthening processing times under rising volumes is a throughput challenge where a focused improvement review can lift timeliness while protecting your 95% decision-quality target.",
+    "We understand DSS keeps core work in-house — our pitch is squarely on specialist digital build, data governance, independent assurance, probity and evaluation where external capacity is genuinely additive."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The plan is detailed on programs and performance measures but light on dollar figures for reform delivery and on ICT/transformation budgets. The Strategic Commissioning Framework and explicit 90% APS-staffing target are a material constraint: core policy and embedded delivery work will be limited, so the strongest fits are specialist digital build, data governance, independent assurance, probity and evaluation. The IEA opportunity is time-critical (1 November 2025) and may already be largely committed. No external research (news, ANAO, Parliament) was supplied, so those sections are empty and the demand signals rest solely on the plan text; some opportunities (operating-model reset, Closing the Gap design) are inferred rather than explicitly requested and are marked accordingly."
+}

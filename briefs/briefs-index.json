@@ -488,6 +488,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2024-25 (covering 2024-25 to 2027-28)",
       "overall_confidence": "Medium"
+    },
+    "department-of-social-services-dss": {
+      "name": "Department of Social Services (DSS)",
+      "portfolio": "Social Services",
+      "plan_url": "https://www.dss.gov.au/system/files/resources/department-social-services-2024-25-corporate-plan.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering FY2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
