@@ -1,0 +1,168 @@
+{
+  "agency_name": "National Museum of Australia (NMA)",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "The NMA is a corporate Commonwealth collecting institution operating on a constrained budget supplemented by the 2023-24 $78.3m National Collecting Institutions funding package, with commercial and philanthropic revenue an explicit growth ambition. The plan's strongest, most time-bound signals are operational: a digital uplift that will procure and implement a Trusted Digital Repository and a new Content Management System to replace ageing infrastructure, delivery of a Strategic Asset Management Plan against an end-of-life HVAC and critical building systems, and financial-sustainability pressure under cost-of-living and global economic uncertainty. Multi-year capital ambitions (Acton site precinct planning, Landmarks gallery refresh, First Australians gallery redevelopment for which it will 'seek additional funding') create a pipeline of program and assurance work. Note a headwind: under the APS Strategic Commissioning Framework the Museum is actively reducing outsourcing of core work in Engineering/Technical and Service Delivery job families, so offerings must target genuinely specialist, project-shaped need and be right-sized to a small institution.",
+  "strategic_priorities": [
+    {
+      "title": "Digital and technology transformation",
+      "description": "Replace ageing digital infrastructure and uplift digital capability by procuring and implementing a Trusted Digital Repository (TDR) and a new Content Management System (CMS), upgrading legacy systems, defining a cloud/system-ownership approach and maintaining cybersecurity maturity.",
+      "source_quote": "Implement digital uplift projects: Procure and implement Trusted Digital Repository (TDR); Procure and implement new Content Management System (CMS)."
+    },
+    {
+      "title": "Asset management and critical infrastructure",
+      "description": "Deliver a Strategic Asset Management Plan (SAMP) to assess future asset and funding needs, and progress urgent replacement of end-of-life plant including the HVAC system, building management and fire-safety systems.",
+      "source_quote": "Secure the Museum's building and operations through strategic asset management; Deliver Strategic Asset Management Plan (SAMP)."
+    },
+    {
+      "title": "Funding and own-source revenue growth",
+      "description": "Grow commercial operations (retail, venue hire, tourism, e-commerce, ticketing) and philanthropy to build a sustainable revenue base, while managing cost pressure and uncertain visitation.",
+      "source_quote": "Maintain sustained growth and profitability in current commercial operations... with renewed focus and investment in growing e-Commerce and exploring new commercial opportunities."
+    },
+    {
+      "title": "Acton site and gallery redevelopment",
+      "description": "Undertake strategic planning for the Acton Peninsula precinct, refresh the Landmarks gallery, and progress the multi-year First Australians gallery redevelopment (subject to additional funding).",
+      "source_quote": "Develop an ambitious plan for the Acton Peninsula that places the Museum at the centre of a vibrant cultural and creative precinct."
+    },
+    {
+      "title": "First Nations engagement and capability",
+      "description": "Stand up the new First Nations division, develop a Cultural Plan, renew the Reconciliation Action Plan, deliver cultural-capability programs and grow First Nations workforce representation.",
+      "source_quote": "A new First Nations division has been created, with strategic responsibility for engaging broadly and deeply with First Nations people."
+    },
+    {
+      "title": "Touring program reset",
+      "description": "Implement a new modular touring model commencing 2025, informed by a domestic-venue survey, to expand regional and metropolitan access to the collection.",
+      "source_quote": "The new model, which will commence delivery in 2025, adopts a modular approach to touring that will increase access to our programs for regional and metropolitan audiences."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "National Cultural Policy (Revive) and the Minister for the Arts' Statement of Expectations shaping strategic priorities",
+    "2023-24 Budget funding package of $78.3m over four years for National Collecting Institutions, tied to effective resource management and transparent reporting",
+    "APS Strategic Commissioning Framework driving insourcing of core work and FTE/expenditure reduction targets in Engineering/Technical and Service Delivery job families",
+    "APS Net Zero 2030 emissions target and the Museum's Environmental Sustainability Action Plan (HVAC replacement, solar, gas removal, EV fleet)",
+    "Organisational realignment creating a new First Nations division",
+    "Growth in digital engagement (2.7m in 2018-19 to 7.4m in 2024-25) against ageing digital infrastructure",
+    "Cost-of-living and global economic uncertainty pressuring visitation and own-source revenue"
+  ],
+  "challenges_and_risks": [
+    "Funding and financial sustainability: insufficient funds to pursue all strategic objectives; reliance on own-source and philanthropic revenue",
+    "End-of-life critical infrastructure (HVAC, building management, fire safety) requiring major works beyond existing capital funding",
+    "Ageing ICT/digital infrastructure and legacy systems needing modernisation and a defined cloud approach",
+    "IT and cybersecurity risk - maintaining Essential Eight maturity against unauthorised access and disruption",
+    "Deterioration/loss of National Historical Collection objects and storage capacity constraints",
+    "Critical skills and capability gaps in a workforce expected to deliver expanding strategic priorities while reducing outsourcing",
+    "Visitation and revenue volatility dependent on blockbuster international exhibitions"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The Canberra Times reported (c.2020-21) that the NMA would cut jobs following a COVID-19-driven revenue drop, and an earlier (2019) inquiry was launched into Canberra's national museums and galleries after funding and staff cuts.",
+      "implication": "Confirms a recurring own-source revenue and operating-funding fragility narrative across the national collecting institutions - relevant to financial-sustainability and commercial-revenue advisory - but both items predate the current 3-year window and should be re-verified against current finances.",
+      "source": "Canberra Times — https://www.canberratimes.com.au/story/6930779/ ; https://www.canberratimes.com.au/story/6021489/"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Digital uplift: TDR and CMS implementation",
+      "agency_need": "Replace ageing digital infrastructure by procuring and implementing a Trusted Digital Repository and a new Content Management System, plus legacy-system and cloud platform modernisation.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and solution design followed by implementation/integration of the TDR and CMS - including business and process analysis, vendor/platform selection support and service transition - scaled to a small institution. The firm's ability to build and implement (not just advise) is the differentiator.",
+      "rationale": "Named, time-bound 2025-26 deliverables ('Procure and implement TDR... Procure and implement new CMS') backed by the ICT Strategic Roadmap and explicit acknowledgement of ageing infrastructure and rising digital demand (7.4m engagements).",
+      "confidence": "High"
+    },
+    {
+      "area": "Procurement support for digital and infrastructure buys",
+      "agency_need": "Run sound approaches to market for the TDR, CMS and major plant replacement (HVAC) within tight funding and transparent-reporting expectations.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Procurement strategy, evaluation support and non-legal probity advisory/probity audit for the digital procurements and the HVAC/critical-infrastructure works, ensuring defensible process for funding tied to 'effective management of all our resources'.",
+      "rationale": "The plan explicitly states the Museum will 'procure and implement' TDR and CMS and is planning major plant replacement; funding is conditional on transparent, well-managed resourcing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Strategic Asset Management Plan and capital pipeline",
+      "agency_need": "Deliver a SAMP that provides a comprehensive program of future asset and funding needs, and build the funding case for major works (HVAC, First Australians gallery) that exceed current capital funding.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and capital-funding review supporting the SAMP - lifecycle costing of end-of-life assets, prioritised investment program and a funding submission/business case to government for unfunded major works.",
+      "rationale": "The plan commits to delivering the SAMP in 2025-26 and states major works 'cannot currently be managed within existing capital funding' and that it 'continues to work with government to identify and address funding pressures'.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial sustainability and own-source revenue",
+      "agency_need": "Grow commercial and philanthropic revenue and manage cost pressure to sustain operations amid economic uncertainty.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review with a commercial-revenue and e-commerce growth model, including activity-based costing of commercial operations and scenario analysis of visitation-driven revenue risk.",
+      "rationale": "'Funding and financial sustainability' is a named enterprise risk; the Growth priority targets commercial profitability and a $575,000 philanthropy target, with own-source revenue strategies flagged as a mitigation.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cybersecurity maturity",
+      "agency_need": "Maintain cybersecurity maturity and Essential Eight controls against unauthorised access and disruption as systems are modernised.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment against the Essential Eight maturity model and cyber advisory/assurance of the new TDR and CMS as they are stood up, sized to a small institution.",
+      "rationale": "IT and cybersecurity is the first-listed enterprise risk, with explicit reliance on ACSC guidelines and Essential Eight; new platforms create fresh assurance need.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Gallery and Acton precinct program delivery",
+      "agency_need": "Deliver the Landmarks gallery refresh and progress multi-year First Australians gallery redevelopment and Acton site strategic planning.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program/PMO support and delivery assurance for the gallery redevelopment and Acton precinct planning, including a benefits-management framework to underpin future funding submissions.",
+      "rationale": "The plan names the Landmarks refresh as a 2025-26 deliverable and flags the First Australians gallery as 'a major multi-year project for which we will seek additional funding', alongside Acton strategic planning.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Collection information and data accessibility",
+      "agency_need": "Make more collection objects available online and improve information governance and management of digital collection assets.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information strategy and data-management support aligned to the TDR rollout - improving digitisation, metadata and online accessibility of the National Historical Collection.",
+      "rationale": "The Connection priority targets increasing collections available online via the EMu system, and the Museum has an information governance framework under regular review; the TDR underpins this.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the head of ICT/Digital (and the COO) to present a TDR/CMS discovery-to-implementation approach, leading with the firm's build-and-implement capability rather than advice-only.",
+      "priority": "High",
+      "rationale": "These are explicit, funded 2025-26 procure-and-implement deliverables and the clearest near-term opportunity in the plan."
+    },
+    {
+      "action": "Prepare a tailored capability statement on capital/asset-funding business cases and lifecycle costing for the CFO/COO ahead of the SAMP delivery and the unfunded HVAC and First Australians gallery works.",
+      "priority": "High",
+      "rationale": "The SAMP is a 2025-26 deliverable and the plan openly states major works exceed current capital funding - a credible, time-aligned financial advisory entry point."
+    },
+    {
+      "action": "Offer a short non-legal probity and procurement-strategy proposition for the digital procurements, positioned around the funding's transparent-management conditions.",
+      "priority": "Medium",
+      "rationale": "Multiple named procurements are imminent and funding is conditional on demonstrable good resource management; probity is a low-sensitivity, easy-to-win first engagement."
+    },
+    {
+      "action": "Develop a brief on Essential Eight assessment and assurance of new platforms, timed to the TDR/CMS build.",
+      "priority": "Medium",
+      "rationale": "Cyber is the top enterprise risk and new systems trigger assurance need; a small, defined scope suits the institution's budget."
+    },
+    {
+      "action": "Watch for the Acton precinct strategic plan and any First Australians gallery funding announcement as triggers for program-delivery and assurance work.",
+      "priority": "Low",
+      "rationale": "These are multi-year, currently unfunded ambitions; engagement value materialises once funding is secured."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / CFO (financial sustainability, SAMP, capital funding)",
+    "Head of ICT / Digital function (ICT Strategic Roadmap, TDR, CMS, cloud, cyber)",
+    "Asset management / facilities function (HVAC and critical infrastructure)",
+    "Commercial / Development (philanthropy) leads (own-source revenue growth)",
+    "Deputy Director First Nations (Cultural Plan, RAP, cultural capability - relationship building, culturally led)",
+    "Audit, Finance and Risk Committee (assurance and enterprise risk oversight)",
+    "Director / Council (major program and funding priorities)"
+  ],
+  "talking_points": [
+    "Your plan commits to procuring and implementing both a Trusted Digital Repository and a new CMS in 2025-26 - we can take this from discovery and design through to build, integration and transition, not just advise.",
+    "With the SAMP due this year and major works like the HVAC replacement sitting outside current capital funding, we can help lifecycle-cost the program and build a defensible funding submission to government.",
+    "Your 2023-24 funding package is tied to effective resource management and transparent reporting - independent procurement and non-legal probity support makes that demonstrable for the digital and infrastructure buys.",
+    "Cyber is your top enterprise risk and you're standing up new platforms - a right-sized Essential Eight assessment and assurance of the new systems protects the investment.",
+    "We understand you're insourcing core Engineering/Technical and Service Delivery work under the Strategic Commissioning Framework - our offerings are scoped to genuinely specialist, project-shaped needs that complement, not displace, your internal capability."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a small corporate collecting institution with a modest budget, so all offerings must be right-sized - short advisory and design pieces, or scaled digital implementation, not large embedded programs. A material headwind is the APS Strategic Commissioning Framework: the Museum is explicitly reducing outsourcing and setting FTE/expenditure reduction targets, so any pitch must target specialist, project-shaped demand. External research was incomplete: the search tool capped before ANAO and Parliament could be searched, so those sections are empty and should be re-run; the only news items found predate the 3-year window and are included only as contextual evidence of recurring funding fragility. Several opportunities (data/information, gallery program delivery) depend on funding the Museum has yet to secure and are marked lower confidence accordingly."
+}
