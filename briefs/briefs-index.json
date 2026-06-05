@@ -384,6 +384,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "High"
+    },
+    "australian-transaction-reports-and-analysis-centre-austrac": {
+      "name": "Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.austrac.gov.au/about-us/corporate-information-and-governance/corporate-plan",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-29",
+      "overall_confidence": "Medium"
     }
   }
 }

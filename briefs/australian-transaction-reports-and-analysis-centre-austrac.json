@@ -1,0 +1,175 @@
+{
+  "agency_name": "Australian Transaction Reports and Analysis Centre (AUSTRAC)",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-29",
+  "executive_summary": "AUSTRAC is a regulator-plus-financial-intelligence-unit archetype undertaking the most significant change in its history: implementing the November 2024 AML/CTF reforms and onboarding 'Tranche 2' sectors (lawyers, accountants, real estate, dealers in precious metals/stones) that will lift its regulated population from over 19,000 to over 100,000 by mid-2026. This is paired with an explicit ambition to 'transform into a world-leading data-driven digital agency', a newly stood-up Data Division and Chief Data and Analytics Officer, an expanded enterprise portfolio management office (EPMO), and a substantial ICT modernisation program (registration/reporting portal, CRM, contact centre, case management, corporate platforms). A FATF mutual evaluation across 2025-2027 raises the stakes on demonstrable effectiveness, and AUSTRAC has just overhauled its performance measures, committing to establish baselines in 2025-26. The combination of legislative reform delivery, digital/data uplift, workforce growth and external evaluation creates clear, time-bound latent demand for program delivery, assurance, data, digital build, and stakeholder-engagement support, tempered by a Strategic Commissioning Framework preference to keep core work in-house.",
+  "strategic_priorities": [
+    {
+      "title": "Implement AML/CTF reforms and embed Tranche 2 sectors",
+      "description": "Successfully implement the Government's AML/CTF reforms and bring an estimated 80,000+ new reporting entities (real estate, lawyers, accountants, dealers in precious metals/stones) into the regime to a global standard by 1 July 2026, including guidance, education and 'starter kits' for small businesses.",
+      "source_quote": "Successfully implement the Government's AML/CTF reforms and embed new sectors into the regime to a global standard."
+    },
+    {
+      "title": "Transform into a data-driven, digital-first agency",
+      "description": "Uplift core ICT and digital capability (architecture, information management, service management, cloud), modernise the reporting portal, CRM, contact centre and case management, and strengthen data, analytics and AI capability via the new Data Division.",
+      "source_quote": "Transform into a world leading data driven digital agency in financial regulation and intelligence."
+    },
+    {
+      "title": "Direct effort to highest risk and harm",
+      "description": "Focus regulatory and intelligence resources on areas of highest risk and harm as defined by the NRA, NIC missions and SOCCC priorities, via six new outcome-oriented regulatory priorities for 2025-26.",
+      "source_quote": null
+    },
+    {
+      "title": "Strengthen partnerships and the Fintel Alliance",
+      "description": "Enhance and leverage strategic partnerships, including the expanded Fintel Alliance (now a distinct branch) and Pacific/regional capability-building, for mutual community protection.",
+      "source_quote": null
+    },
+    {
+      "title": "Cultivate a united, high-performing workforce",
+      "description": "Build organisational capability during rapid growth through a new Enterprise Capability Architecture, Skills and Competency Framework, talent acquisition and strategic workforce planning.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "AML/CTF Amendment Act 2024 (Royal Assent 10 Dec 2024) expanding the regime to Tranche 2 sectors from 1 July 2026, lifting regulated entities from ~19,000 to over 100,000",
+    "FATF comprehensive mutual evaluation across 2025-2027, requiring AUSTRAC to demonstrate effectiveness as both regulator and FIU",
+    "Establishment of a dedicated Data Division and Chief Data and Analytics Officer to lead data, analytics and AI uplift",
+    "Expansion of the EPMO and change management/service design functions to manage rapid reform and growth",
+    "Major ICT modernisation program (portal, CRM, contact centre, case management, corporate HR/finance/service-management platforms)",
+    "Comprehensive overhaul of performance measures with baselines to be established in 2025-26",
+    "Rapid workforce growth and the shift from a compliance-focused to an outcomes-focused regulatory model",
+    "Technological threat acceleration (AI, deepfakes, crypto/virtual assets) challenging identity verification and AML/CTF controls"
+  ],
+  "challenges_and_risks": [
+    "Technology risk: agency technology may not meet future requirements, causing disruption and harm to reporting entities, partners and staff",
+    "People risk: insufficient resources and skilled staff during rapid growth, with culture and morale exposure",
+    "Regulation risk: ineffective industry engagement and management of regulatory interventions as the population grows fivefold",
+    "Information management, information security (including cyber) and data protection risk",
+    "Program and project management risk: inadequate governance leading to unrealised benefits and misused public monies",
+    "Onboarding ~80,000 small/low-complexity businesses without imposing unreasonable cost burden",
+    "New, unbaselined performance measures (most targets 'TBD' / 'establish a baseline') create evidence and methodology pressure ahead of FATF evaluation",
+    "Strategic Commissioning Framework constrains outsourcing of core work, limiting some advisory scope"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Commentary argues AUSTRAC's strict-liability, enforcement-first model is poorly suited to the ~100,000 small businesses and 'gatekeeper' professions (lawyers, accountants, real estate agents, conveyancers, precious-metal dealers) entering the regime from 1 July 2026, contrasting it unfavourably with the more graduated, educational approaches of the ATO and ASIC.",
+      "implication": "Signals demand for AUSTRAC to strengthen guidance, education and stakeholder engagement to soften a punitive image, and a large external readiness market — but for AUSTRAC itself the BD angle is supporting its industry-facing engagement, guidance design and Tranche 2 onboarding capability.",
+      "source": "Independent Australia, 'AUSTRAC tranche 2: Australia's toughest regulator to become its most hated?' — https://independentaustralia.net/business/business-display/austracs-tranche-2-australias-toughest-regulator-to-become-its-most-hated,20922"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Tranche 2 reform delivery and benefits assurance",
+      "agency_need": "Deliver the AML/CTF reforms and onboard 80,000+ new entities to a global standard by deadlines, with EPMO governance over a large change portfolio.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery support and benefits-realisation framework for the Tranche 2 onboarding program, plus delivery assurance/health checks at key milestones ahead of the July 2026 commencement and FATF evaluation.",
+      "rationale": "The plan names reform implementation as Priority 2, identifies program/project management as a key enterprise risk, and describes an expanding EPMO with benefits-realisation and project-governance frameworks — clear, time-bound demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "FATF mutual evaluation readiness and effectiveness assurance",
+      "agency_need": "Demonstrate effectiveness as regulator and FIU to FATF across 2025-2027 against a refreshed strategic plan.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent readiness/effectiveness health check mapping AUSTRAC's regulatory and intelligence activities against FATF effectiveness outcomes, with a gap-and-evidence assessment ahead of the on-site evaluation.",
+      "rationale": "The plan states AUSTRAC will be 'front-and-centre' in the 2026 FATF evaluation and will deliver an agency-wide strategic plan to demonstrate effectiveness — an external, deadline-driven assurance trigger.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance measure baseline and methodology design",
+      "agency_need": "Establish baselines and mature methodologies for a newly overhauled suite of performance measures, most with 'TBD' targets.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure design and baselining support — defining methodologies, data sources and measurement approach for new measures (e.g. Partnership Engagement Score, intelligence-to-substantive-action ratio).",
+      "rationale": "The plan explicitly says 2025-26 will establish baselines for most new measures and that methodologies 'will continue to evolve and mature' — a direct evidence/framework need, reinforced by the FATF effectiveness focus.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data, analytics and AI capability uplift",
+      "agency_need": "Scale data capability to analyse ever-increasing volumes and complexity, supporting risk-based regulation and actionable intelligence across a fivefold-larger population.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Information/data strategy and analytics uplift support for the new Data Division — data management, interoperable data environments, business intelligence and analytics tooling to support the Chief Data and Analytics Officer's transformation agenda.",
+      "rationale": "The plan dedicates a 'Data capability' section, names a new Data Division and CDAO, and commits to advanced analytics, AI techniques and interoperable data environments.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "ICT modernisation and digital service build",
+      "agency_need": "Modernise core systems to handle a vastly larger reporting population and improve reporting-entity experience.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery, service design and build/integration support for the registration/enrolment/reporting portal, CRM and contact-centre modernisation, and case-management automation — the firm can build and implement, not only advise.",
+      "rationale": "The plan lists specific in-progress initiatives: improving the online registration/enrolment/reporting portal, CRM investment, contact-centre modernisation, and case-management enhancement, all driven by the 19,000-to-100,000 expansion.",
+      "confidence": "High"
+    },
+    {
+      "area": "Industry guidance, education and stakeholder engagement",
+      "agency_need": "Bring tens of thousands of small businesses and new professions into the regime via guidance, education and 'starter kits' without unreasonable cost burden.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Stakeholder engagement and content/education program support — co-designed guidance, educational products and campaign/content development for Tranche 2 sectors and small businesses.",
+      "rationale": "The plan repeatedly references co-designing guidance, educational materials, forums and 'starter kits'; external commentary highlights an engagement/image gap with the incoming SME population.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce capability architecture during rapid growth",
+      "agency_need": "Attract, develop and retain skilled staff and define critical capabilities as the agency scales rapidly.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Support to develop the new Enterprise Capability Architecture and Skills and Competency Framework, including critical-capability identification and capability-uplift program design.",
+      "rationale": "The plan names People as a key enterprise risk and describes developing an Enterprise Capability Architecture and Skills and Competency Framework during growth — though the Strategic Commissioning Framework may favour in-house delivery.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Cybersecurity and information protection uplift",
+      "agency_need": "Protect highly sensitive financial intelligence and data amid a degraded security environment and growing attack surface.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of new and modernised systems (portal, CRM, case management) against Essential Eight/ISM, aligned to AUSTRAC's Cybersecurity Strategy.",
+      "rationale": "The plan names information security/cyber as a key risk, cites an ongoing cybersecurity investment priority and the Essential Eight, and is building multiple new systems that will need security assurance.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the EPMO / Change Management Office and the Regulatory Division reform lead with a Tranche 2 delivery-and-assurance proposition timed to the July 2026 commencement.",
+      "priority": "High",
+      "rationale": "This is the single largest, most time-bound program in the plan; delivery assurance and benefits-realisation support map cleanly and the deadline forces decisions now."
+    },
+    {
+      "action": "Prepare a short capability statement on FATF mutual-evaluation readiness and effectiveness assurance, and request a meeting with the Strategy/Performance function and the Audit and Risk Committee secretariat.",
+      "priority": "High",
+      "rationale": "The 2025-2027 FATF evaluation is externally imposed and reputationally critical; an independent effectiveness health check is a credible, proportionate entry engagement."
+    },
+    {
+      "action": "Engage the Chief Data and Analytics Officer / Data Division and the Digital and Technology group on data-platform and portal/CRM modernisation, emphasising build-and-implement capability.",
+      "priority": "Medium",
+      "rationale": "Named new division, named systems initiatives and a transformation mandate create concrete digital and data demand; the firm's ability to build differentiates it from pure advisers."
+    },
+    {
+      "action": "Offer a focused performance-measure baselining and methodology workshop to the corporate/performance area.",
+      "priority": "Medium",
+      "rationale": "Most new measures are unbaselined with TBD targets in 2025-26 — a near-term, well-scoped advisory piece that also opens the door to broader effectiveness work."
+    },
+    {
+      "action": "Watch for upcoming procurements tied to the reform funding and ICT modernisation, and confirm relevant Commonwealth panel positioning.",
+      "priority": "Medium",
+      "rationale": "Large reform and ICT programs typically generate approaches to market; early panel and relationship positioning improves access despite the in-house commissioning preference."
+    }
+  ],
+  "engagement_targets": [
+    "Head of Regulatory Division / Tranche 2 reform program lead",
+    "Enterprise Portfolio Management Office (EPMO) and Change Management Office",
+    "Chief Data and Analytics Officer / Data Division",
+    "Digital and Technology group (architecture, service management, cloud)",
+    "Chief Operating Officer / corporate enabling functions (finance, HR, performance)",
+    "Strategy and performance function responsible for the FATF effectiveness plan and performance measures",
+    "Audit and Risk Committee and Internal Audit function",
+    "Chief Information Security Officer / cyber and information security function"
+  ],
+  "talking_points": [
+    "You are moving from ~19,000 to over 100,000 regulated entities by July 2026 — how is the EPMO assuring delivery and benefits realisation across that onboarding program?",
+    "The 2025-2027 FATF mutual evaluation puts effectiveness on the line; an independent readiness health check can surface evidence gaps before the on-site assessment.",
+    "Most of your new performance measures need baselines and matured methodologies this year — we can help design defensible, PGPA-aligned measures that also support the FATF effectiveness story.",
+    "With a new Data Division and CDAO, and a portal/CRM/case-management modernisation underway, we can both advise and build — not just hand over a strategy document.",
+    "Tranche 2 brings tens of thousands of small businesses and new professions into the regime; co-designed guidance and stakeholder engagement will be decisive to credible, low-burden onboarding.",
+    "Technology and program/project governance are named enterprise risks during your fastest growth period — independent assurance gives your Executive Board confidence to move quickly."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This brief is grounded in a clear, signal-rich plan, but several factors temper confidence. AUSTRAC explicitly operates under the Strategic Commissioning Framework and states core work is done in-house with only minimal, narrowly-permitted outsourcing — this constrains advisory scope and means the strongest fits are time-bound reform delivery, assurance, digital build and data work rather than ongoing core functions. As a security/intelligence-adjacent agency, clearance and access constraints will apply to FIU-related work. External research was incomplete: ANAO and Parliamentary searches could not be completed, so those sections are empty and the single news item is one commentary piece, not a verified pattern of controversy. Opportunity confidence reflects that some needs (workforce, performance measures) are real but may be met internally; the Tranche 2 delivery and ICT modernisation opportunities are the most defensible."
+}
