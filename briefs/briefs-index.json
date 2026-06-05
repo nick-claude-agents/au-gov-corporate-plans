@@ -432,6 +432,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "department-of-defence": {
+      "name": "Department of Defence",
+      "portfolio": "Defence",
+      "plan_url": "https://www.defence.gov.au/sites/default/files/2024-08/2024%E2%80%9328DefenceCorporatePlanFinal.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (Statement of Corporate Intent, covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
