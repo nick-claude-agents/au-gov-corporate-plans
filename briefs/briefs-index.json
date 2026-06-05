@@ -376,6 +376,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 1 July 2025 to 30 June 2029)",
       "overall_confidence": "High"
+    },
+    "australian-taxation-office-ato": {
+      "name": "Australian Taxation Office (ATO)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.ato.gov.au/about-ato/managing-the-tax-and-super-system/corporate-plan/ato-corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "High"
     }
   }
 }

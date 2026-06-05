@@ -1,0 +1,218 @@
+{
+  "agency_name": "Australian Taxation Office (ATO)",
+  "portfolio": "Treasury",
+  "plan_period": "2025-26",
+  "executive_summary": "The ATO's 2025-26 corporate plan (covering the ATO listed entity, including the TPB and ACNC) sets out five enterprise priorities: strengthening payment performance and debt collection, enhancing counter-fraud measures, establishing Payday Super, delivering a digitalised small-business tax experience, and implementing 'Our Performance Evolution' in response to the APSC Capability Review (published March 2025). These are large, time-bound, funded reform programs in a high-volume service-delivery and revenue agency under pressure from a >$50bn collectable-debt position (two-thirds owed by small business), the ~$2bn Operation Protego GST fraud and a critical ANAO audit, and a multi-year performance-measure overhaul (several measures still 'under development'). The plan openly admits technology 'irritants', change-capacity constraints, cyber-threat exposure, and a strategic-commissioning shift toward reduced IT outsourcing. For the Consulting Firm, the strongest plays are program delivery and assurance of named reforms, fraud/payment-integrity analytics, performance-framework redesign, and workforce/operating-model change — calibrated to the firm's Commonwealth panels and the ATO's intent to insource core IT work.",
+  "strategic_priorities": [
+    {
+      "title": "Strengthen payment performance and debt collection",
+      "description": "Reduce growth in collectable debt (over $50bn, much owed by small business) through the Payment Strategy: prevention, early intervention and firmer/faster actions, supported by data and analytics. Targets include reducing the collectable-debt-to-net-tax ratio to 7% then 6%.",
+      "source_quote": "Collectable debt in Australia is more than $50 billion, of which two-thirds owed relates to small business."
+    },
+    {
+      "title": "Enhance counter-fraud measures",
+      "description": "Deploy real-time monitoring and prevention controls, secure messaging and app enhancements to prevent, detect and respond to external fraud, following funding for the Counter Fraud Program.",
+      "source_quote": "We received funding for our Counter Fraud Program to help ensure we take all reasonable measures to prevent, detect and respond to external fraud."
+    },
+    {
+      "title": "Establish Payday Super",
+      "description": "Implement the reform aligning employer Super Guarantee payments with wages (replacing quarterly payments), including administrative design, planning, and SG obligation management. A named, funded multi-year program.",
+      "source_quote": "The establishment of the Payday Super Program will build a fairer and more efficient superannuation system by ensuring timely and full superannuation payments alongside regular wages."
+    },
+    {
+      "title": "Digitalised future tax experience for small business",
+      "description": "Implement a streamlined, digitalised tax experience leveraging data-driven insights to reduce compliance burden, prevent debt and improve accuracy, moving toward a 'tax just happens' model.",
+      "source_quote": "we will continue to consult and collaborate as we implement a streamlined, digitalised tax experience."
+    },
+    {
+      "title": "Our Performance Evolution (Capability Review response)",
+      "description": "Respond to the APSC Capability Review (published 27 March 2025) by sharpening strategic direction, aligning resourcing, strengthening risk-based decision-making, embedding collaboration, and addressing technology irritants.",
+      "source_quote": "Implement our response to the APSC's Capability Review, strengthening our ability to respond to the environment and meet future challenges."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "APSC Capability Review of the ATO listed entity (March 2025) driving 'Our Performance Evolution' enterprise change",
+    "Payday Super reform (2023-24 Budget) requiring new administrative design and SG system change from implementation",
+    "Counter Fraud Program funding following the ~$2bn Operation Protego GST refund fraud",
+    "Performance-measurement overhaul: purpose/key activities consolidated (6 to 4), multiple measures 'under development', and ongoing ANAO engagement to mature performance reporting",
+    "APS Strategic Commissioning Framework: targets to reduce outsourcing, especially in IT, in line with workforce plans",
+    "Retirement of Program 1.3 (ABRS) and transfer of business registers to ASIC; ABR Registrar responsibilities folded into Program 1.1",
+    "New tax-incentive administration to stand up: Hydrogen Production and Critical Minerals Production Tax Incentives from 1 July 2027",
+    "Self-assessing income tax exemption reforms driving a surge in ACNC charity registrations",
+    "TPB reform program (post-PwC tax-leaks): enhanced sanctions powers (from 1 July 2026) and registration framework changes (from 1 July 2027)",
+    "Tax Ombudsman recommendations on identification and management of financial abuse within the tax system",
+    "Rising cost-of-living, insolvencies and AI-enabled fraud reshaping taxpayer behaviour and risk"
+  ],
+  "challenges_and_risks": [
+    "Payment and debt performance risk: debt rising to unacceptable levels driven by economic volatility or ineffective strategies",
+    "External fraud risk: agile, treatment-resilient fraud requiring a more modern, sustainable response than the current resource-intensive model",
+    "Change capacity and capability risk: insufficient capacity/capability to deliver on government and ATO priorities",
+    "Contemporary technology risk: ageing/strained technology environment, 'technology irritants', and demand pressures degrading security, reliability and usability",
+    "Cyber-threat risk: confidentiality/integrity/availability of ATO systems compromised by external actors or malicious insiders",
+    "Misuse of data and analytics risk, including AI governance gaps",
+    "Sustainable workforce risk amid digital, AI and integrity pressures and the strategic-commissioning insourcing shift",
+    "End-to-end service and case-management risk from complex internal operating arrangements and inconsistent decision-making",
+    "Standards and ethical conduct / integrity risk to reputation and public trust (heightened by staff-involvement findings in GST fraud)",
+    "ACNC capacity strain from an unpredictable surge in charity registrations driven by NFP self-review reforms"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Operation Protego: the ATO uncovered large-scale GST refund fraud promoted on social media, with roughly $2bn in fraudulent liabilities (Apr 2022-Jun 2023), 57,000+ participants, and a further ~$2.7bn stopped before payment.",
+      "implication": "Sustained, funded demand for fraud detection, identity/credential controls, payment-integrity analytics and assurance uplift — directly aligned to the Counter Fraud enterprise priority.",
+      "source": "ATO (Operation Protego), https://www.ato.gov.au/about-ato/tax-avoidance/the-fight-against-tax-crime/our-focus/refund-fraud/gst-refund-fraud-attempts/operation-protego"
+    },
+    {
+      "summary": "The ATO investigated around 150 of its own staff over suspected involvement in the GST fraud; some employees were terminated and ex-staff have been sentenced.",
+      "implication": "Opportunity in insider-threat monitoring, internal-fraud controls, conduct/culture and integrity-framework work where independent advisers add credibility.",
+      "source": "ACS Information Age, https://ia.acs.org.au/article/2024/ato-officials-terminated-over-tiktok-gst-fraud.html"
+    },
+    {
+      "summary": "Draft retrospective foreign-resident CGT reform (flagged 2024-25 Budget) would broaden the regime and apply retrospectively, overriding two Federal Court rulings; described by the Tax Institute as 'highly controversial'.",
+      "implication": "Signals contested large-taxpayer administration and demand for policy-design, consultation and transition/implementation support.",
+      "source": "Yahoo Finance Australia, https://au.finance.yahoo.com/news/ato-capital-gains-tax-overhaul-looms-for-foreign-investors-to-retroactively-pay-their-fair-share-031717488.html"
+    },
+    {
+      "summary": "Analysis of the ATO's 2024 Annual Report (first under Commissioner Rob Heferen) noted the ATO lost four of five Part IVA anti-avoidance cases at court in 2024 amid a firmer debt-recovery and litigation posture.",
+      "implication": "Demand for legal-risk, dispute-strategy and case-management advisory in the large-corporate/multinational compliance program (non-legal advisory).",
+      "source": "Corrs Chambers Westgarth, https://www.corrs.com.au/insights/ato-priorities-a-focus-on-large-and-multinational-taxpayers-in-2024-annual-report"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "An ANAO performance audit was critical of the ATO's safeguards following the ~$2bn GST fraud; coverage characterised the report as 'damning' the ATO's controls, while the ATO publicly defended its GST-fraud controls.",
+      "implication": "An audit-driven remediation backlog (recommendations to implement) is a classic entry point for control-uplift and independent assurance engagements.",
+      "source": "Accountants Daily, https://www.accountantsdaily.com.au/regulation/19602-audit-office-damns-ato-safeguards-in-wake-of-2bn-gst-fraud ; ATO statement, https://www.ato.gov.au/media-centre/statement-on-anao-gst-performance-audit"
+    },
+    {
+      "summary": "ANAO's portfolio overview notes a prior-year qualified audit conclusion with unresolved findings on the ATO's annual performance statements, and ongoing moderate audit risk tied to a complex operating/IT environment and performance-reporting framework; the ATO featured in 15 performance audits between 2020-21 and 2024-25.",
+      "implication": "Performance-measurement framework redesign, data assurance and reporting-systems work are live, recurring needs — reinforced by the many measures still 'under development' in the plan.",
+      "source": "ANAO, https://www.anao.gov.au/work-program/portfolio/australian-taxation-office"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Payday Super program delivery and assurance",
+      "agency_need": "Stand up a major, funded, multi-year reform aligning SG payments with wages, requiring administrative design, planning and SG-management uplift.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery support and a benefits-management framework for the Payday Super Program, with optional independent gateway-style delivery assurance at design and build milestones.",
+      "rationale": "Named, government-announced reform with funding and a clear delivery timeline; the plan states the ATO is 'progressing administrative design, planning and preparation activities'. Large enough to sustain embedded delivery.",
+      "confidence": "High"
+    },
+    {
+      "area": "Counter-fraud detection and payment-integrity analytics",
+      "agency_need": "Move from a resource-intensive compliance model to real-time monitoring and prevention of external fraud after Operation Protego.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Design and build of real-time fraud-detection analytics, risk engines and payment-integrity models to flag fraudulent refunds before payment, plus data governance for AI-enabled controls.",
+      "rationale": "Funded Counter Fraud Program is an enterprise priority; the ~$2bn Operation Protego fraud and the critical ANAO audit create urgent, evidenced demand. Plan commits to 'real-time monitoring capabilities'.",
+      "confidence": "High"
+    },
+    {
+      "area": "Counter-fraud assurance and internal integrity controls",
+      "agency_need": "Remediate control weaknesses identified by the ANAO and address staff-involvement integrity findings.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent health-check and control-maturity assessment of fraud prevention/detection controls (including insider-threat and conduct controls), tracking remediation against ANAO recommendations.",
+      "rationale": "ANAO criticism of GST-fraud safeguards plus ~150 staff investigated create a clear assurance and integrity-uplift need referenced in the plan's external-fraud and standards-and-ethical-conduct enterprise risks.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-measurement framework redesign",
+      "agency_need": "Mature performance reporting after a qualified ANAO conclusion and with multiple 2025-26 measures still 'under development'.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure redesign for the 'under development' registration, SG-gap and related measures, with methodologies and data-source assurance for the annual performance statement.",
+      "rationale": "Plan explicitly flags measures 'under development' and ongoing ANAO engagement to 'strengthen and mature the quality of performance reporting'; ANAO notes a prior qualified conclusion.",
+      "confidence": "High"
+    },
+    {
+      "area": "Operating model and capability uplift ('Our Performance Evolution')",
+      "agency_need": "Respond to the APSC Capability Review by aligning resourcing, strengthening decision-making and addressing change-capacity gaps.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Target operating model and workforce-planning support for 'Our Performance Evolution', plus change management to embed collaboration and clearer accountabilities across functional/structural boundaries.",
+      "rationale": "Implementing the Capability Review response is a named enterprise priority; the plan names change-capacity and sustainable-workforce risks and an end-to-end service risk from 'complexity of our internal operating arrangements'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Debt prevention and small-business digital experience",
+      "agency_need": "Reduce a >$50bn collectable-debt position (two-thirds small business) and prevent debt through a digitalised small-business tax experience.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design plus build of streamlined small-business digital services that link to natural systems and surface real-time obligations, supporting debt prevention and reduced compliance burden.",
+      "rationale": "Digitalised small-business experience is a named enterprise priority focused on reducing cost/compliance burden and preventing debt; the firm can build and implement, fitting the ATO's stated digital-transformation foundations.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Debt strategy analytics and benefits tracking",
+      "agency_need": "Make the Payment Strategy effective via data and analytics and demonstrate movement against debt-ratio targets.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Analytics to segment debtors, target firmer-action and early-intervention strategies, and a benefits-tracking dashboard against the collectable-debt-to-net-tax target (7% to 6%).",
+      "rationale": "Plan states core strategies will be 'enhanced, using data and analytics to drive rapid progress in delivering improved payment on-time and addressing debt'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber-resilience uplift",
+      "agency_need": "Uplift cybersecurity maturity to whole-of-government requirements amid rising threats and an admitted ageing technology environment.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of critical tax/super systems and the myID/RAM Digital ID services, with a maturity-uplift roadmap.",
+      "rationale": "Managing cyberthreats is a named enterprise risk; plan commits to 'uplifting our cybersecurity capabilities to increase our maturity in line with whole-of-government requirements' and accountability for myID/RAM.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "New tax-incentive administration design",
+      "agency_need": "Progress administrative arrangements to deliver Hydrogen Production and Critical Minerals Production Tax Incentives from 1 July 2027.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Implementation planning and administrative-design support to stand up the new production tax-incentive processes ahead of the 2027 start dates.",
+      "rationale": "Two new performance measures (Programs 1.20, 1.21) commit to 'administrative arrangements progressed' for offsets from 1 July 2027 — a concrete, dated build.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request a meeting with the Payday Super Program lead (and the Deputy Commissioner responsible for superannuation) with a tailored delivery-and-assurance proposition.",
+      "priority": "High",
+      "rationale": "Payday Super is a named, funded, multi-year reform mid-design — the largest time-bound delivery opportunity and one where embedded PMO/assurance work can be won early."
+    },
+    {
+      "action": "Prepare a counter-fraud / payment-integrity capability statement linking the firm's analytics and assurance credentials to Operation Protego and the ANAO audit, and approach the Counter Fraud Program and Chief Risk Officer.",
+      "priority": "High",
+      "rationale": "Funded Counter Fraud Program plus a critical ANAO audit create urgent, evidenced demand for both build (analytics) and assurance (control uplift)."
+    },
+    {
+      "action": "Offer a short PGPA-aligned performance-measurement health check to the corporate/performance reporting branch, targeting the 'under development' measures before the late-2026 performance statement.",
+      "priority": "Medium",
+      "rationale": "Multiple measures are unfinished and the ANAO has issued a qualified conclusion; a fast, low-sensitivity advisory can open a broader relationship."
+    },
+    {
+      "action": "Develop a thought piece on operating-model and workforce design for revenue agencies responding to APSC Capability Reviews, and engage the COO and Enterprise Strategy and Design area.",
+      "priority": "Medium",
+      "rationale": "'Our Performance Evolution' is a named priority touching resourcing, decision-making and change capacity — fertile ground for organisational and change work."
+    },
+    {
+      "action": "Watch for procurements tied to the strategic-commissioning insourcing shift and pitch advisory/transition (not bulk IT outsourcing) roles consistent with reduced-outsourcing targets.",
+      "priority": "Medium",
+      "rationale": "The plan signals reduced IT outsourcing; positioning around capability-building, design and assurance avoids conflict with the insourcing agenda."
+    },
+    {
+      "action": "Brief the ACNC Commissioner's office on a proportionate support package for the charity-registration surge driven by NFP self-review reforms.",
+      "priority": "Low",
+      "rationale": "The ACNC faces an unpredictable registration spike with limited resources; a small, right-sized engagement could establish a foothold in the listed entity."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Commissioner / program lead, Payday Super Program",
+    "Counter Fraud Program leadership and the Chief Risk Officer (Risk Committee / Audit and Risk Committee)",
+    "Chief Information Officer / Chief Digital Officer (technology and myID/RAM, small-business digital experience)",
+    "Chief Operating Officer and the Enterprise Strategy and Design area (Our Performance Evolution, operating model)",
+    "Director, Corporate Planning (performance-measurement framework and annual performance statement)",
+    "Debt / Payment Strategy business owners (analytics and benefits tracking)",
+    "ACNC Commissioner's office (charity-registration surge support)"
+  ],
+  "talking_points": [
+    "Payday Super is mid-design and funded — we can embed delivery/PMO support and provide independent gateway-style assurance so the 2027 timeline holds.",
+    "After Operation Protego and the ANAO's critical audit, we can both build real-time fraud-detection analytics and independently assure the control remediation, tracking progress against ANAO recommendations.",
+    "Several of your 2025-26 measures are 'under development' and the ANAO flagged a qualified conclusion — a short PGPA-aligned redesign de-risks your late-2026 performance statement.",
+    "'Our Performance Evolution' calls out resourcing alignment, decision-making and 'technology irritants' — we can help design a target operating model and manage the change, consistent with your strategic-commissioning insourcing goals.",
+    "With collectable debt above $50bn and two-thirds owed by small business, we can sharpen debtor segmentation analytics and benefits tracking against your 7%-to-6% debt-ratio target.",
+    "We position as a capability-builder and assurer, not a bulk IT outsourcer — aligned to your Strategic Commissioning Framework targets to reduce outsourcing."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The corporate plan is rich and the named enterprise priorities map cleanly to several service lines, supporting high confidence on the headline opportunities. However, the plan does not disclose budgets, procurement timing or the ATO's appetite to use external providers — and its explicit strategic-commissioning intent to reduce IT outsourcing means digital-build opportunities must be framed as capability-building/assurance rather than displacement of in-house work. Some opportunities (new tax-incentive administration, ACNC surge) are inferred from performance measures and are smaller/lower-confidence. Parliamentary research returned no citable items, so that section is empty; ANAO and news findings rely on the supplied research, and the specific ANAO report number/recommendations were not verifiable in the material provided."
+}
