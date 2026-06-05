@@ -328,6 +328,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-office-of-financial-management-aofm": {
+      "name": "Australian Office of Financial Management (AOFM)",
+      "portfolio": "Treasury",
+      "plan_url": "https://www.aofm.gov.au/publications/corporate-plan",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
