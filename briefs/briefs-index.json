@@ -600,6 +600,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-29 (budget year 2025-26)",
       "overall_confidence": "Medium"
+    },
+    "services-australia": {
+      "name": "Services Australia",
+      "portfolio": "Finance",
+      "plan_url": "https://www.servicesaustralia.gov.au/corporate-plan",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (5-year plan to 30 June 2030)",
+      "overall_confidence": "Medium"
     }
   }
 }

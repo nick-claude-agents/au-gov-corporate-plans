@@ -1,0 +1,190 @@
+{
+  "agency_name": "Airservices Australia",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport and the Arts (note: source metadata incorrectly labelled this as 'Services Australia / Finance')",
+  "plan_period": "2025-26 (5-year plan to 30 June 2030)",
+  "executive_summary": "The supplied document is the Airservices Australia Corporate Plan 2025-26, not Services Australia (the metadata is wrong). Airservices is a corporate Commonwealth entity and Australia's air traffic management and aviation rescue fire fighting (ARFF) provider, operating with own-source 'airways' revenue under ACCC price oversight. The dominant theme this year is financial recovery: it is running an EBITDA loss in FY2024-25 (-$49.3m), heavily geared (87%), and has committed to the Minister to return to profitability and pay a dividend by FY2027-28, underpinned by a new long-term ACCC pricing agreement and an independent capital structure review. Simultaneously it is delivering large, multi-year transformation programs — OneSKY/CMATS, Western Sydney International, ARFF NexGen, the Enterprise Network Modernisation Program and digital aerodrome services — while uplifting culture (engagement 59%), workforce pipelines (ATC and firefighter trainees), cyber resilience and community-noise engagement. This combination of acute financial pressure plus a heavy capital/transformation portfolio makes it a strong prospect for financial-sustainability, costing, program-assurance, digital-delivery and workforce work.",
+  "strategic_priorities": [
+    {
+      "title": "Return towards profitability and sustainable pricing",
+      "description": "Restore financial sustainability through service excellence, cost control, efficiency initiatives, new commercial revenue streams and a principled full-cost-recovery pricing framework agreed with the ACCC, targeting a return to profit and a dividend by FY2027-28.",
+      "source_quote": "Return towards profitability through service excellence, continuous refinement, cost control and sustainable pricing."
+    },
+    {
+      "title": "Upgrade infrastructure and deliver new services",
+      "description": "Modernise infrastructure and stand up new services — OneSKY/CMATS, Western Sydney International and Ballina, ARFF NexGen fleet/facilities, FIMS for uncrewed aircraft, and service-level upgrades — to meet a once-in-a-generation increase in aviation capacity.",
+      "source_quote": "Upgrade infrastructure and deliver new services to meet the evolving needs of the aviation industry."
+    },
+    {
+      "title": "Transform organisational culture and capability",
+      "description": "Accelerate cultural transformation toward a safe, inclusive, high-performing workplace; lift engagement from 59% toward 65% (FY26) and 75%; improve role clarity, leadership and internal collaboration through targeted organisational transformation initiatives.",
+      "source_quote": "Transform our culture through organisational health and capability enhancement."
+    },
+    {
+      "title": "Improve service efficiency and effectiveness through technology",
+      "description": "Invest in next-generation technologies and future-ready infrastructure (OneSKY, ENMP, digital aerodrome services, ARFF fleet renewal) with tighter fiscal control across operating and capital expenditure.",
+      "source_quote": "Improve service efficiency and effectiveness through technology enhancement and transformation."
+    },
+    {
+      "title": "Build a future-ready workforce",
+      "description": "Cultivate critical future skills — systems integration, data analytics, automation and cyber security — and recruit/train air traffic controllers and aviation fire fighters to address industry-wide workforce shortages.",
+      "source_quote": "Develop a skilled, adaptable workforce able to meet future demands."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Aviation White Paper (2024) setting national priorities including airspace reform and the Aircraft Noise / Aviation Industry Ombudsman schemes",
+    "Ministerial Statement of Expectations requiring return to profitability and a dividend by FY2027-28 and independent biennial capital structure reviews",
+    "ACCC price-notification process and development of a long-term pricing agreement (FY2026-27 to FY2030-31) for full cost recovery",
+    "OneSKY/CMATS civil-military air traffic management harmonisation with Department of Defence (valued at ~$2.7bn over 20 years)",
+    "Opening of Western Sydney International Airport by end of 2026 and new services at Ballina; planning for Melbourne and Perth runways",
+    "Entry of uncrewed aircraft (UAS) and advanced air mobility, requiring FIMS and a UTM ecosystem",
+    "Net zero by 2050 commitment and Environmental Sustainability Strategy 2024-2030 (43% scope 1&2 reduction by 2030)",
+    "Full review and redesign of the Corporate Plan KPIs to strengthen legislative alignment",
+    "PFAS and asbestos contaminated-site remediation obligations exceeding current funding capacity"
+  ],
+  "challenges_and_risks": [
+    "Financial sustainability: EBITDA loss, NPAT loss of $115.4m forecast FY25-26, gearing at 87%, and inability to set EBITDA / cost-per-IFR-hour targets beyond one year due to uncertainty",
+    "Revenue/pricing risk: heavy reliance on traffic volumes beyond Airservices' control and ACCC-regulated pricing",
+    "PFAS remediation costs acknowledged as beyond the current funding model, likely requiring Commonwealth and airport support",
+    "Delivery risk on major transformational projects (OneSKY, WSI) and the broader change/transformation portfolio",
+    "Workforce shortages in ATC and ARFF roles in a globally competitive, STEM/cyber-heavy talent market",
+    "Cultural challenges — engagement score of 59% with an ambition of 75%",
+    "Protective security and cyber threat exposure across critical operational technology",
+    "Climate change increasing frequency/severity of weather events that disrupt services and damage infrastructure"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Financial sustainability and return-to-profit roadmap",
+      "agency_need": "Committed to the Minister to return to profitability and pay a dividend by FY2027-28 while running EBITDA/NPAT losses and 87% gearing, with cost-out and efficiency initiatives across the organisation.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and cost-base diagnostic supporting the return-to-profit roadmap — efficiency/cost-reduction options, scenario modelling of traffic sensitivities, and benefits tracking against the FY27-28 dividend commitment.",
+      "rationale": "Priority 1 is explicitly financial recovery; the plan already uses an independent expert for financial-outlook modelling and an independent capital structure review, showing willingness to buy external financial advice.",
+      "confidence": "High"
+    },
+    {
+      "area": "Activity-based costing to underpin ACCC pricing",
+      "agency_need": "Developing a long-term pricing agreement with the ACCC for full cost recovery and has introduced a new 'cost per IFR flight hour' KPI requiring robust unit-cost data.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "An activity-based costing model linking service costs to the regulated price notification, defensible to the ACCC, plus support to operationalise the cost-per-IFR-flight-hour metric.",
+      "rationale": "Pricing for full cost recovery and a new unit-cost KPI both require costing rigour; the plan stresses 'efficient service delivery' and benchmarking to global peers.",
+      "confidence": "High"
+    },
+    {
+      "area": "Independent assurance of OneSKY and WSI delivery",
+      "agency_need": "Committed to efficient delivery of key transformational projects (OneSKY/CMATS, WSI) and states it reviews progress through internal and external assurance.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent gateway-style delivery assurance / health checks at major milestones for OneSKY and WSI, reporting to the Board Audit and Risk Committee on schedule, cost and benefits realisation risk.",
+      "rationale": "The plan names project-delivery risk as a material risk and explicitly references internal and external assurance on major projects, with a 2026 WSI go-live deadline creating time-bound demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Program/PMO and benefits management for the capital portfolio",
+      "agency_need": "Running a large, concurrent capital and transformation portfolio (OneSKY, ENMP, ARFF NexGen, service-level upgrades, FIMS, WSI) under a strict prioritisation framework and tighter fiscal control.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Portfolio/PMO uplift and a benefits-management framework tying capital investments to KPIs, plus embedded delivery support on the highest-risk workstreams.",
+      "rationale": "The plan calls out 'portfolio and project delivery capabilities' and a prioritisation framework 'directly linked to delivering against our KPIs', indicating a benefits/PMO maturity need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Enterprise technology refresh and service digitalisation",
+      "agency_need": "Delivering enterprise technology platform modernisation, the Enterprise Network Modernisation Program, digital aerodrome services, A-CDM, DFPS and FIMS to improve resilience and customer experience.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery, service design and systems/integration delivery for the enterprise technology refresh and digital aerodrome/network programs, with business and process analysis to support service transition.",
+      "rationale": "Multiple named digitalisation initiatives and an enterprise technology refresh of ERP, rostering and risk tools provide concrete, buildable scope where the firm can implement, not just advise.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber resilience uplift for operational and enterprise technology",
+      "agency_need": "Operates in an evolving threat landscape, applies a 'cyber secure by design' principle, and is investing in maturing cyber capabilities across critical CNS and business systems.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of the modernised network/operational technology (ENMP, WSI remote tower, OneSKY) and cyber advisory to mature secure-by-design controls.",
+      "rationale": "Cyber is named as a material protective-security risk and an explicit investment area; ENMP is positioned to deliver improved cyber security, creating assurance demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Culture transformation and workforce capability",
+      "agency_need": "Engagement score of 59% against a 75% ambition, a cultural transformation program, operating-model changes, and shortages of ATC and ARFF staff in a competitive talent market.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Strategic workforce planning and a capability/culture uplift program — leadership development, role-clarity and organisational design support aligned to the operating-model change.",
+      "rationale": "Priorities 3 and 5 and the workforce risk explicitly target culture, engagement, role clarity and critical-skills pipelines, with quantified engagement and trainee targets.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "PFAS remediation funding model",
+      "agency_need": "PFAS remediation costs are acknowledged as beyond the current funding model, requiring a more suitable funding approach and engagement with the Commonwealth and airports.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial advisory engagement to model PFAS liability and design a sustainable, multi-party funding model (Commonwealth, airports, Airservices) with cost and liability scenarios.",
+      "rationale": "The plan states the full cost of remediation exceeds current funding capacity and that Airservices is 'actively working with stakeholders to devise a more suitable funding model'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Community and stakeholder engagement on noise/airspace change",
+      "agency_need": "Increasing community scrutiny of aircraft noise; commitments under the Community Engagement Standard, NCIS response standards and ANO recommendation responses, plus engagement on flightpath/airspace changes.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Community and stakeholder engagement support for flightpath/airspace changes and noise action plans, including consultation design and content/publishing aligned to the Community Engagement Standard.",
+      "rationale": "The Aviation White Paper, ANO scheme and named community-impact KPIs indicate sustained, public-facing engagement demand, particularly around WSI and Brisbane.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Enterprise risk and assurance framework for the change portfolio",
+      "agency_need": "Notes that its risk profile shifts as it adapts its operating model and transformation portfolios, with a '3 lines' model and Board Risk Appetite Statement.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A risk-framework refresh and change-risk assurance support to embed transformation risk into the enterprise risk framework reported to the Board Audit and Risk Committee.",
+      "rationale": "The plan explicitly flags change-program risk and the need to incorporate emerging risks into active risk management; this is a credible but more general governance need.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Correct the account record: confirm this is Airservices Australia and re-baseline the BD plan against the Infrastructure/Transport portfolio, not Services Australia/Finance.",
+      "priority": "High",
+      "rationale": "The source metadata is wrong; pursuing the right entity, decision-makers and panels depends on fixing this first."
+    },
+    {
+      "action": "Approach the CFO / finance function with a financial-sustainability and activity-based costing proposition tied to the ACCC long-term pricing agreement and the FY27-28 return-to-profit commitment.",
+      "priority": "High",
+      "rationale": "Financial recovery is Priority 1, the entity already buys independent financial modelling, and the pricing agreement is being developed now — a clear, time-bound window."
+    },
+    {
+      "action": "Offer the Board Audit and Risk Committee / COO an independent delivery-assurance role across OneSKY and WSI ahead of the end-2026 WSI go-live.",
+      "priority": "High",
+      "rationale": "Project-delivery risk is named as material and the WSI deadline is fixed; assurance demand is acute and the plan references external assurance already."
+    },
+    {
+      "action": "Prepare a Digital & ICT delivery capability statement targeting the Enterprise Network Modernisation Program, digital aerodrome services and the enterprise technology refresh.",
+      "priority": "Medium",
+      "rationale": "Several named, buildable digital programs are underway where the firm can implement and integrate, differentiating from advisory-only competitors."
+    },
+    {
+      "action": "Watch for the ACCC price notification, the independent capital structure review outcomes, and any PFAS funding decision as procurement triggers.",
+      "priority": "Medium",
+      "rationale": "Each of these is flagged as unresolved in the plan and is likely to generate downstream financial, costing and advisory work."
+    },
+    {
+      "action": "Develop a workforce-and-culture pitch (engagement uplift, strategic workforce planning, operating-model design) for the Chief People Officer.",
+      "priority": "Low",
+      "rationale": "Culture and workforce are explicit five-year priorities with quantified gaps, but the need is broader and less time-bound than the financial and program opportunities."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Financial Officer / finance function (financial sustainability, costing, ACCC pricing, PFAS funding)",
+    "Chief Operating Officer and the OneSKY and Western Sydney International program leadership",
+    "Board Audit and Risk Committee and the Chief Risk Officer (assurance, risk framework)",
+    "Chief Information/Technology Officer and Enabling Services (ENMP, enterprise technology refresh, digital aerodrome services)",
+    "Chief Information Security Officer / cyber function",
+    "Chief People Officer / Head of Workforce Planning and the culture transformation program",
+    "Communications and Media / community engagement function (noise, flightpath change)"
+  ],
+  "talking_points": [
+    "Your Corporate Plan commits to returning to profitability and a dividend by FY2027-28 from an EBITDA loss and 87% gearing — we can help build the cost-out roadmap and benefits tracking that makes that commitment auditable to the Board and Minister.",
+    "With a long-term ACCC pricing agreement under development and a new cost-per-IFR-flight-hour KPI, a defensible activity-based costing model is the foundation for full cost recovery.",
+    "OneSKY and WSI carry named delivery risk and a fixed 2026 deadline — independent gateway-style assurance reporting to your Audit and Risk Committee de-risks the most exposed programs.",
+    "Your enterprise technology refresh, ENMP and digital aerodrome services are buildable now — unlike advisory-only firms, we can design and implement, not just recommend.",
+    "PFAS remediation is flagged as beyond your current funding model; we can model the liability and design a multi-party funding approach for your negotiations with the Commonwealth and airports.",
+    "An engagement score of 59% against a 75% ambition during an operating-model change is exactly where structured workforce planning and culture uplift pays back."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "Two important caveats. First, the source metadata is incorrect: the attached document is the Airservices Australia Corporate Plan 2025-26 (Infrastructure/Transport portfolio, a corporate Commonwealth entity), not Services Australia (Finance portfolio). This analysis is based entirely on the actual plan text. Second, the EXTERNAL RESEARCH section concerns Services Australia and largely failed/returned items about DEWR/Workforce Australia — none of it is relevant to Airservices, so news_and_controversies, anao_findings and parliamentary_matters are returned empty rather than populated with mismatched or unverified material. The opportunity assessment is well grounded in the plan, but no Airservices-specific external validation (ANAO audits on OneSKY/financial sustainability, Senate Estimates) was available; these should be researched before engagement, as OneSKY in particular has a long public history of cost and schedule scrutiny."
+}
