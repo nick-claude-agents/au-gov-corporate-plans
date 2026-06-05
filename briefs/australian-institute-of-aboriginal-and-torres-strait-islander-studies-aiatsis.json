@@ -1,0 +1,166 @@
+{
+  "agency_name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+  "portfolio": "Prime Minister and Cabinet",
+  "plan_period": "2025-2029 (budget year 2025-26 detailed)",
+  "executive_summary": "AIATSIS is a small, corporate Commonwealth entity and the only National Cultural Institution dedicated to First Nations cultures, operating as a custodial/collecting institution under the AIATSIS Act 1989. Its dominant near-term agenda is the Ngurra National Aboriginal and Torres Strait Islander Cultural Precinct — a major capital build comprising a National Indigenous Knowledge and Cultural Centre and a National Resting Place (a Revive policy commitment) — alongside large-scale collection digitisation (against a UNESCO 2025 audio-visual obsolescence deadline) and delivery of its Digital Strategy 2021-2030. The plan candidly flags financial sustainability pressure, the need to diversify funding, workforce attraction/retention competition, immature/growing risk and governance frameworks, and an expanding staffing profile. For the Consulting Firm, the strongest, most time-bound demand sits in program delivery and assurance of Ngurra, financial-sustainability and costing work, digitisation/ICT delivery, and governance/risk framework uplift — all proportionate to a modestly-resourced institution.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver the Ngurra Cultural Precinct (incl. National Resting Place)",
+      "description": "Build a National Indigenous Knowledge and Cultural Centre (extensions to the Maraga building) and a National Resting Place for repatriated ancestral remains — a major multi-year capital and program undertaking and a Commonwealth commitment under the Revive National Cultural Policy.",
+      "source_quote": "Ngurra will comprise of two distinct elements: a National Indigenous Knowledge and Cultural Centre... and a National Resting Place (NRP)... a Commonwealth Government commitment under the National Cultural Policy, Revive."
+    },
+    {
+      "title": "Preserve and digitise the national collection",
+      "description": "Grow, preserve, store and digitise the world's largest collection of its kind, including the Central Australian Digitisation Facility and On-Country Digitisation Initiative, against archival standards and the UNESCO 2025 audio-visual obsolescence deadline.",
+      "source_quote": "Impacts of audio-visual obsolescence as detailed under the UNESCO deadline 2025 statement."
+    },
+    {
+      "title": "Modernise ICT and implement the Digital Strategy",
+      "description": "Modernise and integrate the ICT environment to improve knowledge management and discoverability of the collection, and implement the AIATSIS Digital Strategy 2021-2030 including collection management infrastructure upgrades.",
+      "source_quote": "Ongoing modernisation and integration of our ICT environment to support improved knowledge management and discoverability of our collection."
+    },
+    {
+      "title": "Financial sustainability and funding diversification",
+      "description": "Respond to a fiscally challenging environment by developing a multi-channel funding approach (government grants, philanthropy, corporate sponsorship, revenue-generating activity), implementing cost-efficient practices and increasing financial literacy of staff and Council.",
+      "source_quote": "Develop a multi-channel funding approach, combining government grants, philanthropic support, corporate sponsorships, and revenue-generating activities."
+    },
+    {
+      "title": "Repatriation / Return of Cultural Heritage",
+      "description": "Facilitate the return of ancestral remains and cultural heritage material from overseas institutions, private collectors and foreign governments, including temporary custodianship and return to Traditional Custodians.",
+      "source_quote": "Continue to advocate for repatriation policies and engage in diplomatic efforts to ensure support for the return of cultural objects."
+    },
+    {
+      "title": "Strengthen governance, risk and workforce capability",
+      "description": "Develop risk management practices and revise internal governance frameworks to accommodate growth, develop a workforce plan addressing capability gaps, strengthen leadership and increase Indigenous representation.",
+      "source_quote": "Revise internal governance frameworks to accommodate growth."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Revive (National Cultural Policy) commitment underpinning the National Resting Place and Ngurra precinct",
+    "UNESCO 2025 deadline on audio-visual obsolescence forcing urgency on digitisation",
+    "AIATSIS Digital Strategy 2021-2030 driving ICT modernisation and collection-management infrastructure upgrade",
+    "Growing demand and expectation for AIATSIS expertise, collections and advisory services",
+    "Expanding staffing profile and operating model as the institution grows toward Ngurra",
+    "Indigenous Data Sovereignty and governance principles shaping digital research infrastructure",
+    "Fiscally constrained environment requiring funding diversification beyond appropriations",
+    "National truth-telling process and reporting on the situation and status of Indigenous cultures and heritage"
+  ],
+  "challenges_and_risks": [
+    "Financial sustainability — explicitly named 'fiscally challenging environment' and risk that systems, policies and processes are not sustainable or fit for purpose",
+    "Failure to grow, preserve, manage and store physical and digital collections and data assets",
+    "Audio-visual obsolescence pressing against the UNESCO 2025 deadline",
+    "Workforce attraction and retention under public-sector salary competition, with focus on Aboriginal and Torres Strait Islander staff",
+    "Internal operating environment change as staffing grows to reflect expansion — governance frameworks needing revision",
+    "Developing/immature risk management practices being strengthened",
+    "Managing multiple specialised areas of professional expertise in a dynamic environment",
+    "Delivering a major capital precinct (Ngurra) — a large program relative to the institution's size and capability",
+    "Acknowledged performance-measure limitations (data source/system constraints on licences and Code of Ethics downloads)"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Ngurra precinct program delivery and assurance",
+      "agency_need": "AIATSIS must deliver a major multi-year capital build (Knowledge and Cultural Centre plus National Resting Place) that is large relative to its in-house program capability, with a Commonwealth Revive commitment attached.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Establish a program/PMO and benefits-management framework for Ngurra, with an embedded program manager and stage-gate delivery assurance; supported by independent gateway-style assurance as a secondary Audit & Assurance offering.",
+      "rationale": "Ngurra is the plan's flagship 'major project', is time-bound by a national policy commitment, and the plan separately admits project/program management capability needs ('Enhanced financial performance and resource, project and program management'). Clear, named, multi-year demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Financial sustainability and funding diversification",
+      "agency_need": "The plan names a fiscally challenging environment, risk that the entity cannot deliver core services because processes are not sustainable, and a goal to build a multi-channel funding model and lift financial literacy.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and costing model to underpin a diversified funding strategy (grants, philanthropy, corporate sponsorship, revenue activities), plus a financial-literacy uplift for executives and Council.",
+      "rationale": "Directly traceable to the 'fiscally challenging environment' risk and the explicit management actions on diversified funding and financial literacy. As a corporate entity under cost pressure, this is a strong, proportionate prospect.",
+      "confidence": "High"
+    },
+    {
+      "area": "Collection digitisation and ICT modernisation",
+      "agency_need": "Implement the Digital Strategy 2021-2030, upgrade collection management infrastructure, increase digitised/described content, and address audio-visual obsolescence ahead of the UNESCO 2025 deadline.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and solution implementation for collection-management/digital-archive infrastructure, systems integration and process analysis to lift digitisation throughput and discoverability; with Data, Analytics & Information as a secondary line for metadata/information strategy.",
+      "rationale": "The plan repeatedly references the Digital Strategy, the Central Australian Digitisation Facility, On-Country Digitisation, descriptive metadata targets and the UNESCO deadline. The firm can build and implement, not just advise — a differentiator here.",
+      "confidence": "High"
+    },
+    {
+      "area": "Governance and risk framework uplift",
+      "agency_need": "AIATSIS is strengthening governance and 'developing' risk management practices and intends to revise governance frameworks to accommodate growth.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance framework and enterprise risk-framework refresh aligned to the Commonwealth Risk Management Policy 2023, including Audit and Risk Committee effectiveness review; supported by Audit & Assurance as secondary.",
+      "rationale": "The plan states risk practices are being 'developed' and governance frameworks revised to accommodate growth — a candid admission of maturing rather than mature frameworks. Enabling/corporate work is lower-sensitivity and winnable.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce planning and capability uplift",
+      "agency_need": "Develop a workforce plan addressing capabilities, requirements and gaps; strengthen leadership; increase Indigenous representation; and manage attraction/retention under salary competition.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce plan and capability framework mapping core capabilities (public programs, visitor experience, research, education) against gaps, with leadership development and an Employee Value Proposition refresh.",
+      "rationale": "The capability section explicitly commits to a workforce plan and capability mapping, and workforce competition is named as a risk. Demand is real though general; right-sized as a short framework piece.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measure framework redesign",
+      "agency_need": "The plan flags changed/removed measures and explicit data-source limitations on two measures, and commits to continually refining measures and methodologies.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review to resolve data-source limitations and strengthen outcome (vs output) indicators, with a supporting measurement methodology.",
+      "rationale": "The plan openly notes measure changes and limitations (licence counts, Code of Ethics download de-duplication) — a clear evidence-quality gap. Modest, well-fitted advisory scope.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Funding diversification and stakeholder/philanthropic engagement",
+      "agency_need": "Increase revenue from corporate, private and philanthropic sources and grow membership/visitor engagement to support sustainability.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "A stakeholder and philanthropic engagement strategy and supporting communications to build corporate sponsorship and membership pipelines around Ngurra and the collection.",
+      "rationale": "Performance measures target increased corporate/philanthropic revenue and membership growth; engagement support is plausible but secondary to the financial-strategy work.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Request an introductory meeting with the Deputy CEO / Chief Risk Officer and CFO function to discuss Ngurra delivery assurance and financial sustainability, leading with a tailored capability statement covering PMO/program delivery, gateway assurance and costing.",
+      "priority": "High",
+      "rationale": "Ngurra is the dominant, time-bound initiative and the entity admits project/program and financial management capability needs; the DCEO/CRO and CFO own the relevant risks and budget."
+    },
+    {
+      "action": "Prepare a short thought piece on delivering and assuring major cultural-infrastructure programs in small Commonwealth entities (PMO, benefits management, stage-gate assurance), pitched proportionately to AIATSIS' scale.",
+      "priority": "High",
+      "rationale": "Positions the firm credibly on the flagship program and demonstrates understanding of a small entity delivering a large capital project."
+    },
+    {
+      "action": "Offer a scoping conversation on collection-digitisation/ICT modernisation tied to the Digital Strategy 2021-2030 and the UNESCO 2025 deadline, with the head of the Collections/Digital function.",
+      "priority": "Medium",
+      "rationale": "There is an explicit, deadline-driven digitisation need and the firm can implement, not just advise — a clear differentiator."
+    },
+    {
+      "action": "Develop a right-sized financial-sustainability and costing proposal supporting the multi-channel funding model, including a financial-literacy session for Council.",
+      "priority": "Medium",
+      "rationale": "Directly responds to the named fiscal risk and the explicit action to lift Council/staff financial literacy."
+    },
+    {
+      "action": "Independently verify recent ANAO activity, Senate Estimates (PM&C portfolio) exchanges and media coverage on AIATSIS before any approach, as external research could not be completed.",
+      "priority": "Medium",
+      "rationale": "The supplied research returned no verified findings due to tool failure; a fresh scan would de-risk messaging and surface any Ngurra funding or governance issues."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Chief Executive Officer (also Chief Risk Officer) — risk, governance and executive delivery oversight",
+    "Chief Executive Officer and Executive leadership team",
+    "Chief Financial Officer / finance function — sustainability, costing, funding diversification",
+    "Ngurra major-project lead / project sponsor",
+    "Head of Collections and the Digital/ICT function (Digital Strategy implementation)",
+    "People & Capability / HR lead (workforce planning)",
+    "AIATSIS Council Audit and Risk Committee chair"
+  ],
+  "talking_points": [
+    "Ngurra is a once-in-a-generation build for AIATSIS — a disciplined PMO, benefits framework and independent stage-gate assurance protect a Revive-backed Commonwealth commitment delivered by a small institution.",
+    "Your plan is candid about a fiscally challenging environment — a financial-sustainability review and costing model can underpin a credible, diversified funding case to government and philanthropy.",
+    "The UNESCO 2025 audio-visual obsolescence deadline and Digital Strategy 2021-2030 create urgent, deadline-driven digitisation demand — and we can build and implement collection-management infrastructure, not just advise.",
+    "You note governance and risk frameworks are being developed and revised to accommodate growth — we can refresh the enterprise risk framework against the Commonwealth Risk Management Policy 2023 and review ARC effectiveness.",
+    "Several performance measures have changed or carry data-source limitations — a PGPA-aligned measure redesign would strengthen the evidence behind your impact story.",
+    "A growing workforce and salary competition make a workforce plan and capability map a practical, lower-sensitivity early engagement."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a relatively short, high-level corporate plan from a small corporate Commonwealth entity, so several opportunities are inferred from candid risk statements rather than named procurements. Offerings have been deliberately right-sized to a modest budget; the largest (Ngurra) depends on capital funding profile and timing that the plan does not detail. The external research section returned no verified news, ANAO or Parliamentary findings because the search tool failed — those sections are empty by design and should be independently re-checked (PM&C portfolio Estimates, ANAO, and media on Ngurra funding/governance) before engagement. No findings were invented from memory."
+}

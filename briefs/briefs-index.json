@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-04",
+  "generated": "2026-06-05",
   "briefs": {
     "geoscience-australia": {
       "name": "Geoscience Australia",
@@ -303,6 +303,14 @@
       "plan_url": "https://humanrights.gov.au/our-work/commission-general/publications/corporate-plan-2024-2025",
       "generated_at": "2026-06-04",
       "plan_period": "2025-26 (covering 2025-2029)",
+      "overall_confidence": "Medium"
+    },
+    "australian-institute-of-aboriginal-and-torres-strait-islander-studies-aiatsis": {
+      "name": "Australian Institute of Aboriginal and Torres Strait Islander Studies (AIATSIS)",
+      "portfolio": "Prime Minister and Cabinet",
+      "plan_url": "https://aiatsis.gov.au/sites/default/files/2024-08/aiatsis-corporate-plan-2024-2028.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-2029 (budget year 2025-26 detailed)",
       "overall_confidence": "Medium"
     }
   }
