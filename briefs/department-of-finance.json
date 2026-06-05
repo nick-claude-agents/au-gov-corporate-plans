@@ -1,0 +1,179 @@
+{
+  "agency_name": "Department of Finance",
+  "portfolio": "Finance",
+  "plan_period": "2025-26",
+  "executive_summary": "The Department of Finance is a central agency and steward of the Commonwealth's resource-management, procurement, grants, risk and property frameworks, and operator of whole-of-government enabling services (GovCMS, GovTEAMS, ICON, shared services, GovAI). For 2025-26 it is focused on supporting the post-election fiscal agenda, accelerating safe AI adoption across the APS (GovAI), implementing the Data and Digital Government Strategy and Digital ID, building APS capability in the frameworks it owns, embedding APS Net Zero by 2030 and climate disclosure, and leading the National Security Office Precinct. Importantly for BD, Finance is deliberately insourcing ICT and reducing contractor spend by up to $17m to 2028-29 under the APS Strategic Commissioning Framework, so it explicitly favours external help only where independent or specialist skills cannot be sourced internally. The strongest, most credible openings are therefore specialist/independent assurance, evaluation, capability uplift, data governance and program-assurance work rather than commodity staff augmentation. As framework owner and the entity newly subject to ANAO performance-statement audit, it is a discerning buyer.",
+  "strategic_priorities": [
+    {
+      "title": "Accelerate safe AI adoption across the APS (GovAI)",
+      "description": "Finance, with the DTA and APSC, is expanding GovAI from a 2024-25 pilot to APS-wide in 2025-26 as a foundational enabling service providing AI infrastructure, centralised applications and expert advice.",
+      "source_quote": "In collaboration with the Digital Transformation Agency, the Australian Public Service Commission and other key partners, we are delivering GovAI."
+    },
+    {
+      "title": "Implement the Data and Digital Government Strategy and Digital ID",
+      "description": "Progressing initiatives in the Data and Digital Government Strategy Implementation Plan and broadening adoption of the economy-wide Digital ID System; ONDC operating the DATA Scheme.",
+      "source_quote": "implementing the Data and Digital Government Strategy, including through enhancing the use of data across government to improve policy advice and broadening adoption of the economy-wide Digital ID system"
+    },
+    {
+      "title": "Build APS capability in the frameworks Finance owns",
+      "description": "Supporting capability uplift across the APS in AI, procurement, regulation, performance, accounting and finance through advice, training, communities of practice and outreach.",
+      "source_quote": "supporting the development of capability across the APS in key areas including AI, procurement, regulation, performance, accounting and finance"
+    },
+    {
+      "title": "Strengthen procurement and grants integrity and transparency",
+      "description": "As owner of the Commonwealth Procurement Framework and coordinated panels, enhancing procurement integrity, transparency and ethical supplier conduct.",
+      "source_quote": "enhancing the integrity and transparency of the Commonwealth's procurement and grants frameworks"
+    },
+    {
+      "title": "Embed APS Net Zero by 2030 and climate disclosure",
+      "description": "Leading APS emissions reporting and introducing climate disclosure requirements for Commonwealth entities and companies.",
+      "source_quote": "progressing the government's commitment to reduce Australian Public Service (APS) emissions to net zero by 2030"
+    },
+    {
+      "title": "Deliver the National Security Office Precinct",
+      "description": "Leading development of a permanent accommodation and capability solution for several national security and other Commonwealth agencies.",
+      "source_quote": "leading the development of the National Security Office Precinct"
+    },
+    {
+      "title": "Progress regulatory reform and regtech for productivity",
+      "description": "Driving modern, fit-for-purpose regulation in a digital age and improving regulator performance, capability and culture.",
+      "source_quote": "progressing regulatory reforms to boost productivity, improve and support regulator performance"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Post-election government agenda: improving the structural budget position, lifting productivity, net zero transition",
+    "APS-wide AI adoption via GovAI and the need for safe, ethical AI infrastructure and advice",
+    "Data and Digital Government Strategy implementation and Digital ID System expansion",
+    "Commonwealth Climate Disclosure requirements and APS Net Zero by 2030 (emissions reporting now mandated)",
+    "Statutory review of the Data Availability and Transparency Act 2022 expected to report in 2025-26",
+    "Machinery-of-government transfer of parliamentary expense functions to IPEA from 1 July 2026",
+    "APS Strategic Commissioning Framework driving insourcing and a ~$17m reduction in contractor/ICT spend to 2028-29",
+    "First-ever ANAO audit of Finance's annual performance statements in 2024-25, raising the performance-measurement bar"
+  ],
+  "challenges_and_risks": [
+    "Capability risk: sustaining the right skills internally while balancing limited use of external capability",
+    "Insourcing of ICT (incl. Central Budget Management System) reduces appetite for outsourced ICT delivery",
+    "Data risk: leading and applying effective governance, management, use and sharing of data across government",
+    "Digital disruption risk: preparing for AI and emerging technologies to disrupt strategic objectives",
+    "Reputation/agility risks tied to its central-agency advisory role and shifting government priorities",
+    "Climate risk to Commonwealth-owned assets under Comcover insurance and fiscal disaster-recovery pressures",
+    "Comcover financial sustainability (special account coverage and asset-to-liability ratio thresholds)",
+    "Delivery and compliance risk on the National Security Office Precinct (construction, security, accommodation)"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Comcover risk-management maturity benchmarking and evaluation",
+      "agency_need": "Finance must independently evaluate General Government Sector risk-maturity results from the biennial Comcover Benchmarking Survey (next measured 2026-27).",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent evaluation of the Comcover Risk Management Benchmarking Survey results - assessing each entity's maturity level and the collective GGS maturity, with a key-findings report.",
+      "rationale": "The plan states evaluation is 'undertaken by an external consultant', making this a recurring, named, specialist procurement that fits the firm's independent-assurance offering.",
+      "confidence": "High"
+    },
+    {
+      "area": "National Security Office Precinct delivery assurance",
+      "agency_need": "Finance is leading a major, long-running property/construction program with critical accommodation, capability and security requirements for national-security agencies.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Independent gateway-style delivery assurance and PMO support across the Precinct program lifecycle, including schedule, cost and benefits assurance (probity support available via a secondary line).",
+      "rationale": "A named multi-year capital program with high complexity and security stakes is a classic candidate for independent program assurance; the plan flags it as a reportable priority in the 2025-26 performance statements.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "APS capability uplift in the frameworks Finance owns",
+      "agency_need": "Finance is committed to lifting APS capability in procurement, regulation, performance, accounting, finance and AI through training, communities of practice and outreach.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Design and delivery of capability-uplift and learning programs (curriculum, facilitation, communities of practice) for the resource-management frameworks, complementing Finance's in-house offerings.",
+      "rationale": "The plan repeatedly names capability uplift as a stewardship priority; specialist instructional-design and training capacity is a defensible gap even under insourcing.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Climate disclosure and APS emissions reporting",
+      "agency_need": "Finance is leading greenhouse-gas emissions reporting for government operations and introducing climate-disclosure requirements for Commonwealth entities and companies.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Framework design and implementation support for Commonwealth climate-disclosure and emissions-reporting obligations, plus readiness assessments to embed the requirements across entities.",
+      "rationale": "New disclosure obligations and an APS Net Zero by 2030 target create time-bound demand for reporting methodology, guidance and assurance; the plan lists this as a 2025-26 performance focus.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data Strategy 2025-28 and data governance uplift",
+      "agency_need": "Finance is maturing as a data-driven organisation under its Data Strategy 2025-28, focused on data governance, management, tooling and analytics, led by the Chief Data Officer.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data-governance framework design and analytics enablement - data lifecycle management, business-intelligence tooling adoption, and capability maturity to support policy and budget advice.",
+      "rationale": "The plan names a current strategy, four focus areas and a CDO, signalling active investment; data work is also a flagged strategic risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measurement framework continuous improvement",
+      "agency_need": "Following the first ANAO audit of its performance statements, Finance is committed to strengthening its performance information and measures.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Independent review and redesign of PGPA-aligned performance measures and methodologies, addressing measures with no target set (e.g. Digital ID 5.2) and proxy/qualitative weaknesses.",
+      "rationale": "The plan notes ANAO scrutiny and a continuous-improvement principle, and several measures have no current-year targets or newly-introduced targets to be reviewed for 2026-27.",
+      "confidence": "Low"
+    },
+    {
+      "area": "GovAI APS-wide rollout change and adoption",
+      "agency_need": "GovAI is moving from pilot to APS-wide deployment as a foundational enabling service requiring safe, ethical adoption.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Change-management and adoption support for the GovAI rollout - stakeholder readiness, governance for safe use, and benefits tracking across participating agencies.",
+      "rationale": "A named, scaling whole-of-government initiative creates genuine demand; however Finance's insourcing posture and co-delivery with DTA/APSC temper the opening.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Cyber resilience of whole-of-government ICT platforms",
+      "agency_need": "Finance commits to system modernisation, platform uplift and cyber-security resilience across its WoG ICT services.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Security assessment and assurance of key platforms (GovCMS, GovTEAMS, ICON, PDMS, PEMS), with advisory on resilience uplift.",
+      "rationale": "The plan names cyber resilience as an ICT emphasis; specialist security assurance is the type of work less affected by ICT insourcing.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Risk, Claims and Regulatory Reform Division about the next Comcover Risk Management Benchmarking evaluation (measured in 2026-27), positioning an independent evaluation/assurance capability statement now.",
+      "priority": "High",
+      "rationale": "The plan explicitly uses an external consultant for this recurring, specialist evaluation - a clear, named, low-political-sensitivity procurement with lead time to influence scope."
+    },
+    {
+      "action": "Engage the Property and Construction Division on independent delivery assurance for the National Security Office Precinct, leading with gateway-style assurance and benefits management.",
+      "priority": "Medium",
+      "rationale": "A major multi-year capital program with security complexity is a strong assurance prospect and is flagged for performance reporting in 2025-26."
+    },
+    {
+      "action": "Prepare a short thought piece on Commonwealth climate-disclosure readiness and emissions-reporting methodology for the relevant frameworks/divisions ahead of broader rollout.",
+      "priority": "Medium",
+      "rationale": "New obligations create time-bound design and assurance demand; a credible point of view opens a first conversation with the framework owners."
+    },
+    {
+      "action": "Map the firm's panel positions (management consulting and digital services) against Finance's preferred buying channels, and frame all offers as 'independent/specialist' to align with the Strategic Commissioning Framework.",
+      "priority": "High",
+      "rationale": "Finance is reducing contractor and ICT spend and only buys external help where skills cannot be sourced internally; positioning must respect this to be credible."
+    },
+    {
+      "action": "Brief the Chief Data Officer's team on data-governance and analytics-enablement support under the Data Strategy 2025-28.",
+      "priority": "Medium",
+      "rationale": "A current strategy with named focus areas and executive ownership indicates active investment and a defined entry point."
+    }
+  ],
+  "engagement_targets": [
+    "Risk, Claims and Regulatory Reform Division (Comcover benchmarking, regulatory reform, climate risk)",
+    "Property and Construction Division (National Security Office Precinct, WoAG property services)",
+    "Chief Data Officer / enterprise data governance and analytics functions (Data Strategy 2025-28)",
+    "Procurement Division (Commonwealth Procurement Framework integrity, coordinated panels)",
+    "ICT Division (platform modernisation, cyber resilience)",
+    "Audit and Risk Committee and its Performance Reporting Subcommittee (performance-statement uplift)",
+    "People and Culture Committee / capability functions (APS capability uplift programs)",
+    "Chief Operating Officer / CFO group (Financial Analysis, Reporting and Management Division)"
+  ],
+  "talking_points": [
+    "We respect Finance's Strategic Commissioning posture - we bring independent, specialist assurance and evaluation, not staff augmentation, exactly where the plan says external skills are warranted.",
+    "The Comcover GGS risk-maturity evaluation is a recurring independent-evaluation need we are built to deliver - let's discuss scope ahead of the 2026-27 measurement cycle.",
+    "As you lead the National Security Office Precinct, independent gateway-style delivery assurance protects schedule, cost and security outcomes through each stage.",
+    "New Commonwealth climate-disclosure and APS emissions-reporting obligations create methodology and readiness demand across entities - we can help design and assure the approach.",
+    "With the first ANAO audit of your performance statements behind you, we can independently stress-test measures and targets - several currently have no target set or are flagged for 2026-27 review.",
+    "Under your Data Strategy 2025-28, we can accelerate data-governance maturity and analytics enablement to sharpen budget and policy advice."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a detailed plan but Finance is a sophisticated framework-owner and central agency that is actively insourcing ICT and cutting contractor spend (~$17m to 2028-29) under the APS Strategic Commissioning Framework - a material BD headwind, especially for ICT delivery and commodity advisory. Many functions (actuarial, legal, deep policy) are specialist or retained in-house, so several opportunities are inferred and right-sized to short, independent/specialist engagements. The strongest leads (Comcover evaluation, Precinct assurance) are grounded in named external-consultant use or major programs; lower-confidence items are extrapolations from strategy statements. No external research (news, ANAO, Parliamentary) was supplied, so those sections are empty and would materially sharpen targeting if added - note Finance was subject to its first ANAO performance-statements audit, a likely source of further signals."
+}

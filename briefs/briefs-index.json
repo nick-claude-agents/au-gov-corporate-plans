@@ -448,6 +448,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "department-of-finance": {
+      "name": "Department of Finance",
+      "portfolio": "Finance",
+      "plan_url": "https://www.finance.gov.au/publications/corporate-plan/corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
