@@ -1,0 +1,220 @@
+{
+  "agency_name": "Department of Industry, Science and Resources (DISR)",
+  "portfolio": "Industry, Science and Resources",
+  "plan_period": "2025-26 to 2028-29",
+  "executive_summary": "DISR is a policy and program department central to the Government's 'Future Made in Australia' agenda, spanning industry growth, science and technology, and the resources sector. This year it is actively delivering a large set of named programs — National Battery Strategy/Battery Breakthrough Initiative, the National Reconstruction Fund integration, the Industry Growth Program, the Critical Minerals Strategy and Production Tax Incentive, the Critical Minerals Strategic Reserve, AI governance/National AI Centre, and major decommissioning/rehabilitation works (Northern Endeavour, Ranger, Rum Jungle, Maralinga). The department also runs significant shared-services delivery (Business Grants Hub for 11 agencies, payroll for 15+ agencies) and is uplifting integrity, risk, data/digital and AI capability. ANAO scrutiny is elevated: open performance-statement findings, in-progress audits of the NRF and AI/emerging-tech stewardship, and recurring decommissioning-provision valuation and grants-administration risks. The mix of named, time-bound programs under audit and review creates strong latent demand for program delivery, assurance, performance-framework, costing/valuation and data work.",
+  "strategic_priorities": [
+    {
+      "title": "Future Made in Australia industry delivery",
+      "description": "Delivering a suite of named industry programs — Whyalla Steelworks transition, National Battery Strategy/Battery Breakthrough Initiative, green metals, Industry Growth Program, NRF Economic Resilience Program — alongside community benefit principles for FMIA recipients.",
+      "source_quote": "supporting the Whyalla Steelworks to transition to a sustainable, long-term future, implementing the National Battery Strategy and advancing Australia's green metals industry... implement the community benefit principles framework for recipients of Future Made in Australia support."
+    },
+    {
+      "title": "Critical minerals scale-up and Strategic Reserve",
+      "description": "Delivering the Critical Minerals Strategy and Production Tax Incentive and standing up a Critical Minerals Strategic Reserve (via National Offtake Agreements and selective stockpiling) with a PM&C taskforce by the second half of 2026.",
+      "source_quote": "contributing to the establishment of a Critical Minerals Strategic Reserve... establish the Strategic Reserve by the second half of 2026."
+    },
+    {
+      "title": "AI and critical-technology stewardship",
+      "description": "Capturing AI opportunities while building trust and an appropriate regulatory system, via the National AI Centre, the National Framework for the Assurance of AI in Government, and growth in quantum and biotech.",
+      "source_quote": "working with industry and society to build trust and confidence in the use of AI, and ensuring the regulatory system supports innovation while minimising harm."
+    },
+    {
+      "title": "Offshore decommissioning and mine rehabilitation",
+      "description": "Delivering Northern Endeavour FPSO decommissioning (Phase 1 and procuring a Phase 2 lead contractor), Laminaria-Corallina remediation, Ranger and Rum Jungle rehabilitation, Maralinga maintenance and radioactive waste management via ARWA.",
+      "source_quote": "continuing to deliver the decommissioning of the Northern Endeavour facility and Laminaria-Corallina oil fields, and overseeing the rehabilitation of the Ranger and Rum Jungle former uranium mine sites."
+    },
+    {
+      "title": "Data, digital and AI internal capability uplift",
+      "description": "Implementing the integrated Data and Digital Strategy 2025-2027, deploying Copilot for Microsoft 365, building custom AI solutions, and maturing the Data Science and Data Management/Analytics Platforms.",
+      "source_quote": "Our integrated Data and Digital Strategy 2025-2027 will ensure we remain a data-driven and digitally enabled department... We are also developing custom AI solutions to mitigate program risks, ensure compliance, and enhance our knowledge management."
+    },
+    {
+      "title": "Integrity and risk management uplift",
+      "description": "Implementing APS Integrity Taskforce ('Louder than Words') recommendations, acting on the first Commonwealth Integrity Maturity Framework risk assessment, and developing a second Integrity Strategy 2025-27.",
+      "source_quote": "implementing recommendations from the APS Integrity Taskforce report Louder than Words... developing a second Integrity Strategy which will span 2025-27."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Future Made in Australia agenda driving multiple new industry programs and funding vehicles",
+    "Net zero transition reshaping resources, energy and industrial decarbonisation policy",
+    "Critical Minerals Strategic Reserve to be established by H2 2026 with PM&C taskforce",
+    "Strategic examination of Australia's R&D system led by an independent expert panel",
+    "APS Strategic Commissioning Framework requiring progressive reduction in outsourced/contractor roles (ICT, administration, procurement in 2025-26)",
+    "Procurement reforms to leverage Commonwealth buying power and grow Australian industry participation",
+    "AI governance frameworks (National Framework for Assurance of AI in Government, AI Ethics Principles)",
+    "Commonwealth Integrity Maturity Framework and APS Integrity Taskforce recommendations",
+    "NOPSEMA reviewing its funding and cost-recovery model; reforms for financial assurance of offshore decommissioning"
+  ],
+  "challenges_and_risks": [
+    "Delivery risk across a complex, expanding portfolio of named programs requiring adequate resourcing and oversight (named enterprise risk 'Delivery')",
+    "Maintaining confidence and trust of government, industry and public while delivering high-profile initiatives",
+    "Financial sustainability as a named operational risk, with open discussions to reallocate funding",
+    "Information and system security including AI and quantum cryptography threats",
+    "Integrity risk and need to embed a 'safe to speak up' culture",
+    "Workforce capability gaps in a new technology landscape, with reliance on external workforce only for highly specialised/independent roles",
+    "Valuation complexity of decommissioning/rehabilitation provisions (Northern Endeavour, Ranger) flagged by ANAO",
+    "Grants administration and large-investment oversight via the Business Grants Hub",
+    "Performance measures for overarching or early-stage initiatives are immature and evolving"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "An ANAO performance audit found the predecessor entity's procurement of delivery partners for the Entrepreneurs' Programme fell short of appropriate standards of transparency, consistency and fairness in late 2019/early 2020; the department agreed all recommendations and commissioned an independent report.",
+      "implication": "Procurement/probity remediation and contract-management framework design are live demand areas, but expect heightened probity scrutiny on any engagement won here.",
+      "source": "DISR — https://www.industry.gov.au/news/statement-about-entrepreneurs-programme-performance-audit"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit on compliance with domestic and international travel requirements assessed DISR's arrangements as largely effective but found 8% of sampled trips not approved before travel; three recommendations on oversight of mandatory training, non-compliance and domestic travel reporting were agreed.",
+      "implication": "Scope for advisory work on internal controls, compliance monitoring and management reporting.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/compliance-domestic-and-international-travel-requirements-disr"
+    },
+    {
+      "summary": "In its third year of the annual performance-statements audit program, DISR carried over five findings (four moderate, one minor) from the 2023-24 audit, though 2024-25 material misstatement risk was assessed as low.",
+      "implication": "Recurring unresolved performance-framework findings indicate ongoing demand for performance-measurement and Enterprise Performance Framework support.",
+      "source": "ANAO — https://www.anao.gov.au/work-program/portfolio/industry-science-and-resources"
+    },
+    {
+      "summary": "ANAO flagged financial statement key risks including completeness/accuracy of Administered Royalty Revenue (reliant on third-party/State data) and valuation of the Ranger Rehabilitation and Northern Endeavour Decommissioning provisions, given size and estimation judgement.",
+      "implication": "Rehabilitation/decommissioning valuation and royalty-data assurance are technically complex, recurring exposure points — potential advisory niches.",
+      "source": "ANAO — https://www.anao.gov.au/work-program/portfolio/industry-science-and-resources"
+    },
+    {
+      "summary": "ANAO is conducting a follow-up audit examining whether DISR implemented a selection of agreed Auditor-General recommendations.",
+      "implication": "Signals ANAO concern about recommendation close-out — a remediation/assurance opportunity.",
+      "source": "ANAO — https://www.anao.gov.au/pubs/performance-audit"
+    },
+    {
+      "summary": "ANAO has in-progress audits on the Design and Establishment of the National Reconstruction Fund Corporation and on DISR's stewardship to support safe and responsible use of new and emerging technologies including AI.",
+      "implication": "Two flagship agendas (NRF; AI/emerging-tech governance) are under audit scrutiny — early opportunity for governance, program-design and assurance support.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/oversight-of-the-use-of-new-technologies"
+    },
+    {
+      "summary": "ANAO notes portfolio primary risks relate to delivery of key activities in a complex environment and significant government investment requiring oversight, and that Business Grants Hub responsibilities bring delivery and accountability risks.",
+      "implication": "Grants administration and large-investment oversight are explicitly identified risk areas — core consulting demand.",
+      "source": "ANAO — https://www.anao.gov.au/work-program/portfolio/industry-science-and-resources"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Delivery and assurance of Future Made in Australia industry programs",
+      "agency_need": "Delivering multiple named, time-bound programs (Battery Breakthrough Initiative, green metals, Industry Growth Program, NRF Economic Resilience Program) while managing the named enterprise 'Delivery' risk and ANAO scrutiny of large investments.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO support and a benefits-management framework across the FMIA program portfolio, plus independent gateway-style delivery assurance at key milestones.",
+      "rationale": "The plan names a cluster of new high-value programs and explicitly identifies delivery adequacy as an enterprise risk; ANAO's in-progress NRF audit and portfolio-level investment-oversight concerns reinforce demand for structured delivery and assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Decommissioning program delivery and provision valuation",
+      "agency_need": "Delivering Northern Endeavour Phase 1/Phase 2 (including procuring a lead contractor) and Ranger/Rum Jungle rehabilitation, where ANAO has flagged the decommissioning provision valuation as a key financial-statement risk.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent assurance/health check of the Northern Endeavour decommissioning program plus support on the methodology and estimation underpinning the decommissioning and rehabilitation provisions.",
+      "rationale": "The plan sets specific, dated decommissioning milestones and ANAO has named the Ranger and Northern Endeavour provision valuations as significant judgement-driven risks, creating a clear assurance and financial-estimation need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance measure and Enterprise Performance Framework uplift",
+      "agency_need": "Several priorities are 'too early in their development for meaningful performance measurement', and ANAO carried over five performance-statement findings from 2023-24.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure redesign for immature/overarching activities and an Enterprise Performance Framework uplift to close open ANAO findings.",
+      "rationale": "The plan openly states measures are evolving and being refined under ANAO lessons; ANAO confirms multiple carried-over findings, evidencing concrete demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Procurement and contract-management remediation",
+      "agency_need": "Supporting procurement reforms, a major decommissioning contractor procurement, and a prior adverse ANAO finding on Entrepreneurs' Programme procurement standards.",
+      "mapped_service": "Procurement, Probity & Contracts",
+      "suggested_offering": "Probity advisory and procurement strategy/evaluation support for the Northern Endeavour Phase 2 lead-contractor procurement, plus a contract-management framework refresh.",
+      "rationale": "The plan commits to procurement reform and to procuring a Phase 2 decommissioning contractor in 2025-26; a prior ANAO audit found procurement transparency/fairness shortcomings, heightening the need for independent probity.",
+      "confidence": "High"
+    },
+    {
+      "area": "AI governance and responsible-AI assurance",
+      "agency_need": "Adopting AI internally (Copilot, custom solutions) under named governance frameworks while ANAO audits the department's stewardship of safe/responsible emerging-tech use.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A governance and assurance review of DISR's AI adoption against the National Framework for the Assurance of AI in Government, with AI Governance Committee uplift.",
+      "rationale": "The plan details AI deployment and governance committees, and ANAO is auditing DISR's emerging-tech/AI stewardship — combining policy and internal-adoption assurance demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data and digital platform delivery",
+      "agency_need": "Implementing the integrated Data and Digital Strategy 2025-2027 and maximising the Data Science Platform and Data Management and Analytics Platform.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and management delivery to operationalise the Data Science and Analytics platforms, including business intelligence for program performance and geospatial/place-based policy.",
+      "rationale": "The plan names specific data platforms and a current data/digital strategy with ambitions for scalable analytics and evaluation metrics embedded from program design.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Critical Minerals Strategic Reserve establishment",
+      "agency_need": "Standing up a new Strategic Reserve via National Offtake Agreements and selective stockpiling, with a PM&C taskforce, by H2 2026.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program establishment and operating-design support for the Strategic Reserve, including governance, offtake-agreement process design and delivery scheduling.",
+      "rationale": "The plan sets a dated commitment to establish an entirely new mechanism in partnership with PM&C — a classic stand-up requiring program and design support.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce capability and strategic commissioning transition",
+      "agency_need": "Implementing a capability and talent framework and reducing reliance on outsourced roles under the APS Strategic Commissioning Framework (ICT, administration, procurement in 2025-26).",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Workforce planning and capability-framework design to support in-sourcing transition, identifying genuinely specialised/independent roles for external supply.",
+      "rationale": "The plan names a People Strategy, capability/talent frameworks and a 2025-26 in-sourcing focus, evidencing a workforce-design need (note this also constrains low-end contractor demand).",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and reallocation",
+      "agency_need": "Financial sustainability is a named enterprise operational risk, with open discussions to reallocate funding across a growing program load.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and costing support across the program portfolio to inform reallocation decisions.",
+      "rationale": "The plan names financial sustainability as a managed enterprise risk; however, no specific savings target or pricing model is detailed, so the fit is inferred.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the deputy secretary/group responsible for the Future Made in Australia and NRF agenda with a delivery-assurance and benefits-management proposition, referencing the in-progress ANAO NRF audit.",
+      "priority": "High",
+      "rationale": "The largest, most time-bound demand sits in FMIA program delivery, and the active ANAO audit creates immediate appetite for independent assurance and structured delivery."
+    },
+    {
+      "action": "Offer the Chief Risk Officer / Performance and Risk Committee an Enterprise Performance Framework and performance-measure redesign engagement to close the five carried-over ANAO performance-statement findings.",
+      "priority": "High",
+      "rationale": "The plan admits immature measures and ANAO has documented open findings — a clearly scoped, winnable advisory piece tied to a known deadline (annual performance statements)."
+    },
+    {
+      "action": "Engage the resources/decommissioning branch on probity and procurement support for the Northern Endeavour Phase 2 lead-contractor procurement and on decommissioning-provision valuation methodology.",
+      "priority": "High",
+      "rationale": "A dated 2025-26 procurement plus ANAO-flagged provision valuation risk and a prior procurement audit make this a time-sensitive, high-credibility approach."
+    },
+    {
+      "action": "Prepare a responsible-AI governance/assurance capability statement aligned to the National Framework for the Assurance of AI in Government and request a meeting with the AI Governance Committee secretariat.",
+      "priority": "Medium",
+      "rationale": "DISR is both adopting AI internally and being audited on AI stewardship — a dual policy/internal-assurance angle that few competitors can credibly bridge."
+    },
+    {
+      "action": "Watch ANAO's follow-up audit on implementation of agreed recommendations and the AI/emerging-tech stewardship audit for published findings, then move quickly with a remediation offer.",
+      "priority": "Medium",
+      "rationale": "New adverse findings are strong, time-bound demand signals; positioning ahead of publication shortens the sales cycle."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Secretary / Group lead for Industry and Future Made in Australia (NRF, Industry Growth Program, battery/green metals)",
+    "Deputy Secretary / Group lead for Resources (decommissioning, critical minerals, Future Gas Strategy)",
+    "Chief Risk Officer and the Performance and Risk Committee",
+    "Chief Operating Officer / CFO (financial sustainability, Operations Committee, shared services)",
+    "Chief Data/Digital Officer or Data and Digital Strategy owner",
+    "National AI Centre and AI Governance Committee secretariat",
+    "Business Grants Hub and procurement function leads",
+    "Audit and Risk Committee (for assurance and recommendation close-out)"
+  ],
+  "talking_points": [
+    "Your FMIA program portfolio is expanding fast and 'Delivery' is a named enterprise risk — we can provide embedded PMO support and independent gateway assurance, especially with the NRF establishment under ANAO audit.",
+    "ANAO has carried over five performance-statement findings; we can redesign your PGPA-aligned measures for early-stage initiatives and uplift the Enterprise Performance Framework before the next annual statements.",
+    "Northern Endeavour Phase 2 procurement and the ANAO-flagged decommissioning provision valuation are two linked risks where independent probity and estimation assurance add real protection.",
+    "With AI being both deployed internally and audited externally, we can assure your adoption against the National Framework for the Assurance of AI in Government and strengthen the AI Governance Committee.",
+    "Your Strategic Commissioning in-sourcing focus for 2025-26 needs robust workforce planning to define which specialised/independent roles genuinely warrant external supply — we can design that framework."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is rich and specific, giving strong, traceable signals across program delivery, assurance, performance and procurement. The Strategic Commissioning Framework explicitly reduces low-end contractor reliance, so positioning must emphasise highly specialised, independent or surge work. External research was reliable on ANAO findings but the supplied research notes that independent-media and parliamentary searches were incomplete, so news_and_controversies and parliamentary_matters are thin and should not be read as exhausted. The Entrepreneurs' Programme finding relates to the predecessor entity. Financial-sustainability mapping is inferred (Low confidence) as no explicit savings target is stated."
+}
