@@ -312,6 +312,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-2029 (budget year 2025-26 detailed)",
       "overall_confidence": "Medium"
+    },
+    "australian-institute-of-criminology-aic": {
+      "name": "Australian Institute of Criminology (AIC)",
+      "portfolio": "Home Affairs",
+      "plan_url": "https://www.aic.gov.au/sites/default/files/2024-08/aic_corporate_plan_2024-25.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (four-year outlook to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }

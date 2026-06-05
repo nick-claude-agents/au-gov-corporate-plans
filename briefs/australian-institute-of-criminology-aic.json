@@ -1,0 +1,133 @@
+{
+  "agency_name": "Australian Institute of Criminology (AIC)",
+  "portfolio": "Home Affairs",
+  "plan_period": "2025-26 (four-year outlook to 2028-29)",
+  "executive_summary": "The AIC is a small, expertise-heavy research and knowledge agency on crime and justice within the Home Affairs portfolio — a scientific/research archetype with a custodial data role. It is statutorily independent but heavily dependent on the ACIC, which provides all corporate services, ICT (shared services), office space and employs all AIC staff. The plan signals two clear practical workstreams this year: a move of IT infrastructure to a cloud environment and a redesign of the Indigenous Justice Clearinghouse website (folded into the main AIC site). It also flags a named enterprise risk around transitioning the AIC's independence, alongside data-management/cyber and finance/procurement risks. Demand is modest in dollar terms and constrained by the APS Strategic Commissioning Framework (external support only in 'limited/exceptional circumstances'), so opportunities are best-fit, proportionate and likely small advisory or digital pieces rather than large delivery programs.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver policy-relevant crime and justice research on national priorities",
+      "description": "Core function: undertake impartial research across seven priorities (transnational serious and organised crime, cybercrime, violent extremism, domestic/family/sexual violence, online child sexual exploitation, human trafficking/modern slavery, Indigenous over-representation) plus six statistical monitoring collections.",
+      "source_quote": "Undertaking research is the core function of the AIC... a mix of statistical monitoring of crime and justice trends, research on the priority themes and consultancy research for stakeholders."
+    },
+    {
+      "title": "Administer the Criminology Research Grants and awards",
+      "description": "Run an effective annual grants program funding external (university) researchers on four priority themes, plus the Australian Crime and Violence Prevention Awards, and disseminate findings.",
+      "source_quote": "administering an effective and efficient annual Criminology Research Grants program that results in policy-relevant research of value to the nation"
+    },
+    {
+      "title": "Move IT infrastructure to a cloud environment",
+      "description": "In 2025-26 the AIC will migrate its IT infrastructure to cloud (via ACIC shared services) for greater future flexibility.",
+      "source_quote": "In 2025–26, the AIC will move its IT infrastructure to a cloud environment to allow for greater flexibility in future."
+    },
+    {
+      "title": "Redesign the Indigenous Justice Clearinghouse website",
+      "description": "The Indigenous Justice Clearinghouse will be redesigned and incorporated into the main AIC website, with a web designer to be engaged.",
+      "source_quote": "In 2025–26, the AIC will redesign the Indigenous Justice Clearinghouse, which will be incorporated into the main AIC website."
+    },
+    {
+      "title": "Transition and mature AIC independence",
+      "description": "A named enterprise risk concerns effectively transitioning the AIC's independence to meet future purpose and objectives, alongside a new AIC-specific risk framework introduced in 2024-25.",
+      "source_quote": "Failure to effectively transition the independence of the AIC to meet future purpose and objectives"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "New AIC-specific Risk Management Framework introduced in 2024-25, moving away from the ACIC framework to better align with AIC objectives",
+    "Named 'Transition' enterprise risk around effecting AIC independence to meet future purpose — implies an evolving operating-model relationship with ACIC",
+    "APS Strategic Commissioning Framework constraining external/consultant use to limited and exceptional circumstances",
+    "Cloud migration of IT infrastructure in 2025-26",
+    "Evolving and emerging crime problems (cybercrime, online exploitation, modern slavery) reshaping the research program",
+    "Restricted access to state/territory crime and justice data requiring negotiated data-sharing arrangements"
+  ],
+  "challenges_and_risks": [
+    "Heavy dependence on ACIC for corporate services, ICT, office space and as the legal employer of all AIC staff — a concentration and operating-model risk",
+    "Data enterprise risk explicitly covering storage and destruction of physical/digital data including cyber security",
+    "Finance and resources risk covering financial management, contracts, procurement and fraud prevention/detection",
+    "'Transition' risk around securing/maturing the AIC's independence",
+    "Ethics and research-integrity risk (unbiased research, staff integrity) in a low-risk-appetite, reputation-sensitive environment",
+    "Small specialist workforce with early-career recruitment model — capability concentration and key-person dependency",
+    "Qualitative/vague performance measures (e.g. 'qualitative case studies' for policy impact) that may understate demonstrable outcomes"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Indigenous Justice Clearinghouse redesign and website integration",
+      "agency_need": "Redesign the Indigenous Justice Clearinghouse and incorporate it into the main AIC website in 2025-26; the plan already anticipates engaging a web designer.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "A small discovery-and-design-to-build engagement: user experience and service design for the Clearinghouse, content migration/integration into the GovCMS-hosted AIC site, and build support — proportionate to a single web property.",
+      "rationale": "This is a named, time-bound 2025-26 deliverable that the plan explicitly says will use an external web designer, so external spend is already sanctioned. Fit is direct.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cloud migration of IT infrastructure",
+      "agency_need": "Move IT infrastructure to a cloud environment in 2025-26 (delivered via ACIC shared services) for future flexibility.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Cloud migration support — systems/process analysis, migration planning and integration assurance — scoped to a small agency and coordinated with ACIC's shared-services arrangement.",
+      "rationale": "The plan names a specific cloud move this year. Demand is real but the work likely sits within ACIC's shared-services environment, which may limit the AIC's direct procurement; hence medium not high.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber and data-handling assurance",
+      "agency_need": "Data enterprise risk explicitly covers storage and destruction of physical and digital data including cyber security, in a low-risk-appetite agency holding sensitive crime/justice datasets.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A right-sized security assessment of the AIC's data holdings and the cloud target environment, with assurance over data storage, destruction and access controls.",
+      "rationale": "The plan names cyber security within the Data enterprise risk and a cloud migration is underway, creating a logical assurance moment. Fit is sound but delivery may run through ACIC shared services.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Operating-model / independence transition support",
+      "agency_need": "Named 'Transition' enterprise risk around effectively transitioning the AIC's independence to meet future purpose, while still relying on ACIC for corporate services, ICT, premises and employment.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short advisory engagement to map the AIC-ACIC operating model and shared-services dependencies and articulate governance/options for maturing AIC independence.",
+      "rationale": "The transition risk is explicitly named, but the plan gives no detail on scope, timing or appetite to spend, so this is inferred latent demand rather than an evidenced procurement.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Performance-measure and impact-evaluation uplift",
+      "agency_need": "Policy-impact measure relies on 'qualitative case studies' with no quantified target, leaving demonstration of research impact loosely defined.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure review and an impact-evaluation method to evidence how AIC research contributes to government policymaking.",
+      "rationale": "The vague impact measure is a genuine signal, but a research-literate agency may prefer to do this in-house, and the Strategic Commissioning Framework discourages external use; fit is plausible but speculative.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the AIC's communications/information services lead (and the ACIC shared-services ICT function) with a tight UX-and-build capability statement for the Indigenous Justice Clearinghouse redesign.",
+      "priority": "High",
+      "rationale": "This is the single most concrete, externally-sanctioned 2025-26 deliverable; the plan already names engaging a web designer, so the procurement window is near-term and the fit is exact."
+    },
+    {
+      "action": "Engage the ACIC shared-services/ICT function and the AIC Deputy Director on cloud migration and associated data/cyber assurance, positioning a proportionate migration and security-assessment offer.",
+      "priority": "Medium",
+      "rationale": "Cloud move is named for 2025-26 and intersects the Data enterprise risk; early conversation clarifies whether spend sits with AIC or ACIC and how to be positioned."
+    },
+    {
+      "action": "Prepare a concise operating-model/governance thought piece on maturing statutory independence within a shared-services arrangement, and offer it to the Director/Deputy Director.",
+      "priority": "Low",
+      "rationale": "The 'Transition' enterprise risk is named but undefined; a credible, low-commitment thought piece tests appetite without over-investing in a speculative opportunity."
+    },
+    {
+      "action": "Monitor for any AIC or ACIC approaches to market on web/cloud services and any future review of AIC independence, given the joint AIC-ACIC Audit and Risk Committee oversight.",
+      "priority": "Medium",
+      "rationale": "Procurement signals for the named digital deliverables may surface via ACIC's shared-services channels; watching avoids missing a small but winnable scope."
+    }
+  ],
+  "engagement_targets": [
+    "Director and Deputy Director, AIC (accountable authority and enterprise risk owner)",
+    "AIC Communications and Information Services lead (owner of website and Clearinghouse redesign)",
+    "ACIC shared-services / ICT function (delivers AIC's cloud migration and corporate ICT)",
+    "Joint AIC and ACIC Audit and Risk Committee (financial/performance reporting, risk and internal controls)",
+    "ACIC procurement/corporate services (legal employer and procurement pathway for AIC needs)"
+  ],
+  "talking_points": [
+    "You've committed to redesigning the Indigenous Justice Clearinghouse and folding it into the main AIC site this year — we can take that from UX design through to build and integration on GovCMS.",
+    "With IT infrastructure moving to cloud in 2025-26, there's a natural moment to assure data storage, destruction and cyber controls over your sensitive crime/justice datasets.",
+    "Your new AIC-specific risk framework names a 'Transition' risk around independence — we can help map the ACIC shared-services dependencies and governance options without disrupting BAU.",
+    "We right-size to small agencies: short advisory and focused digital builds, delivered within Strategic Commissioning Framework expectations for limited, skills-gap engagements.",
+    "Your policy-impact measure rests on qualitative case studies — if useful, we can sharpen a defensible, PGPA-aligned way to evidence research impact."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a small, expertise-heavy research agency with a deliberately constrained external-spend posture under the APS Strategic Commissioning Framework — external support is reserved for 'exceptional/limited circumstances.' All corporate services, ICT and even staff employment sit with the ACIC, so much potential work may be procured through ACIC rather than the AIC directly, materially limiting addressable spend. The two strongest opportunities (Clearinghouse redesign, cloud migration) are explicitly named but small in dollar terms. The governance/operating-model and performance-measure opportunities are inferred from named risks and a vague impact measure, not from any stated intent to procure, and are marked Low confidence accordingly. No external research was available: the supplied research section reported a tool failure, so news, ANAO and parliamentary sections are empty — this is an absence of retrieved evidence, not a verified absence of issues, and should be revisited."
+}
