@@ -360,6 +360,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "High"
+    },
+    "australian-signals-directorate-asd": {
+      "name": "Australian Signals Directorate (ASD)",
+      "portfolio": "Defence",
+      "plan_url": "https://www.asd.gov.au/about/accountability-governance/publications/asd-corporate-plan-2025-26",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }

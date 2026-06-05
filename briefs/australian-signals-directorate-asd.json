@@ -1,0 +1,162 @@
+{
+  "agency_name": "Australian Signals Directorate (ASD)",
+  "portfolio": "Defence",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "ASD is a security/intelligence agency in the Defence portfolio delivering foreign signals intelligence, cyber security and offensive cyber operations, reporting directly to the Minister for Defence and overseen by IGIS and the PJCIS. Its dominant signal this year is the continued delivery of the multi-billion-dollar REDSPICE program, which simultaneously scales workforce (an extra ~1,900 cleared staff), capability, technology and national/international footprint. Enabling-function pressures are explicit: workforce attraction/retention against scarce cleared STEM talent, maturing governance and financial management systems, embedding enterprise risk, and improving performance information in response to ANAO scrutiny of Commonwealth Performance Statements. For the Consulting Firm the realistic openings are at the corporate/enabling layer — program assurance, workforce, financial framework, governance and performance-measure work — given mission work is secrecy- and clearance-constrained. Engagement will be gated heavily by security clearance requirements.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver the REDSPICE program",
+      "description": "Continue implementing the REDSPICE program to enhance and grow Australia's cyber, intelligence and communications capabilities, including significant workforce expansion and new locations across Australia, overseen by an external REDSPICE Advisory Board and project/program boards.",
+      "source_quote": "ASD continues to implement the REDSPICE program, which enhances and improves the resilience of Australia's cyber, intelligence capabilities and communications."
+    },
+    {
+      "title": "Scale and retain a specialist workforce",
+      "description": "Significantly expand the workforce and accelerate efforts to attract, develop and retain diverse, highly skilled (especially STEM-cleared) talent, acknowledging high private-sector demand for the same skills.",
+      "source_quote": "Recruiting the requisite specialist technological expertise has become increasingly challenging, given the high demand for staff with these skills."
+    },
+    {
+      "title": "Master technology, data science and AI",
+      "description": "Invest in new and emerging technologies including next-generation data science and artificial intelligence, and continue evolving ICT infrastructure and services supporting both mission operations and corporate services, including enabling technical capability to the NIC and ADF.",
+      "source_quote": "...invest in new and emerging technologies, including the delivery of the next-generation data science and artificial intelligence."
+    },
+    {
+      "title": "Mature governance, performance and financial management",
+      "description": "Refine governance and accountability frameworks, enterprise performance management and fit-for-purpose financial management systems to operate efficiently and sustainably within the forward budget; broaden performance measures in line with Finance guidance and ANAO findings.",
+      "source_quote": "ASD continues to refine and enhance its governance and accountability frameworks, including enterprise performance management and fit-for-purpose financial management systems."
+    },
+    {
+      "title": "Strengthen partnerships and public trust",
+      "description": "Expand national and international partnerships (Five Eyes, NIC, state/territory governments, critical infrastructure, industry, academia) and increase transparency and information shared with Australians while preserving security.",
+      "source_quote": "ASD seeks to increase the information it shares with Australians about its functions."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "REDSPICE program funding prioritised in the 2024 Integrated Investment Program, driving a decade-long capability and workforce build",
+    "National Defence Strategy 2024 framing of the most complex strategic environment since WWII",
+    "Rapid technological change (AI, data science) requiring continual tradecraft and capability uplift",
+    "ANAO audits of Commonwealth Performance Statements prompting broadened, maturing performance information",
+    "Public-trust and transparency expectations on an intelligence agency operating under the Intelligence Services Act 2001",
+    "Fiscal discipline expectations — operating sustainably within forward budget while scaling rapidly"
+  ],
+  "challenges_and_risks": [
+    "Workforce risk: attracting, vetting and retaining scarce cleared STEM talent at REDSPICE scale",
+    "Named enterprise risks include loss of licence to operate, intelligence failure, disruptive technologies and data science, delivering on cyber security, workforce, morale and wellbeing, and protective security",
+    "Program delivery and benefits-realisation risk across a large multi-year capability build",
+    "Maturing financial management systems and enterprise performance management while expanding footprint",
+    "Maintaining compliance with operational law (ISA) under IGIS oversight",
+    "Performance information historically weighted to classified channels, making external assurance harder"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Analysts criticised the ~$9.9bn REDSPICE program for offering few public insights into how the money will be spent and why a larger offensive cyber capability is needed.",
+      "implication": "Acknowledged transparency/detail gap creates scope for program governance, benefits-realisation and spend-assurance advisory, amid heightened scrutiny of how funds are justified.",
+      "source": "Lowy Institute, The Interpreter — https://www.lowyinstitute.org/the-interpreter/australian-cyber-what-s-redspice (2022)"
+    },
+    {
+      "summary": "A government report (Commonwealth Cyber Security Posture) found a majority of government entities are not reporting cyber incidents to ASD, creating security risks and potential compliance breaches.",
+      "implication": "Systemic APS-wide compliance/maturity gap ASD must drive — an opening for incident-reporting uplift and cyber-posture remediation work across client agencies.",
+      "source": "Cyber Daily — https://www.cyberdaily.au/security/13207-government-agencies-simply-arent-reporting-cyber-incidents-to-the-asd"
+    },
+    {
+      "summary": "REDSPICE aims to grow ASD's workforce by ~1,900 over a decade but faces significant access and retention challenges, compounded by top-secret (positive vetting) clearance requirements.",
+      "implication": "Workforce scaling and clearance-pipeline bottlenecks are an enduring delivery risk relevant to workforce planning, retention and cleared-resource offerings.",
+      "source": "ASPI The Strategist — https://www.aspistrategist.org.au/australian-signals-directorate-will-need-to-be-flexible-to-staff-its-redspice-program/ (2022)"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "REDSPICE delivery assurance",
+      "agency_need": "Deliver a multi-billion-dollar, decade-long capability and workforce program with external scrutiny on spend and benefits, overseen by an external Advisory Board and project/program boards.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style delivery assurance and health checks of REDSPICE workstreams, reporting to the REDSPICE Advisory Board and project/program boards, with benefits-realisation review.",
+      "rationale": "The plan names REDSPICE as the central program with dedicated governance boards; external commentary highlights an acknowledged transparency/benefits gap, strengthening demand for independent assurance. Clearance constraints apply but corporate-layer assurance is feasible.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce scaling and retention",
+      "agency_need": "Significantly expand and retain a diverse, cleared STEM workforce against scarce supply and high private-sector demand.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Strategic workforce planning and retention strategy for the REDSPICE growth, including capability frameworks, clearance-pipeline planning, and leadership development design.",
+      "rationale": "Workforce is named both as a capability priority and an enterprise risk; the plan commits to significantly expanding the workforce at new locations, and external reporting flags clearance/retention bottlenecks.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial management and sustainability",
+      "agency_need": "Operate sustainably within a forward budget while scaling rapidly, with 'fit-for-purpose financial management systems' explicitly being refined.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "Financial framework and sustainability review with activity/capability costing to support forward-budget management across the REDSPICE build.",
+      "rationale": "The plan explicitly commits to enhancing financial management systems and operating sustainably within the forward budget — an enabling-function need that is less clearance-sensitive.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance measure maturity",
+      "agency_need": "Mature and broaden performance information in line with Finance guidance and ANAO findings on Commonwealth Performance Statements.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure redesign to strengthen measurable, mixed qualitative/quantitative measures and supporting evidence methodology.",
+      "rationale": "The plan states ASD reviewed objectives in response to ANAO Performance Statements audits and Finance guidance, and many measures rely on 'high impact' qualitative self-assessment — a direct framework-uplift signal.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Enterprise risk and governance uplift",
+      "agency_need": "Embed risk management and enterprise governance across a rapidly expanding agency with a defined enterprise risk taxonomy.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Risk-framework refresh and governance/committee effectiveness review supporting the Executive Committee and Audit & Risk Committee as the organisation scales.",
+      "rationale": "The plan details a multi-committee governance structure, enterprise risk categories and a commitment to embed risk management — a credible, less politically sensitive enabling-function engagement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "ICT infrastructure and data/AI enablement (corporate)",
+      "agency_need": "Evolve ICT infrastructure and services for both mission and corporate operations and invest in next-generation data science and AI.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Corporate-systems and process analysis, solutions implementation and integration for enabling/corporate ICT and data platforms (non-classified layers), with Data, Analytics & Information as secondary for information strategy.",
+      "rationale": "The plan commits to evolving ICT infrastructure 'in support of mission operations and the delivery of corporate services' and to next-gen data science/AI; corporate-tier delivery is achievable, though mission systems will be clearance-restricted.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Map and confirm staff with current TS/PV clearances and clearance-sponsorship pathways before any approach to ASD.",
+      "priority": "High",
+      "rationale": "Clearance access is the binding constraint for an intelligence agency; credibility in a first meeting depends on demonstrable cleared-resource capacity, especially for REDSPICE-adjacent work."
+    },
+    {
+      "action": "Prepare a REDSPICE-focused delivery-assurance and benefits-realisation capability statement aimed at the COO/Business Management Committee and REDSPICE program boards.",
+      "priority": "High",
+      "rationale": "REDSPICE is the dominant, time-bound program with dedicated governance; independent assurance is the most defensible entry point given public scrutiny of spend transparency."
+    },
+    {
+      "action": "Develop a short thought piece on cleared-STEM workforce scaling and retention for Commonwealth security agencies and route it to the Chief Operating Officer / workforce function.",
+      "priority": "Medium",
+      "rationale": "Workforce is both a priority and a named enterprise risk; a credible, specific point of view opens conversations on a less classified, high-need topic."
+    },
+    {
+      "action": "Offer a performance-measure and financial-framework health check pitched to the Assistant Director-General Governance and the CFO/finance function.",
+      "priority": "Medium",
+      "rationale": "The plan signals active maturation of performance information (post-ANAO) and financial systems — enabling-function work with low political sensitivity and clear demand."
+    },
+    {
+      "action": "Monitor Defence portfolio procurement and AusTender for REDSPICE-related advisory, assurance and workforce approaches to market.",
+      "priority": "Medium",
+      "rationale": "A decade-long capability program generates recurring procurements; early visibility allows positioning ahead of formal RFTs."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer (and the Business Management Committee — finance, recruitment/retention, facilities)",
+    "Deputy Director-General Capability & Transformation (and the Data, Technology & Infrastructure Committee)",
+    "REDSPICE program boards and the external REDSPICE Advisory Board secretariat",
+    "Assistant Director-General Governance (performance, governance frameworks)",
+    "First Assistant Director-General Security, Finance and Property (financial management, clearances)",
+    "ASD Audit and Risk Committee (independent assurance touchpoint)"
+  ],
+  "talking_points": [
+    "REDSPICE's scale and public scrutiny make independent, gateway-style delivery assurance and benefits-realisation a defensible, board-facing investment — not a cost.",
+    "Cleared-STEM workforce scaling and retention is your named enterprise risk; we can bring workforce planning and a clearance-aware retention strategy proportionate to the REDSPICE growth target.",
+    "Your performance information is maturing post-ANAO Performance Statements scrutiny — we can redesign PGPA-aligned measures so impact is evidenced beyond 'high impact' self-assessment.",
+    "As you embed enterprise risk and refine financial management systems while expanding footprint, an enabling-function governance and financial-sustainability review keeps growth disciplined.",
+    "We work almost exclusively with Commonwealth entities, hold cleared resources, and operate at the corporate/enabling layer where independent help is easiest to stand up without touching mission secrecy."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a deliberately high-level UNCLASSIFIED plan; mission detail and most performance reporting sit in classified channels, so opportunities are inferred largely from enabling-function signals (workforce, governance, finance, performance, program assurance). Every engagement is gated by security clearance requirements, which materially constrains who can deliver — confidence is capped accordingly. REDSPICE figures and workforce/transparency context come from external commentary (some from 2022) rather than the plan itself. The external research did not complete ANAO or Parliamentary searches, so those sections are empty and should be manually verified at anao.gov.au and aph.gov.au (plus the IGIS 2024-25 annual report's ASD review) before client conversations."
+}
