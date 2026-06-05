@@ -1,0 +1,225 @@
+{
+  "agency_name": "Department of Veterans' Affairs (DVA)",
+  "portfolio": "Defence",
+  "plan_period": "2025-26",
+  "executive_summary": "DVA is a large service-delivery agency in the midst of the most significant reform period in its history, driven by the 122 recommendations of the Royal Commission into Defence and Veteran Suicide (104 agreed/agreed-in-principle) and the implementation of major new legislation (the VETS Act) that closes the VEA and DRCA to new claims from 1 July 2026 in favour of a single MRCA. DVA is lead/joint lead for 41 recommendations, including standing up a new agency focused on veteran wellbeing, a national ex-service organisation peak body, and the National Veterans' Data Asset — all multi-year, complex, interdependent programs. The plan candidly admits its digital ecosystem rests on legacy ICT (financial management system and Open Arms clinical case management being replaced in 2025-26), that claims volumes keep growing, and that it is rebuilding data governance, privacy practice and social licence. This is a deep, multi-year pipeline for program delivery, assurance, data, digital build and change management, tempered by the APS Strategic Commissioning Framework push to bring core work in-house.",
+  "strategic_priorities": [
+    {
+      "title": "Implement the Royal Commission response",
+      "description": "Implementing the Government's response to the Royal Commission's 122 recommendations is the department's core multi-year priority, spanning culture, systems, claims processing, transition, data/research, healthcare and workforce. DVA is lead or joint lead for 41 recommendations, overseen by the Royal Commission Implementation Committee (RCIC).",
+      "source_quote": "Our key priority now, and over the 4 years of this Corporate Plan, is implementing the Government's response and fulfilling the intent of the Royal Commission's recommendations."
+    },
+    {
+      "title": "Stand up a new veteran wellbeing agency and ESO peak body",
+      "description": "Subject to Government decisions following co-design, DVA is working to establish a new agency focused on veteran wellbeing (Rec 87) and a national peak body for ex-service organisations (Rec 89) — a fundamental structural shift in how it interacts with and supports veterans.",
+      "source_quote": "key initiatives will be the establishment of an agency focused on veteran wellbeing (Recommendation 87) and a national peak body for ex-service organisations (Recommendation 89)."
+    },
+    {
+      "title": "Implement the VETS Act legislative harmonisation",
+      "description": "Embed the Veterans' Entitlements, Treatment and Support (Simplification and Harmonisation) Act 2025. From 1 July 2026 the VEA and DRCA close to new claims and all claims are determined under an enhanced MRCA, requiring ICT changes, advocate/employee training and community communication.",
+      "source_quote": "During 2025–26, the department will continue to design and implement these changes... This will include continued communication and, training for advocates and employees, as well as the required changes to ICT systems."
+    },
+    {
+      "title": "Establish the National Veterans' Data Asset and modern data capability",
+      "description": "Build a modern enterprise data warehouse and analytics capability, establish the National Veterans' Data Asset and National Veteran Indicator (Rec 107), uplift data governance and literacy, and resolve legislative data-sharing barriers with Defence.",
+      "source_quote": "the multi-year work involved in establishing the National Veterans' Data Asset (Recommendation 107)"
+    },
+    {
+      "title": "Modernise the digital ecosystem and adopt AI responsibly",
+      "description": "Replace legacy ICT including the financial management system (2025-26) and the Open Arms clinical case management solution (2025-26), deliver new digital and data strategies, and pilot AI (Copilot trial, AI website search, an AI prototyping environment with Finance) under the Commonwealth's responsible AI policy.",
+      "source_quote": "The department's digital ecosystem continues to be underpinned by legacy ICT systems."
+    },
+    {
+      "title": "Improve claims timeliness and the client experience",
+      "description": "Sustain the cleared unallocated claims backlog and lift performance, raising claims-processing timeliness targets to >90%, with initiatives around online lodgement and streamlined handling of complex claims.",
+      "source_quote": "the department has increased performance targets to >90% to reflect its commitment to meeting and exceeding claims timeframes"
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Royal Commission into Defence and Veteran Suicide Final Report (Sep 2024) — 122 recommendations, Government response Dec 2024; DVA lead/joint lead for 41",
+    "VETS Act 2025 — closes VEA and DRCA to new claims from 1 July 2026, consolidating onto an enhanced MRCA",
+    "Establishment of the Defence and Veterans' Services Commission (DVSC) as independent oversight body from 29 September 2025",
+    "Continuing growth in claims volumes increasing downstream service pressure",
+    "Legacy ICT systems requiring replacement (financial management system; Open Arms clinical case management)",
+    "APS Strategic Commissioning Framework — pressure to bring core work in-house and reduce reliance on contractors",
+    "ANAO audit findings cited as a driver of the redesigned performance framework",
+    "APSC Capability Review of DVA (finalised October 2024) confirming governance trajectory but urging continued maturation",
+    "Joint Defence/DVA strategies: Family Wellbeing Strategy 2025-2030 and Mental Health and Wellbeing Strategy 2025-2030",
+    "Additional $47.6m in 2025-26 to maintain service-delivery resourcing"
+  ],
+  "challenges_and_risks": [
+    "Claims processing efficiency and timeliness under continuing demand growth — named enterprise risk 'Managing claims efficiently and effectively'",
+    "Legacy ICT modernisation risk while delivering simultaneous large reform programs",
+    "Complex interdependencies between Royal Commission recommendations (e.g. new agency, data asset, transition supports) creating delivery sequencing risk",
+    "Privacy, data integrity and rebuilding 'social licence and trust' with the veteran community — enterprise risk 'Operational Integrity'",
+    "Workforce capability, recruitment and retention pressures while bringing core work in-house under APS reform",
+    "Legislative data-sharing barriers between DVA and Defence impeding the National Veterans' Data Asset",
+    "Transition risk around the 1 July 2026 VETS Act cutover affecting advocates, employees and claimants",
+    "Newly introduced performance measures (many ≥80% indicative, monitored first year) — unproven and under public scrutiny",
+    "Public criticism over claim wait-time reporting transparency"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "DVA was criticised over its new approach to reporting claim wait times, per a September 2025 Canberra Times report (confirmed at headline level only).",
+      "implication": "Signals ongoing political and media sensitivity around performance transparency and metrics — opportunity in performance-measure design, data governance and independent assurance of public reporting.",
+      "source": "The Canberra Times, 22 Sep 2025 — https://www.canberratimes.com.au/story/9064483/dva-criticised-over-new-claim-wait-time-reporting/"
+    },
+    {
+      "summary": "The Royal Commission into Defence and Veteran Suicide delivered its Final Report (Sep 2024) with 122 recommendations and a Government response (Dec 2024), placing DVA's claims processing, legislative complexity and service delivery under sustained systemic scrutiny.",
+      "implication": "Creates a multi-year reform/implementation pipeline (legislation, claims, mental health, data, new agency) — strong demand for delivery, change management and assurance advisory.",
+      "source": "Royal Commission into Defence and Veteran Suicide — https://defenceveteransuicide.royalcommission.gov.au/ ; DVA Government response — https://www.dva.gov.au/news/latest-stories/government-response-royal-commission-defence-and-veteran-suicides-final-report"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit on the effectiveness of the planning and management of Veteran Centric Reforms found DVA was effectively managing the reform program but had underperformance to address (reported Oct 2024).",
+      "implication": "Audit-identified underperformance creates remediation demand — program delivery assurance, benefits realisation and capability uplift.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/effectiveness-the-planning-and-management-veteran-centric-reforms ; The Mandarin, 18 Oct 2024 — https://www.themandarin.com.au/151117-audit-finds-veterans-affairs-is-effectively-managing-reform-program-but-must-address-dva-underperformance/"
+    },
+    {
+      "summary": "ANAO performance audit 'Managing the veterans' compensation claim backlog' examines DVA's handling of the compensation claim backlog.",
+      "implication": "The backlog is a named audit focus and political pressure point — scope for process re-engineering, workforce planning and claims-system advisory.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/managing-the-veterans-compensation-claim-backlog"
+    },
+    {
+      "summary": "ANAO performance audit on the efficiency of veterans service delivery by DVA.",
+      "implication": "Efficiency findings underpin demand for service-delivery optimisation, digital transformation and operating-model advice.",
+      "source": "ANAO — https://www.anao.gov.au/work/performance-audit/efficiency-veterans-service-delivery-department-veterans-affairs"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Royal Commission response program delivery and assurance",
+      "agency_need": "DVA is lead/joint lead for 41 interdependent, complex, multi-year recommendations overseen by the RCIC, which must provide assurance to the Secretary, Government and external oversight bodies (including the new DVSC).",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded program/PMO delivery support and an independent gateway-style assurance role across the recommendation portfolio, with a benefits-management framework to evidence outcomes to the RCIC and DVSC.",
+      "rationale": "The plan names the RCIC, 41 recommendations and explicit assurance obligations; ANAO findings of 'underperformance' in reform management reinforce demand for delivery rigour and independent assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Stand-up of the new veteran wellbeing agency",
+      "agency_need": "DVA must establish a new agency focused on veteran wellbeing (Rec 87) and a national ESO peak body (Rec 89) following co-design — requiring operating-model design, governance and transition.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Target operating model and governance design for the new wellbeing agency, including establishment roadmap, accountability frameworks and transition planning, with change management support.",
+      "rationale": "The plan flags these as 'key initiatives' driving 'a fundamental shift', subject to Government decisions — a defined, time-bound machinery-of-government build.",
+      "confidence": "High"
+    },
+    {
+      "area": "VETS Act implementation and ICT changes",
+      "agency_need": "Embed legislative harmonisation by 1 July 2026, including the closure of VEA/DRCA to new claims, advocate/employee training, communications and required ICT system changes.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Implementation delivery support for the VETS Act cutover, including business readiness, process redesign for single-Act claims determination, and coordination of ICT and training workstreams ahead of 1 July 2026.",
+      "rationale": "The plan explicitly commits to designing/implementing these changes in 2025-26 including ICT changes and advocate/employee training, with a hard legislative deadline.",
+      "confidence": "High"
+    },
+    {
+      "area": "National Veterans' Data Asset and enterprise data warehouse",
+      "agency_need": "Build a modern EDW and analytics capability, establish the National Veterans' Data Asset and National Veteran Indicator (Rec 107), and uplift data governance, literacy and provenance.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data platform consolidation and EDW build support, metadata/data-quality and curated data-asset design, plus an information strategy and data governance uplift aligned to the Data Availability and Transparency Act 2022.",
+      "rationale": "The plan details the EDW, data-asset initiatives (PLIDA, DSAS, segmentation) and a data governance/literacy uplift program — a concrete, multi-year data agenda.",
+      "confidence": "High"
+    },
+    {
+      "area": "Legacy ICT replacement (FMIS and Open Arms case management)",
+      "agency_need": "Replace the financial management system and the outdated Open Arms clinical case management solution in 2025-26, on a legacy-heavy digital ecosystem.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Solutions implementation and integration support for the new FMIS and Open Arms clinical case management system, including business/process analysis, service transition and ongoing support and operations.",
+      "rationale": "The plan names both replacements as underway in 2025-26 and admits the ecosystem rests on legacy systems — clear build-and-implement demand the firm can fulfil.",
+      "confidence": "High"
+    },
+    {
+      "area": "Claims processing efficiency and workforce uplift",
+      "agency_need": "Lift claims timeliness to >90% under growing demand, with workforce provisioning reviews and skills development cited as enterprise-risk mitigations.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Claims process re-engineering and a workflow/automation optimisation review, paired with workforce planning to right-size processing capacity for sustained higher targets.",
+      "rationale": "The enterprise risk table names 'implement efficient workflows and automated systems' and 'reviews of current workforce provisioning'; ANAO backlog and efficiency audits reinforce the need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Responsible AI adoption and assurance",
+      "agency_need": "Adopt AI 'in a considered, safe and responsible way' under the Commonwealth AI policy, including a Copilot trial, AI website search and an AI prototyping environment, guided by a first AI Policy and Strategy.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "AI governance and assurance advisory: develop the AI Policy and Strategy, transparency-statement maintenance, and a risk/assurance framework for AI use cases in compliance monitoring and service delivery.",
+      "rationale": "The plan commits to a first AI Policy and Strategy and an AI Advisory Board, with named pilots — a defined, lower-sensitivity enabling opportunity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance framework redesign and evaluation",
+      "agency_need": "The newly redesigned framework consolidates 44 measures into 12, many newly created with indicative ≥80% targets monitored in year one and an integrated survey methodology still being developed.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "PGPA-aligned performance-measure validation and an evaluation design for the new wellbeing/client-satisfaction measures, including survey methodology design and baselining.",
+      "rationale": "The plan states the survey methodology is 'being developed in 2025-26' and targets 'may be adjusted after the first year' — a clear, scoped methodology and evaluation gap.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data security and privacy / social licence rebuild",
+      "agency_need": "Rebuild social licence and trust, ensure privacy and data integrity (Privacy Act 1988), and protect sensitive veteran information as data-sharing expands — named under the Operational Integrity enterprise risk.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance review of data-sharing platforms and the new EDW, validating controls before sensitive veteran data is consolidated and shared with Defence/ABS/AIHW.",
+      "rationale": "The plan commits to 'robust data security measures' and rebuilding 'social licence and trust' amid expanded data sharing — credible assurance demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Veteran community communications and engagement",
+      "agency_need": "Extensive consultation/co-design with the veteran community on the new agency, AI, data use, and VETS Act changes, plus advocate and family communications.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Community and stakeholder engagement and communications support for the VETS Act transition and wellbeing-agency co-design, including content for advocates, families and ESOs.",
+      "rationale": "The plan repeatedly stresses consultation, co-design and communication with the veteran community as central to reform delivery.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Royal Commission Implementation Committee (RCIC) lead and the relevant reform Deputy Secretary with a delivery-plus-assurance proposition for the 41 recommendations, referencing the ANAO 'underperformance' finding.",
+      "priority": "High",
+      "rationale": "This is DVA's defining multi-year priority with explicit assurance obligations; an independent, credible delivery/assurance partner is directly relevant and time-sensitive given DVSC oversight from 29 Sept 2025."
+    },
+    {
+      "action": "Prepare a capability statement and meeting request to the CIO / digital group on legacy ICT replacement (FMIS and Open Arms) and the EDW build, emphasising build-and-implement (not just advisory) credentials.",
+      "priority": "High",
+      "rationale": "Both system replacements are scheduled for delivery in 2025-26 on a legacy-heavy estate — active, fundable work the firm can implement now."
+    },
+    {
+      "action": "Engage the program area owning VETS Act implementation on business readiness and process redesign ahead of the hard 1 July 2026 cutover.",
+      "priority": "High",
+      "rationale": "A fixed legislative deadline with ICT, training and process dependencies creates urgent, well-defined demand."
+    },
+    {
+      "action": "Offer the data/analytics group a scoped data-governance and EDW design engagement aligned to the National Veterans' Data Asset and the Data Availability and Transparency Act 2022.",
+      "priority": "Medium",
+      "rationale": "The data agenda is multi-year and foundational to multiple recommendations; early positioning builds a long pipeline."
+    },
+    {
+      "action": "Pitch a short performance-framework validation/evaluation engagement to the corporate/performance branch while the integrated survey methodology is still being developed.",
+      "priority": "Medium",
+      "rationale": "The methodology gap is explicit in the plan and the window to shape it is now, in the first monitoring year."
+    },
+    {
+      "action": "Note the APS Strategic Commissioning Framework constraint and frame offerings around knowledge transfer and capability uplift rather than long-term staff augmentation.",
+      "priority": "Medium",
+      "rationale": "DVA explicitly intends to bring core work in-house and build knowledge-transfer into contracts; proposals must respect this to be credible."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Secretary / Group lead responsible for Royal Commission reform and the Royal Commission Implementation Committee (RCIC)",
+    "Chief Information Officer / head of digital and ICT (FMIS and Open Arms replacements; digital strategy)",
+    "Head of data, analytics and research (EDW, National Veterans' Data Asset, data governance uplift)",
+    "VETS Act implementation program area / claims transformation branch",
+    "Chief Risk Officer (enterprise risk, integrity, assurance)",
+    "Chief Operating Officer / corporate group (performance framework, workforce planning)",
+    "Transition Branch (Veteran Transition Strategy and Action Plan)",
+    "Audit & Risk Committee (independent assurance positioning)"
+  ],
+  "talking_points": [
+    "You are lead/joint lead for 41 Royal Commission recommendations with assurance obligations to the RCIC, Government and the new DVSC — we can provide independent delivery support and gateway-style assurance, directly addressing the ANAO's finding on reform underperformance.",
+    "The VETS Act cutover on 1 July 2026 is a hard deadline with intertwined ICT, training and process dependencies — we can drive business readiness and process redesign to de-risk the single-Act transition.",
+    "Your plan candidly flags a legacy ICT ecosystem with the FMIS and Open Arms clinical case management both being replaced in 2025-26 — we build and implement, not just advise.",
+    "The National Veterans' Data Asset and enterprise data warehouse need governance, provenance and DATA Act-aligned controls before sensitive data is shared with Defence, ABS and AIHW — we can design the data foundation and the assurance around it.",
+    "Your redesigned performance framework has new measures with an integrated survey methodology still under development — we can validate the measures and design a defensible methodology amid public scrutiny over wait-time reporting.",
+    "We understand the APS Strategic Commissioning Framework — our model centres on building your people's capability and embedding knowledge transfer, not creating long-term dependency."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The corporate plan is rich and signal-dense, giving high confidence on the major reform, claims, data and ICT opportunities. However, the APS Strategic Commissioning Framework intent to in-source core work is a genuine headwind — offerings must be framed around capability transfer. External research was constrained: the Parliamentary section is empty because no specific committee/Estimates/QoN items were verified (despite near-certain scrutiny), and the Canberra Times wait-time item and individual ANAO conclusions were confirmed only at headline/title level. The source URL provided was labelled 2024-25 but the plan text is the 2025-26 edition; analysis follows the 2025-26 content. Some opportunities (AI assurance, performance methodology, cyber) are scoped from plan commitments rather than named procurements, hence Medium confidence."
+}

@@ -496,6 +496,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering FY2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "department-of-veterans-affairs-dva": {
+      "name": "Department of Veterans' Affairs (DVA)",
+      "portfolio": "Defence",
+      "plan_url": "https://www.dva.gov.au/sites/default/files/2024-08/corporate-plan-2024-25.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "High"
     }
   }
 }
