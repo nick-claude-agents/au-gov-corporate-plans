@@ -1,0 +1,197 @@
+{
+  "agency_name": "Screen Australia",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2025-29 (budget year 2025-26)",
+  "executive_summary": "Screen Australia is a corporate Commonwealth entity (cultural/funding-body archetype) that has just adopted a wholly new strategic framework — five pillars (Empower, Enrich, Enable, Engage, Elevate) supported by ten priorities, twelve deliverables and an entirely refreshed performance-measurement set. The plan is candid about three operational gaps the firm can act on: a near-greenfield data/digital position (baseline 'No integration' of application, program and financial datasets), a brand-new performance framework where baselines are still being gathered over the next 12 months, and an explicit drive for operational efficiency to push more money to programs. It is also building new funding frameworks (e.g. enterprise/scale-up funding, a unified industry 'North Star'), simplifying its application process and investing in cloud systems and automation. Budgets are modest and funding pressure is a named risk, so opportunities must be right-sized to short advisory, framework-design and proportionate digital/data engagements rather than large multi-year programs. The strongest, most time-bound demand sits in Digital & ICT Delivery, Data/Analytics, and performance-framework/evaluation design.",
+  "strategic_priorities": [
+    {
+      "title": "Data-driven, effectiveness-focused decision making",
+      "description": "A deliberate pivot from measuring volume of activity to measuring impact and effectiveness, underpinned by a new performance-measurement set with baselines still being established over the next 12 months.",
+      "source_quote": "New performance metrics have been identified for the period 2025–29 ... reflecting the agency's shift to become more focused on measuring effectiveness rather than volume of activity."
+    },
+    {
+      "title": "Digital enablement and data integration",
+      "description": "Moving from no integration of application, program and financial datasets to fully integrated data, plus investment in cloud-based systems, improved data management and automation to speed funding decisions and strengthen digital resilience.",
+      "source_quote": "Investing in cloud-based systems, improved data management and automation to improve efficiency, reduce processing time and strengthen long-term digital resilience."
+    },
+    {
+      "title": "Operational excellence and funding efficiency",
+      "description": "Streamlining ways of working, removing duplication and simplifying the application process to direct more funding to programs and reduce delays.",
+      "source_quote": "Commitment to refining internal processes and removing duplication to direct more funding to programs and reduce delays."
+    },
+    {
+      "title": "New enterprise/business funding frameworks",
+      "description": "Establishing a new funding framework to support commercially sustainable production businesses (scale-up, diversified revenue) rather than just individual projects.",
+      "source_quote": "Establish a new funding framework to support the growth of commercially sustainable production companies by enabling diversified revenue streams."
+    },
+    {
+      "title": "Industry 'North Star' — a unified industry vision",
+      "description": "Developing, with the Board and industry across FY2026, a unified industry vision to drive collaboration, investment and long-term growth, to be incorporated into performance tracking once established.",
+      "source_quote": "A unified industry vision to drive collaboration, investment and long-term growth across Australia's screen sector (in development FY2026)."
+    },
+    {
+      "title": "Global positioning and co-production growth",
+      "description": "Lifting international investment in Australian productions, post-financing acquisitions and festival presence, including a co-production development program with international partners.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Alignment to the National Cultural Policy (Revive) and the 2025-26 Portfolio Budget Statement, mapping each pillar to Revive's policy pillars.",
+    "A comprehensive internal review of resources, activities and performance metrics that produced the new strategic framework.",
+    "Industry transformation — technological change, global content flows, streaming/platform shifts and evolving audience expectations.",
+    "Insights and baselines from the 2025 Screen Industry Survey driving new measures and consultation.",
+    "Administration of the Producer Offset and the tension between offset requirements and changing distribution/business models."
+  ],
+  "challenges_and_risks": [
+    "Reduction in funding from the Australian Government against rising demand for limited funds.",
+    "Many new performance measures have no baseline yet ('-'), risking weak first-year performance reporting.",
+    "Digital baseline is 'No integration' of application, program and financial datasets — a significant data/systems gap the agency admits.",
+    "Screen investment recoupment targets not being met.",
+    "Discrepancy between Producer Offset requirements and changing business models, plus historical concern about inflated fees claimed under the offset.",
+    "Insufficient crew or infrastructure to meet production demand; increased litigation risk from competition for limited funds."
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "Historical (2013) commentary criticised Screen Australia's reliance on industry expert assessors as opaque and prone to 'club'/nepotism perceptions, with recurring recipients. Item is over a decade old and outside the recency window.",
+      "implication": "Perceptions of opacity in funding assessment are a recurring sector grievance; relevant framing for transparency, process design and probity in assessment, but dated and not current.",
+      "source": "Mumbrella — https://mumbrella.com.au/screen-australia-needs-stop-acting-like-club-186356"
+    },
+    {
+      "summary": "Historical (2018) reporting noted Screen Australia raised concern about 'unreasonably high' fees claimed under the Producer Offset and the risk of misuse of the rebate. Outside the recency window.",
+      "implication": "Producer Offset integrity/compliance is a recognised risk area; potential latent demand for assurance, eligibility-testing and compliance-framework work.",
+      "source": "IF Magazine — https://www.if.com.au/screen-australia-sounds-alarm-over-fees-claimed-under-the-producer-offset/"
+    }
+  ],
+  "anao_findings": [],
+  "parliamentary_matters": [
+    {
+      "summary": "Screen Australia lodged a formal submission to the National Cultural Policy process, engaging directly with policy actions affecting the agency and the screen sector.",
+      "implication": "The agency is actively implementing national cultural-policy (Revive) commitments — a live environment that typically generates program-design, evaluation and implementation work.",
+      "source": "Parliament of Australia submission — https://www.aph.gov.au/DocumentStore.ashx?id=3e47630f-e63c-403e-bd1a-b6123b209973&subId=735515"
+    },
+    {
+      "summary": "A 2017 House Communications and the Arts Committee inquiry examined Screen Australia's settings, including long-unchanged licence-fee thresholds set in 2007. Historical, outside the recency window.",
+      "implication": "Structural funding thresholds and content-support settings have a long history of parliamentary scrutiny; useful background for any policy-reform support work.",
+      "source": "Parliament of Australia Committee report — https://www.aph.gov.au/-/media/02_Parliamentary_Business/24_Committees/243_Reps_Committees/Communications_and_the_Arts/45p/Australian_Film_and_TV/Chapter4.pdf"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Data integration across application, program and financial systems",
+      "agency_need": "Baseline is 'No integration'; the agency wants all application, program, financial and other datasets integrated to enable faster funding decisions and effectiveness measurement.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An information/data strategy and integration roadmap, followed by data management and business-intelligence build linking application, program and financial datasets into a single reporting view.",
+      "rationale": "The plan explicitly sets a multi-year target moving from 'No integration' to all datasets integrated, with annual IT system audits to track progress — a clear, time-bound data gap the firm can scope.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cloud systems, automation and application-process simplification",
+      "agency_need": "Investing in cloud-based systems and automation to reduce processing time, simplify applications and improve user experience.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design of the applicant journey, then solutions implementation/automation of the grants application and assessment workflow with ongoing support.",
+      "rationale": "The plan names cloud investment, automation, simplifying applications and improving UX as active commitments under Digital Enablement and Operational Excellence; the firm can both design and build, unlike pure advisers.",
+      "confidence": "High"
+    },
+    {
+      "area": "New performance-measurement framework with missing baselines",
+      "agency_need": "A new effectiveness-focused measure set where many baselines are '-' and additional data must be gathered over 12 months to strengthen measurement.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure validation and baseline-establishment piece, tightening measure logic, methodology and data sources ahead of the first Annual Performance Statement.",
+      "rationale": "The plan admits measures are newly introduced with baselines still to be gathered; weak/unbaselined measures are a recognised performance-framework demand signal and an annual reporting risk.",
+      "confidence": "High"
+    },
+    {
+      "area": "Evaluation of enterprise/talent funding effectiveness",
+      "agency_need": "Shift to measuring return on investment for Enterprise and talent programs (sustainable business earnings over 3 years, talent securing funding/credits post-program).",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A process/outcome evaluation design and longitudinal measurement framework for the Enterprise and talent-development programs, including data-collection methodology.",
+      "rationale": "The plan sets explicit 3-year ROI measures from FY2025 but notes data collection still needs building — a natural evaluation engagement.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "New enterprise/scale-up funding framework design",
+      "agency_need": "Establishing a new funding framework to grow commercially sustainable production businesses via diversified revenue (global markets, merchandising, distribution).",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Design and implementation support for the new enterprise funding framework, including program design, change management and rollout, subject to incremental funding.",
+      "rationale": "The plan explicitly commits to developing new programs to support scale-up businesses (subject to securing funding); a framework-design and change engagement fits.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Industry 'North Star' unified vision facilitation",
+      "agency_need": "Developing a unified industry vision with the Board and sector across FY2026 to drive collaboration, investment and growth.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Facilitated strategy development and stakeholder-engaged visioning to produce the 'North Star', with a measurement approach for tracking it.",
+      "rationale": "Named as an in-development FY2026 deliverable with no measure yet established — a discrete, scoped strategy facilitation opportunity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Producer Offset integrity and compliance assurance",
+      "agency_need": "Managing risk that Producer Offset requirements diverge from changing business models, plus historical concern over inflated fee claims.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A health-check/assurance review of Producer Offset eligibility-testing and compliance controls, with recommendations to tighten the framework.",
+      "rationale": "Offset administration is a named function and a named risk area; historical media reporting flags fee-inflation concerns. Demand is inferred rather than explicitly stated in this plan, so confidence is moderate.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability under funding pressure",
+      "agency_need": "Named risks of reduced government funding, rising demand, escalating costs and unmet recoupment targets, alongside a fixed 75% funding-efficiency target.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability and cost-efficiency review benchmarking administrative-to-program expenditure ratios and identifying options to protect program funding.",
+      "rationale": "The plan names funding reduction and recoupment risks and sets an explicit administrative-to-investment efficiency ratio; a proportionate financial review fits these signals.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Audience and industry research program",
+      "agency_need": "New audience measures (value of/awareness of Australian content) to be established in 2025-26 with ongoing tracking via external research partners.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Design and delivery of the annual audience research and industry survey instruments, sampling and analysis to populate the Engage-pillar measures.",
+      "rationale": "The plan states these measures will be established in 2025-26 and tracked with external research partners — explicit outsourced research demand.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Operating Officer / head of Digital and the Finance Unit with a data-integration and grants-system discovery proposal, leading with the 'No integration' baseline.",
+      "priority": "High",
+      "rationale": "This is the most concrete, time-bound gap the plan admits, with annual IT system audits tracking progress; the firm can both design and build, differentiating it from advisory-only competitors."
+    },
+    {
+      "action": "Offer a short performance-measure validation and baseline-establishment engagement timed before the first Annual Performance Statement under the new framework.",
+      "priority": "High",
+      "rationale": "Many new measures lack baselines and data must be gathered within 12 months — a window where independent help materially reduces a public reporting risk."
+    },
+    {
+      "action": "Prepare a concise capability statement on cultural-sector data, grants-platform delivery and PGPA performance frameworks, sized for a modest-budget corporate entity.",
+      "priority": "Medium",
+      "rationale": "Right-sizing is essential; a proportionate, sector-aware pitch will resonate more than enterprise-scale transformation offerings."
+    },
+    {
+      "action": "Request a meeting with the strategy/policy area to support the FY2026 'North Star' industry-vision process and the new enterprise funding framework.",
+      "priority": "Medium",
+      "rationale": "Both are explicitly in-development this year, creating discrete facilitation and design opportunities before they are locked down."
+    },
+    {
+      "action": "Monitor Senate Estimates (Environment and Communications) and any National Cultural Policy / Producer Offset reform announcements for procurement triggers.",
+      "priority": "Low",
+      "rationale": "External research could not confirm recent Estimates/QoN detail; policy reform or funding changes could surface program-design and assurance work."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer / Operational Excellence lead (efficiency and ways of working)",
+    "Head of Digital / IT (Digital Enablement, cloud and data integration)",
+    "Finance Unit (risk, fraud control, business continuity, financial sustainability, internal audit coordination)",
+    "Head of Strategy/Research (performance framework, 'North Star', audience and industry research)",
+    "Enterprise / Business Development program area (new sustainable-business funding framework)",
+    "Screen Australia Board and Audit/Risk Committee (governance, risk oversight, assurance)"
+  ],
+  "talking_points": [
+    "Your plan moves from 'No integration' to fully integrated application, program and financial data — we can deliver both the integration roadmap and the build, not just advise on it.",
+    "Many of your new effectiveness measures lack baselines and need data within 12 months; we can validate the measure set and establish defensible baselines before your first Annual Performance Statement.",
+    "Simplifying applications and automating funding workflows is named under Digital Enablement and Operational Excellence — we can run discovery and service design of the applicant journey and implement it.",
+    "Your efficiency target holds administrative-to-investment at 75%; a short financial-sustainability review can identify where to protect program funding against the funding-reduction risk you name.",
+    "The FY2026 'North Star' industry vision and new enterprise funding framework are both in development now — a good moment for facilitated design support sized to your budget.",
+    "Producer Offset integrity sits among your named risks; an assurance health-check of eligibility and compliance controls is a proportionate, low-disruption engagement."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a high-level, vision-oriented corporate plan typical of a small cultural funding body; it names operational gaps (data integration, new metrics, efficiency) clearly but says little about budgets, procurement timing or named programs, so most opportunities are inferred from foundation-level commitments. Offerings must be right-sized to a modest-budget corporate entity — short advisory, framework-design and proportionate digital/data work, not large transformation programs. External research coverage was explicitly incomplete (search budget exhausted): no recent (last ~3 years) controversy, no dedicated ANAO audit and no specific recent Estimates exchange could be confirmed, and the news/parliamentary items cited are largely historical. The Producer Offset and financial-sustainability opportunities are inferred from named risks and dated media, hence lower confidence. A follow-up research pass is recommended before relying on the external findings."
+}

@@ -592,6 +592,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26",
       "overall_confidence": "Medium"
+    },
+    "screen-australia": {
+      "name": "Screen Australia",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://www.screenaustralia.gov.au/getmedia/78ab580a-684c-4b61-a585-7b2f0493a0ca/Corporate-Plan-2024.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-29 (budget year 2025-26)",
+      "overall_confidence": "Medium"
     }
   }
 }
