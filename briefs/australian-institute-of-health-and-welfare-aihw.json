@@ -1,0 +1,225 @@
+{
+  "agency_name": "Australian Institute of Health and Welfare (AIHW)",
+  "portfolio": "Health (Health, Disability and Ageing)",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "AIHW is a corporate Commonwealth entity and Australia's authoritative health and welfare data agency, now undertaking a significant strategy refresh built around 16 Strategic Initiatives delivered through a new Strategic Implementation Office (SIO). The dominant signals for the year are ICT modernisation (a 5-year roadmap and investment plan based on the AIHW Technology Strategy 2023-26), expansion of national data-linkage assets (National Health Data Hub, ANDII, National Disability Data Asset), heightened cybersecurity demands on sensitive data, a revamped PGPA performance framework, and a workforce/communications uplift. This is a data/scientific-agency archetype operating under explicit fiscal constraints, making enabling/corporate functions (ICT, data governance, project delivery, performance, cyber) the most accessible advisory entry points. The plan reveals real latent demand in program delivery assurance, data engineering, cyber assurance and performance-framework design. External research shows a low-controversy, low-audit-risk entity, so opportunities are capability-driven rather than crisis-driven.",
+  "strategic_priorities": [
+    {
+      "title": "ICT modernisation and a contemporary data ecosystem",
+      "description": "Deliver the ICT Modernisation Roadmap and Investment Plan (under the AIHW Technology Strategy 2023-26), including an Enterprise Data and Analytics Ecosystem, enterprise workflow/business process management, enterprise information management, and elevated cyber and recovery responses to handle growing data volume, variety and security demands.",
+      "source_quote": "The ICT modernisation roadmap and investment plan will set clear ICT goals... outline the steps and timelines for achieving these outcomes, and identify the investment required for each component of the implementation plan."
+    },
+    {
+      "title": "Expanding national data integration and linkage",
+      "description": "Grow the National Health Data Hub (NHDH) and feed the Australian National Data Integration Infrastructure (ANDII) and its first asset, the National Disability Data Asset, plus new collections (primary care/GP, perinatal, mental health screening, FDSV, etc.) to meet rising demand for enduring, cross-jurisdictional linked data.",
+      "source_quote": "Demand continues for more enduring data linkages to answer complex cross-sector and cross-jurisdictional health and welfare questions."
+    },
+    {
+      "title": "Delivering 16 Strategic Initiatives via the SIO",
+      "description": "Stand up and run a dedicated Strategic Implementation Office to drive enhanced project management and program governance across the institute, with executive sponsorship and SIO oversight of deliverables, timelines, resources and risk.",
+      "source_quote": "a dedicated team established to promote and support enhanced project management and program governance across the institute."
+    },
+    {
+      "title": "Revamped performance framework",
+      "description": "Implement a refreshed, strategy-aligned performance framework with new core-function, enabler and stakeholder-outcome measures to better measure progress, including many newly introduced metrics.",
+      "source_quote": "A revamped performance framework will allow us to measure our progress more effectively and efficiently."
+    },
+    {
+      "title": "Cybersecurity and data protection uplift",
+      "description": "Continuously elevate cyber and recovery responses and reach Essential 8 maturity goals to protect sensitive and increasingly demanded datasets in a rising global cyber-threat environment.",
+      "source_quote": "we continue to keep cybersecurity at the forefront of ICT decision making and capability."
+    },
+    {
+      "title": "AI/ML capability build",
+      "description": "Scale AI/ML adoption across business units, integrate AI into the enterprise data ecosystem, and update AI governance, risk and compliance frameworks in line with whole-of-government policy and the DTA's Responsible AI Guidelines.",
+      "source_quote": "the AIHW is also focused on building organisational capability in artificial intelligence (AI) and machine learning (ML) to future-proof our analytical functions."
+    },
+    {
+      "title": "Communications, stakeholder engagement and First Nations partnership",
+      "description": "Diversify dissemination, develop internal/external communications and stakeholder engagement strategies, and pursue a new goal of being recognised by First Nations people and organisations as an exemplary partner, advancing Closing the Gap priority reforms.",
+      "source_quote": "Evolving our web presence and deepening our communication and stakeholder engagement strategies will be vital."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Department of Health, Disability and Ageing's expanded remit (disability services) and ambitious portfolio reform agenda AIHW is positioned to support",
+    "National Agreement on Closing the Gap Priority Reforms and Indigenous data governance/sovereignty commitments",
+    "Rising demand for integrated/linked data across sectors and jurisdictions (NHDH, ANDII, National Disability Data Asset, National Aged Care Data Asset, Child Wellbeing Data Asset)",
+    "National Primary Health Care Data Collection development (GP activity data; work with CSIRO on FHIR standards; National Primary and Acute Care Data Linkage Project)",
+    "Rapid technological change and AI/ML adoption under DTA Responsible AI Guidelines",
+    "Rising global cybersecurity threats against sensitive health and welfare data",
+    "Strategy refresh introducing new organisational goals, enabler priorities and a revised performance framework",
+    "Increased whole-of-government focus on monitoring, evaluation and measuring outcomes"
+  ],
+  "challenges_and_risks": [
+    "Fiscal constraints explicitly named as a strategic risk for a corporate entity reliant on stakeholder funding",
+    "Cybersecurity and the reputational damage even a small data or privacy breach could cause to a trusted data agency",
+    "Increasing number, size and complexity of datasets straining ageing ICT systems",
+    "Complex legal, governance and privacy environment requiring high data-security standards",
+    "Resourcing and ICT funding strain on major data-linkage projects (NHDH, ANDII, National Disability Data Asset)",
+    "Workforce capability gaps — need for a formal workforce development plan and contemporary technical skills",
+    "Delivery risk across 16 concurrent strategic initiatives reliant on a small SIO and volunteer working groups",
+    "Largely new/unproven performance measures that will need validation",
+    "Academic critique that flagship reporting under-delivers on disaggregated/equity data (external)"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "A 2024 Critical Public Health article argued AIHW's burden-of-disease and suicide/self-harm monitoring work under-delivers on disaggregated data, aggregating groups broadly (e.g. CALD) and obscuring sub-group disparities.",
+      "implication": "A recurring, credible stakeholder demand for finer-grained, equity-focused analytics is a plausible advisory entry point in data design and intersectional analysis.",
+      "source": "Critical Public Health (Taylor & Francis) — https://www.tandfonline.com/doi/full/10.1080/09581596.2024.2386333"
+    },
+    {
+      "summary": "Peer-reviewed work notes AIHW's flagship Australia's health reporting has repeatedly acknowledged data and analysis gaps limiting monitoring of social determinants and health equity.",
+      "implication": "Self-acknowledged gaps in social-determinants and linked data signal demand for data-linkage and analytical-methods support.",
+      "source": "MJA / NCBI PMC — https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9321841/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO's Health and Aged Care portfolio overview lists AIHW as a corporate, non-material entity with a low risk of material misstatement.",
+      "implication": "Low audit-driven remediation demand; pursue capability/data-services work rather than audit-response engagements.",
+      "source": "ANAO Health and Aged Care portfolio — https://www.anao.gov.au/linky/health-and-aged-care-portfolio"
+    },
+    {
+      "summary": "AIHW data is structurally embedded in audits of other Health entities — e.g. IHACPA receives hospital-level cost data and the NPHED from AIHW; AIHW data was cited in the COVID-19 audit activity report.",
+      "implication": "AIHW's datasets and standards expertise are valued across the whole Health portfolio, broadening where related advisory work could be positioned.",
+      "source": "ANAO public hospital services audit — https://www.anao.gov.au/work/performance-audit/australian-government-funding-public-hospital-services-risk-management-data-monitoring-and-reporting"
+    },
+    {
+      "summary": "A historical 2008-09 ANAO protective-security audit concluded AIHW had not established sufficient practices for identifying and managing security risks (outside the recent window).",
+      "implication": "Not a live opportunity, but indicates protective security/data governance has historically been a soft spot — relevant context for cyber and data-governance pitches.",
+      "source": "ANAO Security Risk Management, Auditor-General Report No.44 2008-09 — https://www.anao.gov.au/work/performance-audit/security-risk-management"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "AIHW maintains a public register of submissions to parliamentary inquiries, indicating routine engagement with parliamentary processes.",
+      "implication": "A low-cost intelligence source on AIHW's stated policy priorities and pain points to tailor a pitch.",
+      "source": "AIHW Submissions to inquiries — https://www.aihw.gov.au/about-us/submissions"
+    },
+    {
+      "summary": "As a Health-portfolio entity, AIHW falls within the Senate Community Affairs Legislation Committee's Estimates coverage.",
+      "implication": "Estimates transcripts and QoNs under Community Affairs are the right channel to monitor for emerging AIHW issues and ministerial priorities.",
+      "source": "Parliament of Australia, Community Affairs Senate estimates — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ca"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "ICT modernisation delivery and assurance",
+      "agency_need": "Execute a 5-year ICT Modernisation Roadmap and Investment Plan — enterprise data & analytics ecosystem, enterprise workflow/BPM, and enterprise information management — against fiscal constraints and ageing systems under strain.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and design support for the Enterprise Data and Analytics Ecosystem and enterprise workflow capability, plus build/integration and ongoing support and operations, scoped to the roadmap's prioritised investment components.",
+      "rationale": "The plan names a funded, multi-year ICT modernisation roadmap and explicitly cites datasets straining current systems and the need to identify investment per component — clear, time-bound build demand the firm can deliver, not just advise on.",
+      "confidence": "High"
+    },
+    {
+      "area": "Program delivery and governance for the 16 Strategic Initiatives",
+      "agency_need": "A small SIO must deliver 16 concurrent strategic initiatives with planning, deliverables, timelines, resource and risk reporting across executive sponsors and volunteer working groups.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded PMO/delivery support to the SIO — a portfolio delivery framework, benefits management, and delivery assurance/health checks across the 16 initiatives, with change management for the strategy refresh.",
+      "rationale": "The plan stands up a dedicated SIO to drive 'enhanced project management and program governance' across a heavy, concurrent initiative portfolio resourced largely by volunteers — a classic capacity and assurance gap.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cybersecurity and Essential 8 uplift",
+      "agency_need": "Continuously elevate cyber and recovery responses and meet Essential 8 maturity goals to protect highly sensitive, increasingly demanded datasets amid rising global cyber threats.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment against ACSC/Essential 8, assurance of NHDH/ANDII data environments, and cyber advisory aligned to the ICT roadmap's 'elevate cybersecurity and recovery' focus area.",
+      "rationale": "Cyber is named as a top strategic risk and an explicit ICT focus area, with Essential 8 maturity as a tracked performance measure; reputational stakes for a data agency are high. The historical ANAO security finding reinforces this as a genuine soft spot.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data integration / linkage engineering and analytics",
+      "agency_need": "Expand NHDH and feed ANDII and the National Disability Data Asset, add new collections (primary care, perinatal, FDSV, etc.), and reduce time-to-access for linked data — all resource- and ICT-intensive.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data engineering and management support for linkage expansion, an information-management/metadata strategy, and analytics tooling to cut median time-to-access and lift the proportion of holdings with public metadata.",
+      "rationale": "Linked-data expansion is a core strategic thrust with named assets and explicit performance measures (time-to-access, metadata coverage); academic critiques on disaggregation/social-determinants gaps add external demand signals.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance framework validation",
+      "agency_need": "A revamped, strategy-aligned PGPA performance framework with many newly introduced and unproven measures across core functions, enablers and stakeholder outcomes.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short review to validate the new performance measures against PGPA best practice, test measurability and data sources, and refine targets ahead of 2026-27 PBS inclusion.",
+      "rationale": "The plan announces a freshly revised framework with measures flagged for future PBS inclusion; new frameworks typically need an independent assurance/refinement pass to confirm robustness.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce development planning",
+      "agency_need": "Create a formal workforce development plan identifying future skills and capability needs to support a highly skilled workforce and the strategy refresh.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A workforce planning and capability-uplift engagement — future skills assessment (data, AI/ML, technical), capability framework and a learning/development roadmap aligned to enabler priorities.",
+      "rationale": "The plan explicitly commits to creating a formal workforce development plan in 2025 as one of the 16 initiatives, with retention and capability-rating performance measures.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Communications and stakeholder engagement strategy",
+      "agency_need": "Diversify dissemination, evolve web presence, and develop internal/external communications and stakeholder engagement strategies to deepen reach with diverse and First Nations stakeholders.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Stakeholder engagement strategy design and content/communications support to broaden dissemination channels and lift measured engagement (web hits, media mentions, engagement-plan targets).",
+      "rationale": "Dedicated communications and stakeholder engagement strategies are named initiatives with their own performance measures, but AIHW has strong in-house engagement, so external need is supplementary.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "AI/ML governance and adoption",
+      "agency_need": "Scale AI/ML across business units and update AI governance, risk and compliance frameworks in line with whole-of-government policy and DTA Responsible AI Guidelines.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "An AI governance and adoption advisory — a Responsible-AI-aligned governance/risk framework refresh plus a scaling roadmap integrating AI into the enterprise data ecosystem.",
+      "rationale": "The plan commits to scaling AI/ML and updating governance frameworks; fit is real but AIHW reports an existing foundation, so demand is partly internal.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability under fiscal constraint",
+      "agency_need": "A corporate Commonwealth entity funded by stakeholders facing explicit fiscal constraints while funding major capital-intensive data and ICT programs.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review or activity-based costing of data products/linkage services to inform pricing of bespoke services and prioritise the ICT investment plan.",
+      "rationale": "Fiscal constraints are named as a strategic risk and AIHW offers bespoke/customised data services that could be costed, but the plan gives no explicit costing/pricing initiative, so this is inferred.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Information Officer / ICT leadership and the SIO lead with a tailored capability statement on data-ecosystem build, enterprise workflow and information management aligned to the ICT Modernisation Roadmap focus areas.",
+      "priority": "High",
+      "rationale": "The ICT roadmap is the single largest, funded, multi-year opportunity with named build components and a delivery-stretched small SIO; early positioning before procurement matters."
+    },
+    {
+      "action": "Offer a delivery-assurance/PMO health-check conversation to the SIO and Executive Committee covering the 16 Strategic Initiatives.",
+      "priority": "High",
+      "rationale": "A small SIO overseeing 16 concurrent initiatives with volunteer working groups is a clear capacity and assurance gap that a partner can address quickly and credibly."
+    },
+    {
+      "action": "Prepare a cyber/Essential 8 assessment proposition for the CISO/CIO and the Risk, Audit and Finance Committee, framed around protecting NHDH/ANDII data assets.",
+      "priority": "High",
+      "rationale": "Cyber is a named top strategic risk with Essential 8 as a tracked measure; the historical ANAO security finding strengthens the case and the reputational stakes for a data agency are high."
+    },
+    {
+      "action": "Develop a short thought piece on linked-data engineering, metadata coverage and reducing time-to-access, referencing the equity/disaggregation critiques, and share with the data integration / NHDH program leadership.",
+      "priority": "Medium",
+      "rationale": "Links the firm's data services to named performance measures and external academic demand signals, opening the largest mission-critical workstream."
+    },
+    {
+      "action": "Monitor Senate Community Affairs Estimates and AIHW's inquiry submissions for emerging funding or program pressures, and time outreach around the 2026-27 PBS performance-measure adoption.",
+      "priority": "Low",
+      "rationale": "Low-cost intelligence to refine pitch timing; several new measures are flagged for future PBS inclusion, signalling a window for performance-framework support."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Executive Officer (Dr Zoran Bolevich) and Executive Committee — owners of the strategy refresh and initiative sponsorship",
+    "Strategic Implementation Office (SIO) lead — delivery of the 16 strategic initiatives",
+    "Chief Information Officer / ICT leadership — ICT Modernisation Roadmap and cybersecurity",
+    "Head of data integration / National Health Data Hub program — linkage expansion and analytics",
+    "Chief Risk Officer / Risk, Audit and Finance Committee — risk, assurance and cyber oversight",
+    "Head of People / HR — workforce development plan",
+    "Communications and stakeholder engagement lead — engagement strategy initiatives"
+  ],
+  "talking_points": [
+    "Your ICT Modernisation Roadmap names the build — an enterprise data & analytics ecosystem, workflow and information management — and we can deliver and integrate it, not just advise, sized to your prioritised investment components.",
+    "A small SIO running 16 concurrent initiatives with volunteer working groups is a capacity and delivery-assurance gap we can fill with an embedded PMO and rolling health checks.",
+    "With cyber named as a top strategic risk and Essential 8 a tracked measure, we can assess your posture and assure your NHDH/ANDII data environments against ACSC guidance.",
+    "Your new performance framework introduces many untested measures flagged for future PBS inclusion — an independent validation pass de-risks them before they become accountable commitments.",
+    "Linked-data expansion is your mission-critical thrust; we can engineer linkage capacity, lift metadata coverage and cut median time-to-access, the exact measures you've set yourself.",
+    "External critiques on data disaggregation and social-determinants gaps point to demand for sharper equity analytics — an area where targeted data-methods support can lift the relevance of your flagship reporting."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "The plan is strategically clear but light on dollar figures, procurement timelines and named individuals below the CEO/Chair, so opportunity sizing and timing are inferred. As a corporate data agency under fiscal constraint, AIHW does much of this work in-house and prizes its independence, which may limit appetite for external delivery in core functions; enabling/corporate functions (ICT, cyber, PMO, performance, workforce) are the most accessible entry points. External research confirms a low-controversy, low-audit-risk entity, so there is no crisis-driven demand to exploit — pursuit must be capability-led. Financial-sustainability and AI opportunities are extrapolations from a single risk line and a capability statement respectively and are marked low confidence accordingly."
+}

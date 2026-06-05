@@ -320,6 +320,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (four-year outlook to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-institute-of-health-and-welfare-aihw": {
+      "name": "Australian Institute of Health and Welfare (AIHW)",
+      "portfolio": "Health",
+      "plan_url": "https://www.aihw.gov.au/reports/corporate-publications/corporate-plan-2025-26/summary",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
