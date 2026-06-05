@@ -440,6 +440,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (Statement of Corporate Intent, covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "department-of-employment-and-workplace-relations-dewr": {
+      "name": "Department of Employment and Workplace Relations (DEWR)",
+      "portfolio": "Employment and Workplace Relations",
+      "plan_url": "https://www.dewr.gov.au/about-us/corporate-plan-2024-25",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }

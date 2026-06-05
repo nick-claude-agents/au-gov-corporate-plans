@@ -1,0 +1,187 @@
+{
+  "agency_name": "Department of Employment and Workplace Relations (DEWR)",
+  "portfolio": "Employment and Workplace Relations",
+  "plan_period": "2025-26",
+  "executive_summary": "After three years leading major reforms across employment, skills and workplace relations, DEWR's stated focus for 2025-26 is delivery — making existing initiatives produce measurable outcomes. The department is a hybrid policy/service-delivery entity (~4,454 APS staff) running employment services to ~700,000 jobseekers, VET and apprenticeship programs, workplace-relations policy, and a newly assumed role administering the CFMEU's Construction and General Division. Strong BD signals sit in: embedding employment services reform and fixing the mutual-obligations compliance system (acutely Robodebt-sensitive), an Integrity Roadmap (2025-27), a governance-framework review, expanding AI/data deployment, ICT modernisation and Essential Eight cyber uplift, and maturing a performance/regulatory framework. The major constraint is the Strategic Commissioning Framework: DEWR is deliberately reducing outsourcing of core work (policy, legal, finance, service delivery), so credible opportunities skew toward independent assurance, ICT/digital build, evaluation and specialist surge rather than core advisory.",
+  "strategic_priorities": [
+    {
+      "title": "Shift from reform design to delivery",
+      "description": "DEWR explicitly pivots from three years of reform to ensuring those reforms deliver effective outcomes — implementing election commitments and embedding employment services reforms (parents, paid work placements, justice-to-employment transitions).",
+      "source_quote": "This year... DEWR will focus on delivery. Over the past 3 years, DEWR has led significant reforms... Our priority now is to ensure these initiatives deliver effective, meaningful outcomes."
+    },
+    {
+      "title": "Fix the mutual obligations compliance system",
+      "description": "Ensuring the mutual obligations compliance system 'operates as intended' with a fair, transparent framework — a politically charged area given the Robodebt legacy.",
+      "source_quote": "This includes critical work to ensure the mutual obligations compliance system operates as intended. Our goal is a fair, transparent framework."
+    },
+    {
+      "title": "Joined-up tertiary system and VET reform",
+      "description": "Working with the new Australian Tertiary Education Commission, JSA and Department of Education on a tertiary system roadmap aligning VET and higher education to labour-market needs; delivering Free TAFE and apprenticeship incentive reform.",
+      "source_quote": "Explore opportunities for a more joined up tertiary system where our VET and higher education sectors are better aligned."
+    },
+    {
+      "title": "AI adoption — internal and national policy",
+      "description": "Expanding internal AI deployment to lift productivity and service delivery, while contributing to national AI workforce policy via the tripartite AI Working Group.",
+      "source_quote": "the department intends to expand the deployment of AI technologies to augment and enhance our work and drive productivity."
+    },
+    {
+      "title": "Construction industry / CFMEU administration",
+      "description": "Driving structural and cultural reform in construction through the National Construction Industry Forum and administering the CFMEU Construction and General Division and its branches.",
+      "source_quote": "we will continue to drive structural and cultural reform through the National Construction Industry Forum and the scheme for the administration of the... CFMEU."
+    },
+    {
+      "title": "Integrity maturity uplift",
+      "description": "Implementing the Integrity Roadmap (2025-2027) developed with an independent advisor, including Robodebt Royal Commission recommendations and conflict-of-interest/PID capabilities.",
+      "source_quote": "The Integrity Roadmap... outlines a 3-year pathway (2025–2027) to strengthen integrity maturity across the department."
+    },
+    {
+      "title": "New and evolving regulatory functions",
+      "description": "Progressing a national labour hire licensing scheme, maturing the department's regulatory performance framework, and reviewing multiple legislative frameworks (Secure Jobs Better Pay, Closing Loopholes, SRC Act, JSA enabling legislation).",
+      "source_quote": "Progress a national labour hire licensing scheme to protect workers and reduce regulatory complexity."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Government economic-growth agenda focused on lifting productivity, building resilience and budget sustainability",
+    "Persistent structural labour-market challenges — one-third of occupations in national shortage, 61.4% of employment-services participants in the system over 12 months",
+    "Net zero transition requiring workforce reskilling and place-based community support",
+    "Multiple legislative reviews: Secure Jobs Better Pay Act, Closing Loopholes Act, SRC Act 1988 (Comcare), and JSA enabling legislation",
+    "Robodebt Royal Commission response and broader public-sector integrity reform agenda",
+    "APS Reform agenda and the Strategic Commissioning Framework reducing outsourcing of core work",
+    "National Skills Agreement shared-stewardship model and creation of the Australian Tertiary Education Commission",
+    "Closing the Gap — new First Nations Executive Board governance and 2025 Implementation Plan commitments",
+    "Accelerating AI adoption creating both internal productivity demand and national policy/regulatory pressure"
+  ],
+  "challenges_and_risks": [
+    "Delivery risk: ability to deliver programs on time/budget amid reforms, competing priorities and 'reduced funding' / resourcing constraints",
+    "Mutual obligations compliance system must be demonstrably fair and transparent — high public and political scrutiny post-Robodebt",
+    "People risk: competitive labour market, difficulty attracting/retaining skilled staff, and staff burnout / psychosocial safety",
+    "ICT risk: inability to meet demand for skilled ICT labour, ageing/historical systems, cyber and concentration threats, funding pressure on ICT program",
+    "Information and data risk: breaches, unauthorised access, data bias including from AI use",
+    "Finance and regulatory risk: budget constraints, fraud/corruption/privacy exposure, and legislative compliance capability gaps",
+    "Strategic Commissioning Framework limits use of external providers for core policy, legal, finance and service-delivery work",
+    "Stakeholder fatigue across an unusually broad partnership network (unions, employers, states, First Nations, international)"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Independent assurance of the mutual obligations compliance system",
+      "agency_need": "Ensure the compliance system 'operates as intended' and is demonstrably fair and transparent in the shadow of Robodebt",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style assurance / health check of the mutual obligations compliance system design, decision logic and controls — confirming fairness, transparency and legal-framework alignment, with a findings-and-recommendations report",
+      "rationale": "The plan names this as 'critical work' and the Integrity Roadmap explicitly implements Robodebt Royal Commission recommendations. Independent assurance is exactly the kind of demand a high-scrutiny, automation-adjacent compliance program generates, and assurance sits outside the Strategic Commissioning Framework's core-work restrictions.",
+      "confidence": "High"
+    },
+    {
+      "area": "Delivery support for employment services reform and place-based trials",
+      "agency_need": "Embed reforms and run trials (Broome, Thrive Hubs, Dandenong) producing evidence for broader reform",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Delivery assurance / benefits-management framework and PMO support for the employment services reform portfolio and place-based trials, with stage-gate reviews feeding the evidence base",
+      "rationale": "The plan lists multiple named trials and a commitment to 'continuous enhancement of service delivery' under explicit delivery-risk and resourcing pressure, creating time-bound program-delivery demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Evaluation of place-based and employment services trials",
+      "agency_need": "Generate 'ongoing evidence which can be considered in broader employment services reforms'",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A process and outcome evaluation of the Thrive Hubs, Dandenong Employment Hub and Broome trial — evaluation plan plus report to inform scaling decisions",
+      "rationale": "The plan explicitly frames trials as evidence-generators for reform. Evaluation is a discrete specialist engagement that complements (rather than substitutes for) in-house policy work under the SCF.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Governance framework review support",
+      "agency_need": "Review whether the 2024 governance framework and structure is 'operating as intended'",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An independent governance / committee-effectiveness assessment of the 2024 governance framework and structure, with recommendations to refine roles, decision rights and committee operation",
+      "rationale": "The plan states the department 'will review the implementation of the governance framework and structure' in 2025-26 — a named, time-bound review well-suited to a short independent advisory.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Integrity Roadmap implementation and assurance",
+      "agency_need": "Deliver the 3-year Integrity Roadmap (2025-2027), including COI/PID capabilities and Robodebt recommendations",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent assurance / maturity health check of Integrity Roadmap implementation milestones, including conflict-of-interest and public interest disclosure capability uplift",
+      "rationale": "The roadmap is explicitly multi-year and was developed 'in partnership with an independent integrity advisor', signalling appetite for external assurance support across the period.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "AI deployment — build and data analytics",
+      "agency_need": "Expand AI to improve operations, service delivery and data insights, safely and ethically",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design plus solution build/integration for AI-augmented workflows, paired with Data, Analytics & Information support for advanced analytics and AI governance guardrails",
+      "rationale": "The Secretary commits to 'expand the deployment of AI technologies' and the data section commits to leveraging AI for policy/program/evaluation. The firm's ability to build (not just advise) fits, and DEWR already relies heavily on ICT labour hire (653 of its external workforce).",
+      "confidence": "Medium"
+    },
+    {
+      "area": "ICT modernisation and cyber Essential Eight uplift",
+      "agency_need": "Modernise legacy/on-prem and cloud infrastructure; raise Essential Eight maturity; manage cyber and concentration threats",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "Essential Eight security assessment and assurance of systems and data, plus advisory on cyber maturity uplift across on-prem and public-cloud environments",
+      "rationale": "The plan names a focus on 'maturity levels against the Australian Cyber Security Centre's Essential Eight' and identifies ICT security as Strategic Risk 7. DEWR also runs a PROTECTED shared-services environment for other agencies, raising the stakes.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data strategy delivery and analytics capability",
+      "agency_need": "Deliver 'greater value from our data' via integration, advanced analytics and AI under the Data Strategy 2024-27",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and business-intelligence delivery, plus information-management and data-governance support aligned to the Chief Data Officer's 2025-26 priorities (sharing, integration, evaluation capacity)",
+      "rationale": "The plan sets a clear second-year ambition for the Data Strategy and names the CDO and Data Governance Committee as owners — a defined, specialist data demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Regulatory performance framework and labour hire licensing scheme",
+      "agency_need": "Mature a fit-for-purpose regulatory performance framework and stand up a national labour hire licensing scheme",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design support for a PGPA-aligned regulatory performance framework and operating-model/measures design for the new labour hire licensing function",
+      "rationale": "The plan states the department 'continues to mature its regulatory performance framework' and 'is not considered a traditional regulator', and commits to progress a national labour hire licensing scheme — a genuinely new function needing design help. SCF restrictions on core policy work temper confidence.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Employment and Workforce Group and the Integrity Unit with a tailored independent-assurance proposition for the mutual obligations compliance system",
+      "priority": "High",
+      "rationale": "This is named as 'critical work', is Robodebt-sensitive, and assurance falls outside the Strategic Commissioning Framework's core-work limits — making it both high-value and procurable."
+    },
+    {
+      "action": "Prepare a capability statement on delivery assurance and evaluation for the employment services reform portfolio and place-based trials, targeting the relevant program branches",
+      "priority": "Medium",
+      "rationale": "Multiple named trials with an explicit evidence-for-reform purpose create discrete, time-bound delivery and evaluation needs that complement in-house teams."
+    },
+    {
+      "action": "Engage the Chief Risk Officer / Audit and Risk Committee secretariat ahead of the 2025-26 governance framework review",
+      "priority": "Medium",
+      "rationale": "The review is committed in the plan; an early, well-scoped governance/committee-effectiveness offer can shape the work before it goes to market."
+    },
+    {
+      "action": "Position digital build + Essential Eight cyber and data-analytics offerings with the Chief Information Officer, Chief Data Officer and CISO functions",
+      "priority": "Medium",
+      "rationale": "AI expansion, ICT modernisation and Essential Eight uplift are explicit commitments, and DEWR's heavy ICT-labour reliance shows existing appetite for external delivery capacity."
+    },
+    {
+      "action": "Map the Strategic Commissioning Framework boundaries before pitching any policy/finance/service-delivery advisory",
+      "priority": "High",
+      "rationale": "DEWR is actively reducing outsourcing of core work; misjudging this wastes effort. Lead with assurance, evaluation, digital build and specialist surge, which are SCF-compatible."
+    }
+  ],
+  "engagement_targets": [
+    "Employment and Workforce Group (employment services reform, mutual obligations compliance, place-based trials)",
+    "Integrity Unit and the independent integrity advisor function (Integrity Roadmap)",
+    "Chief Risk Officer and the Audit and Risk Committee / Risk Committee (governance review, enterprise risk)",
+    "Chief Information Officer / ICT delivery function (modernisation, Essential Eight, shared services)",
+    "Chief Data Officer and Data Governance Committee (Data Strategy, analytics, AI)",
+    "Skills and Training Group (tertiary roadmap, apprenticeship incentive reform, VET trials)",
+    "External Budgets, Strategy and Performance Branch / Strategy and Priorities Committee (performance and regulatory framework)"
+  ],
+  "talking_points": [
+    "Your plan makes delivery — not new reform — the 2025-26 priority; independent gateway-style assurance keeps named programs on time, on budget and demonstrably fair.",
+    "The mutual obligations compliance system is explicitly 'critical work' and Robodebt-adjacent — independent assurance of its design and controls protects the department and aligns with your Integrity Roadmap.",
+    "The Strategic Commissioning Framework means we'd lead with assurance, evaluation, digital build and specialist capacity — not core policy — so our work complements rather than competes with your in-house teams.",
+    "Your place-based trials are framed as evidence for broader reform; a rigorous evaluation turns that intent into defensible scaling decisions.",
+    "You've committed to expand AI and lift Essential Eight maturity — we can build and integrate, not just advise, and assure the security of the systems and data underneath.",
+    "The 2024 governance framework review is a natural moment for an independent committee-effectiveness and governance assessment."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This brief rests solely on the 2025-26 corporate plan; no external research (news, ANAO, Parliamentary) was supplied, so those sections are empty and demand signals are inferred from plan text only. The biggest commercial caveat is the Strategic Commissioning Framework: DEWR is deliberately reducing outsourcing of core work (policy, legal, accounting/finance, service delivery), which narrows credible opportunities to assurance, evaluation, digital/ICT build, cyber and specialist surge. The plan is light on dollar figures, procurement timing and named initiatives' budgets, so several opportunities are rated Medium/Low; confirm SCF boundaries and current panel arrangements before pursuing any advisory that touches core functions."
+}
