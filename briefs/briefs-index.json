@@ -424,6 +424,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covers 2025-26 to 2028-29)",
       "overall_confidence": "High"
+    },
+    "department-of-climate-change-energy-the-environment-and-water-dcceew": {
+      "name": "Department of Climate Change, Energy, the Environment and Water (DCCEEW)",
+      "portfolio": "Climate Change, Energy, the Environment and Water",
+      "plan_url": "https://www.dcceew.gov.au/sites/default/files/documents/corporate-plan-2025-26.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
