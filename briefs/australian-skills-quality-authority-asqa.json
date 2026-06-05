@@ -1,0 +1,194 @@
+{
+  "agency_name": "Australian Skills Quality Authority (ASQA)",
+  "portfolio": "Employment and Workplace Relations",
+  "plan_period": "2025-26 (covering 1 July 2025 to 30 June 2029)",
+  "executive_summary": "ASQA is the national VET regulator, a non-corporate Commonwealth entity of ~250 staff, entering a pivotal reform year as the revised Standards for RTOs 2025 take effect from 1 July 2025. The plan's dominant signals are: implementing and supporting sector transition to the new Standards; an escalating integrity/fraud agenda (Integrity Unit, Tip-off line, 'cash for quals' and CRICOS phoenixing); a multi-year Digital Transformation Program replacing legacy systems and uplifting data analytics; and a maturing risk-based regulatory model including a dual-sector strategy with TEQSA and a course-accreditation delegation pilot. External pressure is real and acute — large-scale qualification fraud, a CRICOS registration freeze, an ANAO finding that ASQA was 'not yet fully effective' at planning/implementing reform, and a new Cost Recovery Implementation Statement for 2026-27. As a small regulator under simultaneous reform, integrity and digital pressures, ASQA presents credible demand for assurance, program delivery, data/analytics, costing and workforce capability work — best pitched as proportionate, expertise-led engagements.",
+  "strategic_priorities": [
+    {
+      "title": "Implement the revised Standards for RTOs 2025",
+      "description": "Lead the sector's transition to the new outcomes-focused Standards taking effect 1 July 2025, providing guidance, resources, communications and consultation while maintaining compliance and enforcement where expectations are not met.",
+      "source_quote": "Sentinel reforms come into effect in 2025-26, including the revised Standards for RTOs 2025... ASQA will play a lead role in supporting providers to understand and apply the Standards."
+    },
+    {
+      "title": "Protect sector integrity against fraud and bad-faith operators",
+      "description": "Expand Integrity Unit work, the Tip-off line and networked intelligence to identify and disrupt 'cash for quals' schemes, RPL exploitation, phoenixing and non-genuine providers, including participation in the Fraud Fusion Taskforce and Operation Inglenook.",
+      "source_quote": "The sector has seen an increased threat relating to the issuance of fraudulent qualifications, often linked to 'cash for quals' schemes and the exploitation of Recognition of Prior Learning (RPL) pathways."
+    },
+    {
+      "title": "Deliver the Digital Transformation Program",
+      "description": "Move regulatory operations off inadequate legacy IT, modernise digital infrastructure, deliver a refreshed website and new portal functionality, and uplift data analytics for provider-risk targeting and real-time decision-making.",
+      "source_quote": "moving our broad-based regulatory operations away from inadequate and legacy IT systems... Key initiatives to be delivered by our Digital Transformation Program (DTP) in 2025-26 will improve access to information, speed up processing times."
+    },
+    {
+      "title": "Mature a risk-based regulatory model and reduce duplication",
+      "description": "Differentiate regulatory supervision by provider risk profile, implement a dual-sector strategy with TEQSA (joint audits, information sharing, harmonised requirements), and evaluate a pilot delegating course accreditation to TAFEs and a dual-sector provider.",
+      "source_quote": "We will further mature our regulatory approach by adopting a more robust risk-focused strategy... including by conducting joint audits, sharing information, and harmonising regulatory requirements."
+    },
+    {
+      "title": "Redevelop the cost recovery model",
+      "description": "Consult with stakeholders and State and Territory Skills Ministers to develop a new Cost Recovery Implementation Statement for 2026-27 better aligned to regulatory practice and level of supervision.",
+      "source_quote": "we will be consulting with stakeholders and State and Territory Skills Ministers to develop a new Cost Recovery Implementation Statement for 2026-27."
+    },
+    {
+      "title": "Build workforce capability and culture",
+      "description": "Implement the Workforce Plan 2025-28 and Capability Framework aligned to the APS Workforce Strategy, including building regulatory capability and adoption of AI.",
+      "source_quote": "Through our 2025-28 Workforce Plan and in alignment with the APS Workforce Strategy, we will pursue improved outcomes... through the effective recruitment, retention and development of skilled and capable staff."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Revised Standards for RTOs 2025 effective 1 July 2025 — a 'step change' requiring significant maturing across the VET system",
+    "National Skills Agreement (five-year Commonwealth/state) and Australian Universities Accord driving a whole-of-system, integrated VET/higher-education/migration approach",
+    "Ministerial Statement of Expectations and the Regulator Performance Guide (RMG 128) setting performance and reporting expectations",
+    "Government integrity investment funding the Integrity Unit and Tip-off line; participation in Fraud Fusion Taskforce and Operation Inglenook",
+    "Managed-growth/sustainability measures for international education and CRICOS registration suspension under the Education Legislation Amendment (Integrity and Other Measures) Act 2025",
+    "Ongoing implementation of recommendations from the Rapid Review of ASQA's regulatory practices",
+    "New Cost Recovery Implementation Statement required for 2026-27",
+    "Refreshed Strategic Objectives and KPIs (May 2025) and a maturing performance framework"
+  ],
+  "challenges_and_risks": [
+    "Stated strategic risk that ASQA does not attract, support and retain an engaged, skilled and resilient workforce — acute for a 250-person expertise-heavy regulator",
+    "Strategic risk that ASQA does not meet performance targets and compliance obligations, with the DTP named as a key control",
+    "Strategic risk that ASQA does not effectively address risks to VET quality and integrity amid escalating fraud threats",
+    "Legacy IT systems explicitly described as 'inadequate', creating delivery and data risk",
+    "Pressure to deliver key projects and programs on schedule (KPI 3B) while simultaneously running reform, integrity and digital programs",
+    "Hostile private-provider sentiment over the CRICOS freeze and 'resourcing the regulator' critique",
+    "ANAO finding that ASQA was 'not yet fully effective' at planning and implementing reform — execution credibility risk"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "ASQA is running an ongoing program cancelling registrations and qualifications of fraudulent/poor-quality providers across early childhood, aged care, disability, construction and automotive, supported by $4.7m surge funding in 2025-26 and a further $4.8m in 2026-27 (partly cost-recovered) to respond to large-scale fraudulent qualification issuance.",
+      "implication": "A live integrity crisis with dedicated new funding signals near-term demand for enforcement/investigation surge capacity, risk analytics and provider-remediation support.",
+      "source": "Department of Employment and Workplace Relations — https://www.dewr.gov.au/skills-and-training/asqa-regulatory-action-cancelled-vet-qualifications"
+    },
+    {
+      "summary": "From 19 May new CRICOS registration applications to ASQA (new providers and new courses for existing VET/ELICOS providers) are suspended until 19 May 2027 under the Education Legislation Amendment (Integrity and Other Measures) Act 2025; private providers have criticised the measure, arguing government should properly resource the regulator rather than target independent providers.",
+      "implication": "The 'resource the regulator' critique points to application-assessment throughput and capacity pressure at ASQA, and a hostile stakeholder base — openings for process design, capacity advice and stakeholder engagement support.",
+      "source": "The PIE News — https://thepienews.com/australia-freezes-new-overseas-student-provider-registrations/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "The ANAO performance audit 'Effectiveness of Planning and Implementation of Reform by the Australian Skills Quality Authority' concluded ASQA was not yet fully effective in planning and implementing its VET-regulation reform (triggered by the 2020 Rapid Review); ASQA agreed to all four recommendations.",
+      "implication": "Documented weaknesses in program/risk management and reporting with agreed recommendations create recurring demand for implementation assurance, governance uplift and corporate-planning support — directly relevant as the Standards reform now ramps up.",
+      "source": "Australian National Audit Office — https://www.anao.gov.au/work/performance-audit/effectiveness-planning-and-implementation-reform-the-australian-skills-quality-authority"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Standards for RTOs 2025 implementation delivery and assurance",
+      "agency_need": "ASQA must lead a sector-wide transition to outcomes-focused Standards from 1 July 2025 while an ANAO audit found it 'not yet fully effective' at planning and implementing reform.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "An implementation-assurance / gateway-style review of the Standards transition program, plus PMO and benefits-management framework support to evidence reform outcomes and address the ANAO recommendations.",
+      "rationale": "The plan names the Standards as 'sentinel reforms' and a 'step change', and KPI 3B tracks projects delivered on schedule; the ANAO finding on reform planning/implementation strengthens the case for independent delivery assurance.",
+      "confidence": "High"
+    },
+    {
+      "area": "Digital Transformation Program delivery and legacy system replacement",
+      "agency_need": "Regulatory operations sit on 'inadequate and legacy IT systems' that must be modernised, with a new portal, refreshed website and streamlined internal workflows to be delivered in 2025-26.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery and service design for the portal/website, plus build, integration and process-analysis support to migrate off legacy systems — including UX for the 'tell us once, validate often' provider journey.",
+      "rationale": "The plan explicitly commits to moving off legacy IT and delivering portal authentication, predictive entry and website refresh in 2025-26; the firm can build and implement, not just advise.",
+      "confidence": "High"
+    },
+    {
+      "area": "Provider-risk analytics and data strategy uplift",
+      "agency_need": "ASQA relies heavily on data and intelligence to target regulatory activity and is making 'targeted investments in improved data analytics capabilities' and refining its data strategy and roadmap.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Development of a provider-risk analytics capability and data-matching models, plus refinement of the data strategy/roadmap to support real-time risk identification and the Fraud Fusion Taskforce intelligence-sharing.",
+      "rationale": "The plan repeatedly emphasises data-driven, risk-based regulation and intelligence-sharing; the fraud/integrity surge (per DEWR funding) sharpens the demand for analytics to detect 'cash for quals' and phoenixing.",
+      "confidence": "High"
+    },
+    {
+      "area": "Cost Recovery Implementation Statement redevelopment",
+      "agency_need": "ASQA must develop a new Cost Recovery Implementation Statement for 2026-27 aligned to regulatory practice and level of supervision, consulting States and Territories.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "An activity-based costing model and cost-recovery review to underpin the 2026-27 CRIS, including charging design aligned to differentiated risk-based supervision.",
+      "rationale": "The plan explicitly commits to a new CRIS for 2026-27 and links digital/data work to improving the cost recovery model; this is a discrete, time-bound costing engagement.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance framework and KPI maturity",
+      "agency_need": "ASQA refreshed its Strategic Objectives and KPIs in May 2025 and commits to continuing to enhance its performance framework; several new KPIs are outcome-oriented but qualitative.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA- and RMG 128-aligned performance-measure review to sharpen KPI targets, measurement methods and evidence sources, including regulator-effectiveness reporting.",
+      "rationale": "KPIs such as 'effectiveness of regulatory risk treatment strategies' and 'stakeholder satisfaction' lack clear targets/methods; the plan states intent to 'continue to enhance our performance framework'.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce capability and AI-readiness",
+      "agency_need": "A named strategic risk that ASQA cannot attract, retain and develop a skilled workforce; commitment to Workforce Plan 2025-28, regulatory capability uplift and AI adoption.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A regulatory-capability uplift and workforce planning engagement supporting Workforce Plan 2025-28 delivery, including capability frameworks and AI-adoption skilling for staff.",
+      "rationale": "Workforce is the first listed strategic risk and KPI 3A measures staff engagement in capability development and innovation adoption (including AI).",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Integrity, fraud and assurance program support",
+      "agency_need": "Escalating fraud threats and surge enforcement funding; commitment to implement the Commonwealth Fraud and Corruption Control Framework 2024 and run an internal assurance and audit program.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Assurance/health-check support for the integrity and enforcement program and fraud-control framework implementation, complementing internal audit and the Audit and Risk Committee.",
+      "rationale": "The plan details Integrity Unit work, fraud-control framework implementation and internal assurance/audit; DEWR surge funding confirms a live, funded integrity workstream.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Dual-sector strategy and joint-regulation design with TEQSA",
+      "agency_need": "ASQA is developing a dual-sector strategy with TEQSA to minimise duplication via joint audits, information sharing and harmonised requirements, and evaluating a course-accreditation delegation pilot.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design support for the dual-sector operating model and an evaluation of the course-accreditation delegation pilot to inform decisions on ongoing delegation of functions.",
+      "rationale": "The plan commits to a Dual Sector Strategy and to evaluating the delegation pilot; both are discrete design/evaluation pieces grounded in Strategic Objective 2 activities.",
+      "confidence": "Medium"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Director, Risk, Assurance and Evaluation and the Audit and Risk Committee with a delivery-assurance proposition for the Standards for RTOs 2025 implementation, explicitly referencing the ANAO reform-implementation findings.",
+      "priority": "High",
+      "rationale": "The Standards transition is the year's marquee reform and the ANAO has already flagged reform planning/implementation weakness — independent assurance is timely and defensible."
+    },
+    {
+      "action": "Engage the Digital Transformation Program lead / CIO function with a discovery-and-delivery capability statement covering legacy migration, portal/website build and integration.",
+      "priority": "High",
+      "rationale": "The DTP has named 2025-26 deliverables and explicitly admits legacy systems are inadequate; the firm's build-and-implement capability differentiates it from pure advisers."
+    },
+    {
+      "action": "Offer the CFO/corporate finance function a scoped activity-based costing engagement to underpin the 2026-27 Cost Recovery Implementation Statement.",
+      "priority": "High",
+      "rationale": "The CRIS is a stated, time-bound 2026-27 deliverable requiring defensible cost modelling and stakeholder consultation — a discrete, winnable piece."
+    },
+    {
+      "action": "Prepare a short thought piece on data-driven provider-risk analytics and intelligence-sharing for VET integrity, and table it with the data/intelligence and Integrity Unit leads.",
+      "priority": "Medium",
+      "rationale": "Analytics is central to ASQA's risk-based model and the funded fraud surge; a credible point of view opens a conversation on a build engagement."
+    },
+    {
+      "action": "Watch for procurement signals tied to the $4.7m/$4.8m integrity surge funding and any follow-on ANAO audit, and pre-position assurance and analytics offerings.",
+      "priority": "Medium",
+      "rationale": "Newly funded, politically salient workstreams typically generate near-term approaches to market; early positioning improves win odds."
+    },
+    {
+      "action": "Offer the corporate/strategy function a light-touch performance-framework review aligned to RMG 128 and PGPA, building on the May 2025 KPI refresh.",
+      "priority": "Low",
+      "rationale": "New, qualitative KPIs lack clear targets/methods; a proportionate review is a low-cost entry point but not the agency's top priority."
+    }
+  ],
+  "engagement_targets": [
+    "Director, Risk, Assurance and Evaluation (named plan contact)",
+    "Chief Executive Officer / Accountable Authority and Executive Committee",
+    "Audit and Risk Committee",
+    "Digital Transformation Program lead / CIO / digital and data capability function",
+    "Chief Financial Officer / corporate finance function (Cost Recovery Implementation Statement)",
+    "Integrity Unit and data/intelligence function",
+    "HR / workforce capability lead (Workforce Plan 2025-28)"
+  ],
+  "talking_points": [
+    "The Standards for RTOs 2025 transition is your defining reform this year — and the ANAO has already flagged reform planning/implementation as 'not yet fully effective'; independent delivery assurance protects the program and rebuilds confidence.",
+    "Your plan is candid that regulatory operations run on inadequate legacy IT — we can build and implement the portal, website and integrations, not just advise on them.",
+    "With a funded fraud-enforcement surge and intelligence-sharing through the Fraud Fusion Taskforce, sharper provider-risk analytics and data-matching directly lift your ability to detect 'cash for quals' and phoenixing.",
+    "The 2026-27 Cost Recovery Implementation Statement needs a defensible activity-based costing model aligned to your move to differentiated, risk-based supervision — a discrete piece we can deliver before consultation.",
+    "Workforce is your first-listed strategic risk for a 250-person expertise-heavy regulator; a capability uplift tied to your Workforce Plan 2025-28, including AI adoption, supports KPI 3A.",
+    "Your May 2025 KPI refresh introduced outcome-focused but qualitative measures — a short RMG 128/PGPA-aligned review can give them measurable targets and evidence sources."
+  ],
+  "overall_confidence": "High",
+  "caveats": "The plan is a clear, signal-rich regulator plan and maps well to several service lines; opportunity confidence is graded accordingly. ASQA is a small (~250 staff) non-corporate regulator, so engagements should be right-sized — short advisory, discrete design/costing pieces and targeted build work rather than large embedded programs. External research was explicitly partial: the analyst's web-search access was cut off, so parliamentary_matters returns empty (a research gap, not a confirmed nil), the news set omits major outlets, and the ANAO audit cited relates to the 2020-21 transition and may be older than the standard 3-year window — verify whether a newer audit exists. Service mappings are inferred from plan signals and external context; actual procurement timing and budgets are not disclosed in the plan."
+}

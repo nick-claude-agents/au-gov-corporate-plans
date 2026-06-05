@@ -368,6 +368,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
       "overall_confidence": "Medium"
+    },
+    "australian-skills-quality-authority-asqa": {
+      "name": "Australian Skills Quality Authority (ASQA)",
+      "portfolio": "Employment and Workplace Relations",
+      "plan_url": "https://www.asqa.gov.au/sites/default/files/2024-08/asqa_corporate_plan_2024-25.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 1 July 2025 to 30 June 2029)",
+      "overall_confidence": "High"
     }
   }
 }
