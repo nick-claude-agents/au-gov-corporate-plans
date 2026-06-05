@@ -1,0 +1,245 @@
+{
+  "agency_name": "Department of Education",
+  "portfolio": "Education",
+  "plan_period": "2025-26",
+  "executive_summary": "The Department of Education is a policy and stewardship department running a heavy reform agenda in 2025-26 across all three education sectors: early childhood (Building Early Education Fund, Three Day Guarantee, Worker Retention Payment, Child Care Subsidy changes), schools (Better and Fairer Schools Agreements 2025-2034), and higher education (standing up the Australian Tertiary Education Commission, a new equity funding system, 20% HELP reduction, Commonwealth Prac Payment, and contested international-education integrity reforms). It is simultaneously responding to a 2025 APS Capability Review (action plan due August 2025), refreshing its People, Data, ICT, Finance and Evaluation strategies, and building in-house policy, data and evaluation capability under the APS Strategic Commissioning Framework. Notable external pressure points are an ANAO 'partly effective' finding on Child Care Subsidy compliance ($13.6bn program), a contested Senate inquiry into the ESOS international-student cap bill, and a flagged departmental redundancy round under the Government's savings/consultant-spend scrutiny. Demand for the firm centres on program delivery and assurance of named reforms, evaluation, data, performance-framework and governance/regulatory-maturity work — tempered by the department's stated intent to insource core work and political sensitivity around consultant spend.",
+  "strategic_priorities": [
+    {
+      "title": "Establish the Australian Tertiary Education Commission (ATEC)",
+      "description": "Stand up ATEC as steward of higher education in interim form from 1 July 2025 and permanently from 1 January 2026 (subject to legislation), led by three independent commissioners, with performance measures to be developed for 2026-27.",
+      "source_quote": "establish the Australian Tertiary Education Commission (ATEC) as steward of the higher education sector in an interim capacity from 1 July 2025, and permanently (subject to the passage of legislation) from 1 January 2026"
+    },
+    {
+      "title": "Early childhood education and care reform",
+      "description": "Deliver the Building Early Education Fund (building more centres), the Three Day Guarantee and Worker Retention Payment, manage Child Care Subsidy changes, and strengthen quality and safety with state/territory regulators.",
+      "source_quote": "focus on improving early childhood education and care, supporting the people who work in this sector, and building more centres through the Building Early Education Fund"
+    },
+    {
+      "title": "Better and Fairer Schools reforms",
+      "description": "Implement the Better and Fairer Schools Agreement 2025-2034 and Full and Fair Funding agreement, with improvement measures tied to NAPLAN, attendance and Year 12/Cert III attainment targets, focused on equity cohorts.",
+      "source_quote": "continue work on school reforms under the Better and Fairer Schools agreements"
+    },
+    {
+      "title": "International education integrity and sustainability",
+      "description": "Implement a new framework to improve quality and integrity of international education and uphold sector sustainability, including a contested student-commencement cap regime via the ESOS Amendment Bill.",
+      "source_quote": "There will also be a new framework to improve the quality and integrity of international education"
+    },
+    {
+      "title": "Higher education equity and access funding",
+      "description": "Develop a new funding system to support under-represented students, implement the 20% HELP reduction, establish the Commonwealth Prac Payment, and expand regional/suburban university study hubs.",
+      "source_quote": "develop a new funding system to better support students from under-represented backgrounds"
+    },
+    {
+      "title": "Respond to the 2025 Capability Review",
+      "description": "Develop and publish (August 2025) an action plan responding to the department's APS Capability Review pilot, focusing on strategy, partnerships and user focus over four years.",
+      "source_quote": "We continue to embed Australian Public Service reforms, particularly by responding to the department's Capability Review conducted in 2025."
+    },
+    {
+      "title": "Strengthen strategic policy, data and evaluation",
+      "description": "Develop a long-term stewardship strategy, uplift in-house policy/data/economic analysis/evaluation capability, deliver the Evaluation Strategy 2025-2027 and Data Strategy, and mature performance reporting.",
+      "source_quote": "The department is committed to uplifting in-house capabilities such as high-quality policy development, data proficiency, economic analysis and evaluation."
+    },
+    {
+      "title": "Support the Government's productivity agenda",
+      "description": "Assist the Government's three-year productivity focus by helping build a skilled and adaptable workforce and bringing higher education and vocational training closer together.",
+      "source_quote": "The department will support the government's ongoing productivity agenda by assisting in building a skilled and adaptable workforce."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Australian Universities Accord implementation and creation of ATEC as new statutory steward",
+    "Better and Fairer Schools Agreement 2025-2034 and Full and Fair Funding agreement (10-year reform)",
+    "Disability Royal Commission response — reducing barriers to education for people with disability",
+    "Closing the Gap National Agreement priority reforms embedded into department culture and operations",
+    "ESOS Amendment (Quality and Integrity) Bill — international student caps and new regulatory framework",
+    "Government's three-year productivity agenda and closer HE-VET integration",
+    "APS reform agenda: Capability Review, Strategic Commissioning Framework (insourcing core work), Integrity Taskforce, NACC support",
+    "New standalone regulatory framework for provider response to gender-based violence (subject to legislation)",
+    "Government savings agenda and reduced consultant/contractor/labour-hire spend",
+    "Reliance on DEWR shared services for ICT, application development, hosting and cyber security"
+  ],
+  "challenges_and_risks": [
+    "Named enterprise risk: poor-quality policy advice undermining government agendas",
+    "Named enterprise risk: failure to deliver strategic objectives to client speed/expectations",
+    "Named enterprise risk: failure to discharge regulatory responsibilities or comply with legislative requirements",
+    "Named enterprise risk: ineffective digital services / data not managed or leveraged effectively, with legacy systems to modernise",
+    "Named enterprise risk: security/integrity breaches via cyber-attack, insider threat or fraud",
+    "Named enterprise risk: failure to attract, develop and retain a skilled workforce",
+    "Child Care Subsidy compliance found only 'partly effective' by ANAO across a $13.6bn program with shared-services governance gaps",
+    "Multiple new/changed performance measures and a commitment to independent assurance/verification of measures",
+    "Politically contested international-education caps with concentrated ministerial discretion and sector legal threat",
+    "Headcount reductions/redundancies under savings agenda while needing to deliver an expanded reform load",
+    "Dependence on DEWR as ICT delivery partner constrains direct control over digital and cyber outcomes"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The ESOS Amendment (Quality and Integrity) Bill 2024, capping new international student commencements (270,000 for 2025), drew sustained objection from universities and the ELICOS/VET sector, with criticism of the cap methodology and the concentration of cap-setting power with the Minister; the sector launched a petition and floated collective legal action.",
+      "implication": "A high-stakes, contested reform creates demand for implementation support, sector consultation, regulatory design and economic-impact modelling — but carries reputational risk in being associated with a divisive policy.",
+      "source": "ICEF Monitor, 3 Oct 2024 — https://monitor.icef.com/2024/10/criticism-mounts-as-australian-senate-committee-hears-it-is-wrong-to-go-ahead-with-esos-amendments-bill-as-is/"
+    },
+    {
+      "summary": "The department is reported to be the next APS agency to offer redundancies as part of the Government's savings agenda; the Greens warned that hollowing out the public sector through redundancies would drive more spending on consultants and labour hire.",
+      "implication": "Headcount cuts can open external-provider gaps, but heightened scrutiny on consultant/labour-hire value and the in-housing push means engagements must be tightly justified on value.",
+      "source": "The Canberra Times (≈Nov 2025) — https://www.canberratimes.com.au/story/9207631/department-of-education-next-aps-agency-to-offer-redundancies/"
+    },
+    {
+      "summary": "Following the OECD's 2024 Education at a Glance, the Australian Education Union argued Australia significantly underperforms most OECD countries on public-school investment while having the highest OECD private-school expenditure, and highlighted a First Nations attainment gap.",
+      "implication": "Persistent funding-equity debate keeps schools-funding policy, evaluation and equity programs on the agenda — a likely source of advisory and evaluation work. Note this is advocacy commentary, not a finding on departmental administration.",
+      "source": "Australian Education Union media release, 10 Sep 2024 — https://www.aeufederal.org.au/news-media/media-releases/2024/september/new-oecd-report-highlights-inequity-australias-education-system"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO Report No. 42 of 2024-25 found management and oversight of compliance activities within the $13.6bn Child Care Subsidy Program (Education and Services Australia) only 'partly effective', including that the Operational Committee responsible for shared risks does not consider shared compliance risks.",
+      "implication": "A 'partly effective' rating on a major program is a strong, specific entry point for program-integrity/compliance design, fraud-risk, shared-services governance (the Education-Services Australia interface) and data-analytics work.",
+      "source": "ANAO Auditor-General Report No. 42 2024-25 — https://www.anao.gov.au/work/performance-audit/management-and-oversight-of-compliance-activities-within-the-child-care-subsidy-program"
+    },
+    {
+      "summary": "ANAO notes that of five 2024-25 performance audits examining regulatory activities, four reached 'negative' conclusions, frequently citing shortcomings in implementing risk-based approaches to regulation, with the CCS compliance audit as an example.",
+      "implication": "A broad ANAO theme of weak risk-based regulation suggests appetite and political pressure for regulatory-maturity, assurance and risk-framework work across the Education portfolio.",
+      "source": "ANAO 2024-25 Performance Audit Outcomes — https://www.anao.gov.au/work/information/2024-25-performance-audit-outcomes"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Senate Education and Employment Legislation Committee inquired into the ESOS Amendment (Quality and Integrity) Bill 2024, held additional hearings, faced cross-bench scepticism over the cap formula's purpose, and recommended removing course-level caps for public institutions while retaining institution-wide caps.",
+      "implication": "An active legislative inquiry with contested policy detail (cap methodology, ministerial powers) creates demand for regulatory-impact analysis, sector engagement and design work, and signals the framework may still shift.",
+      "source": "Senate Standing Committees on Education and Employment (via ICEF Monitor, 3 Oct 2024) — https://monitor.icef.com/2024/10/criticism-mounts-as-australian-senate-committee-hears-it-is-wrong-to-go-ahead-with-esos-amendments-bill-as-is/"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "ATEC stand-up and operating model",
+      "agency_need": "Establish a new statutory commission (interim 1 July 2025, permanent 1 January 2026) as steward of higher education, with governance, functions and performance measures to be built from scratch.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Embedded delivery/PMO support for ATEC establishment, including transition planning, target operating model design and stand-up of governance, with a clear handover to in-house teams.",
+      "rationale": "A named, time-bound new body led by three commissioners with measures deferred to 2026-27 — classic establishment workload that exceeds steady-state capacity. Aligns with the plan's Project and Investment Committee oversight of strategically important projects.",
+      "confidence": "High"
+    },
+    {
+      "area": "ATEC governance and performance framework design",
+      "agency_need": "ATEC has no performance measures until 2026-27 and needs a governance and stewardship framework as a new statutory office.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Design of ATEC's governance arrangements and a PGPA-aligned performance-measure set ready for the 2026-27 cycle, with the firm's Data, Analytics & Information capability for the evidence base.",
+      "rationale": "The plan explicitly states ATEC performance measures will be developed for 2026-27, and the department commits to independent assurance of new/changed measures.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Child Care Subsidy compliance and program integrity",
+      "agency_need": "ANAO found CCS compliance only 'partly effective' on a $13.6bn program, with shared compliance risks not considered by the responsible committee.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "A compliance-and-integrity health check of the CCS program, focused on the Education-Services Australia shared-risk governance interface and a risk-based compliance redesign, with Data, Analytics & Information for fraud detection analytics.",
+      "rationale": "Directly grounded in ANAO Report 42 2024-25 and the plan's named delivery and regulatory enterprise risks and its commitment to fraud and corruption risk assessment of major programs.",
+      "confidence": "High"
+    },
+    {
+      "area": "Regulatory maturity and risk-based regulation uplift",
+      "agency_need": "Named enterprise risk of failing regulatory responsibilities; ANAO theme of weak risk-based regulation across portfolio; new regulatory frameworks (international education, gender-based violence) being introduced.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A regulator-maturity assessment against RMG 128 best-practice principles and design of a risk-based regulatory operating model, supported by Audit & Assurance for independent review.",
+      "rationale": "The plan dedicates a regulatory-performance section to RMG 128 principles and names regulatory compliance as an enterprise risk; ANAO outcomes reinforce the theme.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Capability Review response delivery",
+      "agency_need": "A 2025 Capability Review identified four-year challenges; an action plan (published August 2025) must be delivered, focusing on strategy, partnerships and user focus.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Support to implement the Capability Review action plan — capability uplift program design, workforce planning aligned to the Enterprise Workforce Plan, and change management for new ways of working.",
+      "rationale": "The Secretary names the Capability Review response as a priority, and the plan flags strategy, partnerships and user focus as improvement areas; insourcing push means focus on uplift over backfill.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Program evaluation across reforms",
+      "agency_need": "Commitment to evaluate appropriateness, effectiveness, efficiency and social benefit of policies/programs under the Evaluation Strategy 2025-2027, across major new reforms.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Co-designed process and outcome evaluations of named reforms (e.g. Preschool Reform Agreement, Better and Fairer Schools, regional study hubs), with evaluation plans and reports, drawing on Data, Analytics & Information.",
+      "rationale": "The plan has a dedicated Evaluation section and unit that 'partners with policy and program teams to co-design' evaluations; multiple reforms create a recurring evaluation pipeline.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Performance-measure assurance and redesign",
+      "agency_need": "27 performance measures with multiple new/changed measures and a stated commitment to independent assurance of new/changed measures and verification of results.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent assurance of new and significantly changed performance measures and verification of results for compliance with the Commonwealth Performance Framework.",
+      "rationale": "The plan explicitly commits to 'independent assurance on the compliance of new or significantly changed performance measures, and independent verification of our performance results'.",
+      "confidence": "High"
+    },
+    {
+      "area": "Data strategy and analytics uplift",
+      "agency_need": "Named Data & Digital enterprise risk; commitment to modernise legacy systems, improve data infrastructure, enhance analytics/data science/visualisation and a regular data publication schedule.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Data analytics and management uplift, business intelligence build, and information-management/release framework support to operationalise the Data Strategy and publication schedule.",
+      "rationale": "The plan details Data Strategy objectives including enhancing analytics and maximising safe data release, and names ineffective data leverage as an enterprise risk.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Building Early Education Fund delivery",
+      "agency_need": "Build more early childhood centres through the Building Early Education Fund — a capital/grants delivery program.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Program/PMO and benefits-management support for the Building Early Education Fund rollout, with Procurement, Probity & Contracts as a secondary for grants/construction probity.",
+      "rationale": "A named new fund building physical infrastructure is a discrete delivery program with clear milestones and procurement/grant activity.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability and capability",
+      "agency_need": "Finance Strategy 2025-28 focus on financial sustainability and compliance amid a savings agenda and redundancy pressure; building financial capability in staff.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A financial-sustainability review and budget/financial-framework uplift aligned to the Finance Strategy 2025-28, with finance capability-building support.",
+      "rationale": "The plan names financial sustainability as a 2025-26 focus; external savings/redundancy pressure strengthens the case, though sensitivity around consultant spend tempers it.",
+      "confidence": "Low"
+    },
+    {
+      "area": "International education reform implementation and engagement",
+      "agency_need": "Deliver a contested international-education integrity framework and caps with major sector backlash and a live Senate inquiry.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Sector and stakeholder engagement and consultation design to support implementation of the international education framework, with Strategy, Policy & Governance for regulatory-impact analysis.",
+      "rationale": "News and parliamentary research show sustained sector objection and cross-bench scepticism; the plan names stakeholder relationships as an enterprise risk. Note reputational sensitivity in associating with a divisive policy.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Higher Education Group / ATEC transition team with a tailored establishment-support proposition (PMO, operating model, governance and a 2026-27 performance-measure roadmap).",
+      "priority": "High",
+      "rationale": "ATEC is the most time-bound, named opportunity — interim from 1 July 2025 and permanent from January 2026 — and establishment workload peaks now while measures are still to be built."
+    },
+    {
+      "action": "Prepare a CCS program-integrity capability statement referencing ANAO Report 42 2024-25 and target the Early Childhood / Child Care Subsidy program area and the Chief Risk Officer / Audit and Risk Committee.",
+      "priority": "High",
+      "rationale": "A 'partly effective' ANAO finding on a $13.6bn program with named shared-risk governance gaps is a concrete, defensible reason to engage now, ahead of the department's response."
+    },
+    {
+      "action": "Offer a short scoping conversation on independent assurance of new/changed performance measures and results verification with the strategic policy/performance function.",
+      "priority": "Medium",
+      "rationale": "The plan explicitly commits to independent assurance and verification, and 2025-26 introduces several new measures — a clean, low-sensitivity entry point that builds relationship for larger work."
+    },
+    {
+      "action": "Monitor publication of the Capability Review action plan (August 2025) and the long-term stewardship strategy, and prepare a capability-uplift / change proposition aligned to its themes (strategy, partnerships, user focus).",
+      "priority": "Medium",
+      "rationale": "The action plan will name specific capability gaps the department intends to address over four years, signalling where uplift (not backfill) support is welcome given the insourcing stance."
+    },
+    {
+      "action": "Frame all offerings around value, knowledge transfer and capability uplift rather than ongoing staff augmentation.",
+      "priority": "High",
+      "rationale": "The Strategic Commissioning Framework focus on in-house core work, the redundancy round and political scrutiny of consultant spend mean pure resourcing pitches will struggle; insourcing-friendly framing is essential."
+    }
+  ],
+  "engagement_targets": [
+    "Higher Education Group / ATEC transition and establishment team",
+    "Early Childhood Education and Care Group (Child Care Subsidy and Building Early Education Fund)",
+    "Chief Risk Officer and the Audit and Risk Committee",
+    "Strategic policy, data and evaluation function (including the Evaluation unit and performance reporting team)",
+    "Chief Operating Officer / corporate enabling group (Finance, People, ICT, Project Office)",
+    "Project and Investment Committee (oversight of strategically important projects)",
+    "International Education Group (integrity framework and ESOS reforms)"
+  ],
+  "talking_points": [
+    "ATEC's stand-up to a permanent body by January 2026 with measures only due in 2026-27 is a defined establishment program — we can provide PMO, operating-model and governance support with a clean handover to your teams.",
+    "The ANAO's 'partly effective' finding on Child Care Subsidy compliance, including shared-risk governance gaps, points to a focused program-integrity and analytics opportunity at the Education-Services Australia interface.",
+    "Your plan commits to independent assurance of new and changed performance measures and verification of results — we can deliver that against the Commonwealth Performance Framework as a low-disruption first engagement.",
+    "With multiple major reforms (Better and Fairer Schools, Preschool Reform Agreement, study hubs) and an Evaluation Strategy 2025-2027, we can co-design rigorous, defensible evaluations that strengthen your evidence base.",
+    "We understand the Strategic Commissioning Framework and savings context — our offerings are built around capability uplift and knowledge transfer, not ongoing augmentation.",
+    "The Data Strategy's analytics and safe-release ambitions, plus the named Data & Digital enterprise risk, are areas where we can lift in-house BI and data-management capability."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a content-rich corporate plan, giving high confidence on strategic priorities and enterprise risks, but it names few budgets and rarely identifies individuals, so engagement targets are inferred by function. The department is a policy/stewardship department with one large service-delivery program (Child Care Subsidy, delivered with Services Australia), so the largest delivery opportunities concentrate around CCS, ATEC and the Building Early Education Fund. Two material constraints temper opportunity sizing: (1) the department's explicit commitment to insource core work under the Strategic Commissioning Framework and build in-house policy/data/evaluation capability, and (2) external signals of redundancies and political scrutiny of consultant spend — both mean engagements must be framed on value and capability transfer. ICT/cyber demand is largely vested in DEWR as shared-services provider, limiting direct digital-delivery opportunities. External research was constrained by search rate limits (no primary aph.gov.au, Hansard or Estimates retrieved, and limited mainstream media), so news and parliamentary sections are thinner than ideal and should be expanded before finalising."
+}

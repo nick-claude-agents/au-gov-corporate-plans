@@ -528,6 +528,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-26 to 2028-29",
       "overall_confidence": "Medium"
+    },
+    "department-of-education": {
+      "name": "Department of Education",
+      "portfolio": "Education",
+      "plan_url": "https://www.education.gov.au/about-department/resources/202526-corporate-plan-department-education",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Medium"
     }
   }
 }
