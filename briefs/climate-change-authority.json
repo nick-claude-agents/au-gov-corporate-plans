@@ -1,0 +1,146 @@
+{
+  "agency_name": "Climate Change Authority",
+  "portfolio": "Climate Change, Energy, the Environment and Water",
+  "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+  "executive_summary": "The Climate Change Authority (CCA) is a small, expertise-heavy statutory advisory body (a non-corporate Commonwealth entity) with a 2025-26 operating budget of just $13.8m and ~62 staff. Its work is dominated by legislated outputs — the 2035 Targets Advice, the annual progress report, and the statutory 2026 review of the ACCU Scheme — and it explicitly commits, under the APS Strategic Commissioning Framework, to NOT outsource its core advisory work. That materially limits the addressable market: genuine BD demand sits in the enabling/corporate layer, not in policy. The most credible openings are the newly implemented (and hard-to-measure) impact KPIs, the post-restructure organisational change agenda (where the plan explicitly contemplates external consultants), a stepped-up public engagement and communications ambition (amplified by a possible COP31 hosting role), and workforce/wellbeing/capability uplift. Engagements must be right-sized to a very small budget — short advisory and framework pieces, not multi-year delivery.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver legislated advice and reviews",
+      "description": "Complete the 2035 Targets Advice, deliver the fourth annual progress report informing the Minister's annual climate statement, and commence the statutory 2026 review of the ACCU Scheme (due to the Minister by 31 December 2026).",
+      "source_quote": "Completing, submitting and publishing our advice to the Minister on Australia's 2035 emissions reduction target; Commencing a statutory review of the legislation which creates the ACCU Scheme."
+    },
+    {
+      "title": "Step up community and stakeholder engagement",
+      "description": "Broaden public engagement, host 'snap seminars', increase media and social cut-through, and support Australia's role at COP30/COP31, including a potential prominent coordinating role if Australia wins COP31 hosting rights.",
+      "source_quote": "the Authority stepped up its engagement with the public and key stakeholders and will do so further in the years ahead."
+    },
+    {
+      "title": "Apply a fully revised performance framework",
+      "description": "For the first time apply the full suite of 8 revised KPIs (mix of 'delivery' and 'impact' measures) to assess effectiveness, including hard-to-measure impact indicators such as policy translation and public perception.",
+      "source_quote": "We will for the first time apply the full suite of our recently revised key performance indicators when it comes to assessing our effectiveness in 2025-26 and beyond."
+    },
+    {
+      "title": "Embed organisational change after restructure",
+      "description": "Bed down a 2024-25 internal restructure that created a new outreach/enabling branch and a Deputy CEO role, optimise internal systems and embed stewardship practices.",
+      "source_quote": "the Authority undertook an internal restructure to better align its organisational design with strategic priorities... introduced a Deputy CEO role in response to the Authority's expanded remit and size."
+    },
+    {
+      "title": "Maintain a capable workforce and inclusive culture",
+      "description": "Sustain capability after a period of restoration and growth, run a wellbeing 'pulse' survey, act on APS Census results, and progress a new 'Innovate' Reconciliation Action Plan.",
+      "source_quote": "our focus has shifted to sustainability, engagement and capability development."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Major legislated deliverables in 2025-26: the 2035 Targets Advice, the annual progress report, and commencement of the statutory 2026 ACCU Scheme review.",
+    "Possible Australia/Pacific COP31 hosting in 2026, anticipated to give the Authority a 'prominent role' and coordination demands.",
+    "Building on recent Government climate policy foundations (Safeguard Mechanism reforms, Capacity Investment Scheme, New Vehicle Efficiency Standard, Future Made in Australia, mandatory climate-related financial disclosures).",
+    "Forthcoming National Climate Risk Assessment and National Adaptation Plan reshaping the adaptation debate.",
+    "Full implementation of a revised 8-KPI performance framework, including new 'impact' measures.",
+    "Post-restructure embedding (new outreach/enabling branch, new Deputy CEO role).",
+    "APS Strategic Commissioning Framework commitment to keep core work in-house, limiting outsourcing."
+  ],
+  "challenges_and_risks": [
+    "Financial sustainability named as a strategic risk for a $13.8m entity reliant on appropriations and shared services; the plan notes pursuing funding increases with the Portfolio Department.",
+    "People capability risk — ability to attract, develop and retain specialist staff in a small workforce.",
+    "Organisational change risk — explicitly contemplates engaging external consultants for roles/responsibilities and change management.",
+    "Information integrity/security risk, though ICT and cyber are provided by DCCEEW.",
+    "Reputational/'confidence and trust' risk given politically contested target-setting advice.",
+    "New impact KPIs (e.g. policy translation, public perception) are inherently difficult to measure robustly.",
+    "Reliance on other agencies (DCCEEW, DISR) for ICT, cyber, finance/payroll and office space constrains in-house control."
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [
+    {
+      "summary": "ANAO maintains an audit work-program page for the Climate Change, Energy, the Environment and Water portfolio, and has a performance audit titled 'Governance of Climate Change Commitments' (page dated January 2024). The research could not confirm the CCA itself is a named auditee.",
+      "implication": "The portfolio is an active ANAO focus; the Authority should keep its governance and assurance posture audit-ready, but no CCA-specific audit demand is confirmed.",
+      "source": "ANAO — https://www.anao.gov.au/work-program/portfolio/climate-change-energy-the-environment-and-water ; https://www.anao.gov.au/work/performance-audit/governance-climate-change-commitments"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "The Climate Change Authority appears before Senate Estimates (Environment and Communications Legislation Committee), with sessions recorded in November 2024 and February 2025. Specific exchange content was not confirmed in the research.",
+      "implication": "Estimates transcripts and Questions on Notice are a reliable channel for surfacing live pressures (funding, workload, target advice) before any engagement.",
+      "source": "APH Environment and Communications Estimates — https://www.aph.gov.au/Parliamentary_Business/Senate_estimates/ec ; YouTube 'Climate Change Authority | ESTIMATES' (Feb 2025) https://www.youtube.com/watch?v=zL7ooe0wDUU"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Embedding the new impact-focused performance framework",
+      "agency_need": "2025-26 is the first year the full suite of 8 revised KPIs applies, including 'impact' measures (policy translation, public/stakeholder perception) that are inherently difficult to measure and evidence reliably.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short PGPA-aligned performance-measure review to stress-test the new KPIs and design a defensible measurement and data-collection approach for the 'impact' indicators (perception surveys, media tracking, policy-translation evidence), with secondary support from Data, Analytics & Information.",
+      "rationale": "The plan itself flags this as a first-time, newly-revised framework with impact measures that rely on Likert surveys, media data and 'recommendations translated into policy' — classic areas where a small entity benefits from independent framework design. Right-sized as a 4-10 week advisory.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Organisational change and operating-model embedding",
+      "agency_need": "Following a 2024-25 restructure that created a new outreach/enabling branch and a Deputy CEO role, the Authority needs to bed down roles, responsibilities and change.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "A change-management and operating-model embedding engagement clarifying roles/responsibilities across the new branch structure, with light-touch change support — directly aligned to the mitigation the plan names.",
+      "rationale": "The Organisational change strategic risk explicitly lists 'engagement of external consultants to assist with determining roles and responsibilities and change management activities', a rare direct invitation. Confidence tempered because the restructure is largely complete and the budget is small.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Public engagement and communications uplift",
+      "agency_need": "The Chair and CEO want to broaden reach, host 'snap seminars', lift media/social cut-through and prepare for a possible prominent COP31 role, with KPIs on readability, tailored communications plans and audience growth.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "A communications and stakeholder-engagement strategy refresh — tailored communications-plan templates, accessibility/readability standards, and a channel/audience-growth plan — proportionate to a small agency and tied to the new comms KPIs.",
+      "rationale": "KPI 7 requires tailored communications plans and readability scoring for every published report, and KPI 6 tracks media/social growth; the plan signals a deliberate step-up in outreach and a potential COP31 coordination role. A short advisory fits the budget.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce capability and wellbeing",
+      "agency_need": "After 'restoration and growth', the focus has shifted to capability, retention and wellbeing, with a pulse survey, APS Census action and a KPI on the share of budget allocated to capability building.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "A focused workforce/capability planning piece using pulse-survey and APS Census data to target retention and capability investment, plus tailored learning pathways — sized as a short advisory.",
+      "rationale": "People capability is a named strategic risk and KPI 8 measures workforce investment; however, much L&D is provided via DCCEEW and the commitment to in-house delivery limits scope.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Financial sustainability and costing",
+      "agency_need": "Financial sustainability is a named strategic risk; the Authority states it pursues funding increases with the Portfolio Department and must manage a very small budget closely.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A short financial-sustainability review / activity-based costing of the legislated work program to underpin funding bids to DCCEEW and Government.",
+      "rationale": "The plan names financial sustainability as a strategic risk and references pursuing funding increases; a costing evidence base would strengthen bids. Confidence low given the tiny budget and that this work is often done in-house or by the portfolio department.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy CEO and Corporate Branch (COO/CFO functions) with a tightly scoped, low-cost performance-measurement advisory tied to the new 8-KPI framework's 'impact' indicators.",
+      "priority": "High",
+      "rationale": "This is the cleanest, plan-evidenced gap (first-year impact KPIs that are hard to measure) and is enabling rather than core advisory work, so it sits inside the agency's outsourcing constraints."
+    },
+    {
+      "action": "Prepare a one-page change-management/operating-model capability statement referencing the plan's own organisational-change risk language, and request a short meeting with the Deputy CEO.",
+      "priority": "Medium",
+      "rationale": "The plan explicitly contemplates external consultants for roles/responsibilities and change management — meet them where they have already signalled appetite, while the restructure is still bedding in."
+    },
+    {
+      "action": "Review the November 2024 and February 2025 Senate Estimates Hansard and any QoN for the Authority to surface live funding/workload pressures before pitching.",
+      "priority": "Medium",
+      "rationale": "Estimates is the most reliable open source of current pressures for a small entity; it will sharpen the angle and avoid generic outreach."
+    },
+    {
+      "action": "Develop a short, COP31-aware communications and engagement thought piece for the new outreach/enabling branch, focused on accessibility, tailored comms plans and audience growth.",
+      "priority": "Low",
+      "rationale": "Aligns to KPIs 6 and 7 and the stated step-up in engagement; low cost to produce and positions the firm if a COP31 coordination role materialises."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy CEO (newly created role overseeing expanded remit)",
+    "Corporate Branch leadership (financial, HR, procurement, risk, governance, IT functions — COO/CFO equivalents)",
+    "Head of the new outreach and enabling activities branch (engagement and communications)",
+    "Chair of the independent Audit Committee (governance and risk assurance)",
+    "CEO / accountable authority (Brad Archer) for strategic, whole-of-agency matters"
+  ],
+  "talking_points": [
+    "You're applying the full suite of 8 revised KPIs for the first time in 2025-26 — we can help make the new 'impact' measures (policy translation, perception, media) genuinely defensible and PGPA-aligned, in a short, low-cost engagement.",
+    "Your plan names external consultants as a mitigation for organisational-change risk after the restructure and new Deputy CEO role — we can help finalise roles, responsibilities and change with minimal disruption.",
+    "With a stepped-up engagement agenda and a possible COP31 coordination role, we can right-size a communications and stakeholder strategy that meets your readability and tailored-comms-plan KPIs.",
+    "We understand your commitment to keeping core advisory work in-house under the Strategic Commissioning Framework — our offer is deliberately confined to the enabling layer (performance, change, communications, workforce), not your policy outputs.",
+    "Financial sustainability is one of your named strategic risks — a lightweight costing of the legislated work program could strengthen your funding case with DCCEEW."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "This is a small ($13.8m, ~62 staff) expertise-heavy advisory body that explicitly commits to NOT outsourcing its core policy and review work under the APS Strategic Commissioning Framework, and relies on DCCEEW and DISR for ICT, cyber, finance/payroll and accommodation. That sharply limits the addressable opportunity: there is no large program-delivery or systems-build demand here, and the realistic prospects are short, modest enabling engagements (performance framework, change, communications, workforce, costing) — several of which the agency may handle in-house. Opportunities are inferred from risk and KPI signals rather than named procurements, hence the low-to-medium confidence. External research was incomplete (search tool rate-limited); no CCA-specific news, ANAO audit, or substantive Estimates content was confirmed, so the news/ANAO/parliamentary sections are conservative and should be re-scanned before relying on them."
+}
