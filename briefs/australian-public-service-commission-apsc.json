@@ -1,0 +1,206 @@
+{
+  "agency_name": "Australian Public Service Commission (APSC)",
+  "portfolio": "Prime Minister and Cabinet",
+  "plan_period": "2025-29 (budget year 2025-26)",
+  "executive_summary": "The APSC is a small, expertise-heavy central agency (policy/regulatory archetype) acting as steward of the APS on integrity, workforce management and capability. Its 2025-29 plan is organised around three pillars - integrity, capability and workforce management - and reveals active reform agendas: the Strategic Commissioning Framework (insourcing core work), the Integrity Roadmap (2023-26), an APS-wide reform program (including Closing the Gap and diversity Outcome 6), and the APS Academy's capability uplift. Internally, it is mid-stream on a Capability Review action plan (73.7% complete), replacing its ERP and case management systems, rolling out modern workplace tools, standing up AI governance, and developing a workforce plan and National Property Strategy. An ANAO performance audit has found the APSC lacks a documented strategy and effectiveness measures for its own stewardship/integrity functions - a direct, citable advisory signal. Because the APSC itself owns the insourcing agenda, any pursuit must be framed around capability transfer and short, defensible advisory rather than long-term outsourced delivery.",
+  "strategic_priorities": [
+    {
+      "title": "Strengthening APS integrity and pro-integrity culture",
+      "description": "Delivering the Integrity Roadmap (2023-26), embedding integrity initiatives as business-as-usual, running an Integrity Communications and Engagement Strategy, and evaluating how agencies uphold the APS Values and Code of Conduct.",
+      "source_quote": "The Integrity Roadmap is the Commission's commitment to shaping a pro-integrity culture for the APS, in partnership with APS agencies."
+    },
+    {
+      "title": "Implementing the Strategic Commissioning Framework (insourcing core work)",
+      "description": "Driving the APS-wide shift to bring core work in-house, with 2025-26 targets focused on reduced outsourcing of service delivery and >90% of agencies meeting reporting milestones.",
+      "source_quote": "In 2025-26, the Commission will continue to working to bring core work in-house in line with the APS Strategic Commissioning Framework."
+    },
+    {
+      "title": "Building APS capability and leadership via the APS Academy",
+      "description": "Delivering leadership and talent programs and APS Craft learning, with new effectiveness measures, and implementing the APS Learning and Development Strategy Adapt Action Plan.",
+      "source_quote": "Through the APS Academy we will continue to deliver targeted training, leadership programs and development initiatives."
+    },
+    {
+      "title": "Workforce management policy and diversity",
+      "description": "Shaping remuneration and conditions, ensuring collective agreement compliance, lifting First Nations SES representation (currently 2.86%) and meeting APS Reform Outcome 6 (equity, inclusion, diversity) metrics.",
+      "source_quote": "First Nations employment across all levels of the APS has not improved in two decades, with representation stagnating at 3.5%."
+    },
+    {
+      "title": "Internal technology and corporate modernisation",
+      "description": "Implementing a new case management system, replacing the ERP, rolling out modern workplace tools, establishing AI governance, and uplifting cyber, information and data management under the 2024-27 technology strategy.",
+      "source_quote": "We will implement a new case management system, progress the replacement of our Enterprise Resource Management systems and continue rolling out modern workplace tools."
+    },
+    {
+      "title": "Completing Capability Review uplift and embedding evaluation",
+      "description": "Finishing the remaining Capability Review action-plan initiatives and embedding new governance and evaluation mechanisms to monitor performance against outcomes.",
+      "source_quote": "As at 30 June 2025, we have completed nearly three-quarters (73.7%) of our capability uplift initiatives."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Strategic Commissioning Framework requiring APS-wide reduction in outsourcing and insourcing of core work (initial period 2024-25 to 2026-27)",
+    "Integrity Roadmap fixed-term (2023-26) and broader integrity reform following the Robodebt Royal Commission",
+    "APS Reform agenda including Outcome 6 (equity, inclusion, diversity) and Closing the Gap Priority Reform Three",
+    "Public Service Act 1999 statutory functions and Public Sector Workplace Relations Policy compliance obligations",
+    "Internal Capability Review (July 2023) 12-action response plan over a 5-year horizon",
+    "Technology strategy 2024-27 - ERP replacement, new case management system, AI governance, cyber and data uplift",
+    "Financial uncertainty named as a strategic risk constraining capacity to meet growing stakeholder demand",
+    "Competitive labour market and skills shortages affecting both the Commission and the wider APS"
+  ],
+  "challenges_and_risks": [
+    "Inability to sustain capacity and capabilities to meet growing delivery demands 'in an environment of significant financial uncertainty' (named strategic risk)",
+    "Risk of not meeting legislative obligations or failing to steward APS institutional integrity",
+    "Risk of losing stakeholder confidence as a valued, credible and trusted partner",
+    "Difficulty aligning workplace conditions with labour-market expectations to attract and retain talent",
+    "Stagnant First Nations SES representation (2.86%) against Closing the Gap commitments",
+    "New and still-maturing performance measures - several with baselines only and targets 'to be determined'",
+    "ANAO finding that the APSC lacks a documented strategy and effectiveness measures for its stewardship/integrity functions",
+    "Self-imposed constraint: as owner of the insourcing agenda, the APSC must limit reliance on external providers"
+  ],
+  "news_and_controversies": [
+    {
+      "summary": "The APSC reported (Dec 2024) that 36% of agencies only partly met or did not meet the government's strategic commissioning targets to cut reliance on external labour; the CPSU criticised slow progress. The program supports Labor's commitment to reduce external-work spend by $6.4bn over four years.",
+      "implication": "The APSC owns the insourcing agenda, so any offer must be framed around capability-building and skills transfer rather than long-term outsourced delivery to be politically defensible.",
+      "source": "The Canberra Times / CPSU - https://www.cpsu.org.au/CPSU/Content/News/CPSU_fires_warning_shot_over_APS_cuts.aspx"
+    },
+    {
+      "summary": "Following the Robodebt Royal Commission, APS code-of-conduct processes found breaches but reporting noted those found to have breached would not face penalties, prompting commentary that the APS is not adequately learning from failure.",
+      "implication": "Integrity, culture and rebuilding trust are live, sensitive themes the APSC owns; ethics/leadership work must be evidence-based and risk-aware given media and parliamentary scrutiny.",
+      "source": "The Conversation (Michelle Grattan; Casey & Maley, ANU), Sept-Oct 2024 - https://theconversation.com/topics/australian-public-service-6824"
+    },
+    {
+      "summary": "A partisan opposition source alleges over $400,000 spent on senior-executive 'leadership retreats' since mid-2024, with APSC officials defending the spend at Senate Estimates and the figure excluding travel.",
+      "implication": "Executive L&D and offsite spending is politically charged; any leadership/facilitation engagement should build in cost transparency. Note: partisan source, treat with caution.",
+      "source": "Liberal Party of Australia (partisan) - https://www.liberal.org.au/2026/02/16/economic-failure-of-albanese-government-exposed"
+    },
+    {
+      "summary": "The Canberra Times reported (June 2024) that the APSC's integrity measures were criticised in an ANAO audit.",
+      "implication": "Independent assurance has found gaps in how the APSC runs its own integrity/stewardship functions - a clear advisory opportunity requiring credibility on governance.",
+      "source": "The Canberra Times - https://www.canberratimes.com.au/story/8671171/public-service-commissions-integrity-measures-slammed-in-audit/"
+    }
+  ],
+  "anao_findings": [
+    {
+      "summary": "ANAO performance audit 'Australian Public Service Commission's Administration of Integrity Functions' found the APSC did not have a documented strategy or plan to support the Commissioner's stewardship/partnering function, could not measure its effectiveness in that function, and was 'largely activity-driven' rather than strategically planned.",
+      "implication": "Direct, named advisory opportunity: strategy design, performance-measurement frameworks and stewardship-function planning are gaps the auditor itself identified - proposals can be anchored to specific ANAO findings.",
+      "source": "ANAO - https://www.anao.gov.au/work/performance-audit/australian-public-service-commissions-administration-integrity-functions"
+    }
+  ],
+  "parliamentary_matters": [
+    {
+      "summary": "APSC officials reportedly defended ~$400k of senior-executive retreat spending under questioning at Senate Estimates, with full-cost questions taken on notice. (Sourced via opposition media release, not verified against Hansard.)",
+      "implication": "APSC discretionary/L&D spend is under active estimates scrutiny - relevant if pursuing capability, leadership or facilitation work; verify directly before relying on this.",
+      "source": "Liberal Party of Australia (unverified against Hansard) - https://www.liberal.org.au/2026/02/16/economic-failure-of-albanese-government-exposed"
+    }
+  ],
+  "opportunity_areas": [
+    {
+      "area": "Stewardship/integrity function strategy and effectiveness measurement",
+      "agency_need": "ANAO found the APSC lacks a documented strategy and cannot measure the effectiveness of its stewardship and integrity functions; the Integrity Roadmap also expires in 2026 with a noted gap in ongoing measurement.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A 8-14 week engagement to design a documented stewardship/integrity strategy and a PGPA-aligned effectiveness-measurement framework that responds directly to ANAO recommendations and sets up successor measures beyond the 2026 Roadmap.",
+      "rationale": "Both the ANAO audit and the plan's own caveat that the Integrity Roadmap measure is 'limited in its ability to provide an ongoing and meaningful measurement of performance' point to a specific, time-bound, citable need.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance-measure redesign and evaluation maturity",
+      "agency_need": "Many 2025-26 measures are new, baseline-only or have targets 'to be determined', and the plan commits to improving reliability, verifiability and data integrity of performance reporting.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A performance-framework review to convert baseline-only measures into robust output/effectiveness measures with verifiable data sources, plus an evaluation design for the APS Academy and integrity initiatives.",
+      "rationale": "The plan repeatedly flags measures being revised for 'reliability and verifiability' and several Academy measures explicitly anticipate evolving from output to impact - a clear evaluation/framework need.",
+      "confidence": "High"
+    },
+    {
+      "area": "ERP replacement and case management system delivery",
+      "agency_need": "The Commission is replacing its Enterprise Resource Management systems and implementing a new case management system while rolling out modern workplace tools under its 2024-27 technology strategy.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Discovery, business/process analysis and solutions implementation support for the ERP and case management replacements, including service design and integration - or independent delivery assurance if build is in-house.",
+      "rationale": "Named, funded system replacements governed by the Technology, Digital and Data Committee and IT Project Board indicate active, time-bound delivery demand.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Delivery assurance of major technology and reform programs",
+      "agency_need": "Multiple concurrent change programs (ERP, case management, Capability Review action plan, Integrity Roadmap, Adapt Action Plan) under a financially-constrained, capacity-stretched agency.",
+      "mapped_service": "Audit & Assurance",
+      "suggested_offering": "Independent, gateway-style delivery assurance / health check across the technology and reform portfolio to give the Executive Board and Audit and Risk Committee confidence on schedule, benefits and risk.",
+      "rationale": "Named strategic risk on sustaining capacity in financial uncertainty plus several concurrent fixed-term programs supports a light-touch independent assurance role.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "AI governance framework",
+      "agency_need": "The plan commits to AI tools being 'supported by effective governance' as one of five technology implementation themes.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short advisory to design an AI governance and assurance framework aligned to Commonwealth policy, covering risk, transparency and acceptable-use controls for the Commission's AI adoption.",
+      "rationale": "AI governance is explicitly named as a 2025-26 focus; a proportionate framework piece fits a small agency's budget.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Workforce plan development",
+      "agency_need": "The Commission is developing a workforce plan to identify current state and a fit-for-purpose future state, and names attraction/retention in a competitive labour market as a strategic risk.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Support to design the Commission's workforce plan - current-state capability assessment, gap analysis and a future-state roadmap aligned to its three pillars and Capability Review actions.",
+      "rationale": "The plan explicitly states 'we are developing a workforce plan' and flags skills/diversity gaps, but the APSC's own insourcing posture limits appetite for external HR delivery - hence medium.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Cyber and data/information management uplift",
+      "agency_need": "The plan commits to 'strengthening our cyber security, enterprise information and data management capabilities' and to breaking down data silos.",
+      "mapped_service": "Cybersecurity",
+      "suggested_offering": "A security assessment and assurance review of the Commission's systems and data (particularly new ERP/case management) against Essential Eight and Commonwealth requirements.",
+      "rationale": "Cyber is one of five named technology themes and the plan notes advisory-line measures could be impacted by security breaches/outages; fit is real but general.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Integrity communications and engagement support",
+      "agency_need": "Delivery of an Integrity Communications and Engagement Strategy 2025-26 covering conflicts of interest, gifts and benefits, record keeping and integrity in recruitment, plus a website update and flagship product suite.",
+      "mapped_service": "Communications & Engagement",
+      "suggested_offering": "Content development, campaign and benchmarking support for the integrity promotion activities, including measurement of reach and engagement against benchmark metrics.",
+      "rationale": "Named promotional activities and benchmark-metric methodology indicate scoped communications work, though the APSC has an in-house Engagement and Communications branch.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Deputy Commissioner, Integrity (External) and the Strategy and Transformation Branch with a tightly-scoped proposal to design a documented stewardship/integrity strategy and effectiveness-measurement framework responding to the ANAO audit.",
+      "priority": "High",
+      "rationale": "The ANAO audit is the strongest, most citable demand signal and the Integrity Roadmap expires in 2026 - first-mover advice anchored to named findings is highly credible right now."
+    },
+    {
+      "action": "Offer the performance team (Strategy and Transformation Branch) a performance-framework and evaluation review, leading with the plan's own commitment to improve reliability, verifiability and data integrity of measures.",
+      "priority": "High",
+      "rationale": "Numerous baseline-only measures and explicit intent to evolve toward impact measurement create clear, low-sensitivity advisory demand the APSC can defend under its own insourcing rules."
+    },
+    {
+      "action": "Engage the Chief Operating Officer and the Technology, Digital and Data Committee / IT Project Board on delivery assurance and implementation support for the ERP and case management replacements.",
+      "priority": "Medium",
+      "rationale": "These are named, in-flight system programs; an independent assurance role is defensible against insourcing constraints and addresses the named capacity-under-financial-uncertainty risk."
+    },
+    {
+      "action": "Prepare a one-page capability statement that explicitly frames offerings around capability transfer and short, bounded advisory, and bakes cost transparency into any leadership/L&D proposal.",
+      "priority": "Medium",
+      "rationale": "The Strategic Commissioning Framework and Senate Estimates scrutiny of executive spend mean generic outsourced-delivery pitches will be rejected; positioning matters more here than at most agencies."
+    },
+    {
+      "action": "Monitor for the APSC's published response to the ANAO integrity audit and confirm the formal recommendations and management responses before finalising any integrity proposal.",
+      "priority": "Medium",
+      "rationale": "Aligning a proposal to the exact agreed recommendations maximises credibility and timing; the research could not verify the full recommendation set."
+    }
+  ],
+  "engagement_targets": [
+    "Deputy Commissioner, Integrity (External) - owner of integrity/stewardship strategic risk",
+    "Strategy and Transformation Branch - performance measures, Integrity Roadmap and evaluation",
+    "Chief Operating Officer - capacity, financial sustainability and corporate systems",
+    "Technology, Digital and Data Committee / IT Project Board - ERP and case management delivery",
+    "Deputy Commissioner, APS Academy & Capability - leadership and capability programs",
+    "First Assistant Commissioner, Workplace Reform and Diversity - workforce conditions and diversity",
+    "Audit and Risk Committee - independent assurance and risk framework"
+  ],
+  "talking_points": [
+    "The ANAO found the APSC has no documented stewardship strategy and cannot measure effectiveness of its integrity functions - we can help design both, anchored directly to the audit recommendations, before the Integrity Roadmap lapses in 2026.",
+    "Many of your 2025-26 measures are baseline-only or 'to be determined'; we can build verifiable, PGPA-aligned measures that withstand audit and support your move from output to impact reporting.",
+    "As stewards of the Strategic Commissioning Framework, your offers must model insourcing - everything we propose is short, bounded and built around skills transfer to your teams, not long-term dependency.",
+    "With the ERP and case management replacements in flight under a stretched, financially-constrained operating environment, an independent delivery-assurance role gives your Executive Board and Audit and Risk Committee confidence without adding outsourced delivery.",
+    "Executive L&D spend is under estimates scrutiny - we build cost transparency into any capability or facilitation work from the outset.",
+    "Your technology strategy names AI governance as a 2025-26 priority; we can deliver a proportionate AI governance and assurance framework aligned to Commonwealth policy."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a small central agency that explicitly owns the APS insourcing agenda, which materially constrains appetite for external delivery work and caps engagement size - opportunities must be short, advisory and capability-transfer focused. The strongest signals (the ANAO integrity audit and the performance-measure gaps) are well evidenced; technology-delivery opportunities are inferred from named systems but funding scale is unstated. The ANAO audit's formal recommendations and the APSC's management responses were not fully verified in the research and should be confirmed. The leadership-retreat/Senate Estimates items rest on a partisan source and the parliamentary picture is incomplete - treat with caution and verify against Hansard before client use."
+}
