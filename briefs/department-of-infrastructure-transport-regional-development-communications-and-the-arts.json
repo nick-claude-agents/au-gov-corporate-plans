@@ -1,0 +1,195 @@
+{
+  "agency_name": "Department of Infrastructure, Transport, Regional Development, Communications and the Arts",
+  "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+  "plan_period": "2024-25 (covering 2024-25 to 2027-28)",
+  "executive_summary": "DITRDCA is a very large, multi-mandate policy, program and regulatory department spanning infrastructure (a $96.5bn 10-year investment pipeline), transport, regional development, communications, territories and the arts. Its 2024-25 plan is dominated by a self-improvement agenda driven by the 2023 APSC Capability Review, which found the department insular and weak in strategic policy, program management, data/digital and collaboration, plus a second year of ANAO Annual Performance Statements auditing it is racing to mature by 2025. Tangible enabling investments are named: a new Enterprise Resource Planning (ERP) system, a 10-year technology/ICT modernisation plan with zero-trust security, a new Data Strategy 2025-29 and Data Governance Framework, and a Strategic Workforce Plan. On the program side, standing up the New Vehicle Efficiency Standard regulator (with new IT) and reforming infrastructure funding (the new Federation Funding Agreement Schedule) are time-bound. The key commercial caveat: the department explicitly commits to reducing reliance on consultants and external workforce, capping contractors at 8% of ASL under the APS Strategic Commissioning Framework, so advisory pitches must be framed around genuine specialist gaps and build/implementation work.",
+  "strategic_priorities": [
+    {
+      "title": "Deliver the APSC Capability Review response",
+      "description": "Implement the Agency Action Plan through a Transformation Program to lift strategic policy, program management, data/digital literacy, collaboration and integrity, overseen by a Transformation Program Steering Committee, and track it via a new Capability Priorities Program Monitoring and Evaluation Framework.",
+      "source_quote": "We will also continue implementing our Agency Action Plan to address the findings of the APSC Capability Review and in turn lift our capability in strategic thinking, strengthen our ability to behave with integrity and improve collaboration."
+    },
+    {
+      "title": "Mature performance reporting for ANAO audit",
+      "description": "Second year of ANAO Annual Performance Statements auditing; the department had no governance framework to assure performance information before the 2022-23 audit and is implementing a new Performance Framework to reach full maturity by 2025.",
+      "source_quote": "In 2024-25, we are entering our second year of Annual Performance Statements auditing by the Australian National Audit Office... We regularly update our Performance Framework... with a view to achieving full maturity by 2025."
+    },
+    {
+      "title": "Stand up the New Vehicle Efficiency Standard regulator",
+      "description": "Establish a new regulator to oversee the NVES (commencing 1 January 2025) including the necessary information technology investment, then move from development to implementation of regulatory functions.",
+      "source_quote": "A key focus... will be the establishment of a new regulator to oversee the New Vehicle Efficiency Standard (NVES)... along with the necessary information technology investment."
+    },
+    {
+      "title": "Modernise ICT, data and cyber capability",
+      "description": "Deliver a 10-year technology investment plan and future-state ICT architecture (zero-trust security), a new Data Strategy 2025-29 and Data Governance Framework, and explore/implement a new ERP system in line with the IT Roadmap.",
+      "source_quote": "the department will continue to review our finance systems and to explore options to implement a new Enterprise Resource Planning (ERP) system, in line with our IT Roadmap."
+    },
+    {
+      "title": "Deliver major infrastructure and funding reform",
+      "description": "Oversee the 10-year, $96.5bn Infrastructure Investment Program and finalise a new Federation Funding Agreement Schedule embedding reforms from the independent IIP and Infrastructure Australia reviews; continue Western Sydney Airport and Brisbane 2032 venue delivery.",
+      "source_quote": "Implementation of the FFAS will address many of the reforms recommended in last year's Infrastructure Investment Program review."
+    },
+    {
+      "title": "Implement Revive (National Cultural Policy)",
+      "description": "Deliver the 54 Office for the Arts-led Revive actions, expand Creative Australia (Music Australia, Creative Workplaces, First Nations Arts, Writing Australia) and strengthen First Nations languages funding.",
+      "source_quote": "Revive is the primary vehicle through which the Australian Government is delivering on its commitments for the arts and creative sector."
+    },
+    {
+      "title": "Strategic workforce and integrity uplift",
+      "description": "Implement the Strategic Workforce Plan 2024-2027 (APS Job Family Framework, capability frameworks), refresh the Integrity Strategy (reviewed 2024-25) and embed NACC/fraud-and-corruption obligations.",
+      "source_quote": "During 2024-25, we will continue to implement our Integrity Strategy and mature our integrity arrangements."
+    }
+  ],
+  "reform_and_change_drivers": [
+    "2023 APSC Capability Review findings requiring an enterprise-wide transformation and capability uplift",
+    "Second year of ANAO Annual Performance Statements audit and a commitment to full performance-framework maturity by 2025",
+    "New Vehicle Efficiency Standard Act 2024 and commencement of the NVES on 1 January 2025 requiring a new regulator and IT",
+    "Transport and Infrastructure Net Zero Roadmap and economy-wide net zero targets (43% by 2030, net zero by 2050)",
+    "Independent reviews of the Infrastructure Investment Program, the Land Transport NPA and Infrastructure Australia driving the new Federation Funding Agreement Schedule",
+    "New Commonwealth Fraud and Corruption Control Framework (1 July 2024) and the National Anti-Corruption Commission",
+    "APS Strategic Commissioning Framework driving reduced reliance on consultants/contractors (8% ASL cap)",
+    "Data and Digital Government Strategy alignment and rising AI adoption and cyber threat",
+    "Legislative reform agenda: Online Safety Act review, media/misinformation reforms, Creative Australia Act amendments",
+    "Commonwealth Climate Risk Disclosure requirements being built into risk management"
+  ],
+  "challenges_and_risks": [
+    "Capability Review identified weaknesses in strategic policy, program management, data and digital, plus a perception the department is insular and reluctant to take external advice",
+    "Data capability described as 'largely devolved and inconsistent, with pockets of strength' and data handling a persistent APS skills shortage",
+    "Performance measurement immaturity flagged by the ANAO; many 2024-25 measures are brand new and unproven",
+    "Budget forecasting and business planning identified as needing improvement; ageing finance systems prompting ERP exploration",
+    "Tight labour markets and skills shortages in construction, transport and creative sectors",
+    "Pressure to cut external workforce/consultants to 8% of ASL while delivering an ambitious reform agenda",
+    "Construction-sector cost escalation and delivery risk across the IIP, Western Sydney Airport and Brisbane 2032",
+    "Cyber-attacks, evolving data governance and reliable service delivery named as operating-environment challenges",
+    "Complex multi-jurisdictional delivery dependence on states, territories and local government"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "New ERP system implementation",
+      "agency_need": "Ageing finance systems and a Capability Review finding on poor budget forecasting and business planning; the department is exploring and implementing a new ERP in line with its IT Roadmap.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "ERP discovery and requirements definition, vendor-agnostic solution design and implementation/integration support, with a secondary Financial & Accounting workstream to redesign the financial-management and budget-forecasting processes the new system must support.",
+      "rationale": "The plan explicitly states the department will explore and implement a new ERP to enable efficient, accurate and timely financial and budget management and to address a Capability Review finding on budget forecasting. The firm can both advise and build.",
+      "confidence": "High"
+    },
+    {
+      "area": "NVES regulator stand-up and supporting IT",
+      "agency_need": "Establish a brand-new regulator for the New Vehicle Efficiency Standard from 1 January 2025, including necessary IT and the build/implementation of regulatory functions.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Establishment program management / PMO for the new regulator, target operating model and process design, and (with Digital & ICT Delivery) discovery and build of the supporting compliance IT and data systems.",
+      "rationale": "A named, time-bound new regulatory function with explicit IT investment and a 2024-25 move from 'development' to 'implementation' of regulatory functions creates clear delivery demand.",
+      "confidence": "High"
+    },
+    {
+      "area": "Performance framework maturity for ANAO audit",
+      "agency_need": "In its second year of ANAO performance-statements auditing with prior weak governance of performance information and a target of full maturity by 2025; many measures are newly introduced and unproven.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A PGPA-aligned performance-measure and methodology health check (testing measures against s16EA), with Audit & Assurance as a secondary line providing independent pre-audit assurance of the performance framework and data sources.",
+      "rationale": "The plan candidly notes the department lacked a governance framework to assure performance information before the 2022-23 ANAO audit and is racing to maturity, and most 2024-25 measures are 'new measure for 2024-25'.",
+      "confidence": "High"
+    },
+    {
+      "area": "Capability/transformation program assurance and evaluation",
+      "agency_need": "An ambitious enterprise transformation responding to the APSC Capability Review, overseen by a Transformation Program Steering Committee and tracked via a Capability Priorities Program Monitoring and Evaluation Framework.",
+      "mapped_service": "Programs, Projects & Change",
+      "suggested_offering": "Independent delivery assurance / health check of the Capability Priorities Program and design support for its monitoring-and-evaluation framework, helping the Steering Committee demonstrate benefits realisation.",
+      "rationale": "The plan names the program, its steering committee and an explicit M&E framework under development, providing a defined, multi-year engagement hook.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Data governance, strategy and AI enablement",
+      "agency_need": "Data capability is 'largely devolved and inconsistent'; the CDO is developing the Data Strategy 2025-29, a new Data Governance Framework, increased data sharing, and responsible AI adoption.",
+      "mapped_service": "Data, Analytics & Information",
+      "suggested_offering": "Development of the Data Governance Framework and supporting Data Strategy 2025-29, data-maturity assessment, and an information-management/AI-readiness uplift, with practical data-sharing agreement tooling.",
+      "rationale": "The CDO section names specific 2024-25 deliverables (Data Strategy 2025-29, Data Governance Framework, data sharing, responsible AI), and the plan admits inconsistent data capability and an APS data skills shortage.",
+      "confidence": "High"
+    },
+    {
+      "area": "ICT modernisation and zero-trust cyber architecture",
+      "agency_need": "A 10-year technology plan and future-state ICT architecture underpinned by zero-trust security for a nationally dispersed workforce, addressing functional-review recommendations and emerging cyber threats.",
+      "mapped_service": "Digital & ICT Delivery",
+      "suggested_offering": "Architecture and roadmap delivery support and systems integration for the modernisation program, with Cybersecurity as a secondary line for security assessment and assurance of the zero-trust architecture.",
+      "rationale": "The plan details a future-state ICT architecture blueprint, a 10-year plan addressing functional-review recommendations, and explicit cyber/zero-trust objectives.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Strategic workforce and Job Family Framework rollout",
+      "agency_need": "Implement the Strategic Workforce Plan 2024-2027, including the long-term APS Job Family Framework, capability frameworks, succession planning and learning pathways, with strategic policy capability as initial focus.",
+      "mapped_service": "Organisation, Workforce & People",
+      "suggested_offering": "Capability-framework and job-family mapping support, succession-planning tools, and design of a policy/program-management capability curriculum and learning pathways.",
+      "rationale": "The plan sets out a named multi-year workforce plan with specific initiatives (Job Family Framework, capability frameworks, succession tools) and identifies program management as a top-priority skillset gap.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Integrity and fraud/corruption framework refresh",
+      "agency_need": "Review of the Integrity Strategy (due 2024-25), incorporation of the new Commonwealth Fraud and Corruption Control Framework and NACC obligations into the Fraud and Corruption Control Plan.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "An integrity-framework and fraud-and-corruption-control review against the new Commonwealth Framework, with Audit & Assurance support to test the effectiveness of fraud and corruption controls (a new Framework requirement).",
+      "rationale": "The plan commits to reviewing the Integrity Strategy in 2024-25 and notes the new Framework's requirement to periodically review control effectiveness; the integrity uplift is a Capability Review priority.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Evaluation Strategy and policy-quality assessment",
+      "agency_need": "A new Evaluation Strategy 2024-2027 and a policy quality assessment process to lift the evidence base and quality of ministerial advice.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "Process and outcome evaluation services for named programs, plus design support for the policy-quality assessment methodology and review panel.",
+      "rationale": "The plan launched an Evaluation Strategy 2024-2027 and describes a developing policy-quality assessment process, signalling appetite for external evaluation expertise.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Approach the Chief Operating Officer / Corporate Group (Finance, Budget and Governance) with a combined ERP discovery and financial-process uplift proposition.",
+      "priority": "High",
+      "rationale": "The ERP exploration is explicitly tied to fixing a Capability Review budget-forecasting finding; engaging early in the 'explore options' phase positions the firm for both advisory and build work before procurement is scoped."
+    },
+    {
+      "action": "Engage the Surface Transport Emissions and Policy area on NVES regulator establishment support before and immediately after the 1 January 2025 commencement.",
+      "priority": "High",
+      "rationale": "Standing up a regulator and its IT is the most time-bound, well-funded delivery opportunity in the plan; the window between development and implementation is now."
+    },
+    {
+      "action": "Offer a pre-audit performance-framework health check to the Assurance, Integrity, Risk and Governance branch ahead of the next ANAO performance-statements audit.",
+      "priority": "High",
+      "rationale": "The department openly admits past performance-information governance gaps and targets full maturity by 2025; an independent, PGPA-aligned review is directly relevant and low-political-risk."
+    },
+    {
+      "action": "Brief the Chief Data Officer on a Data Governance Framework and Data Strategy 2025-29 support package, including data-maturity assessment and responsible-AI enablement.",
+      "priority": "Medium",
+      "rationale": "The CDO has named 2024-25 deliverables and the plan concedes inconsistent, devolved data capability — a specialist gap that fits the Strategic Commissioning Framework's 'genuinely required expertise' test."
+    },
+    {
+      "action": "Prepare a capability statement that explicitly frames offers around genuine specialist gaps and build/implementation work, not generic advisory.",
+      "priority": "High",
+      "rationale": "The department commits to cutting consultant reliance and capping contractors at 8% of ASL; positioning around implementation (ERP, regulator IT, data) and time-limited specialist assurance is essential to win work."
+    },
+    {
+      "action": "Watch for procurements flowing from the ICT 10-year plan, ERP and NVES IT, and the FFAS implementation.",
+      "priority": "Medium",
+      "rationale": "Several named investments will convert into approaches to market over the plan period; early relationship-building with IT and Strategy/Architecture/Cyber Security branches improves positioning."
+    }
+  ],
+  "engagement_targets": [
+    "Chief Operating Officer, Corporate Group (Maree Bridger) — enabling-services investment owner",
+    "Finance, Budget and Governance division / CFO function — ERP and financial-framework uplift",
+    "Chief Data Officer — Data Strategy 2025-29 and Data Governance Framework",
+    "Information Technology and Strategy, Architecture and Cyber Security branches — ICT modernisation and zero-trust",
+    "Assurance, Integrity, Risk and Governance branch / Chief Integrity and Risk Officer — performance framework, integrity and fraud controls",
+    "Transformation Program Steering Committee — Capability Priorities Program assurance and M&E",
+    "People, Culture and Change division — Strategic Workforce Plan and Job Family Framework",
+    "Surface Transport Emissions and Policy division — NVES regulator establishment and IT"
+  ],
+  "talking_points": [
+    "You are entering year two of ANAO performance-statements auditing with many brand-new measures — we can provide an independent, PGPA s16EA-aligned health check to de-risk the path to full maturity by 2025.",
+    "The ERP exploration is the moment to design the finance processes first: we can run vendor-agnostic discovery and then build/integrate, directly addressing the Capability Review budget-forecasting finding.",
+    "Standing up the NVES regulator and its IT by January 2025 is a defined delivery program — we can provide the PMO, target operating model and the supporting compliance systems.",
+    "Your CDO has a clear 2024-25 agenda (Data Strategy 2025-29, Data Governance Framework, responsible AI) against an admittedly devolved data capability — a precise specialist gap we can fill.",
+    "We understand the Strategic Commissioning Framework and the 8% contractor cap — our proposals focus on genuine specialist gaps and on building/implementing, transferring capability to your people rather than displacing them.",
+    "Your ICT 10-year plan and zero-trust architecture can be delivered with integrated build and cyber-assurance support across a nationally dispersed workforce."
+  ],
+  "overall_confidence": "Medium",
+  "caveats": "This is a strong, signal-rich plan but it carries an explicit commercial headwind: the department repeatedly commits to reducing reliance on consultants and outsourced providers and to capping contractors at 8% of ASL under the APS Strategic Commissioning Framework, and the Capability Review flagged a perception the department is insular and reluctant to take external advice. Pitches must therefore be framed tightly around genuine specialist gaps, time-limited independent assurance, and build/implementation work the APS workforce cannot self-deliver. Several opportunities (ERP, NVES IT, ICT modernisation) are named at a planning/'explore options' stage, so budgets, timing and approaches to market are not yet confirmed. No external research (news, ANAO, Parliamentary) was supplied, so those sections are empty and the audit/controversy picture is unverified. Confidence levels reflect how specifically the plan names each initiative."
+}
