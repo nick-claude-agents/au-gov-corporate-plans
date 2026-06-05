@@ -1,0 +1,108 @@
+{
+  "agency_name": "Royal Australian Air Force Veterans' Residences Trust Fund",
+  "portfolio": "Defence",
+  "plan_period": "2024-25 (four-year outlook 2024-28)",
+  "executive_summary": "The RAAF Veterans' Residences Trust is a very small WWII-legacy Corporate Commonwealth Entity governed by volunteer trustees and run by just two staff (one full-time, one part-time). It is a self-funding niche provider of ~76 rental residences across five capital cities for ex-RAAF personnel in necessitous circumstances. The plan is deliberately minimalist: it explicitly states no need for a technology strategy, no infrastructure expansion, and no cooperation requirements beyond the RSL/AFA/RAAF for tenant and trustee nominations. From a BD perspective the addressable demand is extremely thin and budget is constrained by statute; the only tangible signals are three named initiatives — amending the 1953 Act to broaden accommodation-related support, developing a strategic asset management plan, and improving stakeholder engagement to lift eligible-tenant numbers. Any Consulting Firm engagement here would be a small, one-off advisory at most, not a sustained account.",
+  "strategic_priorities": [
+    {
+      "title": "Develop a strategic asset management plan",
+      "description": "The Trust has committed to developing and implementing a strategic asset management plan for its portfolio of rental properties across Brisbane, Sydney, Melbourne, Adelaide and Hobart, led by trustee Tindal.",
+      "source_quote": "The Trust should develop and implement a strategic asset management plan."
+    },
+    {
+      "title": "Amend the enabling 1953 Act to broaden support",
+      "description": "The Trust seeks legislative amendment to allow it to provide a wider range of accommodation-related support to eligible persons, beyond simply providing a residence, led by trustee Schiller.",
+      "source_quote": "The Trust should seek to amend the RAAF Veterans' Residences Trust Act 1953 (Cth) to allow the Trust to provide a range of accommodation-related support to eligible persons."
+    },
+    {
+      "title": "Increase eligible tenant numbers via stakeholder engagement",
+      "description": "The Trust aims to increase the number of eligible tenants, primarily through improved engagement with the Air Force Association and the RSL.",
+      "source_quote": "The Trust should increase the number of eligible tenants, primarily through improved engagement with AFA and the RSL."
+    },
+    {
+      "title": "Maintain financial viability within statutory constraints",
+      "description": "As a self-funding entity, the Trust must remain solvent and may allocate accommodation to non-eligible persons or the general public at market rates to preserve viability.",
+      "source_quote": null
+    }
+  ],
+  "reform_and_change_drivers": [
+    "Proposed amendment to the RAAF Veterans' Residences Trust Act 1953 to broaden the Trust's permissible support activities",
+    "Need to maintain financial viability as a self-funding entity under statutory constraints",
+    "Dependence on the Department of Defence for office accommodation and ICT infrastructure support",
+    "Reliance on volunteer trustees and a two-person staff, creating key-person and continuity risk"
+  ],
+  "challenges_and_risks": [
+    "Very small workforce (two employees) with limited surge capacity beyond business-as-usual",
+    "Continued ability to retain volunteer trustees and qualified staff",
+    "Maintaining financial viability given statutory constraints on the Trust's activities",
+    "Ongoing reliance on Department of Defence for infrastructure and ICT",
+    "Ageing residential property portfolio requiring maintenance to 'modern standards'"
+  ],
+  "news_and_controversies": [],
+  "anao_findings": [
+    {
+      "summary": "The Trust is subject to routine ANAO financial-statement audits (e.g. 2020-21); no dedicated ANAO performance audit, adverse finding or recommendation naming the Trust was found.",
+      "implication": "There is no audit-driven remediation pipeline to bid into; any advisory need would stem from the trustees' own governance and asset-management decisions rather than external assurance pressure.",
+      "source": "Transparency Portal Trustees Report 2020-21 — https://www.transparency.gov.au/annual-reports/royal-australian-air-force-veterans-residences-trust-fund/reporting-year/2020-21-4 ; ANAO Defence portfolio — https://www.anao.gov.au/work-program/portfolio/defence"
+    }
+  ],
+  "parliamentary_matters": [],
+  "opportunity_areas": [
+    {
+      "area": "Strategic asset management plan for the property portfolio",
+      "agency_need": "The Trust has explicitly committed to developing and implementing a strategic asset management plan covering ~76 residences across five cities, and its Asset Management KPI tracks modern standards, maintenance currency, valuations, insurance and security.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short, right-sized advisory (4-8 weeks) to design a strategic asset management plan and lifecycle/maintenance framework for the residential portfolio, with a simple implementation roadmap proportionate to a two-person team.",
+      "rationale": "This is a named initiative in Annex A with a designated trustee lead, directly linked to the Asset Management KPI, making it the single clearest and most credible opportunity in the plan.",
+      "confidence": "Medium"
+    },
+    {
+      "area": "Financial sustainability review for a self-funding trust",
+      "agency_need": "The Trust must remain solvent within statutory constraints and uses market-rate lettings to preserve viability; its Financial Performance KPI tracks forecast solvency and emergency reserves.",
+      "mapped_service": "Financial & Accounting",
+      "suggested_offering": "A concise financial-sustainability review modelling income from the property portfolio against maintenance and operating costs, testing solvency under different occupancy and market-rate scenarios.",
+      "rationale": "Self-funding status plus an explicit viability concern and solvency KPI support a modest costing/sustainability piece, though the plan signals no acute financial distress.",
+      "confidence": "Low"
+    },
+    {
+      "area": "Governance and risk framework refresh tied to legislative amendment",
+      "agency_need": "The Trust is pursuing an amendment to its 1953 Act to broaden support activities, which would expand its remit and require updated governance, risk and compliance settings; the plan uses a 'House of Governance' KPI construct.",
+      "mapped_service": "Strategy, Policy & Governance",
+      "suggested_offering": "A short governance and risk advisory to update the Trust's governance instruments and risk register to accommodate any broadened mandate following Act amendment (non-legal — drafting of legislation would sit with others).",
+      "rationale": "The Act-amendment initiative is named with a trustee lead, but timing depends on a parliamentary process outside the Trust's control, so demand is contingent and likely small.",
+      "confidence": "Low"
+    }
+  ],
+  "recommended_actions": [
+    {
+      "action": "Make a single, low-cost introductory approach to the trustees (via the Trustee leading asset management) offering a short, fixed-scope asset management plan advisory.",
+      "priority": "Low",
+      "rationale": "The strategic asset management plan is the one named initiative with a clean service fit; a proportionate, fixed-price offer respects the Trust's tiny budget and two-person team."
+    },
+    {
+      "action": "Do not allocate sustained BD resource to this account; treat it as opportunistic only and monitor the annual Trust plan and report for any change in scale or mandate.",
+      "priority": "Low",
+      "rationale": "With two staff, a fixed statutory remit, no ICT/infrastructure ambitions and no audit/parliamentary pressure, the addressable spend is minimal and unlikely to justify ongoing pursuit."
+    },
+    {
+      "action": "Watch for progress on the 1953 Act amendment as a future trigger for governance/operating-model advisory.",
+      "priority": "Low",
+      "rationale": "A broadened mandate could modestly expand demand, but only if and when Parliament acts — currently speculative."
+    }
+  ],
+  "engagement_targets": [
+    "Trustee leading Asset Management (Annex A, 'Tindal') for the strategic asset management plan",
+    "Trustee leading Governance/Stakeholder initiatives ('Schiller') for the Act amendment and engagement work",
+    "The Board of Trustees collectively, who approve the annual plan",
+    "The Trust Audit Committee for any assurance or financial-sustainability discussion"
+  ],
+  "talking_points": [
+    "We can deliver a fixed-scope, right-sized strategic asset management plan for the residential portfolio without burdening your two-person team.",
+    "Our asset and lifecycle planning directly supports your Asset Management KPI on modern standards, maintenance currency, valuations and insurance.",
+    "As a self-funding trust, a light-touch financial-sustainability model can stress-test solvency against occupancy and market-rate scenarios.",
+    "If the 1953 Act amendment proceeds, we can help refresh your governance and risk framework to match a broadened mandate.",
+    "All our assurance and probity work is non-legal and proportionate to a small Corporate Commonwealth Entity's budget."
+  ],
+  "overall_confidence": "Low",
+  "caveats": "This is a deliberately minimalist plan from an extremely small entity (two staff, volunteer trustees, ~76 residences, self-funding). The plan explicitly disclaims need for a technology strategy, infrastructure expansion, or external cooperation, which removes most consulting demand signals. The only credible openings are a small asset management plan advisory and, contingently, a governance/financial piece — all one-off and modest. External research found no news, performance-audit findings or parliamentary matters, and that research was acknowledged as incomplete due to a tool limit, so the nil results are provisional. BD effort here should be opportunistic at most; this entity does not warrant a sustained account plan."
+}

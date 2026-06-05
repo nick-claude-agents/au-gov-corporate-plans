@@ -632,6 +632,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025–29 (analysis based on the Department of Defence Corporate Plan 2025–29; DVSC has no published corporate plan of its own yet)",
       "overall_confidence": "Low"
+    },
+    "royal-australian-air-force-veterans-residences-trust-fund": {
+      "name": "Royal Australian Air Force Veterans' Residences Trust Fund",
+      "portfolio": "Defence",
+      "plan_url": "https://www.airforce.gov.au/community/members-and-veterans/veterans-residences-trust",
+      "generated_at": "2026-06-05",
+      "plan_period": "2024-25 (four-year outlook 2024-28)",
+      "overall_confidence": "Low"
     }
   }
 }
