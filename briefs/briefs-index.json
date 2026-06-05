@@ -512,6 +512,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2024-25 (plan text supplied covers 2024-25 to 2027-28; source URL references 2025-26)",
       "overall_confidence": "Medium"
+    },
+    "inspector-general-of-intelligence-and-security-igis": {
+      "name": "Inspector-General of Intelligence and Security (IGIS)",
+      "portfolio": "Prime Minister and Cabinet",
+      "plan_url": "https://www.igis.gov.au/sites/default/files/2024-08/IGIS%20Corporate%20Plan%202024-25.pdf",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26",
+      "overall_confidence": "Low"
     }
   }
 }
