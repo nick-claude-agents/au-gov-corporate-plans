@@ -392,6 +392,14 @@
       "generated_at": "2026-06-05",
       "plan_period": "2025-29",
       "overall_confidence": "Medium"
+    },
+    "civil-aviation-safety-authority-casa": {
+      "name": "Civil Aviation Safety Authority (CASA)",
+      "portfolio": "Infrastructure, Transport, Regional Development, Communications, Sport & Arts",
+      "plan_url": "https://www.casa.gov.au/resources-and-education/publications-and-resources/corporate-publications/corporate-plan-2024-25",
+      "generated_at": "2026-06-05",
+      "plan_period": "2025-26 (covering 2025-26 to 2028-29)",
+      "overall_confidence": "Medium"
     }
   }
 }
