@@ -998,3 +998,65 @@
 [2026-06-13 02:59:55] Portal returned 185 plans
 [2026-06-13 02:59:55] Discovery done. New=0
 [2026-06-13 02:59:57] Email sent: AU Gov Corporate Plans - 5 plan update(s) - Saturday 13 June 2026
+[2026-06-13 22:47:06] Starting check for 202 agencies...
+[2026-06-13 22:52:25] BROKEN (14 runs): Aged Care Quality and Safety Commission (ACQSC)
+[2026-06-13 22:55:08] BROKEN (14 runs): Attorney-General's Department
+[2026-06-13 22:55:21] UPDATE: Australian Centre for International Agricultural Research (ACIAR) -> https://www.aciar.gov.au/publication/corporate-publications/corporate-plan-2025-26
+[2026-06-13 23:00:39] BROKEN (14 runs): Australian Commission on Safety and Quality in Health Care (ACSQHC)
+[2026-06-13 23:05:53] BROKEN (14 runs): Australian Communications and Media Authority (ACMA)
+[2026-06-13 23:11:08] BROKEN (14 runs): Australian Criminal Intelligence Commission (ACIC)
+[2026-06-13 23:13:49] BROKEN (14 runs): Australian Energy Regulator (AER)
+[2026-06-13 23:16:30] BROKEN (14 runs): Australian Financial Security Authority (AFSA)
+[2026-06-13 23:16:33] UPDATE: Australian Human Rights Commission (AHRC) -> https://humanrights.gov.au/our-work/commission-general/publications/corporate-plan-2025-2026
+[2026-06-13 23:21:49] BROKEN (14 runs): Australian Institute of Criminology (AIC)
+[2026-06-13 23:24:34] BROKEN (14 runs): Australian National Audit Office (ANAO)
+[2026-06-13 23:27:15] BROKEN (14 runs): Australian Office of Financial Management (AOFM)
+[2026-06-13 23:29:56] BROKEN (14 runs): Australian Public Service Commission (APSC)
+[2026-06-13 23:32:32] BROKEN (14 runs): Australian Radiation Protection and Nuclear Safety Agency (ARPANSA)
+[2026-06-13 23:35:12] BROKEN (14 runs): Australian Research Council (ARC)
+[2026-06-13 23:37:52] BROKEN (14 runs): Australian Signals Directorate (ASD)
+[2026-06-13 23:43:09] BROKEN (14 runs): Australian Skills Quality Authority (ASQA)
+[2026-06-13 23:45:51] BROKEN (14 runs): Australian Transaction Reports and Analysis Centre (AUSTRAC)
+[2026-06-13 23:51:13] BROKEN (14 runs): Civil Aviation Safety Authority (CASA)
+[2026-06-13 23:56:32] BROKEN (14 runs): Climate Change Authority
+[2026-06-13 23:57:01] BROKEN (3 runs): Creative Australia
+[2026-06-13 23:59:38] BROKEN (14 runs): Department of Agriculture, Fisheries and Forestry (DAFF)
+[2026-06-14 00:02:16] BROKEN (14 runs): Department of Climate Change, Energy, the Environment and Water (DCCEEW)
+[2026-06-14 00:03:23] BROKEN (14 runs): Department of Defence
+[2026-06-14 00:06:01] BROKEN (14 runs): Department of Education
+[2026-06-14 00:11:17] BROKEN (14 runs): Department of Employment and Workplace Relations (DEWR)
+[2026-06-14 00:13:57] BROKEN (14 runs): Department of Finance
+[2026-06-14 00:16:34] BROKEN (14 runs): Department of Foreign Affairs and Trade (DFAT)
+[2026-06-14 00:19:14] BROKEN (14 runs): Department of Health, Disability and Ageing
+[2026-06-14 00:21:52] BROKEN (14 runs): Department of Industry, Science and Resources (DISR)
+[2026-06-14 00:27:08] BROKEN (14 runs): Department of Infrastructure, Transport, Regional Development, Communications and the Arts
+[2026-06-14 00:32:25] BROKEN (14 runs): Department of Social Services (DSS)
+[2026-06-14 00:32:26] UPDATE: Department of the Prime Minister and Cabinet (PM&C) -> https://www.pmc.gov.au/sites/default/files/resource/download/corporate-plan-2025-26.pdf
+[2026-06-14 00:37:44] BROKEN (14 runs): Department of Veterans' Affairs (DVA)
+[2026-06-14 00:40:21] BROKEN (14 runs): Digital Transformation Agency (DTA)
+[2026-06-14 00:43:00] BROKEN (14 runs): eSafety Commissioner
+[2026-06-14 00:48:52] BROKEN (14 runs): Inspector-General of Intelligence and Security (IGIS)
+[2026-06-14 00:54:25] BROKEN (14 runs): National Archives of Australia (NAA)
+[2026-06-14 00:57:05] BROKEN (14 runs): National Blood Authority (NBA)
+[2026-06-14 00:59:49] BROKEN (14 runs): National Health and Medical Research Council (NHMRC)
+[2026-06-14 01:00:09] UPDATE: National Museum of Australia (NMA) -> https://www.nma.gov.au/__data/assets/pdf_file/0005/811913/NMA_Corporate_Plan_2025-26-FINAL.pdf
+[2026-06-14 01:05:31] BROKEN (14 runs): NDIS Quality and Safeguards Commission
+[2026-06-14 01:05:38] UPDATE: Office of the Commonwealth Ombudsman -> https://www.ombudsman.gov.au/__data/assets/pdf_file/0024/304935/Corporate-Plan-2025-26.pdf
+[2026-06-14 01:10:55] BROKEN (14 runs): Office of the Fair Work Ombudsman (FWO)
+[2026-06-14 01:11:26] BROKEN (14 runs): Screen Australia
+[2026-06-14 01:14:05] BROKEN (14 runs): Services Australia
+[2026-06-14 01:16:47] BROKEN (14 runs): Tertiary Education Quality and Standards Agency (TEQSA)
+[2026-06-14 01:19:27] BROKEN (14 runs): Therapeutic Goods Administration (TGA)
+[2026-06-14 01:22:12] BROKEN (14 runs): Australian Centre for Disease Control
+[2026-06-14 01:24:53] BROKEN (14 runs): Australian Naval Nuclear Power Safety Regulator
+[2026-06-14 01:27:30] BROKEN (14 runs): Australian Secret Intelligence Service
+[2026-06-14 01:30:10] BROKEN (14 runs): Defence Housing Australia
+[2026-06-14 01:32:47] BROKEN (14 runs): Defence and Veterans? Services Commission
+[2026-06-14 01:35:27] BROKEN (14 runs): Office of National Intelligence
+[2026-06-14 01:38:05] BROKEN (14 runs): Royal Australian Air Force Veterans' Residences Trust Fund
+[2026-06-14 01:38:08] URL check done. Updates=5 Broken=50 FailedOnce=0 Unchanged=147
+[2026-06-14 01:38:08] Scanning Transparency Portal for new agencies...
+[2026-06-14 01:38:08] Querying Transparency Portal (FY codename: n2025_26)...
+[2026-06-14 01:38:10] Portal returned 185 plans
+[2026-06-14 01:38:10] Discovery done. New=0
+[2026-06-14 01:38:11] Email sent: AU Gov Corporate Plans - 5 plan update(s) - Sunday 14 June 2026
